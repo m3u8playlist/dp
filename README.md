@@ -1,3 +1,5 @@
+[中文](../blob/master/README_CN.md)
+
 ## add to subscription
 
 ### live tv
