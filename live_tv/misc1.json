@@ -1,0 +1,112 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][频道杂集1]",
+
+	"channels": [
+		
+		{
+			"name":"HBO",
+			"url": "rKo83gYTdsxj0/HdQDx1d0hOExv+bnABf0N6G4Wx+cdT6nypAhISmXvzKY83Pz9E1ci21ZWLK80LW90yznepAw=="
+		},
+		{
+			"name":"新视觉",
+			"url": "Q+FxJpPN5flV67KBXpwBI76pC91H8I7vZpJWAG0GMlIBquvwfte0ZFKSLiMclU2n1aPJrXHD6W3J9P5J09IJoHLr0MQAr6g2CnP8X02qETKLUX+kA/W2XCWmhmczzndR"
+		},
+		
+		
+
+		{
+			"name":"上海纪实",
+			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/DZ4g1bVgWHSrJj/cL5fc/PvyXWIMCplxr2TD35KAAjQ=="
+		},
+		{
+			"name":"上海艺术人文",
+			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/GHeSq7sGLmOWweIg8U4JtPvyXWIMCplxr2TD35KAAjQ=="
+		},
+		{
+			"name":"上海外语",
+			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/raPWaFgnUcMjZ5Rc4SN9oPvyXWIMCplxr2TD35KAAjQ=="
+		},
+		{
+			"name":"上海新闻综合",
+			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi98Dxnjrd7xWlms+qqzecrmPvyXWIMCplxr2TD35KAAjQ=="
+		},
+		{
+			"name":"上海都市",
+			"url": "LsMl28l6kmPYrfBkVwTXpsi6KObe3DTtmpWxjmH6dfODAhLekv4tN9sXE1g/PD9RUnShRPrnDp8Q9WcajtyWbnIckvqdsXGC1nn9jK2cK5/87E+72jmFudzakgZ8YcHM"
+		},
+		{
+			"name":"上海新闻",
+			"url": "LsMl28l6kmPYrfBkVwTXpsi6KObe3DTtmpWxjmH6dfN4CWPLbpMWisxLI0OEP+5fG1h+XUE7xkMDz9o5Q/1uLVFzShWgmH3ROn7lwAUsQL9zWFICyU2canNV36rTRPDI"
+		},
+		{
+			"name":"卫视卡式台",
+			"url": "sBRfhEfjfGy41YP3Pd7C00itSkj4stcz6CdlEpKY5igI/+6qLHpqSFWUw2jmNVErck3DGzm07jfqlgkdyS5Gng=="
+		},
+		{
+			"name":"卫视中文台",
+			"url": "sBRfhEfjfGy41YP3Pd7C0/GDN+eW7/v+z8bhpiFJnC634qh++x1oa5MhoaP42TAwnXkY6LIIFGYcVKwZQf26zQ=="
+		},
+		{
+			"name":"hot incleveland",
+			"url": "sBRfhEfjfGy41YP3Pd7C00deJa1Xooyyi5Joms6CmjYJjOe1qJYUKnjCulH0c4TZ7nG/GQ+s1oaTwv0BLuw25A=="
+		},
+		{
+			"name":"国家地理野生",
+			"url": "sBRfhEfjfGy41YP3Pd7C08sUpZnjEFUmr1lvBCRCtTvoHTj8MKvbVK+Q0XFhFzaXXckFof2fxx5G+09Fbgf67A=="
+		},
+		
+		
+		
+		{
+			"name":"Newtv动作电影",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XXFj7fKA3YykiZ8SOVx78UA=="
+		},
+		{
+			"name":"Newtv动画王国",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XeESjiAdKmlxPNyZbDk+xMw=="
+		},
+		{
+			"name":"Newtv古装剧场",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XHd1OBSRAq5zUYKBtu1ljRg=="
+		},
+		{
+			"name":"Newtv明星大片",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XFV3ODHL5MfHCZMzwQEueSA=="
+		},
+		{
+			"name":"Newtv惊悚悬疑",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XgKiUtEY/hk9esk0iFDmaoQ=="
+		},
+		{
+			"name":"Newtv金牌综艺",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XUyCuQPIWS0ikQMrh2KQxyw=="
+		},
+		{
+			"name":"Newtv精品电影",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442X6gi1dz3FALP5PdeIgwZu4g=="
+		},
+		{
+			"name":"Newtv爱情喜剧",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442Xa/7cr8c7mEjngzlO6+QaFw==
+		},
+		{
+			"name":"Newtv海外剧场",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaXFj7fKA3YykiZ8SOVx78UA=="
+		},
+		{
+			"name":"Newtv精品体育",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaFV3ODHL5MfHCZMzwQEueSA=="
+		},
+		{
+			"name":"Newtv精品记录",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaeESjiAdKmlxPNyZbDk+xMw=="
+		}
+		
+
+
+		
+
+	]
+
+}

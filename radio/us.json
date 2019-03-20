@@ -1,0 +1,74 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][us]",
+
+	"channels": [		
+
+		
+		
+		{
+			"name":"BloombergTV",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GmxTVSuE0kkjFtENXh8ukxlokutvTH1eQndwYvEsyZJr"
+		},
+
+		{
+			"name": "ESPNFantasySports",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GkCaaYCqdzGhaqzHwqilXW/sGSasE6enLMQgcLutdbWenw9IS1t7QnClDCipeKfH7g=="
+		},
+    {
+			"name":"ESPNTV",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GkCaaYCqdzGhaqzHwqilXW/jtYZV6Mm5CyWT5T4HIZGM"
+		},
+
+		{
+			"name": "StarTalkRadio",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Gtj6WRtK6X4VRaOzqBWm5pwRkIc/j/ZwD3lnrW/3PTI/"
+		},
+		{
+			"name": "TEDTalks",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GvdKV2775eK0eaiePNjOB/mCiDY+smzS1mexHqHlosoF"
+		},
+			{
+			"name": "WTFwithMarcMaron",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Gv4s/WpE3ejQbegYS9ZLu9ibN6OjsWnGnLQgILdgbpysthVwmMn39Ty5LplR/7CEnA=="
+		},
+		{
+			"name": "auburn",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GtSBvbqHljpt1odzV3WhFGE+/QBbE5GilV9Ys5j5zo8I"
+		},
+			{
+			"name": "bloomberg991",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GmfNflIn3tOQV6lKr1K13QH9NFOiOuiabJHyicFoS1cc"
+		},
+		{
+			"name": "cnbc",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Go0h+v/BQZLkEX956z/hIeVNgtXONU7TqupOAWvQgN0f"
+		},
+			{
+			"name": "foxnews",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Gm7wBeLunvtTu01T7eebkjRIECyKvZoe7cMI4KI9Ygr4"
+		},
+		{
+			"name": "marquette",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GlG2cPbQu50R81RFEuJ79bXiNohJ7pkIhGLIdRKCljwN"
+		},
+		
+		
+		{
+			"name": "msnbc-free",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Gsqb/FHDUbkIB5TBllvpilMAu7H6+3nzHhiNazuq+OGp"
+		},
+		{
+			"name": "nebraska",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GjXf33lo0cMUeEFsib/gDRdB/PINnmHv3lLDC/Ufb118"
+		},
+		{
+			"name": "newmexico",
+			"url": "YMc4XVFasn7Jo3NzT/Q3GjXf33lo0cMUeEFsib/gDRcAhEIboGCWMUAkIm+BDDbi"
+		},
+		{
+			"name": "virginia",
+			"url": "YMc4XVFasn7Jo3NzT/Q3Gtv6E0aOTKvJ3Ye0SuGQOymIdu/Wt1/OWADS6o56cofB"
+		}
+        ]
+        }

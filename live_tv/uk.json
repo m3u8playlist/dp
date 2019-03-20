@@ -1,0 +1,42 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][UK]",
+
+	"channels": [
+	
+	{
+			"name": "sky news",
+			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmokF4QH9qKUbtIsaLFqpjt7j78l1iDAqZca9kw9+SgAI0="
+		},
+		{
+			"name": "BBC News 24 HD",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
+},
+
+		{
+			"name": "BBC One",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBHd/ndOm6t8j78dR/ypdY0RaRK4lS08F+VTpUrjPsJsg=="
+},
+
+{
+			"name": "BBC Two HD",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBDZNDjanuyrv/R08glyKyBf6tWqxtqrmhxxlNAm+tLOOQ=="
+},
+{
+			"name": "BBC Four HD",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBDkZ9ElxZ+EQVCTSTiNM3rPvyXWIMCplxr2TD35KAAjQ=="
+},
+{
+			"name": "CBBC HD",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBA27/ONgt93TrirXILKjgnhyM1YE1EpxpJmObCoOQZdXw=="
+},
+{
+			"name": "CBeebies HD",
+			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBDqYY+X7DYcckkVSzZpOodQPvyXWIMCplxr2TD35KAAjQ=="
+}
+
+
+
+	]
+
+}

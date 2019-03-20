@@ -1,0 +1,272 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][us]",
+	"channels": [
+
+		{
+			"name": "BLOOMBERG HD",
+			"url": "VSnS9N7hxUz+Q4aWucAwkf0G8jJXDQ/Jsixcu5yWv1gyEM66g9kInIZtHw5+2y4qItCNmZPqBpgO2FbhEi3pnXNYUgLJTZxqc1XfqtNE8Mg="
+		},
+
+		{
+			"name": "BLOOMBERG HD",
+			"url": "VSnS9N7hxUz+Q4aWucAwkd3cR7uQOJT6yqMpXhN+72sKXH6NGWz9ZgPEXMsD+7RrIyZz6GQO+j0IUA8r2z7YZ74LEbXt3ZgFMgL5lGHTrMVAHAvtTstkJpDW+25lgQiCWXlUEUk7bWfdnw+pYFBORA=="
+		},
+		{
+			"name": "POP USA",
+			"url": "8YZ/6CSvr4TpQMBsBK3O1utnh4duaVmsZ0P1MS2uKG7CxUklBDvDz/SS84GH6iL38l+yV0TDJwfH5EsLO/MHuoN6gU/9pFuXkxx67iooczr87E+72jmFudzakgZ8YcHM"
+		},
+
+		{
+			"name": "CBS News 1",
+			"url": "+zorHGbsdH0eih1GDhx1PUJQx2crr4nxmD94y6zIQRsvEymuVfG3asnij1qgYr+NbAHanucmg9oBdmp1Rk4VOg=="
+		},
+		{
+			"name": "CBS News 2",
+			"url": "zEthSs5p5SYSpVxuGKZd5vw8/h/8uJWKco47AwVlxWVPzvur/pTwykBcXVk+5BUlxe0CAADQEYLgcEV3Xd08vw=="
+		},
+
+		{
+			"name": "ABC News",
+			"url": "t0MKQ4N7/UkoeYkmD+ic9kJQx2crr4nxmD94y6zIQRvKNxnEBjmi5Tr6vkPibo9cA6T9PgzWkbydjVs6wqNbG7skU/kOk+Fh7I1+u2+rDAs="
+		},
+
+		{
+			"name": "Weather Channel",
+			"url": "zpwoDfjFuJ82cvonx8LYmxG7MEfXtLmENZ9PaDkyKeeVKVDEyWtOzo/A5QN+RF8slTrmYEWh91CfHI3GVFN7Jg=="
+		},
+		{
+			"name": "RED BULL TV FHD",
+			"url": "RnsPgojUSyAskuCOXY3SHNs5fKiKR0u+esZ4/q/TXKFWPafTOj1GgaUVKt0HRbUpV0ojWMVaKTn2zi2bj6Y5UD5iN07eY1HA2H8kXJob2us="
+		},
+		{
+			"name": "RED BULL HD",
+			"url": "RnsPgojUSyAskuCOXY3SHNs5fKiKR0u+esZ4/q/TXKFWPafTOj1GgaUVKt0HRbUpISmtj8HMRhSnEUyp8xCt/HoJPfI7VLSiVVvJTNQQQJo="
+		},
+		{
+			"name": "RED BULL SD",
+			"url": "tab/W2/v29GR5DCYcoOe3Iu1XnWixl6QVNlRETO2fn+eNW4yWJIoxKdDKNKu8mGNcWZfcWRqEW6KqtWNovptUVX6th0VEHrnCfUjSP7S0Go="
+		},
+		{
+			"name": "Fox 2 WJBK Detroit",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWWPnQrOMw5qDJP+I/8itCtY/sGGviE6yFd10GI2GOEFR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 2 KTVI St. Louis",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkXcR3K0xJ9SKdYUH4zCdMuGckucSjpboFivEKv+ZYD1yx2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 4 KSAS Kansas ",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkU1gu37EHD4ebR+ApygOvGVHKOEQ+V7ZnRCo8aSM8/fRB2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 5 WAGA Atlanta ",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVQc5s5JA0MXugk6Ub7OWt7Nyljho0DUyBpE9hFY7xWaR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 5 WTTG Washington DC",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUSI50cZP4xVWD+4DCSSq9Eo1fJBxM2jeg73thvRNIpvB2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 5 WNYW New York",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUxeL9G2Qn4v3BN8L5IgvwbW8BsQABM3LSxd43n5hdCMB2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 5 KVVU Las Vegas",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkV80udZAYaYzIZOLHpCgTMUwMlKJVruIGTVL2elfdZH2B2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 6 WBRC Birmingham",
+			"url": "j5JsVZ7nI2eXDTN4MH6mAuyEBWwz3OVaxSnlvVVQ2njOsNTveK4YMMjw0GjGrbeeup7RskXdFjuGV0estj3nmB2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 6 WITI Milwaukee",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkX/9jHkH+pXP8sSc2u9la24NHxI+aEeEWDnWAcT6lm2Xh2C/QoQbp2EpFTKgTwG3A4="
+		},
+
+		{
+			"name": "FOX 8 WVUE New Orleans",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkXlKkST4EbjsIG4ZObQ35E/tgNdyF36LRVEGfXK661jL0wcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "Fox 8 WJW Cleveland",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUzBlhQszUqIWI+O4RSLRkqCD/8dkCxeEXzZNyBOKsCNDeS+ohxvHv2ouU7oWAzz+w="
+		},
+		{
+			"name": "Fox 8 WGHP Greensboro",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUXU2BqSAb9cU9ccpiBEemh6CyB1DcujEVHUtkp1wSaPx2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 9 KMSP Minneapolis",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWSg4sJg8t/zv9x6jYX7tw7Dz4F7z2BQJs51dsq3MY6IR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 10 KSAZ Phoenix",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkXgvXsh94EIUbB6junRaFuiZD42rV4CjhOeVB8klKxpBx2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 11 KTTV Los Angeles",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWDDFIb1pDVPuEYH/h8050Lxx9mKK/dr+H3qkKBsUs2ox2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 12 KPTV Portland",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkXAZCLd0j4KbXbyR9ixRAdVVvKJKmu02YBLuVM7V1rawh2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 13 WHBQ Memphis",
+			"url": "izwpc+Misoo0lhJe4l/WVCHrlGdavbNkOlZWC0aJ5fe/Rew821vV5vNaXpo5Pf9G1WRD4lnBmn8lPWSDvdIZAbskU/kOk+Fh7I1+u2+rDAs="
+		},
+		{
+			"name": "Fox 13 KSTU Salt Lake City",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUw/vWreSC/d/9gX+X1b6JvXQvPWZrd29yIVAZ0pv8xGR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 13 WTVT Tampa Bay",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUr8+uW8+95V5jNXf0MGtaCwuZpu7FCfCCKOFot8PnaYR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 17 WXMI West Michigan",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWwpcEf/0x8HccMBVTSqSUEIuWy5dh/MlGxC3PI8Q2PiR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 17 KVRR Fargo",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWviG/iaJJhCcX6y55M1qsXM+QOdWqhLVnmfJMbISdlcUwcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "Fox 19 WXIX Cincinnati",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVnmO9K9H1qJKNSR5gGe6tfr4VnCA3InFJk/pAqj4JCoUwcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "Fox 22/7 Abc WFVX Bangor",
+			"url": "L//oYAlOztTMFMoz/7EgqWy/P9bbj743v7e252g8r77dXwGn7xngfnz3Fy/k/jZ9RIzPDmqwM5AzOR0LWDJoMksCcTlXHSmNUECUsAaiCOI="
+		},
+		{
+			"name": "Fox 23 KOKI Tulsa",
+			"url": "izwpc+Misoo0lhJe4l/WVP15OEJ7Ll5CV8V3p8kJrpmMoMOh8Bd4KS7CQNsKaXncgqoRTPSyb//pEUlAj2bL4MjNWBNRKcaSZjmwqDkGXV8="
+		},
+		{
+			"name": "Fox 25 WFXT Boston News",
+			"url": "izwpc+Misoo0lhJe4l/WVAHSnxWc72ET4fpjYwsYoBh/k9fmOTA7G3upo6o9dZM2gqoRTPSyb//pEUlAj2bL4MjNWBNRKcaSZjmwqDkGXV8="
+		},
+		{
+			"name": "Fox 26 KRIV Houston",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWW//yeI5i1ReNy3Nqq7yY6khrbhTNI1RWilP03Eet3tB2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 29 WTXF Philadelphia",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUgkFw2LzFjXsmXBKCUVWF35EWhlBZVxAuAevd8mBDnFR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 31 KDVR Denver",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVJ5ucOkIa/lpz785O9R05bmGkarvGy4iZnOjAeD9G4Sx2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 32 WFLD Chicago",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVoa6Z9c0XW/ydffWvTqLUOvzr5K+5jEmA/bZbPwbN8fh2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 35 WOFL Orlando",
+			"url": "JxAsZhXLxntf+utnrxWAd+yEBWwz3OVaxSnlvVVQ2ngHm8nThi1s71dpf7oUq25gqYTF8ypyXA04N+Le+z7rp5WERHFByVvaMYSqm60KI4s="
+		},
+		{
+			"name": "Fox 36/WTOL 11 WUPW Toledo",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkV+K46QjDxT8jQoGDY8WKg/d5ML4uLKTDn0hiJwP14QpUwcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "FOX 40 WLBT Jackson",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUXn3h8gjfRg1t9wkmXlh1VQbiYJfkLqusOlaYKBr1GE0wcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "FOX 41 WDRB Louisville",
+			"url": "L//oYAlOztTMFMoz/7EgqVi8FAikYalYKOGtMM9m8C6z0ZjybTQ0cufc/sDStSSg+VOE3TydVigTdxwURintUg=="
+		},
+		{
+			"name": "FOX 46 WJZY Charlotte",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVc3gzD9BEPx4vdcxjVp4uH4PoLNJdYtY2nebjbiD8WoR2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "FOX 48 WAFF",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkUpOudhjZoIo/kCid5AtaYXrZ1dRjkpWlThBNECvDEZukwcAD37R1bPoKFGrYI0UA0="
+		},
+		{
+			"name": "Fox 51 WOGX Ocala and Gainesville",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkWEcJ2cSVBOGFIolZ/wt/tqSxxmblzmG+uc9ZBs2GvBTx2C/QoQbp2EpFTKgTwG3A4="
+		},
+		{
+			"name": "Fox 54 WFXG",
+			"url": "Mh13V4yCXkmJurII2Mw8Yzc0v7fIHVc5CfxizvdNfkVs/R17URXw1/t3i46Zl8Zssv9rBNIzTZYFoMKK75uz6kwcAD37R1bPoKFGrYI0UA0="
+		},
+
+		{
+			"name": "WGN9 HD",
+			"url": "+VIEB1+unUsxVHE/D4IvC3K4OecHePMldkE//uTloGZKbX9uaYkJ625HooUEjDaA/Fq4TJyiKTIcFixW/FOu1nNYUgLJTZxqc1XfqtNE8Mg="
+		},
+
+		{
+			"name": "CGTN (Opt-1)",
+			"url": "clBaexh7PnYI156R8ZTX+wu/88EWQdrayA6nKumQ6HpW/+rwrzvTN5dCSzgA6u3Y"
+		},
+		{
+			"name": "CGTN (Opt-2)",
+			"url": "clBaexh7PnYI156R8ZTX+ypabOXr+5wo0pN/czDprKSn9pVRsAg6RgHsx01ijTpK"
+		},
+		{
+			"name": "Jewelry Television",
+			"url": "TRcqC2F6vZxO7k0PeftI8Me4HOPVcrWeKDZcP+F7vAZ9o6S7oJns0nLcLQ5V6laSxnjI8y7o4yERH3A32ePb6UcdYdLlW+TUckXYcyVY8Vk="
+		},
+		{
+			"name": "Newsmax TV",
+			"url": "vpmj8es4E7VTJBKHBbxIIUpLoIFmFZtxqLy9SOrlmlo+I9NqcHfgNQ2YiZxPojusZsjKrYnwXUBijwm/EWSotA=="
+		},
+		{
+			"name": "TVW",
+			"url": "oZpnmrpachRdBYbesRNLFRUfp6iOIKXmZJ2j3L6CwUEDNlgfMStQ03Al+lo9JLOcomjKD+NepJe60odLcO2zNS9mUTUe3PtLhbJULlPyTyM="
+		},
+		{
+			"name": "VTV Channel 6 Colorado",
+			"url": "toiEkx5O4dTVaemkbvHlqk8nZM2VTZhhpPJ6SRgJSddHHWHS5Vvk1HJF2HMlWPFZ"
+		},
+		{
+			"name": "Weather Nation",
+			"url": "ANRi+boredsG1AaNZPAvDKEsX7IhKoIhv8f7PtifUdjMT2dI2RBG3Lg6dlaYDLcc7egnIuTEFPKh1oznBO43+ZzZ7DEH9Ao+ABFcvQDomF+ZWx2nELmZfMvTqjja0w2p+msMXwbJ89uZfyocVXNlo1l9SgJKP3mXzl5MrDmEpB+sL6VmXuI2cOk0SCEhAJho"
+		},
+		{
+			"name": "NBC 11 News (Bay Area).",
+			"url": "EFYG/QC+vr+xfVZP3lDkazTm2+CYKBI04fntVLq1TY8nQcrt638F4jnZmpfZWIZDvkwLyEsmLHkgxOL6c082AfzsT7vaOYW53NqSBnxhwcw="
+		},
+		{
+			"name": "NBC 5 News (Chicago)",
+			"url": "E6WSnF+rnZArtT/uSnKv2DTm2+CYKBI04fntVLq1TY9ZbJ2B8Lmrr0Q+7MwcENgnZuuDvPWbLpdtittE3c2H5Q=="
+		},
+		{
+			"name": "WGN 9 News (Chicago)",
+			"url": "+VIEB1+unUsxVHE/D4IvC3K4OecHePMldkE//uTloGZKbX9uaYkJ625HooUEjDaAyeYuS3G+YccOTQDSJCJ2L9ZyzTW4HHJrZytA8c3UXEU="
+		},
+		{
+			"name": "CBS 4 News (Indianapolis)",
+			"url": "a7ppFxbHKJ0tFYNkT/OrO7XuCa02najQcHiQFvIFcq3QGUjb4DBQBu40X4lm49TLy87FjNkzt4yiNztOvYJH8tZyzTW4HHJrZytA8c3UXEU="
+		},
+		{
+			"name": "Channel 11 News WPXI (Pittsburgh)",
+			"url": "UsjgLdOYCzKlmYSoJqVOOV6vKcILQswrGGNjPCJl3MNAn+BpNz0J7A5x2tC8lGMQ7zWWseEhhzzDGlij0/fbJLskU/kOk+Fh7I1+u2+rDAs="
+		},
+		{
+			"name": "Beach TV - 30A",
+			"url": "ZNh1CWGPhbrhiJcAURtB0ZTMXaFbfRSgvju/PqGEEW4X9sKzZMg3nfFJCwMBAwFr+W/qcza2hm7zeRnFIoAQQQ=="
+		},
+		{
+			"name": "Beach TV - Panama City",
+			"url": "ZNh1CWGPhbrhiJcAURtB0ZTMXaFbfRSgvju/PqGEEW4Q+jtUcWntintQofLjG42JbxzT/WvQ2H8KdChgTgEsYw=="
+		},
+		{
+			"name": "Beach TV - Pawleys Island",
+			"url": "ZNh1CWGPhbrhiJcAURtB0ZTMXaFbfRSgvju/PqGEEW7G8Chn8KKJOT82ks+Uzk9c+W/qcza2hm7zeRnFIoAQQQ=="
+		}
+		
+	
+
+
+
+	]
+
+}

@@ -1,0 +1,20 @@
+{
+ 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+    "title": "[TV][Live][Singapore]", 
+    "channels": [
+       
+        {
+            "name": "MUTV", 
+            "url": "Ivfn6ybw+wRFnlNRaNraY4k7mrKHPLhYZDdrSArQfApVy8FOWhXrQaQwi9dJBvElbNSFOzd/kxgbEztNagpxcXNYUgLJTZxqc1XfqtNE8Mg="
+        }, 
+        {
+            "name": "miao mi", 
+            "url": "0CwodfckhCfJ62vqxF6VNAN1XmeUnamZbu4qJrLJee0V1x1sXUj2lsKeBKlZpZS77pCAxHxuZLwXIzK0gnQvsT78l1iDAqZca9kw9+SgAI0="
+        },
+         {
+            "name": "news asia", 
+            "url": "EABav+w3H7zvzvnDmpJFwySXlnRTpWiPb12P9bwM94oxbEScMh7MtCZpMZRzmJBh/OxPu9o5hbnc2pIGfGHBzA=="
+        }
+       
+    ]
+}
