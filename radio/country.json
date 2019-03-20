@@ -1,0 +1,39 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][country]",
+
+	"channels": [		
+
+		{
+			"name":"Radio-Carsija [128]",
+			"url": "PQ3YkDRn2sZBvP5Zj3XMwp0QWCsaF2ySyXMG5yjfhns5/BkKIiLwYWAw2kaUbsGoxXyILfoUuG/90DW8SOiV4w=="
+		},
+			{
+			"name":"HPR1: Traditional Classic Country[128]",
+			"url": "3VJUiu6P7CtrunjzxFU6nbD+p0M2gEkt5uoWYevOo+6pOYqP4Nzm5LpSH+h/mbdY"
+		},
+			{
+			"name":"Majestic Jukebox Radio[320]",
+			"url": "TuloBqMoJAR6BsJUoDJ08FVCmkvohPjNwqEvkN6JI8aQ4rhKJB5jc/9Der/yKXQathVwmMn39Ty5LplR/7CEnA=="
+		},
+			{
+			"name":"Radio Pro Popular[128]",
+			"url": "u6191PIGJtvpp9jxFuVZtWDi9h3WHD6IK+zUUndBGNPvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		},
+			{
+			"name":"Team FM[192]",
+			"url": "9SwsPBAJFafPuFtd01A0Ha4pk1rI3a4AQ69qvUp+yQTvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		},
+			{
+			"name":"Countrymusic24[128]",
+			"url": "1ctc/dvbErqaJ6MHNGyGQfVn5oB2tVR9lSlvpMbSee7Vml+l8HWi6rdeosEgu7Wu"
+		},	{
+			"name":"Country Hits Radio[256]",
+			"url": "xLVAzwYYNwKAgRw8QV3dpqIb6JEYVUpRZkLz9xFW3sRbQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
+		},
+			{
+			"name":"TMEfmradio [128]",
+			"url": "rkWSsGBolbhrve/EDykKfcGDDmxqLLfAjp1ZgqFQY8PvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		}
+        ]
+        }
