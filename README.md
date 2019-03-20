@@ -17,3 +17,4 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json
