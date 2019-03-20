@@ -13,3 +13,7 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
 
 ### radio
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
