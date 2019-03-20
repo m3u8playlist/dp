@@ -21,7 +21,7 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json
-
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json
 
 ## how to make a json file
 
