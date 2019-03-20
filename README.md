@@ -1,4 +1,4 @@
-[中文](../blob/master/README_CN.md)
+[中文](README_CN.md)
 
 ## add to subscription
 
