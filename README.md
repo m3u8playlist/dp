@@ -23,6 +23,10 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json
 
+### tv
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/TheGoodDoctorS2.json
+
+
 ## how to make a json file
 
 
