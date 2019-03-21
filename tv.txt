@@ -1,0 +1,42 @@
+{
+"number":9,
+"ch":
+[		
+		{
+			"name":"香港",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json"
+		},
+    		{
+			"name":"日本",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json"
+		},
+      		{
+			"name":"韩国",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json"
+		},
+      		{
+			"name":"澳门",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json"
+		},
+      		{
+			"name":"英国",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json"
+		},
+      		{
+			"name":"美国",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json"
+		},
+      		{
+			"name":"新加坡",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json"
+		},
+      		{
+			"name":"加拿大",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json"
+		},
+      		{
+			"name":"杂集1",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json"
+		}
+    ]
+    }
