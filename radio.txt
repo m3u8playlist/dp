@@ -36,7 +36,7 @@
 		},
 		{
 			"name":"广播剧-雍正皇帝",
-			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/jinpingmei.json"
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/yzhd.json"
 		},
 		{
 			"name":"广播剧-金瓶梅",
