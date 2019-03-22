@@ -10,7 +10,10 @@
 			"name":"英国",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json"
 		},
-
+{
+			"name":"新加坡",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sg.json"
+		},
       		{
 			"name":"美国",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json"
