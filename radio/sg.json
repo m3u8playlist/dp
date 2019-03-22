@@ -1,0 +1,40 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][Singapore]",
+
+	"channels": [		
+
+	
+		{
+			"name":"新加坡UFM 100.3 FM华语",
+			"url": "X8W2rjSPGxO6Xmpdd6BsVlKNalUShcJK2RUFD7ujUQr372BXTM9bKgVD35dYzzMLHoGhQGLi58T2AOOLjsADHw=="
+		},
+		{
+			"name":"新加坡Capital 958城市频道",
+			"url": "nFHt4DM4S4u1c1jH7hYMPcO/FbvVNxuvbZmBexHlaTZB960D5xEJs+NNnDsU62YlH+C7UjqNHLk0K5TE+LRJ1HRtkTddyPc0MrVOj19hGuA="
+		},
+		{
+			"name":"新加坡最爱97.2FM音乐台",
+			"url": "nFHt4DM4S4u1c1jH7hYMPcO/FbvVNxuvbZmBexHlaTY0imHB+9k/HjNqzHt9tav6bR2COmB4NRXmxn9G8XBrBA=="
+		},
+		{
+			"name":"新加坡YES 933音乐广播",
+			"url": "ETidv53YzzOhaIqGejO7EsO/FbvVNxuvbZmBexHlaTaf360Jwr5FQE5X0FA0WEnjNoKPPTTF2CPcN6mHte9L0A=="
+		},
+		{
+			"name":"新加坡妙米频道",
+			"url": "0CwodfckhCfJ62vqxF6VNAN1XmeUnamZbu4qJrLJee0V1x1sXUj2lsKeBKlZpZS7ofq4SfiTxfwuw/B6yrKUSg=="
+		},
+		{
+			"name":"新加坡883 Jia FM音乐台",
+			"url": "ns+1urmudiMTurgRHLWwCsO/FbvVNxuvbZmBexHlaTah3znjZIeXDZJxzm8hfbgzuyRT+Q6T4WHsjX67b6sMCw=="
+		},
+		{
+			"name":"新加坡96.3好FM音乐台",
+			"url": "0ArpG4KtJrkGH4r1CvW5icO/FbvVNxuvbZmBexHlaTaV0jxGRHlh7b+EFT4VH0qpHoGhQGLi58T2AOOLjsADHw=="
+		}
+		
+		
+		
+        ]
+        }
