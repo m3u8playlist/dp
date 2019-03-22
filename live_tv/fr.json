@@ -1,0 +1,147 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "法国Djing电视台",
+
+	"channels": [
+
+		{
+			"name":"法国Djing tv",
+			"url": "https://www.djing.com/tv/28346-04.m3u8"
+		},
+{
+			"name":"法国Djing dance",
+			"url": "https://www.djing.com/tv/d-28346-04.m3u8"
+		},
+{
+			"name":"法国Djing classics",
+			"url": "https://www.djing.com/tv/i-28346-04.m3u8"
+		},
+{
+			"name":"法国Djing animation",
+			"url": "https://www.djing.com/tv/a-28346-04.m3u8"
+		},
+{
+			"name":"法国Djing electro rock",
+			"url": "https://www.djing.com/tv/s-28346-05-electro-rock.m3u8"
+		},
+{
+			"name":"法国Djing underground",
+			"url": "https://www.djing.com/tv/u-28346-04.m3u8"
+		},
+{
+			"name":"法国Djing summer vibes",
+			"url": "https://www.djing.com/tv/s-28346-05-summer-vibes.m3u8"
+		},
+{
+			"name":"法国Djing french touch",
+			"url": "https://www.djing.com/tv/s-28346-05-french-touch.m3u8"
+		},
+{
+			"name":"法国Djing kardoke",
+			"url": "https://www.djing.com/tv/k-28346-04.m3u8"
+		},
+{
+			"name":"法国Djing hedonist",
+			"url": "https://www.djing.com/tv/s-28346-05-hedonist.m3u8"
+		},
+{
+			"name":"法国Djing TV",
+			"url": "http://www.djing.com/tv/27911-05.m3u8"
+		},
+{
+			"name":"法国Djing TV Frankrijk",
+			"url": "http://www.djing.com/tv/05.m3u8"
+		},
+{
+			"name":"法国Djing Animation",
+			"url": "http://www.djing.com/tv/a-27911-05.m3u8"
+		},
+{
+			"name":"法国Djing Classic",
+			"url": "http://www.djing.com/tv/i-27911-05.m3u8"
+		},
+{
+			"name":"法国Djing Dance Floor",
+			"url": "http://www.djing.com/tv/d-27911-05.m3u8"
+		},
+{
+			"name":"法国Djing E-Music HD",
+			"url": "http://www.djing.com/tv/04.m3u8"
+		},
+{
+			"name":"法国Djing Electro Rock",
+			"url": "http://www.djing.com/tv/s-27911-05-electro-rock.m3u8"
+		},
+{
+			"name":"法国Djing French Touch",
+			"url": "http://www.djing.com/tv/s-27911-05-french-touch.m3u8"
+		},
+{
+			"name":"法国Djing Hedonist",
+			"url": "http://www.djing.com/tv/s-27911-05-hedonist.m3u8"
+		},
+{
+			"name":"法国Djing HotFrankrijk",
+			"url": "http://www.djing.com/tv/h-05-fta.m3u8"
+		},
+{
+			"name":"法国Djing Karaoke",
+			"url": "http://www.djing.com/tv/k-27911-05.m3u8"
+		},
+{
+			"name":"法国Djing Summer Vibes",
+			"url": "http://www.djing.com/tv/s-27911-05-summer-vibes.m3u8"
+		},
+{
+			"name":"法国Djing Underground",
+			"url": "http://www.djing.com/tv/u-27911-05.m3u8"
+		},
+{
+			"name":"法国Djing现场直播",
+			"url": "https://www.djing.com/tv/28513-03.m3u8"
+		},
+{
+			"name":"法国Djingibiza",
+			"url": "https://www.djing.com/tv/d-28513-05.m3u8"
+		},
+{
+			"name":"法国Djing夏日震撼直播",
+			"url": "https://www.djing.com/tv/s-28513-05-summer-vibes.m3u8"
+		},
+{
+			"name":"法国Djing唱卡拉OK",
+			"url": "https://www.djing.com/tv/k-28513-05.m3u8"
+		},
+{
+			"name":"法国Djing电动摇滚直播",
+			"url": "https://www.djing.com/tv/s-28513-05-electro-rock.m3u8"
+		},
+{
+			"name":"法国Djing打碟法国直播",
+			"url": "https://www.djing.com/tv/s-28513-05-french-touch.m3u8"
+		},
+{
+			"name":"法国Djing打碟地下直播",
+			"url": "https://www.djing.com/tv/u-28513-05.m3u8"
+		},
+{
+			"name":"法国Djing经典直播",
+			"url": "https://www.djing.com/tv/i-28513-05.m3u8"
+		},
+{
+			"name":"法国Djing动画",
+			"url": "https://www.djing.com/tv/a-28513-05.m3u8"
+		},
+{
+			"name":"法国Djing舞曲",
+			"url": "https://www.djing.com/tv/live.m3u8"
+		},
+{
+			"name":"法国Djing热门直播",
+			"url": "https://www.djing.com/tv/h-01-fta.m3u8"
+		}
+		
+
+	]
+
+}
