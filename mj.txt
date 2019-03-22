@@ -1,0 +1,23 @@
+{
+
+"ch":
+[		
+		{
+			"name":"神煩警探 第一季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/BrooklynNineNine_S1.json"
+		},
+    		{
+			"name":"天赋异禀 第二季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/TheGiftedS2.json"
+		},
+      		{
+			"name":"好医生 第二季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/TheGoodDoctorS2.json"
+		},
+      		{
+			"name":"生活大爆炸 第十二季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/tbbtS12.json"
+		}
+      	
+    ]
+    }
