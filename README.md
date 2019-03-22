@@ -8,6 +8,7 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fr.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json
@@ -18,13 +19,14 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sg.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json
 
 ### tv
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/TheGoodDoctorS2.json
+see the folder
 
 
 ## how to make a json file
