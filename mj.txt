@@ -21,7 +21,12 @@
       		{
 			"name":"生活大爆炸 第十二季",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/tbbtS12.json"
+		},
+		{
+			"name":"小谢尔顿 第二季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/YoungSheldonS2.json"
 		}
+		
       	
     ]
     }
