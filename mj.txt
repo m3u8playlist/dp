@@ -25,7 +25,12 @@
 		{
 			"name":"小谢尔顿 第二季",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/YoungSheldonS2.json"
+		},
+		{
+			"name":"末日巡逻队 第一季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/DoomPatrolS1.json"
 		}
+		
 		
       	
     ]
