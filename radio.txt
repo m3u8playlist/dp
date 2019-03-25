@@ -41,6 +41,10 @@
 		{
 			"name":"广播剧-金瓶梅",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/jinpingmei.json"
+		},
+		{
+			"name":"广播剧-聊斋",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/lz.json"
 		}
 		
     ]
