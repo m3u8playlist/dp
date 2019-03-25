@@ -1,0 +1,86 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "RTHK广播剧聊斋",
+
+	"channels": 
+  [
+  {
+			"name":"罗刹海市",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story01.mp3"
+		},
+      {
+			"name":"画皮1",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story02.mp3"
+		},
+          {
+			"name":"画皮2",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story02_2.mp3"
+		},
+          {
+			"name":"胡四相公",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story03.mp3"
+		},
+          {
+			"name":"陆判",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story04.mp3"
+		},
+          {
+			"name":"莲花公主",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story05.mp3"
+		},
+          {
+			"name":"荷花1",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story06.mp3"
+		},
+          {
+			"name":"荷花2",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story06_2.mp3"
+		},
+          {
+			"name":"云翠仙",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story07.mp3"
+		},
+          {
+			"name":"狐狸嫁女",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story08.mp3"
+		},
+            {
+			"name":"梦狼",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story09.mp3"
+		},
+          {
+			"name":"薛慰娘",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story10.mp3"
+		},
+          {
+			"name":"八大王",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/ghost_story11.mp3"
+		},
+       {
+			"name":"三生1",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_1.mp3"
+		},
+       {
+			"name":"三生2",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_2.mp3"
+		},   
+    {
+			"name":"三生3",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_3.mp3"
+		},
+       {
+			"name":"三生4",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_4.mp3"
+		},
+       {
+			"name":"三生5",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_5.mp3"
+		},
+       {
+			"name":"三生6",
+			"url": "http://rthk9.rthk.hk/radiodrama/mp3/1classics/rd_thirdlife_6.mp3"
+		}
+    
+    
+  ]
+  }
