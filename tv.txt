@@ -38,6 +38,11 @@
 			"name":"杂集1",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json"
 		},
+		{
+			"name":"中国移动源1080P",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json"
+		},
+		
 			{
 			"name":"法国Djing电视台",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fr.json"
