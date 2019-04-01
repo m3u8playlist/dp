@@ -14,6 +14,7 @@
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
+* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json
 
 ### radio
 * https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json
