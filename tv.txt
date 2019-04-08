@@ -6,6 +6,10 @@
 			"name":"香港",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json"
 		},
+		{
+			"name":"台湾",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/tw.json"
+		},
     		{
 			"name":"日本",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json"
