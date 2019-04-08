@@ -1,0 +1,83 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][Taiwan]",
+
+	"channels": [		
+
+		
+		{
+			"name":"三立臺灣臺",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubIi6mo2T2+U62vSebyzxXcW0o87gQmu7hUkXMC1Br0vTcXtAgAA0BGC4HBFd13dPL8="
+		},
+		{
+			"name":"非凡新聞",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubL5guuJj6792lS5xiOyI0OSIwbJacJXOorXBiD5BLM8OcXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"東森美洲新聞",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubLTjHL5VyGUwweG9G/gz0wKO4V9eSkotIAPUe806HGnrsXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"中旺電視",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubKFbKOb63gUNaM3yMESs4fnSDqeWs6ow2tPEsR4nzL8EQ=="
+		},
+    		{
+			"name":"亞洲旅遊臺",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubLY/ZrEcouEgB+XzctZUcb4s4QX2qKJSB7+51q+tEUeucXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"三立臺灣",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubIi6mo2T2+U62vSebyzxXcWvzL4ARhO56Gx3Iqi6QFpPQ=="
+		},
+    		{
+			"name":"東森新聞",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubLTjHL5VyGUwweG9G/gz0wKhRPr1bZ2dQZlF+ov9BG3pQ=="
+		},
+    		{
+			"name":"壹新聞",
+			"url": "K4TcIqbiTCa2uN4gi7wjh5tAFCc1WAEW3RzPiT1E5zHVEuAcneYEmZN3iFfm6OHeyM1YE1EpxpJmObCoOQZdXw=="
+		},
+        		{
+			"name":"台湾民视新闻",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubK9FmguGvoAFzuGD9NFWGDwbGB9AiPIbOpT+q83nnpSssXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"台湾台视",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubK9FmguGvoAFzuGD9NFWGDwF+C+ge192WspyyA/xd/Nqg=="
+		},
+    		{
+			"name":"台湾台视新闻",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubIg8vJgm+mNLcnkio+l8CXM49takQWZ90FledKCEcPRnMXtAgAA0BGC4HBFd13dPL8="
+		},
+        		{
+			"name":"台湾全美台",
+			"url": "bkRQ/aj5fclKog0E7cZ42qQKOK0bNDAxkZj9RKvCeIX2by2dMcuFlT2htMnaKCpwIzdqH+5sHEcXK9HqUnRTDrskU/kOk+Fh7I1+u2+rDAs="
+		},
+    		{
+			"name":"台湾超视",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubLCPx8+6PGYOkcdrQKLeoi+lx6IoXFnyPqpe9n+7CJ2BcXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"台湾TVBS新闻台",
+			"url": "asNKw8azNMax4WcpvjJiBfRgD+DV2q5tn2fDk4J2zFutnXdbz/7jQBkuf1tJWnZc"
+		},
+        		{
+			"name":"華視咨訊",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubKAUNQsjQzsLKq+sTvP6QtNj0WrPvPaoVYcNHrpjHdoZMXtAgAA0BGC4HBFd13dPL8="
+		},
+        		{
+			"name":"華視新聞",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubKAUNQsjQzsLKq+sTvP6QtN25f3CNrcoPa6fnkU8Wn1hw=="
+		},
+        		{
+			"name":"臺視新聞",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubJLKLZ3GZapjmxewEkhiL7hqKwYJL51SOc+/Ufg/HQ3C8XtAgAA0BGC4HBFd13dPL8="
+		}
+
+
+		
+		
+
+	]
+
+}
