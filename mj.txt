@@ -1,8 +1,13 @@
 {
 
 "ch":
-[		
+[	
+
 {
+			"name":"伦敦生活 第二季",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/Fleabag_S2.json"
+		},
+			{
 			"name":"超级蜱人 第二季",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/TheTickS2.json"
 		},
