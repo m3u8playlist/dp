@@ -4,6 +4,12 @@
 [	
 
 {
+
+			"name":"你的荒野求生",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/YouvsWild.json"
+		},
+{
+
 			"name":"伦敦生活 第二季",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/tv/Fleabag_S2.json"
 		},
