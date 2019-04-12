@@ -54,6 +54,10 @@
 			{
 			"name":"法国Djing电视台",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fr.json"
+		},
+		{
+			"name":"体育",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sport.json"
 		}
 		
     ]
