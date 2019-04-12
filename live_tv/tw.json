@@ -4,7 +4,42 @@
 
 	"channels": [		
 
-		
+		{
+			"name":"靖天欢乐",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUmbEY8gephk9PUxNaSTnL7T"
+		},
+		{
+			"name":"靖天资讯",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUkMvqzqvj79728xFdh7/h1s"
+		},
+		{
+			"name":"靖天娱乐",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUkYbWh7tL+ILfLAqtdv268J"
+		},
+		{
+			"name":"靖洋戏剧",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUm7mRfC/IqZ8CzPw59Z48Dz"
+		},
+		{
+			"name":"靖天国际",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUmywZfESZSp6h7SaLXUaDHW"
+		},
+		{
+			"name":"靖洋卡通",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUll/i7yURLS7ZKmgd2C0c+F"
+		},
+		{
+			"name":"靖天卡通",
+			"url": "9a8DGLRq5BmQTm8rdmVdhVOrhR4W3hygg4+5NptXqUmlBvN+G/zn8lh0wS/zaMV8"
+		},
+		{
+			"name":"靖天日本",
+			"url": "9a8DGLRq5BmQTm8rdmVdhTBZrut6jURbnmV6LJCIk6i7mRfC/IqZ8CzPw59Z48Dz"
+		},
+		{
+			"name":"靖天映画",
+			"url": "9a8DGLRq5BmQTm8rdmVdhTBZrut6jURbnmV6LJCIk6gYbWh7tL+ILfLAqtdv268J"
+		},
 		{
 			"name":"三立臺灣臺",
 			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubIi6mo2T2+U62vSebyzxXcW0o87gQmu7hUkXMC1Br0vTcXtAgAA0BGC4HBFd13dPL8="
