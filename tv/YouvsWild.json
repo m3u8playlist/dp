@@ -1,0 +1,42 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[剧集][你的荒野求生]",
+
+	"channels": [		
+
+		
+		{
+			"name":"01",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe/zH03SfCIaUQFAG6imlrOf2bKvWAzOIn5txPj5+p4f/MXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"02",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe+GM0wuwUwpJtm/AdxluJL/WBJc1/AmyE22U//10eaIGcXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"03",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe/rD1ILQre03DeyRKKpTizOEkwxGBunp/Pve8mbL9Bc+MXtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"04",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe/9LJuMmv7GtsB8UxpVIjYWxEkyBpx2ZAPcSfJcCYOC88XtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"05",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe/T2TJXYXKkaFUHxTakV4QFlk1WfQH8mziBx8114B03m8XtAgAA0BGC4HBFd13dPL8="
+		},
+    		{
+			"name":"06",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe/hPOJNpB0qbKfQ40nJ+Ik3Ze1XzYVIG1v16aIhRNQIScXtAgAA0BGC4HBFd13dPL8="
+		},
+    {
+			"name":"07",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe+q+AOoVNgpBMbl0MM10j5issZ7T2rNZTIxFHyAgi8d0MXtAgAA0BGC4HBFd13dPL8="
+		},
+    {
+			"name":"08",
+			"url": "io2ab+DPUU7bW7kqrKNNnX3tRacKZ2t0n3PXSWGJEe8irEE7V77c0EQj+CpEI1UegqEPIZaYUnYz8pzl2H/vJcXtAgAA0BGC4HBFd13dPL8="
+		}
+    
+    ]
+    }
