@@ -1,0 +1,82 @@
+{
+"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "体育频道",
+
+	"channels": [		
+
+		{
+			"name":"CCTV5",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuAPJALOUERBGPB+fBOdGy5XFj7fKA3YykiZ8SOVx78UA=="
+		},
+    		{
+			"name":"CCTV5+",
+			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQvi/jH+XmmOzbT/e3Hfh7FPCgAUAJuR2V/NgkZaceWlmw=="
+		},
+		{
+			"name":"五星体育",
+			"url": "euURdqC/ySJh0Hb5Q96yJ26m4quavNq+ljIXqkYkNJOdTMWyFC1KhqEVJFsxeMCv7CzBkkc/2Cl57D33HaCXJA=="
+		},
+		{
+			"name":"五星体育",
+			"url": "YwHAa4Y8lLXSpvgwOGbzPLdT56PaJmCLc0eCluaECyW2KiFj1hzN1Ywccqf2Z230MBLL8a3VwUg6jOISZrEZwA=="
+		},
+    		{
+			"name":"超级体育",
+			"url": "euURdqC/ySJh0Hb5Q96yJ26m4quavNq+ljIXqkYkNJO15FYzg0lXPZ5hedatM1D77CzBkkc/2Cl57D33HaCXJA=="
+		},
+		{
+			"name":"劲爆体育",
+			"url": "euURdqC/ySJh0Hb5Q96yJ3t/Fr/iLjSRAa17iATHqPP3RT3x+DMpwKCjfUHuQf7LyM1YE1EpxpJmObCoOQZdXw=="
+		},
+    		
+		{
+			"name": "阿聯酋UAE SPORTS HD",
+			"url": "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8"
+		},
+    		{
+			"name":"澳视体育",
+			"url": "Ec62MKharhstp6sorFAitxSA6I0/fblXDPVkiqulmEKWk23K+j43xoEn36eZ4CEk+W/qcza2hm7zeRnFIoAQQQ=="
+		},
+    	{
+			"name":"BEIN SPORT 1",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl38n72xUX/kpG/+ECDUrRe6w=="
+		},
+    {
+			"name":"BEIN SPORT 2",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl319jqjiJ9gLziWIUF9AyNZw=="
+		},
+    {
+			"name":"BEIN SPORT 3",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3ID4VB6kGGODUc//8LWs6vg=="
+		},
+    {
+			"name":"BEIN SPORT 4",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3QBZZJx4CqkRKUr0QvD2/yQ=="
+		},
+    {
+			"name":"BEIN SPORT 5",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl398ow7GHTA0IW8t6OSPtJzg=="
+		},
+    {
+			"name":"BEIN SPORT 6",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl31KY16s0dZPzVGf155jOpVA=="
+		},
+    {
+			"name":"BEIN SPORT 7",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3breeAmesNFbY+Nt4E4cJBg=="
+		},
+    {
+			"name":"BEIN SPORT 8",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3mXkIWr0Q8aPE212AZX0e3Q=="
+		},
+     {
+			"name":"BEIN SPORT 9",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3HsdmZ25iAkX0Tq8hFIIJsA=="
+		},
+     {
+			"name":"BEIN SPORT 10",
+			"url": "mCEoeS6grPH+nwRkDTqX8U211xfo5my8Pl2Zu3IV0KVV25flLQKS5g1yMwgLjJl3RYMXQmq5KN+Tz/GHGZwOaQ=="
+		}
+    
+    ]
+}
