@@ -1,0 +1,134 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][新闻-英语]",
+
+	"channels": [		
+
+		
+		{
+			"name":"ABC News (澳大利亚)",
+			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
+		},
+		{
+			"name":"ABC News (美国)",
+			"url": "t0MKQ4N7/UkoeYkmD+ic9kJQx2crr4nxmD94y6zIQRvKNxnEBjmi5Tr6vkPibo9cA6T9PgzWkbydjVs6wqNbG7skU/kOk+Fh7I1+u2+rDAs="
+		},
+
+		{
+			"name":"Arise News",
+			"url": "cTyJEnr234umDdHvZokZihvwHFIUg2AlwREOTLm+uMTXHiwMQR6xZ16CT9blMOieBwVLQPhgL7ssnIGvJxzuIfKcosoLbFxHJU3+M6nqI6BhwrVxjjaWLc9a6JHxxlNRbPXMPzYEh3p2AW6cNzXlHvQPRnqIiVUn9vX11+gTwNA="
+		},
+    		{
+			"name":"Arirang",
+			"url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjN20Y1tP+kxhjfon2e9rLhTEjMNwzA2RSLzzfqfs3zgW2PvyXWIMCplxr2TD35KAAjQ=="
+		},
+    		{
+			"name":"Al Jazeera",
+			"url": "p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
+		},
+    		{
+			"name":"Bloomberg",
+			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
+		},
+    		{
+			"name":"BBC World News",
+			"url": "ZXrWtBFR855Xh+RQs7If2R79VnyHNyjHbTv6k8CN9jDSL9djwoIHLWhUQ+sT/Mo11ci21ZWLK80LW90yznepAw=="
+		},
+    		{
+			"name":"CBS News",
+			"url": "kQg9BiLGYN/OqfmsH3Jm57Os0qK85aajiRmHM01zCGznqAtOdunkZ6FFLbqjEfc413s38QKmolXVNLTgbukGy/DP3WHXJcw3qvr0+8mH+Zg="
+		},
+    		{
+			"name":"CBC News",
+			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmAR1a3S58gL69KBNqLrsVPAxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
+		},
+		    		{
+			"name":"CGTN",
+			"url": "O2DwMQjwK7TBZNStT8iAsu5pDv7+riVCdqzOGlI+vj+2/o/VCy1+8lrk7dBqBjHUnAdAWj0I4asqLcaOrIMtjDts63q+W+Htdh8H+oAfTww="
+		},
+        		{
+			"name":"CNN",
+			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmDMDTSwOWpRJFRsw8rw9bALfsirul8++r/7m0AIcLr1xg=="
+		},
+        		{
+			"name":"CNBC",
+			"url": "BYp2XoE4efqKq7bPBVuE0CI6bHWRejnoCjTFmhhkdwbz6OcgR86xFMCdWYu604sV1ci21ZWLK80LW90yznepAw=="
+		},
+		        		{
+			"name":"CNBC World",
+			"url": "rKo83gYTdsxj0/HdQDx1d5yqiVSQ2Q1Orcdod+jxH4DIM/1eP44ccL4D6P2vr3TXfsirul8++r/7m0AIcLr1xg=="
+		},
+            		{
+			"name":"Deutsche Welle",
+			"url": "RuMKYaQKuA4Jt8lkRKpNpcWTM/DyOn0NMbObw+Ddl5P+JMoZBuLQsfvlCGtkPyz3x3U7iyopGrqHVCMxCGSEUiXv+xqOuRa+qhquAhdgvg0="
+		},
+
+                		{
+			"name":"FOX News",
+			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmBCC58aEd0a9ngQC0gyjjixxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
+		},
+                		{
+			"name":"FOX Business Network",
+			"url": "Tk+OEsUZWu2uwWcwsQqtWh79VnyHNyjHbTv6k8CN9jBJPAb0rqBzpiFJ3dfvDBiD7CzBkkc/2Cl57D33HaCXJA=="
+		},
+                		{
+			"name":"France 24",
+			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
+		},
+                		{
+			"name":"Headline News",
+			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmDerFWCdlR6yVjfAco4Hf7zxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
+		},
+                		{
+			"name":"Press TV",
+			"url": "d8phm3TlmY0U/LJWg2zD4t9WUxiy12RbE92+DpLK+SoQdLR1FuTW0qfbpc/3sDbJpU/5lJiY8+b9BOjTSUlEOZM/9B586ZgJXf0SO8JNd06FBlxXrhpOr2eLwQx15m5XPvyXWIMCplxr2TD35KAAjQ=="
+		},
+                    		{
+			"name":"Telesur",
+			"url": "KoiyrgSR/ao0iWsFVLfnBm8L1TYCrdSGgseVfvw8FyYefApVLkoe3jhYgES04UM3+W/qcza2hm7zeRnFIoAQQQ=="
+		},
+                    		{
+			"name":"Jamaica News Network",
+			"url": "qbCUdXBqBYiRnCb92NXJrCJPhyOs2CRtegzJTrVNbZXv7IMl6v0fDPGjzrz8fh/pZmFAz6/X9/HSbbimvYRz4g=="
+		},
+                    		{
+			"name":"NBC",
+			"url": "rKo83gYTdsxj0/HdQDx1d7FX6CT3pJDaKxcAZPgLLvfQwOhYCCa+oGbn0b/brtdR1ci21ZWLK80LW90yznepAw=="
+		},
+                    		{
+			"name":"MSNBC",
+			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmDi5Ssb1Nan/LzEyf910uNy1ci21ZWLK80LW90yznepAw=="
+		},
+                    		{
+			"name":"Newsy",
+			"url": "ttU+mRVCSQ7X6Vz+lTA07aSLWSZ/sGENJwWVbPX+EjLGYu0r/tqQl6I0duDwIbbPOR3Rgtm7jqOZPw/PXjELhG/FeV3k3elMoKckohW4oKo="
+		},
+
+		{
+			"name":"NDTV 24x7",
+			"url": "bTt1LffXV6YNgS0+LQciJiFu6TeqRDfrZYGzr5Fp6ExZREI8ywWSYWJ058qCHyMFxrC4TRwe3SOPIe8oetxfE7NbEQS7Mp4+RwyiWjW8NRE="
+		},
+    		{
+			"name":"NHK World,",
+			"url": "b7dXf5JN3D4ZbCny5nveibxJb7d9uCJoHgBbQIPzyLaX+zl2AXwoVXWK1u8x5SsRqzDgXtBrsGxsMsRRj5ogopExC4ibkj2eh8tI7xfoHV/87E+72jmFudzakgZ8YcHM"
+		},
+    		{
+			"name":"RT",
+			"url": "CZhxBmBiwcbdlMyo1jhn9dj5u8Std8SKoIJQMgZtrKyKI8j++nLGi5e+T3AP7/tExN5metB3mzjvCatvjBKeTg=="
+		},
+    		{
+			"name":"Sky News",
+			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
+		},
+    		{
+			"name":"TRT World",
+			"url": "pVK6ms8Vtrg7pcwR5nuPWuanJiehbN2weJqkSwGhHhSKn6Ma5qvM11nkvONkpthKW4kBXS0WAizmmIdvCkbBWdQ4BE9CcBGx5ssG4gzAXe0="
+		},
+    		{
+			"name":"Weather Channel",
+			"url": "zlnX+PzmuD3si8cHX9BoX+aWnexnO0VJ4vD2keqlpdCOiZGZWFggfkVml/iwcY82yPg+s0BaLVFv7oV0/omymw=="
+		}
+
+	]
+
+}
