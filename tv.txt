@@ -50,6 +50,10 @@
 			"name":"中国移动源1080P",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json"
 		},
+		{
+			"name":"哈尔滨移动",
+			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hebyd.json"
+		},
 		
 			{
 			"name":"法国Djing电视台",
@@ -59,6 +63,7 @@
 			"name":"体育",
 			"url": "dotplayer-https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sport.json"
 		}
+		
 		
     ]
     }
