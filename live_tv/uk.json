@@ -9,23 +9,81 @@
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmokF4QH9qKUbtIsaLFqpjt7j78l1iDAqZca9kw9+SgAI0="
 		},
 		{
-			"name": "BBC News 24 HD",
+			"name": "[官方]BBC News 24 HD",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
 },
 
 		{
-			"name": "BBC One",
+			"name": "[官方]BBC One",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBHd/ndOm6t8j78dR/ypdY0RaRK4lS08F+VTpUrjPsJsg=="
 },
 
 {
-			"name": "BBC Two HD",
+			"name": "[官方]BBC Two HD",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBDZNDjanuyrv/R08glyKyBf6tWqxtqrmhxxlNAm+tLOOQ=="
 },
 {
-			"name": "BBC Four HD",
+			"name": "[官方]BBC Four HD",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBDkZ9ElxZ+EQVCTSTiNM3rPvyXWIMCplxr2TD35KAAjQ=="
 },
+		
+		{
+			"name": "BBC World News",
+			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
+},
+		{
+			"name": "Bloomberg TV",
+			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN9ryih51d7pfr8Hibx+O5AbTKLymgHLzRj6axAqjU+t5thyLQc02JYaNkQTAnDJEGcNVTFF7af/d6gXqQPHJUncXJAHeFVc7UmPOvngYGHGJwkfJQCxZgwCF51qRlZQUiN5L6iHG8e/ai5TuhYDPP7A=="
+},
+		{
+			"name": "Channel NewsAsia",
+			"url": "8xSYKuvEmUEzRyzNl2npzNhIuTvE+JG+TOLnjYPDrdvXEZO3NhOz8J506+/QkAF+WHJSDeNzhBM8NFEgqUY+SnNYUgLJTZxqc1XfqtNE8Mg="
+},
+		{
+			"name": "DSport",
+			"url": "WlpiyGZp3HqiyUpZF7Ze4LrLeufccykb36qYhJO/vcHjCsx3ll5gUjoO2vd01ApjH34MupG+OVQgtxw9l5IhhD78l1iDAqZca9kw9+SgAI0="
+},
+		{
+			"name": "Jewelry Maker",
+			"url": "XSSvtzJ/yjQ87uSvC5ql8I79IqDXmePSoMUBDs5gudW60guo5SjnsS0Ss2rEzahHjomhL+d6RNhGw0oPc6iEF1qpKv/MlRoSRaHZtuaWzuA+/JdYgwKmXGvZMPfkoACN"
+},
+		{
+			"name": "Keep It Country",
+			"url": "iEqHTdcZc5/21FsdRtyuGtwJ5+AFO4cWHh0FmE3sIq5Qx/mcgcr269DVJrvzP2gSYp0ADJiK6su5C2nRxUFOqk2xo5zqYFLD+R6yKtL22wdHT4lmavM/VLODh3vjA6AwNvMsy4HGH00J4Yb9DilaoE6pQ9juoNgG/5Kz3gpGUyM="
+},
+				{
+			"name": "Kool London Radio",
+			"url": "xwnMxBHsCXhfqsRIrS2wURMZV4oGahEdJkzlZegy6eojBAzp9ObubqHTTAZ+Phez/OxPu9o5hbnc2pIGfGHBzA=="
+},
+		{
+			"name": "MTA 1",
+			"url": "NGgqIQ6SnqiI5eYSAnyPzQp4zMmL8YjJpmeeuyyY7uUdMSX/Nr50ioeWXe9qIeEFb+9RzvrfgbGVWvR7lZQAXCxiWyMCss1SlW8AtR7tIIBzWFICyU2canNV36rTRPDI"
+},
+				{
+			"name": "QVC",
+			"url": "1lW0jUkHBlV8kcNOwbRsqj33oAznd4E2awSLE+XGZbu99ubpoUMYkx/8QjhAOboAoxwbpGfVcLEWoOS5zDSNIpJhs49CJ6hj3xx0VVpEgBxzWFICyU2canNV36rTRPDI"
+},
+		{
+			"name": "QVC Beauty",
+			"url": "1lW0jUkHBlV8kcNOwbRsqj33oAznd4E2awSLE+XGZbu99ubpoUMYkx/8QjhAOboA6VbhrH+FuZokh2Ic55XAp2UGY3Wh4pXNla8JTW/aicg+/JdYgwKmXGvZMPfkoACN"
+},
+		{
+			"name": "QVC Extra",
+			"url": "1lW0jUkHBlV8kcNOwbRsqj33oAznd4E2awSLE+XGZbu99ubpoUMYkx/8QjhAOboA+15Lsgq5vsMoOiC/CODgkE0+qNIEjiBjPQsflhcp30n87E+72jmFudzakgZ8YcHM"
+},
+		{
+			"name": "QVC Style",
+			"url": "1lW0jUkHBlV8kcNOwbRsqj33oAznd4E2awSLE+XGZbu99ubpoUMYkx/8QjhAOboAP651uLj055mgWfBZQyoxfk0+qNIEjiBjPQsflhcp30n87E+72jmFudzakgZ8YcHM"
+},
+						{
+			"name": "QVC UK +1",
+			"url": "J1zmBKwWUyQ1ItkpFvv8HW2wG87PSelct+d7MFrjMYi+kZDAZvk03n8mWLyZp1zt5WUgcVjaP/aAGS6OkqaTRX62xtga9svAWWT0wOgYqGI="
+},
+		{
+			"name": "RT UK",
+			"url": "iq15Y5G9Q7S/VbcL5WDvFYMfF20U/+yzHjL2AM2XY6VUgo08ltsY90yWikeNYlH8oG/ZJu4qONzuIQuD0nq5CQ=="
+},
+		
 {
 			"name": "CBBC HD",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBA27/ONgt93TrirXILKjgnhyM1YE1EpxpJmObCoOQZdXw=="
