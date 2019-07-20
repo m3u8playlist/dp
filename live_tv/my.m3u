@@ -1,0 +1,108 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo-620x360.png" ,NHK World
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+
+
+#EXTINF:-1 logo="http://www.astra2sat.com/wp-content/uploads/2016/09/Arirang-World.jpg" ,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1728000_sleng.m3u8
+
+#EXTINF:-1 logo="https://www.skymedia.co.uk/wp-content/uploads/2018/09/sky-news-770x431.jpg" ,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+
+#EXTINF:-1 logo="https://cdn.theatlantic.com/assets/media/old_wire/img/upload/2012/01/30/1000px-The_Weather_Channel_old_1/facebook.png" , Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+
+#EXTINF:-1 logo="https://www.livenewsnow.com/wp-content/uploads/2016/04/ABC-News-logo-1.png" ,ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+
+#EXTINF:-1 logo="http://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png?h=4c305c5c&itok=01TKY9Ua" ,CBS NEWS 澳洲
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+
+#EXTINF:-1 logo="http://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png?h=4c305c5c&itok=01TKY9Ua" ,CBS NEWS 美国
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+
+#EXTINF:-1 logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG.png" ,Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+
+
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_400x400.jpg" ,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+
+#EXTINF:-1 logo="https://cms.cignal.tv/Upload/Images/BBC-News-World.png" ,BBC World News
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/400px-Logo_Nat_Geo_Wild.svg.png" ,国家地理野生
+http://iliketot.dyndns.tv/90d14bbf53d14b018d4439ffba6be283.m3u8
+
+
+#EXTINF:-1 logo="https://quantumbase.com/wp-content/uploads/2017/11/tumblr_static_2d1edpu5139c4gg8woo0kog88.png" ,CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+
+
+#EXTINF:-1 logo="https://www.mediabistro.com/jobs/getasset/d6acb7cf-0dc0-4dfb-973e-9861ff9f21b6/;w=600;h=315" ,CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+
+#EXTINF:-1 logo="https://www.mediabistro.com/jobs/getasset/d6acb7cf-0dc0-4dfb-973e-9861ff9f21b6/;w=600;h=315" ,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
+
+
+#EXTINF:-1 logo="http://nyctri.lifetimetri.com/wp-content/uploads/sites/22/2018/06/FBN_2018_Burnished_tag.png" ,FOX Business Network
+https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
+
+
+#EXTINF:-1 logo="http://www.livenewsnow.com/wp-content/uploads/2015/01/France-24.jpg" ,France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+#EXTINF:-1 logo="https://www.mediabistro.com/jobs/getasset/d6acb7cf-0dc0-4dfb-973e-9861ff9f21b6/;w=600;h=315" ,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" ,NEW SY
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+
+#EXTINF:-1 logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" ,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8
+
+#EXTINF:-1 logo="https://www.smg.cn/upload/images/logo(1).png" ,上海纪实超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225971/3.m3u8
+
+#EXTINF:-1 logo="http://static.statickksmg.com/image/2013/04/26/320d30ecc8cc1fb3826abb2e7089f3a6.jpg" ,上海外语超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225972/3.m3u8
+
+#EXTINF:-1 logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg" ,上海新闻综合超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225973/3.m3u8
+
+
+#EXTINF:-1 logo="http://www.nettv.live/uploads/18/1-1P5121GG5293.jpg" ,上海电视剧超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225970/3.m3u8
+
+#EXTINF:-1 logo="http://img.badouxia.com/Uploads/vod/2019-04-15/5cb4559726d47.jpg" ,上海都市超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225969/3.m3u8
+
+#EXTINF:-1 logo="http://img.dingdangpai.com/upload/images/activities/2016/12/09/124355841a0ykotd4b.jpg" ,全纪实超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B体育赛事.png" ,CCTV5+超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" ,CCTV5超清
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
+
+#EXTINF:-1 logo="https://www.brandinlabs.com/wp-content/uploads/2018/04/acd83e636b1007385fd2c24927783785.jpg" ,国家地理
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" , Discovery Asia
+http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
