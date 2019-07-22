@@ -12,13 +12,13 @@ tg channel:https://t.me/dotplayerlists
 dotplayer support txt,json and m3u file
 
 ### txt 
-
+```
 channel name1,http://www.example.com/index.m3u8
 
 channel name2,http://www.example.com/index.m3u8
-
+```
 ### m3u
-
+```
 #EXTM3U
 
 #EXTINF:-1, channel name1
@@ -26,7 +26,7 @@ http://www.example.com/index.m3u8
 
 #EXTINF:-1, channel name2
 http://www.example.com/index.m3u8
-
+```
 ### json
 
 {
