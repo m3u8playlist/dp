@@ -29,9 +29,9 @@ http://www.example.com/index.m3u8
 http://www.example.com/index.m3u8
 ```
 
-```
-### json
 
+### json
+```
 {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
 	"title": "change title here",
