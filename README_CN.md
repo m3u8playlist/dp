@@ -1,27 +1,30 @@
+# 小点播放器 订阅
+app:https://apps.apple.com/us/app/dotplayer/id1455092592
+
+tg:https://t.me/dotplayer
+
+tg channel:https://t.me/dotplayerlists
+
 ## 添加订阅
+小点播放器目前支持三种格式的订阅文件 txt,json 和m3u 文件
 
-### live tv
+### txt
+```
+频道名称1,http://www.example.com/index.m3u8
 
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
+频道名称2,http://www.example.com/index.m3u8
+```
+### m3u
+```
+#EXTM3U
 
-### radio
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json
+#EXTINF:-1, 频道名称1
+http://www.example.com/index.m3u8
 
-## 如何建立正确的json文件格式
+#EXTINF:-1, 频道名称2
+http://www.example.com/index.m3u8
+```
+### json
 
 
 ```json
