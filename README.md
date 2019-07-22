@@ -1,40 +1,31 @@
 [中文](README_CN.md)
 
+# dotplay m3u8 resource
+app:https://apps.apple.com/us/app/dotplayer/id1455092592
+tg:https://t.me/dotplayer
+tg channel:https://t.me/dotplayerlists
+
 ## add to subscription
 
-### live tv
+dotplayer support txt,json and m3u file
 
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/tw.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fr.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json
+### txt 
 
-### radio
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/uk.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/us.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sg.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/classical.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/blues.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/country.json
-* https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/top.json
+channel name1,http://www.example.com/index.m3u8
+channel name2,http://www.example.com/index.m3u8
 
-### tv
-see the folder
+### m3u
 
+#EXTM3U
 
-## how to make a json file
+#EXTINF:-1, channel name1
+http://www.example.com/index.m3u8
 
+#EXTINF:-1, channel name2
+http://www.example.com/index.m3u8
 
-```json
+### json
+
 {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
 	"title": "change title here",
@@ -42,11 +33,11 @@ see the folder
 	"channels": [		
 
 		{
-			"name":"change channel name",
+			"name":"channel name1",
 			"url": "http://www.example.com/index.m3u8"
 		},
     		{
-			"name":"change channel name",
+			"name":"channel name2",
 			"url": "http://www.example.com/index.m3u8"
 		}
 
