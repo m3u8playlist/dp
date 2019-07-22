@@ -2,7 +2,9 @@
 
 # dotplay m3u8 resource
 app:https://apps.apple.com/us/app/dotplayer/id1455092592
+
 tg:https://t.me/dotplayer
+
 tg channel:https://t.me/dotplayerlists
 
 ## add to subscription
@@ -12,6 +14,7 @@ dotplayer support txt,json and m3u file
 ### txt 
 
 channel name1,http://www.example.com/index.m3u8
+
 channel name2,http://www.example.com/index.m3u8
 
 ### m3u
