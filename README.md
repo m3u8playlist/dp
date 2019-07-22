@@ -9,7 +9,7 @@ tg channel:https://t.me/dotplayerlists
 
 ## add to subscription
 
-dotplayer support txt,json and m3u file
+dotplayer supports txt,json and m3u file
 
 ### txt 
 ```
