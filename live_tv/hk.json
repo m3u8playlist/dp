@@ -47,32 +47,35 @@
 			"name": "香港亚视经典",
 			"url": "wJ14ot1u16dJvEO0tZRmECQJ5fLIQFGyhmsl7xULEvKAO6hYOqjKR0SCGXbDs9963KTnNdIHmKQeQvwStzHw+EfIPZ2RWdtGz8YwYKqGpOM="
 		},
-		{
-			"name": "香港HKS",
-			"url": "Ox+/bP2sHwn93t5YV699WTr6ADjC8bbtD0cIIq4tfK1Wc0YbPAlmQJrY+EeM+yugGeIFv6NJHcIHPcZeRTtJUQ=="
-		},
+		
 		{
 			"name": "鳳凰中文",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-cn.png",
 			"url": "JqvaQbngKyoQ48JIdtJkMrb+j9ULLX7yWuTt0GoGMdQbkv4q+KGGkdT/wJe5n9JWrs6mcPZjhqpzwTpQnzXGrcjNWBNRKcaSZjmwqDkGXV8="
 		},
 		{
 			"name": "鳳凰中文",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-cn.png",
 			"url": "O2DwMQjwK7TBZNStT8iAsqhtyAmc4E3loB1lD7zJnSO2/o/VCy1+8lrk7dBqBjHUksoFpxLIXsBnR3LGsDk7/7V1iPyhcKbJzPWdHVSSIPk="
 		},
 		{
 			"name": "鳳凰資訊",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-zixun.png",
 			"url": "Yzf42GGmRNmDxc8qSGvTx6s7Rcz1RMmh7/n91ebQzvxslV2ubG0iD3t8MRCn2gra17q6Xrozlk/wRD18AsJd/g=="
 		},
 		{
 			"name": "鳳凰資訊",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-zixun.png",
 			"url": "O2DwMQjwK7TBZNStT8iAsqhtyAmc4E3loB1lD7zJnSO2/o/VCy1+8lrk7dBqBjHUksoFpxLIXsBnR3LGsDk7/2SfI9c98eahNjhXRVEaLZs="
 		},
 		{
 			"name": "鳳凰香港",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-hk.png",
 			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubI2SzeGPztyLNHKVL0rIB289uLwWbU/3DOPFUCeAMw3esXtAgAA0BGC4HBFd13dPL8="
 		},
 		{
 			"name": "鳳凰美洲",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix.png",
 			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubIzazN/b2AFEeM3qPH7YxHrOYBdgfNikpPKCz5ZSHMHl8XtAgAA0BGC4HBFd13dPL8="
 		}
 		
