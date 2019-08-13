@@ -29,12 +29,14 @@
 		
 		{
 			"name":"香港开电视",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/hkopentv.png",
 			"url": "16bcxvuhbPcfACtYAMl/3iWBzmoY1Mh9KjA1ldJJkt5pEEpaZS2qKfpQeuzonGWqgmGHu6uKizH5S5vjRq3N9w=="
 		},
 		
 
 		{
 			"name": "香港ViuTV99",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/viutv.png",
 			"url": "oUiPQnzxLcQaoEdtsm4UVOfkWEQGHTs6wIiqMxcSNjwlYiyxgyWlMv8f6lwl6l9nnGyqPknryNLiL3E+4p9oeQ=="
 		},
 		{
