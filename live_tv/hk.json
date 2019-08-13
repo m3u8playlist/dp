@@ -41,10 +41,12 @@
 		},
 		{
 			"name": "香港亚视A1",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/atv-a1.png",
 			"url": "1j/GZ/BGOskd9cBnuUEY6BYjRWTAw7ZFhFpvZhOm0DUg+NdsG0c94mUjUsdn+W6eLCk6x8h+8WjiV3r3dhz3X0fIPZ2RWdtGz8YwYKqGpOM="
 		},
 		{
 			"name": "香港亚视经典",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/atv.png",
 			"url": "wJ14ot1u16dJvEO0tZRmECQJ5fLIQFGyhmsl7xULEvKAO6hYOqjKR0SCGXbDs9963KTnNdIHmKQeQvwStzHw+EfIPZ2RWdtGz8YwYKqGpOM="
 		},
 		
