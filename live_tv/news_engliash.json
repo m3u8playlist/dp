@@ -49,10 +49,7 @@
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmAR1a3S58gL69KBNqLrsVPAxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
 		},
-		    		{
-			"name":"CGTN",
-			"url": "O2DwMQjwK7TBZNStT8iAsu5pDv7+riVCdqzOGlI+vj+2/o/VCy1+8lrk7dBqBjHUnAdAWj0I4asqLcaOrIMtjDts63q+W+Htdh8H+oAfTww="
-		},
+		    		
         		{
 			"name":"CNN",
 			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmDMDTSwOWpRJFRsw8rw9bALfsirul8++r/7m0AIcLr1xg=="
@@ -72,10 +69,6 @@
 			"url": "RuMKYaQKuA4Jt8lkRKpNpcWTM/DyOn0NMbObw+Ddl5P+JMoZBuLQsfvlCGtkPyz3x3U7iyopGrqHVCMxCGSEUiXv+xqOuRa+qhquAhdgvg0="
 		},
 
-                		{
-			"name":"FOX News",
-			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmBCC58aEd0a9ngQC0gyjjixxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
-		},
                 		{
 			"name":"FOX Business Network",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/fox.png",		
