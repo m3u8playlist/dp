@@ -6,20 +6,24 @@
 	
 	{
 			"name": "sky news",
+		 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmokF4QH9qKUbtIsaLFqpjt7j78l1iDAqZca9kw9+SgAI0="
 		},
 		{
 			"name": "[官方]BBC News 24 HD",
+			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
 },
 
 		{
 			"name": "[官方]BBC One",
+			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc1.png",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBHd/ndOm6t8j78dR/ypdY0RaRK4lS08F+VTpUrjPsJsg=="
 },
 
 {
 			"name": "[官方]BBC Two HD",
+	 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc2.png",
 			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBDZNDjanuyrv/R08glyKyBf6tWqxtqrmhxxlNAm+tLOOQ=="
 },
 {
@@ -29,6 +33,7 @@
 		
 		{
 			"name": "BBC World News",
+			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
 			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
 },
 		{
