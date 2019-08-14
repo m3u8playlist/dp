@@ -5,60 +5,73 @@
 	"channels": [		
 		{
 			"name":"香港电台第1台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R1.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMcWTM/DyOn0NMbObw+Ddl5Mc1pLAtbD/lNtzIPOThzOdwA9ry2hGmaFmAt6QXcUHZw=="
 		},
 		{
 			"name":"香港电台第2台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R2.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMVHAwKDxWBdhUs9q/GEy795eUenmHEHQea/61GuigmlbC3wCZ3iJgSQAyWwOvANHuw=="
 		},
 		{
 			"name":"香港电台第3台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R3.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMT6t97ISSkL1pj2AN8KX4fi4A66/lROOP3yKhPIBIMRLCMiAk1MWyAMhnROY8upycA=="
 		},
 		{
 			"name":"香港电台第4台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R4.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMRDvQCQqqZ26/6P2odNAn2PzvE2DisnR+ZKuX49HE1xp0x3IRaamcnniojZbCKrKag=="
 		},
 		{
 			"name": "香港电台第5台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R5.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMajUnAeAvMd1cHdQlUgVDcKVQN6uj1dlmJqrGMdLhio783DsgtnRpJnU8OFDJv0r4A=="
 		},
 		{
 			"name": "香港电台普通話台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_PTH.png",
 			"url": "UKXjqSQ/kpegI3FsheSaMRW4SgBYHsU+OKJHECKT94C5rWX4WMuWwWRdcSaexYhTVJIRHyoGYAMBnuf+XeJsr8jNWBNRKcaSZjmwqDkGXV8="
 		},
 		
 		{
 			"name":"新城電台知訊997",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/fm99.7.png",
 			"url": "f2SL5/5C5MYwJs7pYYwh5EO+4AdzbWiwJR7FCqnVZ8k3fOtKn5D6VAz3W9c/QqKzXtzhu1qbfNicpduNAHeGgA=="
 		},
 		
 
 		{
 			"name": "新城電台財經104",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/Metro_Finance.png",
 			"url": "f2SL5/5C5MYwJs7pYYwh5EO+4AdzbWiwJR7FCqnVZ8lVqpjn+wsm3yg7HHwlOiFvXtzhu1qbfNicpduNAHeGgA=="
 		},
 		
 			{
 			"name":"新城電台Metro Plus AM1044",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/metro.png",
 			"url": "f2SL5/5C5MYwJs7pYYwh5EO+4AdzbWiwJR7FCqnVZ8ky3MfcvwNrIfvTJKcBk5jhJPg6hwCbTz0Zxjw5R/XHPQ=="
 		},
 				
 						{
 			"name":"商業電台雷霆881",
+		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/881.png",
 			"url": "Ye+vpWXf1ekGi5HMcydw6hxoLyfO4+hzfVJPm1NG5+nBiKhbmNSmfmd+gPFGpwjNskMutKab596w6/3H8uxR1UcdYdLlW+TUckXYcyVY8Vk="
 		},
 		
 						{
-			"name":"商業電台叱咤903",
+			"name":"商業電台叱咤903",				
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/903.png",
 			"url": "Ye+vpWXf1ekGi5HMcydw6hxoLyfO4+hzfVJPm1NG5+nBiKhbmNSmfmd+gPFGpwjN4cv+UusEjwVHyrKuU15boEcdYdLlW+TUckXYcyVY8Vk="
 		},
 		{
 			"name":"商業電台AM864",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/864.png",
 			"url": "Kllh4/qnlRSRn1OmEkBNXXaznyUwofbw1AdSDcbA8tDBiKhbmNSmfmd+gPFGpwjNi7emWg8iV49Dezi5CuUl8l8+xN99qiGTL0jNvyBHscU="
 		},
 		{
 			"name":"香港D100 PBS Radio",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/d100.png",
 			"url": "3bHMLjCjQ+f3ABSkxBx3XG40ApS1ZRPT4lQeP/8r2UpOUobBRxdsWLySawhxk2Js"
 		}
 		
