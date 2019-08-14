@@ -7,19 +7,23 @@
 		
 		{
 			"name":"ABC News (澳大利亚)",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
 			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
 		},
 		{
 			"name":"ABC News (美国)",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
 			"url": "t0MKQ4N7/UkoeYkmD+ic9kJQx2crr4nxmD94y6zIQRvKNxnEBjmi5Tr6vkPibo9cA6T9PgzWkbydjVs6wqNbG7skU/kOk+Fh7I1+u2+rDAs="
 		},
 
 		{
 			"name":"Arise News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/arise-news.png",
 			"url": "cTyJEnr234umDdHvZokZihvwHFIUg2AlwREOTLm+uMTXHiwMQR6xZ16CT9blMOieBwVLQPhgL7ssnIGvJxzuIfKcosoLbFxHJU3+M6nqI6BhwrVxjjaWLc9a6JHxxlNRbPXMPzYEh3p2AW6cNzXlHvQPRnqIiVUn9vX11+gTwNA="
 		},
     		{
 			"name":"Arirang",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
 			"url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjN20Y1tP+kxhjfon2e9rLhTEjMNwzA2RSLzzfqfs3zgW2PvyXWIMCplxr2TD35KAAjQ=="
 		},
     		{
@@ -28,6 +32,7 @@
 		},
     		{
 			"name":"Bloomberg",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
 		},
     		{
@@ -36,10 +41,12 @@
 		},
     		{
 			"name":"CBS News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "kQg9BiLGYN/OqfmsH3Jm57Os0qK85aajiRmHM01zCGznqAtOdunkZ6FFLbqjEfc413s38QKmolXVNLTgbukGy/DP3WHXJcw3qvr0+8mH+Zg="
 		},
     		{
 			"name":"CBC News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmAR1a3S58gL69KBNqLrsVPAxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
 		},
 		    		{
@@ -52,10 +59,12 @@
 		},
         		{
 			"name":"CNBC",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
 			"url": "BYp2XoE4efqKq7bPBVuE0CI6bHWRejnoCjTFmhhkdwbz6OcgR86xFMCdWYu604sV1ci21ZWLK80LW90yznepAw=="
 		},
 		        		{
 			"name":"CNBC World",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
 			"url": "rKo83gYTdsxj0/HdQDx1d5yqiVSQ2Q1Orcdod+jxH4DIM/1eP44ccL4D6P2vr3TXfsirul8++r/7m0AIcLr1xg=="
 		},
             		{
@@ -69,6 +78,7 @@
 		},
                 		{
 			"name":"FOX Business Network",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/fox.png",		
 			"url": "Tk+OEsUZWu2uwWcwsQqtWh79VnyHNyjHbTv6k8CN9jBJPAb0rqBzpiFJ3dfvDBiD7CzBkkc/2Cl57D33HaCXJA=="
 		},
                 		{
@@ -93,6 +103,7 @@
 		},
                     		{
 			"name":"NBC",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
 			"url": "rKo83gYTdsxj0/HdQDx1d7FX6CT3pJDaKxcAZPgLLvfQwOhYCCa+oGbn0b/brtdR1ci21ZWLK80LW90yznepAw=="
 		},
                     		{
@@ -101,6 +112,7 @@
 		},
                     		{
 			"name":"Newsy",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/newsy.png",	
 			"url": "ttU+mRVCSQ7X6Vz+lTA07aSLWSZ/sGENJwWVbPX+EjLGYu0r/tqQl6I0duDwIbbPOR3Rgtm7jqOZPw/PXjELhG/FeV3k3elMoKckohW4oKo="
 		},
 
@@ -109,7 +121,8 @@
 			"url": "bTt1LffXV6YNgS0+LQciJiFu6TeqRDfrZYGzr5Fp6ExZREI8ywWSYWJ058qCHyMFxrC4TRwe3SOPIe8oetxfE7NbEQS7Mp4+RwyiWjW8NRE="
 		},
     		{
-			"name":"NHK World,",
+			"name":"NHK World",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",	
 			"url": "b7dXf5JN3D4ZbCny5nveibxJb7d9uCJoHgBbQIPzyLaX+zl2AXwoVXWK1u8x5SsRqzDgXtBrsGxsMsRRj5ogopExC4ibkj2eh8tI7xfoHV/87E+72jmFudzakgZ8YcHM"
 		},
     		{
@@ -118,6 +131,7 @@
 		},
     		{
 			"name":"Sky News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
 		},
     		{
@@ -126,6 +140,7 @@
 		},
     		{
 			"name":"Weather Channel",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/weather-channel.png",	
 			"url": "zlnX+PzmuD3si8cHX9BoX+aWnexnO0VJ4vD2keqlpdCOiZGZWFggfkVml/iwcY82yPg+s0BaLVFv7oV0/omymw=="
 		}
 
