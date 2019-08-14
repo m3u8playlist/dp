@@ -4,62 +4,59 @@
     "channels": [
         {
             "name": "nhk world", 
+	    "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",
             "url": "wOw6l9B17WUw0tTSzanl4Htc+QDxvhhFvwBW88KJsmXKyh2WThq6OMi3ldN8cHfWwXzj4uRvl1dyZwVMqoHBIm99rxt7/qilCnVKgdlLBpAztxLBUYvM3RQ1EaXQiKLi"
         }, 
         {
             "name": "japan 24news", 
+	"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/jpnews24.png",
             "url": "YoqCi1ycvAXYNDHxmClfLn6UWZrFPIb05fyzlcCDqiMznEqWmHa8uWgjTkY1za4T"
         }, 
         {
             "name": "Family Gekijyo", 
+	"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Family-Gekijyo.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uv4oAys62DvuOtMzToeozeXUuh/TnXjweDc2Tt/LUWxag=="
         }, 
         {
-            "name": "History", 
+            "name": "History",
+		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/history.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UvxqN29gT9mXZQdSZwfTuURUuh/TnXjweDc2Tt/LUWxag=="
         }, 
 	    {
-            "name": "TV Asahi", 
+            "name": "TV Asahi",
+		    "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/TV-Asahi.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uskd/GXKCWnCVQoQnxeGYWSRx1h0uVb5NRyRdhzJVjxWQ=="
         }, 
 	      {
             "name": "TV Tokyo", 
+		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/TV-Tokyo.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UtZw+I6oYk6Vnko5OIABlTCRx1h0uVb5NRyRdhzJVjxWQ=="
         }, 
 	      {
-            "name": "QVC Japan", 
+            "name": "QVC Japan",
+		     "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/qvc.png",
             "url": "5RsrKbLQ/SWk222skAbEIMhxwoTZs9qC9KPKqAeHx7vgEZHh15JgyXjU6g9C0rf3"
         }, 
-	      {
-            "name": "日本购物频道1", 
-            "url": "9OxysOk69TMoBcT43rBBFBLoMhS7ki0qAU6XOBpSsb5XKWpja1VGFBDp0bEmJvnpyM1YE1EpxpJmObCoOQZdXw=="
-        }, 
-	    {
-            "name": "日本购物频道2", 
-            "url": "9OxysOk69TMoBcT43rBBFBLoMhS7ki0qAU6XOBpSsb5LVMN9SqyY8u+rnA+1UPIiyM1YE1EpxpJmObCoOQZdXw=="
-        }, 
-	    {
-            "name": "日本购物频道3", 
-            "url": "9OxysOk69TMoBcT43rBBFBLoMhS7ki0qAU6XOBpSsb4lRHqaDH2Bg8pVAblsdaJGyM1YE1EpxpJmObCoOQZdXw=="
-        }, 
-	    {
-            "name": "日本购物频道4", 
-            "url": "9OxysOk69TMoBcT43rBBFBLoMhS7ki0qAU6XOBpSsb4J6r1vDmDkcG4qoVeNFJ4pyM1YE1EpxpJmObCoOQZdXw=="
-        }, 
+	     
+	    
         {
-            "name": "Eisei Gekijo", 
+            "name": "Eisei Gekijo",
+		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Eisei-Gekijo.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uvx+woc+XzJpUapaTxDndQ0Uuh/TnXjweDc2Tt/LUWxag=="
         }, 
         {
             "name": "Nihon Eiga TV", 
+		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Nihon-Eiga-TV.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuMZYCUHFJO8XJFWQ1OWftCUuh/TnXjweDc2Tt/LUWxag=="
         }, 
         {
-            "name": "Cinefil WOWOW", 
+            "name": "Cinefil WOWOW",
+		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Cinefil-WOWOW.png",
             "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuCnb3PizTZ0wD3UtVH+arXUuh/TnXjweDc2Tt/LUWxag=="
         }, 
          {
             "name": "Japan Channel DX", 
+		 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Japan-Channel-DX.png",
             "url": "8YZ/6CSvr4TpQMBsBK3O1utnh4duaVmsZ0P1MS2uKG54+7hFYt0cNksPas0u7nfTtLSF/lEVO9QvjDzS1okV15jRzi2C7Hi8ioJthAB69UFV+a16QZx1tYFGFif9ZNaH"
         }
        
