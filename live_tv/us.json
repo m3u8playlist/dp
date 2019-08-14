@@ -4,28 +4,13 @@
 	"channels": [
 
 		{
-			"name": "BLOOMBERG HD",
-			"url": "VSnS9N7hxUz+Q4aWucAwkf0G8jJXDQ/Jsixcu5yWv1gyEM66g9kInIZtHw5+2y4qItCNmZPqBpgO2FbhEi3pnXNYUgLJTZxqc1XfqtNE8Mg="
-		},
-
-		{
-			"name": "BLOOMBERG HD",
-			"url": "VSnS9N7hxUz+Q4aWucAwkd3cR7uQOJT6yqMpXhN+72sKXH6NGWz9ZgPEXMsD+7RrIyZz6GQO+j0IUA8r2z7YZ74LEbXt3ZgFMgL5lGHTrMVAHAvtTstkJpDW+25lgQiCWXlUEUk7bWfdnw+pYFBORA=="
-		},
-		{
-			"name": "BLOOMBERG ASIA HD",
-			"url": "VSnS9N7hxUz+Q4aWucAwkd3cR7uQOJT6yqMpXhN+72sKXH6NGWz9ZgPEXMsD+7RrgvqAUz/mi0KBM8fUyvKpYh2C/QoQbp2EpFTKgTwG3A4="
-		},
-		{
-			"name": "BLOOMBERG Europe HD",
-			"url": "VSnS9N7hxUz+Q4aWucAwkaPo4hBD/La7Viilwfjuv7cyEM66g9kInIZtHw5+2y4qtLjwB+mSD4BD6XP3akpM7nNYUgLJTZxqc1XfqtNE8Mg="
-		},
-		{
 			"name": "BLOOMBERG US HD",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
 		},
 		{
 			"name": "CNBC",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
 			"url": "MJCqZWwPfi+DDa6tnkh9MyaftIKZr12K9Ewey+ySG4QVoTS9s5yH0w+5bUCW7cnFyY2UPPjbYW103LZLpxsAYun/FhpeK0daNUaWwyhKTWi7JFP5DpPhYeyNfrtvqwwL"
 		},
 		{
@@ -34,6 +19,7 @@
 		},
 		{
 			"name": "NBC",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
 			"url": "rKo83gYTdsxj0/HdQDx1d7FX6CT3pJDaKxcAZPgLLvfQwOhYCCa+oGbn0b/brtdROOP8cB+fesD5rJs4n1iTQQ=="
 		},
 		{
@@ -48,20 +34,24 @@
 
 		{
 			"name": "CBS News 1",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "+zorHGbsdH0eih1GDhx1PUJQx2crr4nxmD94y6zIQRsvEymuVfG3asnij1qgYr+NbAHanucmg9oBdmp1Rk4VOg=="
 		},
 		{
 			"name": "CBS News 2",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "zEthSs5p5SYSpVxuGKZd5vw8/h/8uJWKco47AwVlxWVPzvur/pTwykBcXVk+5BUlxe0CAADQEYLgcEV3Xd08vw=="
 		},
 
 		{
 			"name": "ABC News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
 			"url": "t0MKQ4N7/UkoeYkmD+ic9kJQx2crr4nxmD94y6zIQRvKNxnEBjmi5Tr6vkPibo9cA6T9PgzWkbydjVs6wqNbG7skU/kOk+Fh7I1+u2+rDAs="
 		},
 
 		{
 			"name": "Weather Channel",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/weather-channel.png",
 			"url": "zpwoDfjFuJ82cvonx8LYmxG7MEfXtLmENZ9PaDkyKeeVKVDEyWtOzo/A5QN+RF8slTrmYEWh91CfHI3GVFN7Jg=="
 		},
 		{
@@ -240,14 +230,7 @@
 			"url": "+VIEB1+unUsxVHE/D4IvC3K4OecHePMldkE//uTloGZKbX9uaYkJ625HooUEjDaA/Fq4TJyiKTIcFixW/FOu1nNYUgLJTZxqc1XfqtNE8Mg="
 		},
 
-		{
-			"name": "CGTN (Opt-1)",
-			"url": "clBaexh7PnYI156R8ZTX+wu/88EWQdrayA6nKumQ6HpW/+rwrzvTN5dCSzgA6u3Y"
-		},
-		{
-			"name": "CGTN (Opt-2)",
-			"url": "clBaexh7PnYI156R8ZTX+ypabOXr+5wo0pN/czDprKSn9pVRsAg6RgHsx01ijTpK"
-		},
+		
 		{
 			"name": "Jewelry Television",
 			"url": "TRcqC2F6vZxO7k0PeftI8Me4HOPVcrWeKDZcP+F7vAZ9o6S7oJns0nLcLQ5V6laSxnjI8y7o4yERH3A32ePb6UcdYdLlW+TUckXYcyVY8Vk="
