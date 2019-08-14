@@ -37,6 +37,7 @@
 		},
     		{
 			"name":"BBC World News",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
 			"url": "ZXrWtBFR855Xh+RQs7If2R79VnyHNyjHbTv6k8CN9jDSL9djwoIHLWhUQ+sT/Mo11ci21ZWLK80LW90yznepAw=="
 		},
     		{
@@ -52,6 +53,7 @@
 		    		
         		{
 			"name":"CNN",
+				"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnn.png",
 			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmDMDTSwOWpRJFRsw8rw9bALfsirul8++r/7m0AIcLr1xg=="
 		},
         		{
@@ -66,6 +68,7 @@
 		},
             		{
 			"name":"Deutsche Welle",
+				"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/dw.png",
 			"url": "RuMKYaQKuA4Jt8lkRKpNpcWTM/DyOn0NMbObw+Ddl5P+JMoZBuLQsfvlCGtkPyz3x3U7iyopGrqHVCMxCGSEUiXv+xqOuRa+qhquAhdgvg0="
 		},
 
@@ -81,6 +84,7 @@
                 		
                     		{
 			"name":"Telesur",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/telesur.png",
 			"url": "KoiyrgSR/ao0iWsFVLfnBm8L1TYCrdSGgseVfvw8FyYefApVLkoe3jhYgES04UM3+W/qcza2hm7zeRnFIoAQQQ=="
 		},
                     		
