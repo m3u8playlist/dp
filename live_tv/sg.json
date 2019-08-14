@@ -5,38 +5,47 @@
        
         {
             "name": "MUTV", 
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/mutv.png",
             "url": "Ivfn6ybw+wRFnlNRaNraY4k7mrKHPLhYZDdrSArQfApVy8FOWhXrQaQwi9dJBvElbNSFOzd/kxgbEztNagpxcXNYUgLJTZxqc1XfqtNE8Mg="
         }, 
         {
             "name": "miao mi", 
+          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/miao-mi.png",
             "url": "0CwodfckhCfJ62vqxF6VNAN1XmeUnamZbu4qJrLJee0V1x1sXUj2lsKeBKlZpZS77pCAxHxuZLwXIzK0gnQvsT78l1iDAqZca9kw9+SgAI0="
         },
          {
             "name": "news asia-Engliash", 
+           "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-newsasia.png",
             "url": "EABav+w3H7zvzvnDmpJFwySXlnRTpWiPb12P9bwM94oxbEScMh7MtCZpMZRzmJBh/OxPu9o5hbnc2pIGfGHBzA=="
         },
       {
             "name": "channel 8", 
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-8.png",
             "url": "iMiPVLlIwAi0KUE7VgJ7LqM9cjUPG5szE8zU7cfSGnhC0aMf+sAojW7OFxgIKf3BmeWIMar4t379MQ145E/8jw=="
         },
      {
-            "name": "channel 5", 
+            "name": "channel 5",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-5.png",
             "url": "3IoodBHbqrfH2xkjnTAqDaUt4BysnAFcThEZufPkHdQ8Y7AgWBxwXhICpanf3x0Zghqu3HYGCeNNqkpW6exM5g=="
         },
         {
             "name": "channel U", 
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-u.png",
             "url": "oBH7Xwkote5tdDLX/GnQCyV2FwhRfxhVGOmxTtTGEvAHZG79CnuWLarKDZ7TzkVimeWIMar4t379MQ145E/8jw=="
         },
         {
-            "name": "奥多频道", 
+            "name": "奥多频道",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/okto.png",
             "url": "fxwZ8MN8ffLkUqOb2s7YcvMLd/4gf/pX5/FOvu6x+GeCep5nriCLPcPVOTJ8UPT9meWIMar4t379MQ145E/8jw=="
         },
         {
             "name": "朝阳频道-马来语", 
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/suria.png",
             "url": "DmhB2CktLgWH2hnI0PS2B18xmhxzvfX7RtoZ1tXRJ8Ck241f4bR8iIWV1ZZ4yY91+LpkmWXn2uYUrlt2hsGkc7skU/kOk+Fh7I1+u2+rDAs="
         },
         {
             "name": "春天频道-淡米尔语", 
+          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/asantham.png",
             "url": "Co8/2tlVuiq4RoPKI02FpwZk5PI1x1Igyrt3rxGZM2xm6zGm/lssgPUaujnxPCn17bxQaORibw9T7SzGj1jLIcjNWBNRKcaSZjmwqDkGXV8="
         }
        
