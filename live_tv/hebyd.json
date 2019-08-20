@@ -11,6 +11,16 @@
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225755/index.m3u8"
 			},
 			{
+				"name": "CCTV2FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8"
+			},
+			{
+				"name": "CCTV2FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225747/index.m3u8"
+			},
+			{
 				"name": "CCTV3FHD",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-3.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225754/index.m3u8"
@@ -154,14 +164,17 @@
 			
 			{
 				"name": "东方卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8"
 			},
 			{
 				"name": "广东卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广东卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8"
 			},
 			{
 				"name": "山东卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8"
 			},
 			{
@@ -170,10 +183,12 @@
 			},
 			{
 				"name": "深圳卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8"
 			},
 			{
 				"name": "天津卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/天津卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8"
 			},
 			{
@@ -526,14 +541,7 @@
 				"name": "HRB新闻综合FHD",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8"
 			},
-			{
-				"name": "CCTV2FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8"
-			},
-			{
-				"name": "CCTV2FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225747/index.m3u8"
-			},
+			
 			{
 				"name": "上海纪实FHD",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8"
