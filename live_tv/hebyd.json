@@ -11,6 +11,11 @@
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225755/index.m3u8"
 			},
 			{
+				"name": "CCTV1FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8"
+			},
+			{
 				"name": "CCTV2FHD",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8"
@@ -30,6 +35,10 @@
 				"name": "CCTV3FHD",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-3.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225606/index.m3u8"
+			},
+			{
+				"name": "CCTV4HD",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225725/index.m3u8"
 			},
 			{
 				"name": "CCTV4",
@@ -52,7 +61,18 @@
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8"
 			},
 			
+			{
+				"name": "CCTV5+FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8"
+			},
+
 			
+			{
+				"name": "CCTV5FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
+			},
 			
 			{
 				"name": "CCTV5+FHD",
@@ -160,7 +180,34 @@
 				"name": "CGTN",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225604/index.m3u8"
 			},
+				{
+				"name": "上海纪实FHD",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8"
+			},
 			
+
+			{
+				"name": "北京纪实FHD",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8"
+			},
+			{
+				"name": "安徽卫视FHD",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8"
+			},
+			{
+				"name": "北京卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8"
+			},
+			{
+				"name": "北京卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225749/index.m3u8"
+			},
+			{
+				"name": "北京纪实FHD",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8"
+			},
 			
 			{
 				"name": "东方卫视FHD",
@@ -363,22 +410,13 @@
 				"name": "黑龙江HD",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8"
 			},
-			{
-				"name": "安多卫视",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8"
-			},
-			{
-				"name": "康巴卫视",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8"
-			},
+			
 			{
 				"name": "Newtv动作电影",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8"
 			},
-			{
-				"name": "黑莓动画",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8"
-			},
+			
 			{
 				"name": "Newtv古装剧场",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
@@ -393,66 +431,74 @@
 			},
 			{
 				"name": "Newtv金牌综艺",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8"
 			},
-			{
-				"name": "黑莓电影",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8"
-			},
+			
 			{
 				"name": "Newtv军事评论",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8"
 			},
 			{
 				"name": "Newtv爱情喜剧",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8"
 			},
 			{
 				"name": "Newtv精品大剧",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8"
 			},
 			{
 				"name": "Newtv海外剧场",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8"
 			},
 			{
 				"name": "Newtv精品记录",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8"
 			},
 			{
 				"name": "Newtv健康有约",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8"
 			},
 			{
 				"name": "Newtv精品体育",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8"
 			},
-			{
-				"name": "黑莓电竞",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8"
-			},
+			
 			{
 				"name": "Newtv军旅剧场",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8"
 			},
 			{
 				"name": "Newtv家庭剧场",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8"
 			},
 			{
 				"name": "Newtv中国功夫",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8"
 			},
 			{
 				"name": "Newtv搏击",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8"
 			},
 			{
 				"name": "Newtv中国功夫",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8"
 			},
 			{
 				"name": "Newtv农业致富",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225683/index.m3u8"
 			},
 			{
@@ -461,25 +507,52 @@
 			},
 			{
 				"name": "Newtv潮妈辣婆",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225685/index.m3u8"
 			},
+			
+			
+			
 			{
-				"name": "凤凰资讯HD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8"
+				"name": "Newtv超级综艺",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
 			},
 			{
-				"name": "CCTV5+FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8"
+				"name": "Newtv超级体育",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8"
+			},
+			{
+				"name": "Newtv超级电视剧",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225716/index.m3u8"
+			},
+			{
+				"name": "Newtv超级电影",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8"
+			},
+			{
+				"name": "Newtv炫舞未来",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225719/index.m3u8"
+			},
+			{
+				"name": "Newtv东北热剧",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225741/index.m3u8"
+			},
+			{
+				"name": "Newtv欢乐剧场",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225742/index.m3u8"
+			},
+			{
+				"name": "黑莓电影",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8"
 			},
 
-			{
-				"name": "CCTV1FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8"
-			},
-			{
-				"name": "CCTV5FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
-			},
 			{
 				"name": "黑莓电竞",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225712/index.m3u8"
@@ -487,51 +560,6 @@
 			{
 				"name": "黑莓电竞",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225713/index.m3u8"
-			},
-			{
-				"name": "Newtv超级综艺",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
-			},
-			{
-				"name": "Newtv超级体育",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8"
-			},
-			{
-				"name": "Newtv超级电视剧",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225716/index.m3u8"
-			},
-			{
-				"name": "Newtv超级电影",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8"
-			},
-			{
-				"name": "Newtv炫舞未来",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225719/index.m3u8"
-			},
-			{
-				"name": "CCTV4HD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225725/index.m3u8"
-			},
-			{
-				"name": "安徽卫视FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8"
-			},
-			{
-				"name": "北京卫视FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8"
-			},
-			{
-				"name": "北京纪实FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8"
-			},
-
-			{
-				"name": "Newtv东北热剧",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225741/index.m3u8"
-			},
-			{
-				"name": "Newtv欢乐剧场",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225742/index.m3u8"
 			},
 			{
 				"name": "黑莓电影",
@@ -542,19 +570,7 @@
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8"
 			},
 			
-			{
-				"name": "上海纪实FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8"
-			},
-			{
-				"name": "北京卫视FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225749/index.m3u8"
-			},
-
-			{
-				"name": "北京纪实FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8"
-			},
+		
 			{
 				"name": "HRB娱乐",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8"
