@@ -38,6 +38,7 @@
 			},
 			{
 				"name": "CCTV4HD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-4.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225725/index.m3u8"
 			},
 			{
@@ -182,16 +183,28 @@
 			},
 				{
 				"name": "上海纪实FHD",
+					"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8"
 			},
-			
+			{
+				"name": "上海纪实FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8"
+			},
 
 			{
 				"name": "北京纪实FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/北京纪实.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8"
 			},
 			{
+				"name": "北京纪实FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/北京纪实.png",
+				"url": "http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8"
+			},
+			{
 				"name": "安徽卫视FHD",
+				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/安徽卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8"
 			},
 			{
@@ -204,10 +217,7 @@
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225749/index.m3u8"
 			},
-			{
-				"name": "北京纪实FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8"
-			},
+			
 			
 			{
 				"name": "东方卫视FHD",
@@ -224,10 +234,7 @@
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8"
 			},
-			{
-				"name": "上海纪实FHD",
-				"url": "http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8"
-			},
+			
 			{
 				"name": "深圳卫视FHD",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
