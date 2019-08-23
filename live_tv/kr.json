@@ -57,7 +57,7 @@
         },
 	     {
             "name": "KBS World Russia",
-		     
+		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBSWorld.png",
             "url": "KJLsspkqYWXdS+pkSlKsOriaw0yGVHwD5YyFG9z69HulSO9aU3PGscDh5s9ezuzOGeIFv6NJHcIHPcZeRTtJUQ=="
         },
 	     {
@@ -291,6 +291,7 @@
         },
 	     {
             "name": "TV Chosun", 
+		     "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/Chosun.png",
             "url": "eRoMIpDBbqQukNoaoV4IeKf49JpJH58BbGyvuQTVRlZa72lR4uuTtORNyfNBxVxU9GoL/fyxiLnjAgyu/RekdAuVQ/u0bVaR4taO1rBUnSw="
         },
 	     {
