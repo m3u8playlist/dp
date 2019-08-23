@@ -119,7 +119,7 @@
         },
 	     {
             "name": "EBSi", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ebsi.png",
+		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ensi.png",
             "url": "tldCVMLwIOrOC5oGqzJ+0RnMtd8As8ay+jMpCZuJ2dyDToBGCaCrH0u7pWKdOA0l+GZex/ZjxPCvH9Ogbe9y0tl7mPKQWtSj3aWspvG51bU="
         },
 	     {
@@ -209,7 +209,8 @@
             "url": "+cdDQKWgBk+FtGtGM1DaIiC3J25ikM8H28bL6sKY/qQDoWQvTeyblggucmY+SB9wW3aAIxX3R1BB9yOtOQi+b59IcH2+7up+ekQ7vx5RcBr87E+72jmFudzakgZ8YcHM"
         },
 	    {
-            "name": "SBS Star", 
+            "name": "SBS Star",
+		     "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/sbs-star.png",
             "url": "+cdDQKWgBk+FtGtGM1DaIiC3J25ikM8H28bL6sKY/qQDoWQvTeyblggucmY+SB9wpz4rb8GpuIzFBEYSV7x3tLskU/kOk+Fh7I1+u2+rDAs="
         },
 	     {
