@@ -55,11 +55,7 @@
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBS2.png",
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAUdUUJKO1ghhKVtZDAnEOzsjNWBNRKcaSZjmwqDkGXV8="
         },
-	     {
-            "name": "KBS World Russia",
-		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBSWorld.png",
-            "url": "KJLsspkqYWXdS+pkSlKsOriaw0yGVHwD5YyFG9z69HulSO9aU3PGscDh5s9ezuzOGeIFv6NJHcIHPcZeRTtJUQ=="
-        },
+	    
 	     {
             "name": "Anibox", 
 		        "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/anibox.png",
@@ -70,57 +66,32 @@
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/aniplus.png",
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAt/HxJVJrOSp/Gy1LBFwkDcjNWBNRKcaSZjmwqDkGXV8="
         },
-	     {
-            "name": "AniONE", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/anione.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc8+z61Jz0Ceh55UGhDmA/V1pPlmyeabYhE8YFkqV5Omz6"
-        },
-	     {
-            "name": "Animax", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/animax.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc81Mty5KSUCDDI27ZVC4nMhZPlmyeabYhE8YFkqV5Omz6"
-        },
+	   
 	     {
             "name": "채널 A", 
+	 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/Channel_A.png",		     
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAr8ChppoNfn0NSIoZ667Gw8jNWBNRKcaSZjmwqDkGXV8="
         },
-	     {
-            "name": "Badook TV", 
-            "url": "fZLr6kyxR8jj8KaaiHqc878e1js8h+yjZ+jT06cjhNdPlmyeabYhE8YFkqV5Omz6"
-        },
-	     {
-            "name": "Carrie", 
-            "url": "fZLr6kyxR8jj8KaaiHqc84fI6aepgkEO9xZQgj43KMlPlmyeabYhE8YFkqV5Omz6"
-        },
+	   
+	    
 	     {
             "name": "Ch CGV",
 		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/CGV.png",
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAVnd4riEexFiuC0/XRp5GZcjNWBNRKcaSZjmwqDkGXV8="
         },
-	      {
-            "name": "Ch China", 
-		        "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/Channel_A.png",
-            "url": "25+3R1Zm6Xa6pVDGwnrPb4qOBeZ3Zt+hfzHc+c+bMPaZvyQkj78WxxS++pCqgyaLalooLBNe7DoqiWGEGrHTzQ=="
-        },
+	    
 	     {
             "name": "CBS", 
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/CBS.png",
             "url": "B4aHwrKy4nxRCe7jC0KaXJNFgAn7DSnJkyac+DYEI+/28IYIGsWV7kIxfL0OzLoiOiF50nfc/qlDGkN/hO3uc7skU/kOk+Fh7I1+u2+rDAs="
         },
-	     {
-            "name": "Chunghwa TV", 
-            "url": "fZLr6kyxR8jj8KaaiHqc8yEnIj+KSTn4pRy0k5uo9rZPlmyeabYhE8YFkqV5Omz6"
-        },
+	    
 	     {
             "name": "CTS", 
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/CTS.png",
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAAnEKqN8c+T7nYNflkiPWNMjNWBNRKcaSZjmwqDkGXV8="
         },
-	     {
-            "name": "Dramax", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/duramax.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc8wjxT0xLmEvTg/j3ErrZQFhPlmyeabYhE8YFkqV5Omz6"
-        },
+	     
 	     {
             "name": "Discovery 한국어", 
 		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/discovery.png",
@@ -169,33 +140,17 @@
             "name": "FOX  한국어", 
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbACJLqWzE3bi5NzkE9zuFrkcjNWBNRKcaSZjmwqDkGXV8="
         },
-	      {
-            "name": "JTBC", 
-		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/jtbc.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc88KFSLypirdyCPf5cRgdCfBPlmyeabYhE8YFkqV5Omz6"
-        },
-	     {
-            "name": "JTBC 2", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/jtbc2.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc83DidWLOVmvSIb+FMNnV3pVPlmyeabYhE8YFkqV5Omz6"
-        },
+	    
 	     {
             "name": "K+", 
             "url": "r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF6nC3NOC2NAFZI5Vq+C+i/"
         },
 	     {
             "name": "Korea TV", 
+		     "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KTV.png",
             "url": "mGU/yIhLtL+Mn1o++xoA5sUEMYgsE3sT3VW5XvDhFItUdrrk36dBVf7jTF/NVxC5zWAaJ3n0yMtRCS/HrDfzUcXtAgAA0BGC4HBFd13dPL8="
         },
-	     {
-            "name": "Korea Business News", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/business.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc85XTe8zFLAvNjlX27S0/AiRPlmyeabYhE8YFkqV5Omz6"
-        },
-	    {
-            "name": "Korea Economic TV", 
-            "url": "fZLr6kyxR8jj8KaaiHqc85XTe8zFLAvNjlX27S0/AiRPlmyeabYhE8YFkqV5Omz6"
-        },
+	     
 	      {
             "name": "Korea Fishing Channel", 
 		        "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ftv.png",
@@ -206,12 +161,7 @@
 		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/mbc.png",
             "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbAOI4exLSNsnjsG/vFrw7KJ8jNWBNRKcaSZjmwqDkGXV8="
         },
-	     {
-            "name": " MBC ON", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/mbc.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc8/SDrO+55yRj2Wpcc+xoidpPlmyeabYhE8YFkqV5Omz6"
-        },
-	     {
+	      {
             "name": "M Net", 
 		     
 		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/mnet.png",
@@ -271,15 +221,8 @@
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/spotv.png",
             "url": "fZLr6kyxR8jj8KaaiHqc8yAL2dZS82IkwMnf9/dQ5GVPlmyeabYhE8YFkqV5Omz6"
         },
-	     {
-            "name": "Sky Pet Park", 
-		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/petpark.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc8w8bNEWqsuyElk3yfUych5FPlmyeabYhE8YFkqV5Omz6"
-        },
-	     {
-            "name": "Sky Travel", 
-            "url": "fZLr6kyxR8jj8KaaiHqc81GHNewCZhhs1v+Xj9ydNWxPlmyeabYhE8YFkqV5Omz6"
-        },
+	    
+	    
 	    {
             "name": "tvN",
 		         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/tvN.png",
