@@ -156,7 +156,8 @@
         },
 	    
             {
-            "name": "EBSe", 
+            "name": "EBSe",
+		    "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/EBSE.png",
             "url": "tldCVMLwIOrOC5oGqzJ+0RnMtd8As8ay+jMpCZuJ2dw0MClZs3hnR/ue9bBUfXr7aaOFVSgHq6Bgks+NLW6OcT78l1iDAqZca9kw9+SgAI0="
         },
 	     {
