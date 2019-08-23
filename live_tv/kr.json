@@ -119,10 +119,12 @@
         },
 	     {
             "name": "EBSi", 
+		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ebsi.png",
             "url": "tldCVMLwIOrOC5oGqzJ+0RnMtd8As8ay+jMpCZuJ2dyDToBGCaCrH0u7pWKdOA0l+GZex/ZjxPCvH9Ogbe9y0tl7mPKQWtSj3aWspvG51bU="
         },
 	     {
             "name": "EBS+ 2", 
+		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ebs-plus-2.png",
             "url": "tldCVMLwIOrOC5oGqzJ+0RnMtd8As8ay+jMpCZuJ2dyBMeit1cdqTKHH7Cy9VU0b+GZex/ZjxPCvH9Ogbe9y0tl7mPKQWtSj3aWspvG51bU="
         },
 	    
@@ -136,13 +138,11 @@
 		      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ebskids.png",
             "url": "tldCVMLwIOrOC5oGqzJ+0Z7W1h0wirSPSAnp73mg493PL4ZBTbJOjBlI3IZKs+0CKOFfTEVDt2HAlKq9U4IQf9l7mPKQWtSj3aWspvG51bU="
         },
-	     {
-            "name": "FOX  한국어", 
-            "url": "MKPEoO4uU9MlVyBqSQmZCrx4fqTcjLzTVKwuFkNLguCf8FVYKdMNfLB6gepjkVbACJLqWzE3bi5NzkE9zuFrkcjNWBNRKcaSZjmwqDkGXV8="
-        },
+	     
 	    
 	     {
-            "name": "K+", 
+            "name": "K+",
+		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/k+.png",
             "url": "r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF6nC3NOC2NAFZI5Vq+C+i/"
         },
 	     {
@@ -151,11 +151,7 @@
             "url": "mGU/yIhLtL+Mn1o++xoA5sUEMYgsE3sT3VW5XvDhFItUdrrk36dBVf7jTF/NVxC5zWAaJ3n0yMtRCS/HrDfzUcXtAgAA0BGC4HBFd13dPL8="
         },
 	     
-	      {
-            "name": "Korea Fishing Channel", 
-		        "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/ftv.png",
-            "url": "fZLr6kyxR8jj8KaaiHqc88sGb5mngq7ug+wgOmCsdiZPlmyeabYhE8YFkqV5Omz6"
-        },
+	    
 	     {
             "name": " MBC", 
 		       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/mbc.png",
