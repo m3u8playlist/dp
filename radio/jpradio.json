@@ -1,0 +1,15 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][日本]",
+	"type" : "radio",
+
+	"channels": [		
+
+	
+		{
+			"name":"J-Pop Sakura",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/tjq25grgtzfg.jpeg",
+			"url": "81X7EcnJwV0Xl+Ol4dbIGHAgkalsNM9I4KS2nJK7mzEI2o5XdHHZF/28RaYLKRE6"
+		}
+    ]
+    }
