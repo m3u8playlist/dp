@@ -55,6 +55,11 @@
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png",
 			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8XESMaNfXYlxPnh3SjARM5Q=="
 		},
+		{
+			"name":"BBC 6 Music",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/ZjeeuBNXRP.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMdafCUhWjoqu3VSNk+7tVBrGR0xDwX2aU0VAypKhTiyfw=="
+		},
 				{
 			"name":"LBC",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/PqwsLMvvqE.png",
@@ -84,7 +89,65 @@
 			"name":"Virgin Radio UK",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/rkn8bw3qndsc.png",
 			"url": "C62UaeHn2rZS+wbTKC68T0KICRBcqh0zdPNfEU20KxJ6NZzsGAb+UUpIfFsFbnBe"
+		},
+		{
+			"name":"Kisstory",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Zpszd23K8A.png",
+			"url": "JVQsBBzJ8myoq5ihKhN1LoKrAMJQv5dtiKEvP+01wGFkca+PrwkXcjF515a9mrcHuyRT+Q6T4WHsjX67b6sMCw=="
+		},
+		{
+			"name":"Heart 80s",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/dybmwxusgdpn.png",
+			"url": "wvni8q4sKW49edIbupE+lUsncRfmWkJOZnr8596VKraUYZUEOMczXh/V3Sqc+95t"
+		},
+		{
+			"name":"Gold Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/9bhq5MmTFQ.jpg",
+			"url": "dIb9SUYYp//6x07lAxiEUUsncRfmWkJOZnr8596VKrYiSo0aHNmAC6aFiI3qV4PX"
+		},
+		{
+			"name":"Absolute 80s",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/z7eH9WyRGS.png",
+			"url": "ndAZq+J6qM39Dfd52P2e9kn+HqCKK6/Nz+yTaYE+D9NodLb16M+Xayp4JunIFE8B"
+		},
+		{
+			"name":"Capital XTRA London",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/acUbRBB6cY.png",
+			"url": "k8n9qv437Ya32a7qxpAuiabCiC8R92Ge/bstg4sYNjYcf8/MeMSOus72t1DftqE9feiIAuNC2PXF8w1CtWy18Q=="
+		},
+		{
+			"name":"Absolute Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/UaJTkPUjS2.png",
+			"url": "ndAZq+J6qM39Dfd52P2e9kn+HqCKK6/Nz+yTaYE+D9O6yMCYUiqmC3glXjSR0rx9HoGhQGLi58T2AOOLjsADHw=="
+		},
+		{
+			"name":"The Hits Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/R7pNLUNj8C.jpg",
+			"url": "JVQsBBzJ8myoq5ihKhN1LoKrAMJQv5dtiKEvP+01wGGfxS0YNVZRLzqjALHXBjm3"
+		},
+		{
+			"name":"Radio X London",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/3pTepgqLVc.png",
+			"url": "4+ssDWLKkj+06nJj1TyNJLDhyGqS0xyC2YtL9eNPPAEx2QnujgopksqmHT79/SzXuyRT+Q6T4WHsjX67b6sMCw=="
+		},
+		{
+			"name":"Absolute Radio 90s",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/6hzvaccHav.png",
+			"url": "ndAZq+J6qM39Dfd52P2e9kn+HqCKK6/Nz+yTaYE+D9NPLbI8s7OGR/NvnddcmZ1lNZoeRFdwatNGE7N0m36cCQ=="
+		},
+		{
+			"name":"Planet Rock",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/evRXTks8hM.png",
+			"url": "gSJ3eNWDHRZ3+Uxp5ZeySzNQKYTTDVWL8/gmpUeM/EAp3BMoWUGeU1yowbRYQwolNZoeRFdwatNGE7N0m36cCQ=="
+		},
+		{
+			"name":"Absolute Classic Rock",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/KDbpxxdzcm.png",
+			"url": "ndAZq+J6qM39Dfd52P2e9kn+HqCKK6/Nz+yTaYE+D9Mae8FqhsrCHqHxh2BjRLG5Rc9nwaifnl+vRq5tzSfIaQ=="
 		}
+		
+	
+		
     
     ]
     }
