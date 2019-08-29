@@ -1,0 +1,23 @@
+[TV][LIVE][香港],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hk.json
+[TV][LIVE][美国],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/us.json
+[TV][LIVE][日本],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jp.json
+[TV][LIVE][韩国],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/kr.json
+[TV][LIVE][新加坡],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/sg.json
+[TV][LIVE][英国],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/uk.json
+[TV][LIVE][加拿大],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/canada.json
+[TV][LIVE][澳门],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/macau.json
+[TV][LIVE][频道杂集1],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
+[TV][LIVE][法国DJING电视台],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fr.json
+[TV][LIVE][中国移动源1080P],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json
+[TV][LIVE][台湾],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/tw.json
+[TV][LIVE][哈尔滨移动],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hebyd.json
+[TV][LIVE][广西联通],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/gxlt.json
+[TV][LIVE][澳洲],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/au.json
+[TV][LIVE][瑞士],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/ch.json
+[TV][LIVE][湖北移动超清],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hbyd.json
+[TV][LIVE][新闻-英语], https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json
+[RADIO][英国],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/ukradio.json
+[RADIO][日本],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/jpradio.json
+[RADIO][新加坡], https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json
+[RADIO][美国], https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/usradio.json
+[RADIO][国内电台],https://raw.githubusercontent.com/frozenthrone/dotplayer/master/radio_mainland.json
