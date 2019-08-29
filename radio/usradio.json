@@ -1,0 +1,56 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][美国]",
+	"type" : "radio",
+
+	"channels": [		
+
+	
+		{
+			"name":"FOX News Talk",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/9neSvhvw6K.png",
+			"url": "+cdDQKWgBk+FtGtGM1DaIjFnXxqFcZKS7UVicA9eWSWAWC+mt4T4AqGiFdx5c/Lz"
+		},
+    	{
+			"name":"NPR",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/3zwH3QNWq4.png",
+			"url": "YeWZyE9uH6g5BwAGTHGsNBG7MEfXtLmENZ9PaDkyKed2A1f8WLClwkFddxDkZnspfuVOdI08sB9yKojGalRjnvzsT7vaOYW53NqSBnxhwcw="
+		},
+    	{
+			"name":"Beam FM - Adult Hits",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg",
+			"url": "/sj4BGxj3/ooyyZ6qYBz7S+VPzPq6JxcPLE38SkCjAA="
+		},
+    	{
+			"name":"LUNA FM ",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/hveq3etzdt3q.png",
+			"url": "i0KEDlIzYPpsAhr1al1ao4oHTKGf3EhsXzOMp3pXzOHlMkBC7cOI5otaGi6OK6AcsLecDGtOkUjalJ9RvwfoFw=="
+		},
+    	{
+			"name":"100Hitz - Hot Hitz",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/b2NDNZ4KSx.png",
+			"url": "w1nfdg3CEH6ek3d45b+0Adt7DQDZKQTbDRIYVxZFZW8="
+		},
+    {
+			"name":".977 Today's Hits",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/YLt55MjXBD.png",
+			"url": "LiSsqf898B8CjG1gtaSigFKNalUShcJK2RUFD7ujUQoivl9ArXVSN/8+oAimfVb4cQYO7Or4ppJwg5rn1fO7bA=="
+		},
+    	{
+			"name":"Totally Radio Hits AU",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png",
+			"url": "eMhYfYyI1bK0FVSS9WMCulKNalUShcJK2RUFD7ujUQrSciPzHeUd8iIlvPCpLykp4Tl4pAznc2phgQ80RTrjjg=="
+		},
+    	{
+			"name":"Beam FM",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/ydthqx5dvp7h.png",
+			"url": "/sj4BGxj3/ooyyZ6qYBz7StJ6oXqB1QZrh4H857rG58="
+		},
+    	{
+			"name":"181.fm",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/hpkhvss62db6.png",
+			"url": "+/qXmXu0gECl39/DxOnwnRBfKVouQFBTZ5EUcb+TkkU="
+		}
+    
+    ]
+    }
