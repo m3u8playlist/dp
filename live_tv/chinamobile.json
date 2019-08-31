@@ -89,10 +89,12 @@
       },
       {
          "name":"上海都市",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海都市.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlU/yPRlJKkDlBQln0mxJM8yLuZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"上海电视剧",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海电视剧.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlU6KFiT8kPqtKDFR7Bgu8P2ruZF8L8ipnwLM/Dn1njwPM="
       },
       {
@@ -102,75 +104,93 @@
       },
       {
          "name":"上海ICS",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海外国语频道.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUw+AxWQbwaCxvD9DLF8HXVbuZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"上海新闻综合",
+	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海新闻综合频道.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUNQG/QGN1vNmkujsldX0OwLuZF8L8ipnwLM/Dn1njwPM="
       },
      
-     
       {
-         "name":"CETV1",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUkoey/D430Pcbu70XlhNce7uZF8L8ipnwLM/Dn1njwPM="
+         "name":"第一财经",
+	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/第一财经.png",
+         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUuqbV3QwP9ozARPANWkeggLuZF8L8ipnwLM/Dn1njwPM="
       },
+   
       {
          "name":"全纪实",
+	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/全纪实.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUA5efX1GMUFZXj5IjMGI2wruZF8L8ipnwLM/Dn1njwPM="
       },
        {
          "name":"寰宇地理",
+	         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/寰宇地理.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUPmNX7Yx3ooJo1NqYv7trBruZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"魅力音乐",
+	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/魅力音乐.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUr/vznvEP0AfY230OVTfuA7uZF8L8ipnwLM/Dn1njwPM="
       },
 	    {
          "name":"百事体育1",
+		      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUlSvYmGxqkEoOEx8K5e5PsruZF8L8ipnwLM/Dn1njwPM="
       },
-      {
-         "name":"百事剧场鼎极",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUnDBCNhAniyfMLitI9JlQe7uZF8L8ipnwLM/Dn1njwPM="
-      },
+     
      
       {
          "name":"百事体育2",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUEzSZhSjKj9a7htqH4wfBHruZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"百事超级体育",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUm2BRXrXKfBebxrUHpcxlz7uZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"百事超级体育2",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlU1T4+RftKXvnsA0e+CuuuK7uZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"百事体育2",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUEirF5i6no/1uJw5cpUF1GruZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"百事体育3",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUp691vHhZCo8+Cq3lNpWU6LuZF8L8ipnwLM/Dn1njwPM="
       },
      
       {
          "name":"百事体育4",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUvrmqMzb0WEdL4RSrr7bq/7uZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"百事体育5",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUs/XhDx6iXl83EbdL6RdXhbuZF8L8ipnwLM/Dn1njwPM="
       },
-  
+    {
+         "name":"百事体育6",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/百事体育.png",
+         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUF1q0v/mCwILrd/cDKtdt+ruZF8L8ipnwLM/Dn1njwPM="
+      },
       {
          "name":"极速汽车",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/极速汽车.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUX+cyeu0Um8PgL1FmuZVCiLuZF8L8ipnwLM/Dn1njwPM="
       },
       {
          "name":"欢乐剧场",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/欢乐剧场.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUpNu3oVqrXitdKPmjIiBA07uZF8L8ipnwLM/Dn1njwPM="
       },
       {
@@ -182,22 +202,13 @@
          "name":"动漫秀场",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUF/5QpqdZPqIgby3IORVYyLuZF8L8ipnwLM/Dn1njwPM="
       },
-      {
-         "name":"百事体育6",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUF1q0v/mCwILrd/cDKtdt+ruZF8L8ipnwLM/Dn1njwPM="
-      },
-      {
-         "name":"第一财经",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUuqbV3QwP9ozARPANWkeggLuZF8L8ipnwLM/Dn1njwPM="
-      },
+    
      
-      {
-         "name":"游戏风云",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlU4ocw2y3Go4tRiElnslEgbLuZF8L8ipnwLM/Dn1njwPM="
-      },
+    
   
       {
          "name":"劲爆体育",
+	       "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/劲爆体育.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUE/K9u+W3s7irdcQefPLAhLuZF8L8ipnwLM/Dn1njwPM="
       }
    ]
