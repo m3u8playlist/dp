@@ -7,29 +7,25 @@
 
 		{
 			"name":"HBO 2 HD",
+			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/hbo2.png",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRXpgvD3jfw4j897kPUwOZEQ=="
 		},
 		
 		{
 			"name":"HBO 2 HD",
+			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/hbo2.png",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRZ17DvwaeE6ob2aY8DIZPAg=="
 		},
-		{
-			"name":"NBC HD",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb6Kvk+n1b3Y0gF/rtnRl6fqZ17DvwaeE6ob2aY8DIZPAg=="
-		},
-		
+	
 		
 		{
-			"name":"FR-France24(English)",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
-			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsshBn3vs7UE5jSq95JEIQIg="
+			"name":"美国加州大学电视台",	
+			"url": "pBEYrMm618mn1YUc0wT/Ks2/nXVPpGm0hZj9xSz/btAjn5f7d2UYbrlW8lz400j5FrA7mdlkFO0BapsWKP/nVMjNWBNRKcaSZjmwqDkGXV8="
 		},
+		
 		{
-			"name":"CNN",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnn.png",
-			"url": "pzWUR2COJxfZpdMkQXUnefeVgsfYG5yGj7Sx0a55BmVzmzo9LQLWWhuMsIiR+SGxSd92THQ5URGtp6u96x2TB3NYUgLJTZxqc1XfqtNE8Mg="
+			"name":"美国俄勒冈州立大学",	
+			"url": "ZsXLnucU2I3M7T+cBQwaZD2v5nq87RtJV+3Zx+5rJRwhqYznpasI7dgLv/PMIx4UpxpZqaTfZNyy4x8h3gA0wK0yzTno4FVP0PArbBIAaAoBdbYIENPdOF//iiGsUDz9TSAaKUDzarFurTvbvXjDhQ=="
 		},
 		
 		
