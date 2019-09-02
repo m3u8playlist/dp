@@ -4,18 +4,12 @@
 
 	"channels": [
 		
-		{
-			"name":"HBO",
-			"url": "rKo83gYTdsxj0/HdQDx1d0hOExv+bnABf0N6G4Wx+cdT6nypAhISmXvzKY83Pz9E1ci21ZWLK80LW90yznepAw=="
-		},
+
 		{
 			"name":"HBO 2 HD",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRXpgvD3jfw4j897kPUwOZEQ=="
 		},
-		{
-			"name":"GEM HD",
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb64Ncinr/dGSSPzltKbnMv6Z17DvwaeE6ob2aY8DIZPAg=="
-		},
+		
 		{
 			"name":"HBO 2 HD",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRZ17DvwaeE6ob2aY8DIZPAg=="
@@ -24,14 +18,8 @@
 			"name":"NBC HD",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb6Kvk+n1b3Y0gF/rtnRl6fqZ17DvwaeE6ob2aY8DIZPAg=="
 		},
-		{
-			"name":"CBS HD",
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb4ZtWeF6CzSsmplCrN91OpWZ17DvwaeE6ob2aY8DIZPAg=="
-		},
-		{
-			"name":"9X",
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb4hnggmqBqJvEPZwJRniivAZ17DvwaeE6ob2aY8DIZPAg=="
-		},
+		
+		
 		{
 			"name":"FR-France24(English)",
 			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsshBn3vs7UE5jSq95JEIQIg="
@@ -40,30 +28,13 @@
 			"name":"CNN",
 			"url": "pzWUR2COJxfZpdMkQXUnefeVgsfYG5yGj7Sx0a55BmVzmzo9LQLWWhuMsIiR+SGxSd92THQ5URGtp6u96x2TB3NYUgLJTZxqc1XfqtNE8Mg="
 		},
-		{
-			"name":"新视觉",
-			"url": "Q+FxJpPN5flV67KBXpwBI76pC91H8I7vZpJWAG0GMlIBquvwfte0ZFKSLiMclU2n1aPJrXHD6W3J9P5J09IJoHLr0MQAr6g2CnP8X02qETKLUX+kA/W2XCWmhmczzndR"
-		},
-		{
-			"name":"曼联MUTV",
-			"url": "PfUjsN4Hck/fKVjt3W8Nzc8SdU1ZWc3ZFL+m5mcbCs03qEeGQ6Pu4sbPcjeX6QVtw39sH7zHkjaou022oB6t0Hr77iTihyFhI6jkKYbwWlBAsYb3csUa+6YZQ7QwtqEdTs8fsq6uNooN25AucvCxMOIse7txxFzaeN9XJV1EgdX87E+72jmFudzakgZ8YcHM"
-		},
+		
+		
 		{
 			"name":"皇马足球台",
 			"url": "bULm9wXsrrwatbms5E93LZbR+vYro2eYCK08nV6xLRgzMn0gW0q+o0bO84SCKWFXEHZNPF2wPMuIv5B8fCOFCh4eoj9qfzHdcn9fcZD0un4="
 		},
-		{
-			"name":"五星体育1080p",
-			"url": "3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUofllD39n01Wa8NHXkFhXZruZF8L8ipnwLM/Dn1njwPM="
-		},
-		{
-			"name":"五星体育720p",
-			"url": "3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUofllD39n01Wa8NHXkFhXZgy+rOq+Pv3vbzEV2Hv+HWw="
-		},
-		{
-			"name":"五星体育576p",
-			"url": "3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUofllD39n01Wa8NHXkFhXZpsRjyB6mGT09TE1pJOcvtM="
-		},
+		
 		{
 			"name":"奥林匹克01",
 			"url": "wIzSvUHwUyzdirxwzNpBOlD/BfwaRjLZS2in4Dz+Oz2bz5dpMflvv3yjPtkPXRDdxe0CAADQEYLgcEV3Xd08vw=="
@@ -133,58 +104,12 @@
 		{
 			"name":"hot incleveland",
 			"url": "sBRfhEfjfGy41YP3Pd7C00deJa1Xooyyi5Joms6CmjYJjOe1qJYUKnjCulH0c4TZ7nG/GQ+s1oaTwv0BLuw25A=="
-		},
-		{
-			"name":"国家地理野生",
-			"url": "sBRfhEfjfGy41YP3Pd7C08sUpZnjEFUmr1lvBCRCtTvoHTj8MKvbVK+Q0XFhFzaXXckFof2fxx5G+09Fbgf67A=="
-		},
-		
-		
-		
-		{
-			"name":"Newtv动作电影",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XXFj7fKA3YykiZ8SOVx78UA=="
-		},
-		{
-			"name":"Newtv动画王国",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XeESjiAdKmlxPNyZbDk+xMw=="
-		},
-		{
-			"name":"Newtv古装剧场",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XHd1OBSRAq5zUYKBtu1ljRg=="
-		},
-		{
-			"name":"Newtv明星大片",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XFV3ODHL5MfHCZMzwQEueSA=="
-		},
-		{
-			"name":"Newtv惊悚悬疑",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XgKiUtEY/hk9esk0iFDmaoQ=="
-		},
-		{
-			"name":"Newtv金牌综艺",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442XUyCuQPIWS0ikQMrh2KQxyw=="
-		},
-		{
-			"name":"Newtv精品电影",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442X6gi1dz3FALP5PdeIgwZu4g=="
-		},
-		{
-			"name":"Newtv爱情喜剧",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtRQUk37Ca2dngU6l82442Xa/7cr8c7mEjngzlO6+QaFw=="
-		},
-		{
-			"name":"Newtv海外剧场",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaXFj7fKA3YykiZ8SOVx78UA=="
-		},
-		{
-			"name":"Newtv精品体育",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaFV3ODHL5MfHCZMzwQEueSA=="
-		},
-		{
-			"name":"Newtv精品记录",
-			"url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQuuAOHIbwtce0y9SepGLkgaeESjiAdKmlxPNyZbDk+xMw=="
 		}
+		
+		
+		
+		
+		
 		
 
 
