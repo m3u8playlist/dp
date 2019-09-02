@@ -16,16 +16,19 @@
 		},
 		{
 			"name":"NBC HD",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb6Kvk+n1b3Y0gF/rtnRl6fqZ17DvwaeE6ob2aY8DIZPAg=="
 		},
 		
 		
 		{
 			"name":"FR-France24(English)",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
 			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsshBn3vs7UE5jSq95JEIQIg="
 		},
 		{
 			"name":"CNN",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnn.png",
 			"url": "pzWUR2COJxfZpdMkQXUnefeVgsfYG5yGj7Sx0a55BmVzmzo9LQLWWhuMsIiR+SGxSd92THQ5URGtp6u96x2TB3NYUgLJTZxqc1XfqtNE8Mg="
 		},
 		
@@ -71,6 +74,7 @@
 		
 		{
 			"name":"上海纪实",
+			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
 			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/DZ4g1bVgWHSrJj/cL5fc/PvyXWIMCplxr2TD35KAAjQ=="
 		},
 		{
@@ -79,14 +83,17 @@
 		},
 		{
 			"name":"上海外语",
+			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海外国语频道.png",
 			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/raPWaFgnUcMjZ5Rc4SN9oPvyXWIMCplxr2TD35KAAjQ=="
 		},
 		{
 			"name":"上海新闻综合",
+			"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海新闻综合频道.png",
 			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi98Dxnjrd7xWlms+qqzecrmPvyXWIMCplxr2TD35KAAjQ=="
 		},
 		{
 			"name":"上海都市",
+			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海都市.png",
 			"url": "LsMl28l6kmPYrfBkVwTXpsi6KObe3DTtmpWxjmH6dfODAhLekv4tN9sXE1g/PD9RUnShRPrnDp8Q9WcajtyWbnIckvqdsXGC1nn9jK2cK5/87E+72jmFudzakgZ8YcHM"
 		},
 		{
