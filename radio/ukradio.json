@@ -21,11 +21,7 @@
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/Drt6RrkVvw.png",
 			"url": "dIb9SUYYp//6x07lAxiEUUsncRfmWkJOZnr8596VKrZcyhGt1Gk6kyBwIuBjVg6P"
 		},
-				{
-			"name":"talkSPORT",
-			"logo":"https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
-			"url": "3mq2i7Yxu15TvR89NbjSTCwJEya3RQxl1etkjpNyQgrA0P9GV/fk1MOz7CHLS0k/"
-		},
+				
 				{
 			"name":"BBC Radio 1",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/BFcU2vjUXh.png",
@@ -55,6 +51,11 @@
 			"name":"BBC Radio 4 Extra",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/2kxpnsRvzm.png",
 			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8dtbLattLQAdOAb0lLYC8/g=="
+		},
+		{
+			"name":"BBC Radio 4 LW",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/2Gm4R3w2nt.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8oA9CoF9J4ifN0uthWeXtZA=="
 		},
 				{
 			"name":"BBC Radio 5",
@@ -96,6 +97,11 @@
 			"name":"Classic FM",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/LcaRwmxgF9.png",
 			"url": "dIb9SUYYp//6x07lAxiEUUsncRfmWkJOZnr8596VKrarPIXpswR0NRmP3YWE04z3"
+		},
+		{
+			"name":"talkSPORT",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
+			"url": "3mq2i7Yxu15TvR89NbjSTCwJEya3RQxl1etkjpNyQgrA0P9GV/fk1MOz7CHLS0k/"
 		},
 				{
 			"name":"Magic",
@@ -278,8 +284,73 @@
 			"name":"Heart North West",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/jM5fkupsQ3.png",
 			"url": "wvni8q4sKW49edIbupE+lUsncRfmWkJOZnr8596VKrYYzj451S+NdooP9oOqC9wH"
-		}
+		},
+		{
+			"name":"Smooth Radio Scotland",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Qx6uN4T4tn.jpeg",
+			"url": "k8n9qv437Ya32a7qxpAuiauqOFuh76cfM5pVozvXK7PYcLqWZDZZ9Mj7QL0KrKeP"
+		},
+		{
+			"name":"Virgin Radio Anthems UK",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/pr82zwvpkuch.png",
+			"url": "kT1+cHOLJ0QgjiwrAN2kfiCqAfP9aVlT35EzBvm4YreaPpxqfycUnGv+C9U4pamV"
+		},
+		{
+			"name":"Cool FM",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Z5uQMFeV5Z.png",
+			"url": "JVQsBBzJ8myoq5ihKhN1LoKrAMJQv5dtiKEvP+01wGEfytXIECqt3F2o4g3tFPBk"
+		},
+		{
+			"name":"Entirely Radio 80's ",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/rbg6nbyx6whe.png",
+			"url": "a3DGXveKEjXSqrA16YDBniiYoeWFuLSdIxGvh5bwoWVDE0OnA0zfsCdKV+PHRZmfuyRT+Q6T4WHsjX67b6sMCw=="
+		},
+		{
+			"name":"Country Hits",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/dxttdsukn5zx.png",
+			"url": "JVQsBBzJ8myoq5ihKhN1LoKrAMJQv5dtiKEvP+01wGE5w6CVRskjwZxvfVL7vBeAmun0fK7jimI1qfunXl8uTQ=="
+		},
+		{
+			"name":"Classic Country 1630 AM",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/dg9wxdpmvlfg.jpg",
+			"url": "fdp+x1ubweG/HdaM4Kvcbx1NSq4NXdecOLOpjj422dc="
+		},
 		
+		{
+			"name":"883 Centreforce",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/juk9rgxggful.jpeg",
+			"url": "4P3Xol6j3OVkc8jiTr87GXkCrZgZ8To6eFdIl67DzGA5Q5p2QsR1ixNBvI1TMFb4"
+		},
+		{
+			"name":"BBC Radio York",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/RY34uqfu7L.jpg",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMfhRPA2kLH/r78YlrpW/2JVNKmwB65P5dxRXp2jJl5lyg=="
+		},
+		{
+			"name":"Riddim Roots Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/ut4pgdwxhdkx.jpg",
+			"url": "ulc6JGCdNn9/9hBOVVqUJKNKkMhdW4C6y0U8lfticPy7JFP5DpPhYeyNfrtvqwwL"
+		},
+		{
+			"name":"Capital XTRA National",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Bp7e3xsmFP.png",
+			"url": "k8n9qv437Ya32a7qxpAuiabCiC8R92Ge/bstg4sYNjaJflmY1x1WtVTN8E2dWhiDk54/3o8xAAHOM9noRXnW4Q=="
+		},
+		{
+			"name":"247 House",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/3QKD5tG27R.png",
+			"url": "55ywoWUfCnkxsNe6ZlEN3X3vAUJmZxzBm1mZbS0e9DM="
+		},
+		{
+			"name":"Radio Caroline Flashback",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/dpdH3EeEkx.png",
+			"url": "GWMketEtKSc1NmpBGotS2QoWNDxg9ackBaWbjMFb2RNCkBZqWJsFi3PZYpu7tIkb"
+		},
+		{
+			"name":"Heart West Midlands 100.7",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Wn5UNntLLJ.png",
+			"url": "wvni8q4sKW49edIbupE+lUsncRfmWkJOZnr8596VKrYKIEF7oWkYr4umj7OJp6nUuyRT+Q6T4WHsjX67b6sMCw=="
+		}
 	
 		
     
