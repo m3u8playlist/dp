@@ -18,7 +18,8 @@
 [TV][新闻-英语], https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json
 [RADIO][英国],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/ukradio.json
 [RADIO][日本],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/jpradio.json
-[RADIO][新加坡], https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json
-[RADIO][美国], https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/usradio.json
+[RADIO][新加坡],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json
+[RADIO][美国],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/usradio.json
+[RADIO][香港],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hkradio.json
 [RADIO][国内电台-全],https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radioall.json
 [TV][频道杂集],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
