@@ -1,0 +1,96 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[Radio][香港]",
+	"type" : "radio",
+
+	"channels": [		
+
+	
+		{
+			"name":"香港電台第一台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/gjLRVZSsu6.png",
+			"url": "/XGi4YLbA7zjAGVuBrcIpqP+/4csJmk6MBePNbaUGKU="
+		},
+    	{
+			"name":"香港電台第二台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/98qZQLQUEV.png",
+			"url": "/XGi4YLbA7zjAGVuBrcIpnURNsVwwSoVol15VKBbA40="
+		},
+    	{
+			"name":"新城財經台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/trgH6jr3Zh.jpg",
+			"url": "c1ATllv3cjJhaSOzyTvlNCZdwXWXZakW4WM3NAvPoLT/3/kSIaLSGmodBZCwKOS4eFh0/QnrSGiQxcfStSUodQ=="
+		},
+    	{
+			"name":"D100 HK",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/VLU4qsYN2S.png",
+			"url": "3bHMLjCjQ+f3ABSkxBx3XG40ApS1ZRPT4lQeP/8r2UpOUobBRxdsWLySawhxk2Js"
+		},
+    	{
+			"name":"香港電台第五台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/DM7CvynrrT.png",
+			"url": "/XGi4YLbA7zjAGVuBrcIpgCWPU1zQp0+oMhOFRo7B7k="
+		},
+    	{
+			"name":"新城知訊台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/PPE2FdMCcb.png",
+			"url": "c1ATllv3cjJhaSOzyTvlNCZdwXWXZakW4WM3NAvPoLRPmhp71Z5ZMn0dAK8Wq7soga3UD3YwzYh9+ZtTahShcA=="
+		},
+    	{
+			"name":"香港電台第三台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/PQEbam9u3s.png",
+			"url": "/XGi4YLbA7zjAGVuBrcIps/Z7GPptedWuBKfdxEAWmk="
+		},
+    	{
+			"name":"香港電台普通話台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/rx6cHvYVKx.png",
+			"url": "860YK6169U4bByGvjjyPu0ODaXBnXpGiPzM5dIroH5rabh3/YhM4RyEOCGNJQybul7skAjTEVH4qfyms/XJPO8XtAgAA0BGC4HBFd13dPL8="
+		},
+    	{
+			"name":"香港電台第四台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/pKusTwBGv5.png",
+			"url": "/XGi4YLbA7zjAGVuBrcIplaDbfJXdIRfzX1hdqf0p0E="
+		},
+    	{
+			"name":"Digital Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/nRaqRttXQf.png",
+			"url": "cwJq1TpTDZQBILWp6p+JHzT+eI/u0EjLqQrpU0u+TuM1ZKg1T+n4fT7S1BPO+Cja"
+		},
+    	{
+			"name":"鋼琴獨奏網路音樂電台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/xjMFxghfv8.png",
+			"url": "HB++xTYtbMWDGp6ZoK9rIclrtYC1UqeuHNR9j3hpD4w1RnZX8M4W5HKpYEvTkqCe"
+		},
+    	{
+			"name":"靈魂音樂電台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/2QhQq62jvJ.jpg",
+			"url": "fYwWbiFsHOZQpdGvqXqK5fa7DJh6Nx9VXYpi5ezFZ8WC6oaReLA8GqC0TFp23jY8"
+		},
+    	{
+			"name":"HKJradio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/dzcncyuag2jf.png",
+			"url": "rARx257LNHSCN4er/S239glB99TUGkhV09Vxw3K5Xj41RnZX8M4W5HKpYEvTkqCe"
+		},
+    	{
+			"name":"Metro Plus ",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/ZNzTAm2dSD.gif",
+			"url": "c1ATllv3cjJhaSOzyTvlNCZdwXWXZakW4WM3NAvPoLSRA1DwInikuMEz8Cj8Z/xbKoxCsJCmPGyX+WFJlv+e8Q=="
+		},
+    	{
+			"name":"講台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Vr4frjya62.png",
+			"url": "5E7NSS0ROQlVdLjIJuj6qob7irZHaZwkE7g1q91BG0hWWeGQ3mU09c0ZEQzBUjip"
+		},
+    	{
+			"name":"英國網路音樂台",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/zw3hJKNgaY.jpeg",
+			"url": "QmduxOkYG9yJGBQxvEFx6GXo74Xzm/69eyzCqOe9W/+7JFP5DpPhYeyNfrtvqwwL"
+		},
+    	{
+			"name":"Asia Expat Radio",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/fcdppwbp6mdk.png",
+			"url": "n1Sj1SXIn8VL2Mh4j8TwnFKNalUShcJK2RUFD7ujUQqYAOlQH495ZG9EYNTvsuDA"
+		}
+    
+    ]
+    }
