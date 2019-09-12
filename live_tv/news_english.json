@@ -15,9 +15,9 @@
 			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
 		},
 		{
-			"name":"ABC News (美国)",
+			"name":"ABC 7 WWSB",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
-			"url": "t0MKQ4N7/UkoeYkmD+ic9kJQx2crr4nxmD94y6zIQRvKNxnEBjmi5Tr6vkPibo9cA6T9PgzWkbydjVs6wqNbG7skU/kOk+Fh7I1+u2+rDAs="
+			"url": "G54O2zhekWpmMOOzdpJAdFz/gDP2wzth/XeCw+n6JH8vHEwOqSephg02aZkcY7ARZ82DH3lks/5O2muvWCF/dPzsT7vaOYW53NqSBnxhwcw="
 		},
 
 		{
@@ -115,8 +115,19 @@
     		{
 			"name":"RT",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/ru/rt.png",
-			"url": "CZhxBmBiwcbdlMyo1jhn9dj5u8Std8SKoIJQMgZtrKyKI8j++nLGi5e+T3AP7/tEMOx/rkIG3GGyZYDuRVTyuA=="
+			"url": "HUJNuWjHrfiEYgBE3LVH/k1QBbb7SAO/Fd5SCQIHbTJREo5+Wts5uFMOUXCCnzfLddEnaVegBjL9lVeGw9UqFQ=="
 		},
+		{
+			"name":"7News Boston",
+			"logo":"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",
+			"url": "9L3OpnKzx1sKucdAD7rITXnzhbgEpln2E0kzFP90xbVNXdU50smzbVC8yy5LvLdZ+21ObmUKiWSmlD78JC1cv74mJGfcnfnlmkV+b+Uq02V18uZLyoTaMX5TwSitZc+J/OxPu9o5hbnc2pIGfGHBzA=="
+		},
+		{
+			"name":"Action News Jax",
+			"logo":"https://i.imgur.com/nEcuCl9.png",
+			"url": "UsjgLdOYCzKlmYSoJqVOOaArJV/tj6wac2W9XbeM3g5ltf5vzPXsuN1FHXNaEueX7zWWseEhhzzDGlij0/fbJLskU/kOk+Fh7I1+u2+rDAs="
+		},
+		
     		{
 			"name":"Sky News",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
