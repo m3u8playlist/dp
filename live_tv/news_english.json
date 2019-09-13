@@ -14,6 +14,11 @@
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
 			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
 		},
+		  {
+            "name": "Newsmax", 
+   "logo":"https://www.mobilestudios.com/images/case_studies/Broadcast-Cable/Newsmax%20Media/newsmax_logo-400x300.jpg",
+            "url": "8rzIwJx/qSRabM8RMqmI3zsbGaxBF8oO3PwjN4k/MdAb7Q1yTBRPHXuUPxYEPlbdKTIbMGgmUFcM1BGyOMpYHg=="
+        },
 		{
 			"name":"ABC 7 WWSB",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
