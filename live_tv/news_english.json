@@ -19,6 +19,22 @@
    "logo":"https://www.mobilestudios.com/images/case_studies/Broadcast-Cable/Newsmax%20Media/newsmax_logo-400x300.jpg",
             "url": "8rzIwJx/qSRabM8RMqmI3zsbGaxBF8oO3PwjN4k/MdAb7Q1yTBRPHXuUPxYEPlbdKTIbMGgmUFcM1BGyOMpYHg=="
         },
+		  {
+            "name": "CBN News", 
+   		"logo":"https://www.cbn.com/images8/cbnnews/news-channel-logo.png",
+            "url": "VrGsCpSjNJLMUJ+fkvCuP99MVO5COMofl/nbsz5vbJ/sRd916Rd17m4W9SqqWvb1JAGjU3IEOjM3Ws85YnguPLLtp9HbkE0YcGT679JdAD8="
+        },
+		  {
+            "name": "wwsb", 
+   		"logo":"https://lh3.googleusercontent.com/XsJQEPhIY3Sqxgbev08GqkrU_Yp4BXmWxcQuMZD6gM0CHuXqM8Anrj9Pw5tNDdTDhA=s360-rw",
+            "url": "3k/v4a22qb/Vkfa0c1XRwGM/GJQCohnyZ+22W0S2oEtI4GfKeGZWH1GFt2KA5IO9Rx1h0uVb5NRyRdhzJVjxWQ=="
+        },
+		  {
+            "name": "3 news", 
+   		"logo":"https://pbs.twimg.com/profile_images/961660243691343873/sXvzW-P0_400x400.jpg",
+            "url": "KQt0lmQ18EbFXNeE+2E4CYl5lIn67WUqioVWT+bQiPpjoK2YrhxI8LGDVqx8mjlA7RBUfTtpmK5nLmQ60xVFe3alRx54+d2+iNRD0k5TZnw+/JdYgwKmXGvZMPfkoACN"
+        },
+		 
 		{
 			"name":"ABC 7 WWSB",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
