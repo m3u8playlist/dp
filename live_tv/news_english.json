@@ -167,7 +167,33 @@
 			"name":"Weather Channel",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/weather-channel.png",	
 			"url": "zlnX+PzmuD3si8cHX9BoX+aWnexnO0VJ4vD2keqlpdCOiZGZWFggfkVml/iwcY82yPg+s0BaLVFv7oV0/omymw=="
+		},
+		{
+			"name":"National Geo",
+			"logo":"https://static.iptv-epg.com/gb/NatGeo.uk.png",
+			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjcpg70oVNAL1xVVgcgQi15lPvyXWIMCplxr2TD35KAAjQ=="
+		},
+		{
+			"name":"National Geo Wild",
+			"logo":"https://static.iptv-epg.com/us/NatGeoWild.us.png",
+			"url": "2oSg60oD8bOix1SzXvxoLz9xIgCQc8xIM+CN6Zm+aCebWNKPog0V4KsriSyJKrPGxPGsewIlxRQRGjZ0Q75E7w=="
+		},
+		{
+			"name":"National Geo People",
+			"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",
+			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjdhtAshZD+EYo5UHPVpBlMqCI1+3VPgS52qS8Wzm3fIgA=="
+		},
+		{
+			"name":"h2 history",
+			"logo":"https://static.iptv-epg.com/se/History2.se.png",
+			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjc8+dVBev2RSCQhUQhb9BHouyRT+Q6T4WHsjX67b6sMCw=="
+		},
+		{
+			"name":"Smithsonian Channel",
+			"logo":"https://static.iptv-epg.com/us/SmithsonianChannel.us.png",
+			"url": "pvhoJrSq8gbAwfTvfOnL5Rizjc1icvnsJ7Wxdm25FQQiHQ/zxVLocTCE2Ib1TPMSxe0CAADQEYLgcEV3Xd08vw=="
 		}
+		
 
 	]
 
