@@ -53,11 +53,13 @@
 		},
     		{
 			"name":"Al Jazeera",
+			"channel-xmltv-id":"al-jazeera.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/al-jazeera.png",
 			"url": "p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
 		},
     		{
 			"name":"Bloomberg",
+			"channel-xmltv-id":"bloomberg.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
 		},
@@ -84,6 +86,7 @@
 		},
         		{
 			"name":"CNBC",
+			"channel-xmltv-id":"cnbc.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
 			"url": "BYp2XoE4efqKq7bPBVuE0CI6bHWRejnoCjTFmhhkdwbz6OcgR86xFMCdWYu604sV1ci21ZWLK80LW90yznepAw=="
 		},
@@ -105,6 +108,7 @@
 		},
                 		{
 			"name":"France 24",
+			"channel-xmltv-id":"france24.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
 			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
 		},
@@ -151,6 +155,7 @@
 		
     		{
 			"name":"Sky News",
+			"channel-xmltv-id":"skynews.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
 		},
