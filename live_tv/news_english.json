@@ -153,7 +153,7 @@
 		},
 		
     		{
-			"name":"Sky News",
+			"name":"Sky News UK",
 			"channel-xmltv-id":"skynews.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
@@ -192,6 +192,26 @@
 			"name":"Smithsonian Channel",
 			"logo":"https://static.iptv-epg.com/us/SmithsonianChannel.us.png",
 			"url": "pvhoJrSq8gbAwfTvfOnL5Rizjc1icvnsJ7Wxdm25FQQiHQ/zxVLocTCE2Ib1TPMSxe0CAADQEYLgcEV3Xd08vw=="
+		},
+		{
+			"name":"LA Sexta",
+			"logo":"https://static.iptv-epg.com/es/LaSexta.es.png",
+			"url": "BvM13YaJIcNO2p31c9tBg39YW2RZ1vZL8fQsR6Wzh8b9qENkXZIM9Amz5Srl5u/JXQomw62HqXdFGSS5JqUJyw=="
+		},
+		{
+			"name":"RT International",
+			"logo":"https://static.iptv-epg.com/ru/RTInternational.ru.png",
+			"url": "CZhxBmBiwcbdlMyo1jhn9dj5u8Std8SKoIJQMgZtrKwci6RTXWMRIv3d6n9ENQcOrd0W/hxyNXorVv8/O5jJ3g=="
+		},
+		{
+			"name":"Sky News Australia",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
+			"url": "9/MWIqOaXu0hrmiPwzHR/N8gi3WDnVMPvWudMxJZyqBECm1B9EBlNZcsMrhWXh4uTFkswnVIppfZ7XLyHrVXHEoyACIuFHgKWKbBaR8ShNMLGxuY1A63o4niiih3NOsY"
+		},
+		{
+			"name":"Voice of America",
+			"logo":"http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png",
+			"url": "A1nzE7BiBdLOw5hxYzK6soQjS6AdasSwoNObAQZ28PhonuwKy42nV9K0vx7KHWPOWd5IYOWREcKIRe7qdJ7l7+WFUOT6jDMa/Czr/0C/7t4="
 		}
 		
 
