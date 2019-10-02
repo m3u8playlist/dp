@@ -29,7 +29,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
 #EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/s4c.png" group-title="BBC",S4C
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
-#EXTINF:-1 tvg-id="BBC One Cambridge" tvg-name="BBC One Cambridge" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/" group-title="BBC",BBC One Cambridge
+#EXTINF:-1 tvg-id="BBC One Cambridge" tvg-name="BBC One Cambridge" tvg-logo="https://thinkmarketingmagazine.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts.jpg" group-title="BBC",BBC One Cambridge
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_cambridge.m3u8
 #EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_north_west.png" group-title="BBC",BBC One North West
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
@@ -55,7 +55,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_oxford.m3u8
 #EXTINF:-1 tvg-id="BBC One East Midlands" tvg-name="BBC One East Midlands" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_one_east_midlands.png" group-title="BBC",BBC One East Midlands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
-#EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/" group-title="BBC",BBC One East
+#EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_one.png" group-title="BBC",BBC One East
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
 #EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_channel_islands.png" group-title="BBC",BBC One Channel Islands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
