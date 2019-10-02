@@ -25,7 +25,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 #EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_parliament.png" group-title="BBC",BBC Parliament
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
-#EXTINF:-1 tvg-id="BBC ALBA" tvg-name="BBC ALBA" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_alba" group-title="BBC",BBC ALBA
+#EXTINF:-1 tvg-id="BBC ALBA" tvg-name="BBC ALBA" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/bbc_alba.png" group-title="BBC",BBC ALBA
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
 #EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc/s4c.png" group-title="BBC",S4C
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
