@@ -7,26 +7,31 @@
 		[
 			{
 				"name": "CCTV1FHD",
+				"programID":"cctv1",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225755/index.m3u8"
 			},
 			{
 				"name": "CCTV1FHD",
+				"programID":"cctv1",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8"
 			},
 			{
 				"name": "CCTV2FHD",
+				"programID":"cctv2",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225746/index.m3u8"
 			},
 			{
 				"name": "CCTV2FHD",
+				"programID":"cctv2",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225747/index.m3u8"
 			},
 			{
 				"name": "CCTV3FHD",
+				"programID":"cctv3",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-3.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225754/index.m3u8"
 			},
@@ -43,27 +48,32 @@
 			},
 			{
 				"name": "CCTV4",
+				"programID":"cctv4",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-4.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225590/index.m3u8"
 			},
 			{
 				"name": "CCTV5HD",
+				"programID":"cctv5",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225591/index.m3u8"
 			},
 			{
 				"name": "CCTV5FHD",
+				"programID":"cctv5",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225753/index.m3u8"
 			},
 			{
 				"name": "CCTV5+HD",
+				"programID":"cctv5plus",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8"
 			},
 			
 			{
 				"name": "CCTV5+FHD",
+				"programID":"cctv5plus",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8"
 			},
@@ -71,28 +81,33 @@
 			
 			{
 				"name": "CCTV5FHD",
+				"programID":"cctv5",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
 			},
 			
 			{
 				"name": "CCTV5+FHD",
+				"programID":"cctv5plus",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225752/index.m3u8"
 			},
 			
 			{
 				"name": "CCTV6FHD",
+				"programID":"cctv6",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-6.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225751/index.m3u8"
 			},
 			{
 				"name": "CCTV6FHD",
+				"programID":"cctv6",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-6.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225607/index.m3u8"
 			},
 			{
 				"name": "CCTV7",
+				"programID":"cctv7",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-7.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225593/index.m3u8"
 			},
@@ -100,53 +115,63 @@
 			
 			{
 				"name": "CCTV7FHD",
+				"programID":"cctv7",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-7.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8"
 			},
 			{
 				"name": "CCTV8FHD",
+				"programID":"cctv8",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-8.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225750/index.m3u8"
 			},
 			{
 				"name": "CCTV8FHD",
+				"programID":"cctv8",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-8.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225608/index.m3u8"
 			},
 			
 			{
 				"name": "CCTV9FHD",
+				"programID":"cctv9",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-9.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8"
 			},
 			
 			{
 				"name": "CCTV9HD",
+				"programID":"cctv9",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-9.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225595/index.m3u8"
 			},
 			{
 				"name": "CCTV10",
+				"programID":"cctv10",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-10.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225596/index.m3u8"
 			},
 			{
 				"name": "CCTV10FHD",
+				"programID":"cctv10",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-10.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8"
 			},
 			{
 				"name": "CCTV11",
+				"programID":"cctv11",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-11.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225597/index.m3u8"
 			},
 			{
 				"name": "CCTV12",
+				"programID":"cctv12",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-12.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225598/index.m3u8"
 			},
 			{
 				"name": "CCTV12FHD",
+				"programID":"cctv12",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-12.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8"
 			},
@@ -167,6 +192,7 @@
 			},
 			{
 				"name": "CCTV15",
+				"programID":"cctv15",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-15.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8"
 			},
