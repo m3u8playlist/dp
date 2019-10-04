@@ -4,11 +4,13 @@
    "channels":[
      {
          "name":"CCTV1",
+	     "programID":"cctv1",
 	 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUBiNEQ/8fe9vuT3rJl3Z0G7uZF8L8ipnwLM/Dn1njwPM="
       },
 	    {
          "name":"CCTV5",
+		    "programID":"cctv5",
 	 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUnOl9Mh+XQvyLEmke++Axp7uZF8L8ipnwLM/Dn1njwPM="
       },
