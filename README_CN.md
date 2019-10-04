@@ -54,3 +54,33 @@ JSON文件分成了3个部分
 
 在github上新建一个json，然后按raw按钮，就会得到一个纯文本的直连链接，格式如下
 https://raw.githubusercontent.com/USER_NAME/REPO_NAME/master/file.json
+
+# 节目单
+小点播放器支持有限的节目单,请在json文件里每个支持的频道添加一行"programID":"id",目前支持的频道如下,
+cctv1
+"programID":"cctv1",
+
+cctv2
+"programID":"cctv2",
+cctv3
+"programID":"cctv3",
+cctv4
+"programID":"cctv4",
+cctv5
+"programID":"cctv5",
+cctv5+
+"programID":"cctv5plus",
+cctv6
+"programID":"cctv6",
+cctv7
+"programID":"cctv7",
+cctv8
+"programID":"cctv8",
+cctv9
+"programID":"cctvjilu",
+cctv10
+"programID":"cctv10",
+cctv11
+"programID":"cctv11",
+cctv12
+"programID":"cctv12",
