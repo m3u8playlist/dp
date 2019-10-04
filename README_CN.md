@@ -57,6 +57,7 @@ https://raw.githubusercontent.com/USER_NAME/REPO_NAME/master/file.json
 
 # 节目单
 小点播放器支持有限的节目单,请在json文件里每个支持的频道添加一行"programID":"id",目前支持的频道如下,
+```
 cctv1
 "programID":"cctv1",
 
@@ -84,3 +85,4 @@ cctv11
 "programID":"cctv11",
 cctv12
 "programID":"cctv12",
+```
