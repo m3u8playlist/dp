@@ -76,6 +76,7 @@
       },
       {
          "name":"CCTV5超清",
+	      "programID":"cctv5",
 	       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖北卫视.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUnOl9Mh+XQvyLEmke++Axp7uZF8L8ipnwLM/Dn1njwPM="
       },
@@ -86,6 +87,7 @@
       },
       {
          "name":"CCTV5+超清",
+	      "programID":"cctv5plus",
 	       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUm2BRXrXKfBebxrUHpcxlz7uZF8L8ipnwLM/Dn1njwPM="
       },
