@@ -296,6 +296,11 @@
 	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/新疆卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/xinjiangstv/yst.m3u8"
     },
+	  {
+      "name": "吉林卫视",
+	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/吉林卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/jilinstv/yst.m3u8"
+    },
     {
       "name": "云南卫视",
 	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/云南卫视.png",
@@ -326,20 +331,20 @@
       "name": "优漫卡通",
       "url": "http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8"
     },
-    {
-      "name": "吉林卫视",
-      "url": "http://121.31.30.90:8085/ysten-business/live/jilinstv/yst.m3u8"
-    },
+    
     {
       "name": "IPTV军事评论",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8"
     },
     {
       "name": "IPTV金牌综艺",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8"
     },
     {
       "name": "IPTV精品记录",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8"
     },
     {
@@ -348,46 +353,57 @@
     },
     {
       "name": "IPTV精品电影",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8"
     },
     {
       "name": "IPTV精品大剧",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8"
     },
     {
       "name": "IPTV古装剧场",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8"
     },
     {
       "name": "IPTV家庭剧场",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8"
     },
     {
       "name": "IPTV爱情喜剧",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8"
     },
     {
       "name": "IPTV军旅剧场",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8"
     },
     {
       "name": "IPTV动作电影",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8"
     },
     {
       "name": "IPTV明星大片",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8"
     },
     {
       "name": "IPTV海外剧场",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8"
     },
     {
       "name": "IPTV惊悚悬疑",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8"
     },
     {
       "name": "IPTV动画王国",
+	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8"
     }
   ]
