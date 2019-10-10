@@ -179,11 +179,13 @@
 			},
 			{
 				"name": "CCTV13",
+				"programID":"cctv13",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-13.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225599/index.m3u8"
 			},
 			{
 				"name": "CCTV14",
+				"programID":"cctv14",
 				"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-14.png",
 				"url": "http://111.40.205.87/PLTV/88888888/224/3221225600/index.m3u8"
 			},
