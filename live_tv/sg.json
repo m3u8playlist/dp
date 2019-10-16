@@ -2,11 +2,8 @@
  	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
     "title": "[TV][Live][Singapore]", 
     "channels": [
-       {
-            "name": "CinemaWorld", 
-         "logo":"http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png",
-            "url": "Von4C6I07Mw6CEGWyVO4k3FVqfbadm/D7oynNzxY+itsmoeBbLvjw22bBt161dJi"
-        }, 
+     
+
         {
             "name": "MUTV", 
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/mutv.png",
