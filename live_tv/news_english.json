@@ -47,12 +47,12 @@
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/arise-news.png",
 			"url": "cTyJEnr234umDdHvZokZihvwHFIUg2AlwREOTLm+uMTXHiwMQR6xZ16CT9blMOieBwVLQPhgL7ssnIGvJxzuIfKcosoLbFxHJU3+M6nqI6BhwrVxjjaWLc9a6JHxxlNRbPXMPzYEh3p2AW6cNzXlHvQPRnqIiVUn9vX11+gTwNA="
 		},
-    		{
-			"name":"Arirang",
-			 "programID":"CARI",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
-			"url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjN20Y1tP+kxhjfon2e9rLhTEjMNwzA2RSLzzfqfs3zgW2PvyXWIMCplxr2TD35KAAjQ=="
-		},
+    
+        {
+            "name": "arirang", 
+		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
+            "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
+        }, 
     		{
 			"name":"Al Jazeera",
 	                "programID":"CJAZ",
