@@ -50,6 +50,7 @@
     
         {
             "name": "arirang", 
+            "programID":"CARI",
 		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
             "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
         }, 
@@ -61,7 +62,7 @@
 		},
     		{
 			"name":"Bloomberg",
-			"channel-xmltv-id":"bloomberg.info",
+			
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
 		},
