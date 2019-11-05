@@ -12,6 +12,41 @@
 			"logo":"https://i.ytimg.com/vi/g4LzVV2GI6M/maxresdefault.jpg",
 			"url": "Hu3Wyc621+Iqs8MWsCiYpwMnPHLFsN1VADZgnZLkbADdAAi53eAntQRRU1GMC0TTJ2QsG+CvAeaRHrozq/mGnXvoGrn/znV4v9tQr1kPobTM6WfZmOcPzmUC9lJaq6LJav6CDQfpm7YZQB3WOtC74w=="
 		},
+	      {
+			"name":"《航拍中国》第二季 四川",
+			"logo":"http://5b0988e595225.cdn.sohucs.com/images/20190304/35ad8983e72a42b885f786980dce1865.jpeg",
+			"url": "https://hwhls.cntv.qcloudcdn.com/asp/hls/8000/0303000a/3/default/9e9b2ec70cca4cdc917672cb1e44bb01/8000.m3u8"
+		},
+	     {
+			"name":"《航拍中国》第二季 浙江",
+			"logo":"https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/11/1/1572576467303_69.jpg",
+			"url": "6tNwoBr6iHMjzrYVmN+3BPmHfopVzHd4+z1A2nuNCaLABFhWh8sWs2L9DE+Y5BSRX3TijH2XyLRWqEEHTbvPymw0f/O8mIvBDXn9L7ZzkTeaFVp9DYTkV2IjKGCvSr4gPvyXWIMCplxr2TD35KAAjQ=="
+		},
+	     {
+			"name":"《航拍中国》第二季 甘肃",
+			"logo":"https://i.ytimg.com/vi/PbCmDry6X2k/maxresdefault.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R3xt/bXjcsjYM6OH/vHWNydb9pzg+mTwoSkUnvhTW/RG0la+a2VUiSlTY6mEUtGWWyw=="
+		},
+	     {
+			"name":"《航拍中国》第二季 广东",
+			"logo":"http://p2.cri.cn/M00/02/91/CqgNOlyArMKAQJn_AAAAAAAAAAA889.1080x608.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R34W9O4myETZict2fh+fVpYo18rdH+1kP5ZYQTLKzbj5WDGhaQpzXZN2BvnREwuf9uA=="
+		},
+	     {
+			"name":"《航拍中国》第二季 内蒙古",
+			"logo":"https://i.ytimg.com/vi/comdBfvGKC4/maxresdefault.jpg",
+			"url": "6tNwoBr6iHMjzrYVmN+3BPmHfopVzHd4+z1A2nuNCaLABFhWh8sWs2L9DE+Y5BSRCcrrpRssqlTrH29encWLoZcOnjb11bG4CN8oxgNcd7b8Hn5CceGZHvtU3uD/dfaoPvyXWIMCplxr2TD35KAAjQ=="
+		},
+	     {
+			"name":"《航拍中国》第二季 福建",
+			"logo":"https://i.ytimg.com/vi/d7xK2jnJEWY/maxresdefault.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R38s793l9EAGFcit21mKobINMjhdzqGh54CnTibgsnvfipRKC3evNBR10xV2zKZT84g=="
+		},
+	     {
+			"name":"《航拍中国》第二季 20190406 江苏",
+			"logo":"http://p0.ifengimg.com/fck/2019_11/2a47e2726b3e101_w1080_h608.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R354d+kgUe5pEjoYrzA9/ZuibsTAqzTal/ZHCdTmv9zlNpRKC3evNBR10xV2zKZT84g=="
+		},
 	     {
 			"name":"《如果国宝会说话》 太阳神鸟金箔",
 			"logo":"http://p1.img.cctvpic.com/fmspic/2019/09/17/d70377f7ea8a4e6cb331ee92125095f2-1.jpg",
@@ -171,7 +206,33 @@
 			"name":"《如果国宝会说话》 曾侯乙编钟：中国之声",
 			"logo":"http://p4.img.cctvpic.com/fmspic/2019/09/11/fba7f7e6750145c99081bafc7bc26b3e-1.jpg",
 			"url": "Hu3Wyc621+Iqs8MWsCiYpwMnPHLFsN1VADZgnZLkbADdAAi53eAntQRRU1GMC0TTJ2QsG+CvAeaRHrozq/mGndQxKpYgz+YWAEn92QjB2LgeOiKCC+ZQvKgd1lgMsU7Vav6CDQfpm7YZQB3WOtC74w=="
+		},
+	       {
+			"name":"《如果国宝会说话》 铜奔马：天马行空",
+			"logo":"https://p1.img.cctvpic.com/photoworkspace/2019/08/09/2019080916501417216.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R33qUgwbmVfIWXOMiI2K+bM8A5Tg6jqlZtxYoQwXyeHxsuTlCSaKaWtKjo0MTY3tHnQ=="
+		},
+	     {
+			"name":"《如果国宝会说话》 鹰顶金冠饰 你好 我的对手",
+			"logo":"http://p3.img.cctvpic.com/fmspic/2019/09/20/f2a1efb12e344285999f1f780e1580e8-1.jpg",
+			"url": "6tNwoBr6iHMjzrYVmN+3BPmHfopVzHd4+z1A2nuNCaLABFhWh8sWs2L9DE+Y5BSRHJ4gNyIL5ZJbfYwiUzPHScJkCMsvJoSlYqxapZlINAxlR6975+MmHVTIwOEiN3LjPvyXWIMCplxr2TD35KAAjQ=="
+		},
+	     {
+			"name":"《如果国宝会说话》 长毋相忘铭合符银带钩：闪烁腰间的誓言",
+			"logo":"http://p3.img.cctvpic.com/fmspic/2019/09/20/903ac25fccc048af8121a3f75a1413be-1.jpg",
+			"url": "6tNwoBr6iHMjzrYVmN+3BPmHfopVzHd4+z1A2nuNCaLABFhWh8sWs2L9DE+Y5BSRjNBcfVxLKLAVa1q8nrqgH1pYwHDG4oSM634dG2I6vYA2lotFgWZJcqfPbi/jVjjtPvyXWIMCplxr2TD35KAAjQ=="
+		},
+	     {
+			"name":"《如果国宝会说话》 鸮尊 一只猫头鹰的待遇",
+			"logo":"http://p5.img.cctvpic.com/fmspic/2019/09/20/50f49d86d49c4ec890b9f27f55305fdd-1.jpg",
+			"url": "6tNwoBr6iHMjzrYVmN+3BPmHfopVzHd4+z1A2nuNCaLABFhWh8sWs2L9DE+Y5BSR70wsZOR1STmgol0AQgvvzbHPSZGxV3QRztJyjIjFahm8YLKKw22KygpS1ttkOQAIPvyXWIMCplxr2TD35KAAjQ=="
+		},
+	     {
+			"name":"《如果国宝会说话》 战国嵌错宴乐攻战纹铜壶 战国春秋",
+			"logo":"http://p4.img.cctvpic.com/fmspic/2019/09/20/1c9330333c7a4f4d99e16e46c75c37bc-1.jpg",
+			"url": "Tcuif5QEAsIEua3869WljbKkBqny3YA7ZVZBzccp11ZjZtAfMpxgfaJNxbyGJvurlMLQO+2wQEhgeH2mfj9R3yw4zIaL9xK+8cuhYe1C1fRZPEDSZ1pCyhNRMm7S2yAmn25Kseu0cUrpIBvx8EiO5Q=="
 		}
+	   
 
     ]
 }
