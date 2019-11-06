@@ -100,6 +100,7 @@
     },
     {
       "name": "CGTN",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cgtn.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8"
     },
     {
