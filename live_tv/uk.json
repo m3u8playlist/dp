@@ -5,7 +5,7 @@
 	"channels": [
 	
 	{
-			"name": "sky news",
+			"name": "SkyNews",
 		 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmokF4QH9qKUbtIsaLFqpjt7j78l1iDAqZca9kw9+SgAI0="
 		},
@@ -33,12 +33,12 @@
 },
 		
 		{
-			"name": "BBC World News",
+			"name": "BBCWorldNews",
 			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
 			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
 },
 		{
-			"name": "Bloomberg TV",
+			"name": "BloombergTV",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5AbTKLymgHLzRj6axAqjU+t5thyLQc02JYaNkQTAnDJEGcNVTFF7af/d6gXqQPHJUncXJAHeFVc7UmPOvngYGHGJwkfJQCxZgwCF51qRlZQUiN5L6iHG8e/ai5TuhYDPP7A=="
 },
