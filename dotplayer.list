@@ -11,9 +11,9 @@
 [TV][中国移动源1080P],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/chinamobile.json
 [TV][哈尔滨移动],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hebyd.json
 [TV][广西联通],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/gxlt.json
+[TV][福建移动],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fjyd.json
 [TV][台湾],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/tw.json
 [TV][澳洲],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/au.json
-[TV][瑞士],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/ch.json
 [TV][湖北移动超清],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/hbyd.json
 [TV][新闻-英语], https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json
 [RADIO][英国],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/ukradio.json
@@ -21,7 +21,6 @@
 [RADIO][新加坡],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json
 [RADIO][美国],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/usradio.json
 [RADIO][香港],https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/hkradio.json
-[RADIO][国内电台-全],https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radioall.json
 [TV][频道杂集],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/misc1.json
 [TV][广西柳州移动],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/liuzhouyidong.json
 [高清纪录片],https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/jilu.json
