@@ -4,14 +4,14 @@
 
 	"channels": [		
   {
-            "name": "news asia", 
+            "name": "ChannelNewsAsia", 
 	  "programID":"CCNA",
            "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-newsasia.png",
             "url": "r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF0SAKKFNquxUdahG0+R8Op"
         },
 		
 		{
-			"name":"ABC News (澳大利亚)",
+			"name":"ABCAustralia",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
 			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
 		},
@@ -55,19 +55,19 @@
             "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
         }, 
     		{
-			"name":"Al Jazeera",
+			"name":"aljazeera",
 	                "programID":"CJAZ",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/al-jazeera.png",
 			"url": "p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
 		},
     		{
-			"name":"Bloomberg",
+			"name":"BloombergTV",
 			
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
 			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
 		},
     		{
-			"name":"BBC World News SD",
+			"name":"BBCWorldNews",
 			 "programID":"BBW",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
 			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
@@ -117,7 +117,7 @@
 			"url": "Tk+OEsUZWu2uwWcwsQqtWh79VnyHNyjHbTv6k8CN9jBJPAb0rqBzpiFJ3dfvDBiD7CzBkkc/2Cl57D33HaCXJA=="
 		},
                 		{
-			"name":"France 24",
+			"name":"France24",
 	 "programID":"CF24",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
 			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
@@ -143,7 +143,7 @@
 
 		
     		{
-			"name":"NHK World",
+			"name":"NHKWorld",
 			"programID":"CNHK",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",	
 			"url": "b7dXf5JN3D4ZbCny5nveibxJb7d9uCJoHgBbQIPzyLaX+zl2AXwoVXWK1u8x5SsRqzDgXtBrsGxsMsRRj5ogopExC4ibkj2eh8tI7xfoHV/87E+72jmFudzakgZ8YcHM"
@@ -165,7 +165,7 @@
 		},
 		
     		{
-			"name":"Sky News UK",
+			"name":"SkyNews",
 			"channel-xmltv-id":"skynews.info",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
 			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
