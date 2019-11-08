@@ -130,6 +130,7 @@
     },
     {
       "name": "阳光卫视",
+      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/阳光卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8"
     },
     {
