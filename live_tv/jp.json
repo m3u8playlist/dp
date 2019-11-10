@@ -3,7 +3,7 @@
     "title": "[TV][Live][Japan]", 
     "channels": [
         {
-            "name": "nhk world", 
+            "name": "NHKWorld", 
 	    "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",
             "url": "wOw6l9B17WUw0tTSzanl4Htc+QDxvhhFvwBW88KJsmXKyh2WThq6OMi3ldN8cHfWwXzj4uRvl1dyZwVMqoHBIm99rxt7/qilCnVKgdlLBpAztxLBUYvM3RQ1EaXQiKLi"
         }, 

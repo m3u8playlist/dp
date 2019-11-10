@@ -3,307 +3,309 @@
   "title": "[TV][LIVE]广西联通",
   "channels": [
     {
-      "name": "CCTV-1综合HD",
+      "name": "CCTV1",
 "programID":"cctv1",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8"
     },
     {
-      "name": "CCTV-2财经",
-	    "programID":"cctv2",
+      "name": "CCTV2",
+        "programID":"cctv2",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8"
     },
     {
-      "name": "CCTV-3综艺HD",
-	      "programID":"cctv3",
+      "name": "CCTV3",
+          "programID":"cctv3",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-3.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8"
     },
     {
-      "name": "CCTV-4中文国际",
-	       "programID":"cctv4",
+      "name": "CCTV4",
+           "programID":"cctv4",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-4.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8"
     },
     {
-      "name": "CCTV-5体育HD",
-	     "programID":"cctv5",
+      "name": "CCTV5",
+         "programID":"cctv5",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8"
     },
     {
-      "name": "CCTV-5+体育赛事HD",
-	     "programID":"cctv5plus",
+      "name": "CCTV5+",
+         "programID":"cctv5plus",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-5+.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv05plus/yst.m3u8"
     },
     {
-      "name": "CCTV-6电影HD",
-	    "programID":"cctv6",
+      "name": "CCTV6",
+        "programID":"cctv6",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-6.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8"
     },
     {
-      "name": "CCTV-7军事农业",
-	    "programID":"cctv7",
+      "name": "CCTV7",
+        "programID":"cctv7",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-7.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8"
     },
     {
-      "name": "CCTV-8电视剧HD",
-	     "programID":"cctv8",
+      "name": "CCTV8",
+         "programID":"cctv8",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-8.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8"
     },
     {
-      "name": "CCTV-9记录",
-	      "programID":"cctvjilu",
+      "name": "CCTV9",
+          "programID":"cctvjilu",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-9.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8"
     },
     {
-      "name": "CCTV-10科教",
-	     "programID":"cctv10",
+      "name": "CCTV10",
+         "programID":"cctv10",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-10.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8"
     },
     {
-      "name": "CCTV-11戏曲",
-	    "programID":"cctv11",
+      "name": "CCTV11",
+        "programID":"cctv11",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-11.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8"
     },
     {
-      "name": "CCTV-12社会与法",
-	       "programID":"cctv12",
+      "name": "CCTV12",
+           "programID":"cctv12",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-12.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8"
     },
     {
-      "name": "CCTV-13新闻",
-	      "programID":"cctv13",
+      "name": "CCTV13",
+          "programID":"cctv13",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-13.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8"
     },
     {
-      "name": "CCTV-14少儿",
-	       "programID":"cctv14",
+      "name": "CCTV14",
+           "programID":"cctv14",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-14.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8"
     },
     {
-      "name": "CCTV-15音乐",
-	     "programID":"cctv15",
+      "name": "CCTV15",
+         "programID":"cctv15",
                 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-15.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8"
     },
     {
       "name": "CGTN",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cgtn.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8"
     },
     {
-      "name": "湖南卫视HD",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖南卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8"
-    },
-    {
-      "name": "江苏卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江苏卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8"
-    },
-    {
-      "name": "浙江卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/浙江卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8"
-    },
-    {
-      "name": "东方卫视HD",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8"
-    },
-    {
-      "name": "广东卫视HD",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广东卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/guangdongstv/yst.m3u8"
-    },
-    {
-      "name": "阳光卫视",
-      "url": "http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8"
-    },
-    {
-      "name": "深圳卫视HD",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8"
-    },
-    {
-      "name": "山东卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/shandongstv/yst.m3u8"
-    },
-    {
-      "name": "北京卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/beijingstv/yst.m3u8"
-    },
-    {
-      "name": "天津卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/天津卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/tianjinstv/yst.m3u8"
-    },
-    {
-      "name": "湖北卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖北卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/hdhubeistv/yst.m3u8"
-    },
-    {
-      "name": "黑龙江卫视HD",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/黑龙江卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/heilongjiangstv/yst.m3u8"
-    },
-    {
-      "name": "重庆卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/重庆卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/congqingstv/yst.m3u8"
-    },
-    {
-      "name": "东方卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8"
-    },
-    {
-      "name": "东南卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东南卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/dongnanstv/yst.m3u8"
-    },
-    {
-      "name": "广东卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广东卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/gangdongstv/yst.m3u8"
-    },
-    {
-      "name": "广西卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广西卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8"
-    },
-    {
-      "name": "贵州卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/贵州卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/guizhoustv/yst.m3u8"
-    },
-    {
-      "name": "河南卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/河南卫视.png",
-      "url": "http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8"
-    },
-    {
       "name": "湖南卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖南卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖南卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/hunanstv/yst.m3u8"
     },
     {
       "name": "江苏卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江苏卫视.png",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江苏卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8"
+    },
+    {
+      "name": "浙江卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/浙江卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8"
+    },
+    {
+      "name": "东方卫视",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8"
+    },
+    {
+      "name": "广东卫视",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广东卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/guangdongstv/yst.m3u8"
+    },
+    {
+      "name": "阳光卫视",
+      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/阳光卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8"
+    },
+    {
+      "name": "深圳卫视",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8"
+    },
+    {
+      "name": "山东卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/shandongstv/yst.m3u8"
+    },
+    {
+      "name": "北京卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/beijingstv/yst.m3u8"
+    },
+    {
+      "name": "天津卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/天津卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/tianjinstv/yst.m3u8"
+    },
+    {
+      "name": "湖北卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖北卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/hubeistv/yst.m3u8"
+    },
+    {
+      "name": "黑龙江卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/黑龙江卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/heilongjiangstv/yst.m3u8"
+    },
+    {
+      "name": "重庆卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/重庆卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/congqingstv/yst.m3u8"
+    },
+    {
+      "name": "东方卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8"
+    },
+    {
+      "name": "东南卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东南卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/dongnanstv/yst.m3u8"
+    },
+    {
+      "name": "广东卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广东卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/gangdongstv/yst.m3u8"
+    },
+    {
+      "name": "广西卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/广西卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8"
+    },
+    {
+      "name": "贵州卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/贵州卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/guizhoustv/yst.m3u8"
+    },
+    {
+      "name": "河南卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/河南卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/henanstv/yst.m3u8"
+    },
+    {
+      "name": "湖南卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖南卫视.png",
+      "url": "http://121.31.30.90:8085/ysten-business/live/hunanstv/yst.m3u8"
+    },
+    {
+      "name": "江苏卫视",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江苏卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8"
     },
     {
       "name": "江西卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江西卫视.png",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/江西卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jiangxistv/yst.m3u8"
     },
     {
       "name": "宁夏卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/宁夏卫视.png",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/宁夏卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/ningxiastv/yst.m3u8"
     },
     {
       "name": "山东卫视",
-	    "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
+        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山东卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/shandongstv/yst.m3u8"
     },
     {
       "name": "山西卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山西卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/山西卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/shanxistv/yst.m3u8"
     },
     {
       "name": "深圳卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/深圳卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/shenzhenstv/yst.m3u8"
     },
     {
       "name": "浙江卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/浙江卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/浙江卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8"
     },
     {
       "name": "安徽卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/安徽卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/安徽卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/anhuistv/yst.m3u8"
     },
     {
       "name": "北京卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/北京卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/beijingstv/yst.m3u8"
     },
     {
       "name": "甘肃卫视",
-	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/甘肃卫视.png",
+            "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/甘肃卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/gansustv/yst.m3u8"
     },
     {
       "name": "河北卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/河北卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/河北卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/hebeistv/yst.m3u8"
     },
     {
       "name": "湖北卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖北卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖北卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/hubeistv/yst.m3u8"
     },
     {
       "name": "辽宁卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/辽宁卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/辽宁卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/liaoningstv/yst.m3u8"
     },
     {
       "name": "内蒙古卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/内蒙古卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/内蒙古卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/neimenggustv/yst.m3u8"
     },
     {
       "name": "青海卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/青海卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/青海卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/qinghaistv/yst.m3u8"
     },
     {
       "name": "陕西卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/陕西卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/陕西卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/shanxi1stv/yst.m3u8"
     },
     {
       "name": "四川卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/四川卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/四川卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/sichuanstv/yst.m3u8"
     },
     {
       "name": "天津卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/天津卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/天津卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/tianjinstv/yst.m3u8"
     },
     {
       "name": "新疆卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/新疆卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/新疆卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/xinjiangstv/yst.m3u8"
     },
-	  {
+      {
       "name": "吉林卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/吉林卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/吉林卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jilinstv/yst.m3u8"
     },
     {
       "name": "云南卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/云南卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/云南卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/yunnanstv/yst.m3u8"
     },
     {
@@ -312,7 +314,7 @@
     },
     {
       "name": "西藏卫视",
-	     "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/西藏卫视.png",
+         "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/西藏卫视.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/xizangstv/yst.m3u8"
     },
     {
@@ -333,77 +335,77 @@
     },
     
     {
-      "name": "IPTV军事评论",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "军事评论",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8"
     },
     {
-      "name": "IPTV金牌综艺",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "金牌综艺",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8"
     },
     {
-      "name": "IPTV精品记录",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "精品记录",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8"
     },
     {
-      "name": "IPTV精品综艺",
+      "name": "精品综艺",
       "url": "http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8"
     },
     {
-      "name": "IPTV精品电影",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "精品电影",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8"
     },
     {
-      "name": "IPTV精品大剧",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "精品大剧",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8"
     },
     {
-      "name": "IPTV古装剧场",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "古装剧场",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8"
     },
     {
-      "name": "IPTV家庭剧场",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "家庭剧场",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8"
     },
     {
-      "name": "IPTV爱情喜剧",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "爱情喜剧",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8"
     },
     {
-      "name": "IPTV军旅剧场",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "军旅剧场",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8"
     },
     {
-      "name": "IPTV动作电影",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "动作电影",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8"
     },
     {
-      "name": "IPTV明星大片",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "明星大片",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8"
     },
     {
-      "name": "IPTV海外剧场",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "海外剧场",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8"
     },
     {
-      "name": "IPTV惊悚悬疑",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "惊悚悬疑",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8"
     },
     {
-      "name": "IPTV动画王国",
-	      "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
+      "name": "动画王国",
+          "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/newtv.png",
       "url": "http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8"
     }
   ]

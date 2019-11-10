@@ -1,232 +1,211 @@
 {
-	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-	"title": "[TV][Live][新闻-英语]",
-
-	"channels": [		
-  {
-            "name": "news asia", 
-	  "programID":"CCNA",
-           "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-newsasia.png",
-            "url": "r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF0SAKKFNquxUdahG0+R8Op"
-        },
-		
-		{
-			"name":"ABC News (澳大利亚)",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
-			"url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
-		},
-		  {
-            "name": "Newsmax", 
-   "logo":"https://www.rbr.com/wp-content/uploads/newsmax-logo.jpg",
-            "url": "8rzIwJx/qSRabM8RMqmI3zsbGaxBF8oO3PwjN4k/MdAb7Q1yTBRPHXuUPxYEPlbdKTIbMGgmUFcM1BGyOMpYHg=="
-        },
-		  {
-            "name": "CBN News", 
-   		"logo":"https://www.cbn.com/images8/cbnnews/news-channel-logo.png",
-            "url": "VrGsCpSjNJLMUJ+fkvCuP99MVO5COMofl/nbsz5vbJ/sRd916Rd17m4W9SqqWvb1JAGjU3IEOjM3Ws85YnguPLLtp9HbkE0YcGT679JdAD8="
-        },
-		  {
-            "name": "wwsb", 
-   		"logo":"https://www.mywestvillages.com/wp-content/uploads/2019/01/abc.jpg",
-            "url": "3k/v4a22qb/Vkfa0c1XRwGM/GJQCohnyZ+22W0S2oEtI4GfKeGZWH1GFt2KA5IO9Rx1h0uVb5NRyRdhzJVjxWQ=="
-        },
-		  {
-            "name": "3 news", 
-   		"logo":"https://pbs.twimg.com/profile_images/961660243691343873/sXvzW-P0_400x400.jpg",
-            "url": "KQt0lmQ18EbFXNeE+2E4CYl5lIn67WUqioVWT+bQiPpjoK2YrhxI8LGDVqx8mjlA7RBUfTtpmK5nLmQ60xVFe3alRx54+d2+iNRD0k5TZnw+/JdYgwKmXGvZMPfkoACN"
-        },
-		 
-		{
-			"name":"ABC 7 WWSB",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
-			"url": "G54O2zhekWpmMOOzdpJAdFz/gDP2wzth/XeCw+n6JH8vHEwOqSephg02aZkcY7ARZ82DH3lks/5O2muvWCF/dPzsT7vaOYW53NqSBnxhwcw="
-		},
-
-		{
-			"name":"Arise News",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/arise-news.png",
-			"url": "cTyJEnr234umDdHvZokZihvwHFIUg2AlwREOTLm+uMTXHiwMQR6xZ16CT9blMOieBwVLQPhgL7ssnIGvJxzuIfKcosoLbFxHJU3+M6nqI6BhwrVxjjaWLc9a6JHxxlNRbPXMPzYEh3p2AW6cNzXlHvQPRnqIiVUn9vX11+gTwNA="
-		},
-    
-        {
-            "name": "arirang", 
-            "programID":"CARI",
-		"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
-            "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
-        }, 
-    		{
-			"name":"Al Jazeera",
-	                "programID":"CJAZ",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/al-jazeera.png",
-			"url": "p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
-		},
-    		{
-			"name":"Bloomberg",
-			
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
-			"url": "9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
-		},
-    		{
-			"name":"BBC World News SD",
-			 "programID":"BBW",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
-			"url": "2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
-		},
-		{
-			"name": "BBC News 24 HD[UK IP]",
-			 "programID":"BBW",
-			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc_news.png",
-			"url": "aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
-},
-    		{
-			"name":"CBS News",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
-			"url": "kQg9BiLGYN/OqfmsH3Jm57Os0qK85aajiRmHM01zCGznqAtOdunkZ6FFLbqjEfc413s38QKmolXVNLTgbukGy/DP3WHXJcw3qvr0+8mH+Zg="
-		},
-    		{
-			"name":"CBC News",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
-			"url": "8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmAR1a3S58gL69KBNqLrsVPAxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
-		},
-		    		
-        		{
-			"name":"CNN",
-				"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnn.png",
-			"url": "pzWUR2COJxfZpdMkQXUnefeVgsfYG5yGj7Sx0a55BmVzmzo9LQLWWhuMsIiR+SGxSd92THQ5URGtp6u96x2TB3NYUgLJTZxqc1XfqtNE8Mg="
-		},
-        		{
-			"name":"CNBC",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
-			"url": "BYp2XoE4efqKq7bPBVuE0CI6bHWRejnoCjTFmhhkdwbz6OcgR86xFMCdWYu604sV1ci21ZWLK80LW90yznepAw=="
-		},
-		        		{
-			"name":"CNBC World",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
-			"url": "rKo83gYTdsxj0/HdQDx1d5yqiVSQ2Q1Orcdod+jxH4DIM/1eP44ccL4D6P2vr3TXfsirul8++r/7m0AIcLr1xg=="
-		},
-            		{
-			"name":"Deutsche Welle",
-				 "programID":"CDW1",
-				"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/dw.png",
-			"url": "RuMKYaQKuA4Jt8lkRKpNpcWTM/DyOn0NMbObw+Ddl5P+JMoZBuLQsfvlCGtkPyz3x3U7iyopGrqHVCMxCGSEUiXv+xqOuRa+qhquAhdgvg0="
-		},
-
-                		{
-			"name":"FOX Business Network",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/fox.png",		
-			"url": "Tk+OEsUZWu2uwWcwsQqtWh79VnyHNyjHbTv6k8CN9jBJPAb0rqBzpiFJ3dfvDBiD7CzBkkc/2Cl57D33HaCXJA=="
-		},
-                		{
-			"name":"France 24",
-	 "programID":"CF24",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
-			"url": "S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
-		},
-                		
-                    		{
-			"name":"Telesur",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/telesur.png",
-			"url": "KoiyrgSR/ao0iWsFVLfnBm8L1TYCrdSGgseVfvw8FyYefApVLkoe3jhYgES04UM3+W/qcza2hm7zeRnFIoAQQQ=="
-		},
-                    		
-                    		{
-			"name":"NBC",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
-			"url": "rKo83gYTdsxj0/HdQDx1d7FX6CT3pJDaKxcAZPgLLvfQwOhYCCa+oGbn0b/brtdR1ci21ZWLK80LW90yznepAw=="
-		},
-                    		
-                    		{
-			"name":"Newsy",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/newsy.png",	
-			"url": "ttU+mRVCSQ7X6Vz+lTA07aSLWSZ/sGENJwWVbPX+EjLGYu0r/tqQl6I0duDwIbbPOR3Rgtm7jqOZPw/PXjELhG/FeV3k3elMoKckohW4oKo="
-		},
-
-		
-    		{
-			"name":"NHK World",
-			"programID":"CNHK",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",	
-			"url": "b7dXf5JN3D4ZbCny5nveibxJb7d9uCJoHgBbQIPzyLaX+zl2AXwoVXWK1u8x5SsRqzDgXtBrsGxsMsRRj5ogopExC4ibkj2eh8tI7xfoHV/87E+72jmFudzakgZ8YcHM"
-		},
-    		{
-			"name":"RT",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/ru/rt.png",
-			"url": "HUJNuWjHrfiEYgBE3LVH/k1QBbb7SAO/Fd5SCQIHbTLBO/ZRFUu8J0p7qd3RreDfPvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"7News Boston",
-			"logo":"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",
-			"url": "9L3OpnKzx1sKucdAD7rITXnzhbgEpln2E0kzFP90xbVNXdU50smzbVC8yy5LvLdZ+21ObmUKiWSmlD78JC1cv74mJGfcnfnlmkV+b+Uq02V18uZLyoTaMX5TwSitZc+J/OxPu9o5hbnc2pIGfGHBzA=="
-		},
-		{
-			"name":"Action News Jax",
-			"logo":"https://i.imgur.com/nEcuCl9.png",
-			"url": "UsjgLdOYCzKlmYSoJqVOOaArJV/tj6wac2W9XbeM3g5ltf5vzPXsuN1FHXNaEueX7zWWseEhhzzDGlij0/fbJLskU/kOk+Fh7I1+u2+rDAs="
-		},
-		
-    		{
-			"name":"Sky News UK",
-			"channel-xmltv-id":"skynews.info",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",	
-			"url": "9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
-		},
-    		{
-			"name":"TRT World",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/tr/trt-world.png",
-			"url": "pVK6ms8Vtrg7pcwR5nuPWuanJiehbN2weJqkSwGhHhSKn6Ma5qvM11nkvONkpthKW4kBXS0WAizmmIdvCkbBWdQ4BE9CcBGx5ssG4gzAXe0="
-		},
-    		{
-			"name":"Weather Channel",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/weather-channel.png",	
-			"url": "zlnX+PzmuD3si8cHX9BoX+aWnexnO0VJ4vD2keqlpdCOiZGZWFggfkVml/iwcY82yPg+s0BaLVFv7oV0/omymw=="
-		},
-		{
-			"name":"National Geo",
-			"logo":"https://static.iptv-epg.com/gb/NatGeo.uk.png",
-			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjcpg70oVNAL1xVVgcgQi15lPvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"National Geo Wild",
-			"logo":"https://static.iptv-epg.com/us/NatGeoWild.us.png",
-			"url": "2oSg60oD8bOix1SzXvxoLz9xIgCQc8xIM+CN6Zm+aCebWNKPog0V4KsriSyJKrPGxPGsewIlxRQRGjZ0Q75E7w=="
-		},
-		{
-			"name":"National Geo People",
-			"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",
-			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjdhtAshZD+EYo5UHPVpBlMqCI1+3VPgS52qS8Wzm3fIgA=="
-		},
-		{
-			"name":"h2 history",
-			"logo":"https://static.iptv-epg.com/se/History2.se.png",
-			"url": "2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjc8+dVBev2RSCQhUQhb9BHouyRT+Q6T4WHsjX67b6sMCw=="
-		},
-		{
-			"name":"Smithsonian Channel",
-			"logo":"https://static.iptv-epg.com/us/SmithsonianChannel.us.png",
-			"url": "pvhoJrSq8gbAwfTvfOnL5Rizjc1icvnsJ7Wxdm25FQQiHQ/zxVLocTCE2Ib1TPMSxe0CAADQEYLgcEV3Xd08vw=="
-		},
-		{
-			"name":"LA Sexta",
-			"logo":"https://static.iptv-epg.com/es/LaSexta.es.png",
-			"url": "BvM13YaJIcNO2p31c9tBg39YW2RZ1vZL8fQsR6Wzh8b9qENkXZIM9Amz5Srl5u/JXQomw62HqXdFGSS5JqUJyw=="
-		},
-		{
-			"name":"RT International",
-			"logo":"https://static.iptv-epg.com/ru/RTInternational.ru.png",
-			"url": "CZhxBmBiwcbdlMyo1jhn9dj5u8Std8SKoIJQMgZtrKwci6RTXWMRIv3d6n9ENQcOrd0W/hxyNXorVv8/O5jJ3g=="
-		},
-		{
-			"name":"Sky News Australia",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
-			"url": "9/MWIqOaXu0hrmiPwzHR/N8gi3WDnVMPvWudMxJZyqBECm1B9EBlNZcsMrhWXh4uTFkswnVIppfZ7XLyHrVXHEoyACIuFHgKWKbBaR8ShNMLGxuY1A63o4niiih3NOsY"
-		},
-		{
-			"name":"Voice of America",
-			"logo":"http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png",
-			"url": "A1nzE7BiBdLOw5hxYzK6soQjS6AdasSwoNObAQZ28PhonuwKy42nV9K0vx7KHWPOWd5IYOWREcKIRe7qdJ7l7+WFUOT6jDMa/Czr/0C/7t4="
-		}
-		
-
-	]
-
+   "uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+   "title":"[TV][Live][新闻-英语]",
+   "channels":[
+      {
+         "name":"ChannelNewsAsia",
+         "programID":"CCNA",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-newsasia.png",
+         "url":"r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF0SAKKFNquxUdahG0+R8Op"
+      },
+      {
+         "name":"ABCAustralia",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
+         "url":"FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
+      },
+      {
+         "name":"Newsmax",
+         "logo":"https://www.rbr.com/wp-content/uploads/newsmax-logo.jpg",
+         "url":"8rzIwJx/qSRabM8RMqmI3zsbGaxBF8oO3PwjN4k/MdAb7Q1yTBRPHXuUPxYEPlbdKTIbMGgmUFcM1BGyOMpYHg=="
+      },
+      {
+         "name":"CBN News",
+         "logo":"https://www.cbn.com/images8/cbnnews/news-channel-logo.png",
+         "url":"VrGsCpSjNJLMUJ+fkvCuP99MVO5COMofl/nbsz5vbJ/sRd916Rd17m4W9SqqWvb1JAGjU3IEOjM3Ws85YnguPLLtp9HbkE0YcGT679JdAD8="
+      },
+      {
+         "name":"wwsb",
+         "logo":"https://www.mywestvillages.com/wp-content/uploads/2019/01/abc.jpg",
+         "url":"3k/v4a22qb/Vkfa0c1XRwGM/GJQCohnyZ+22W0S2oEtI4GfKeGZWH1GFt2KA5IO9Rx1h0uVb5NRyRdhzJVjxWQ=="
+      },
+      {
+         "name":"3 news",
+         "logo":"https://pbs.twimg.com/profile_images/961660243691343873/sXvzW-P0_400x400.jpg",
+         "url":"KQt0lmQ18EbFXNeE+2E4CYl5lIn67WUqioVWT+bQiPpjoK2YrhxI8LGDVqx8mjlA7RBUfTtpmK5nLmQ60xVFe3alRx54+d2+iNRD0k5TZnw+/JdYgwKmXGvZMPfkoACN"
+      },
+      {
+         "name":"ABC 7 WWSB",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
+         "url":"G54O2zhekWpmMOOzdpJAdFz/gDP2wzth/XeCw+n6JH8vHEwOqSephg02aZkcY7ARZ82DH3lks/5O2muvWCF/dPzsT7vaOYW53NqSBnxhwcw="
+      },
+      {
+         "name":"Arise News",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/arise-news.png",
+         "url":"cTyJEnr234umDdHvZokZihvwHFIUg2AlwREOTLm+uMTXHiwMQR6xZ16CT9blMOieBwVLQPhgL7ssnIGvJxzuIfKcosoLbFxHJU3+M6nqI6BhwrVxjjaWLc9a6JHxxlNRbPXMPzYEh3p2AW6cNzXlHvQPRnqIiVUn9vX11+gTwNA="
+      },
+      {
+         "name":"ArirangTV",
+         "programID":"CARI",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
+         "url":"hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
+      },
+      {
+         "name":"aljazeera",
+         "programID":"CJAZ",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/al-jazeera.png",
+         "url":"p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
+      },
+      {
+         "name":"BloombergTV",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/bloomberg.png",
+         "url":"9ryih51d7pfr8Hibx+O5Afqr3DlBnfL1Rs5MJzm/Whxkap9UKAUAe6rCz1J1ssXGP2g8qfDM3W0t14cNS0kTZj78l1iDAqZca9kw9+SgAI0="
+      },
+      {
+         "name":"BBCWorldNews",
+         "programID":"BBW",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
+         "url":"2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
+      },
+      {
+         "name":"BBC News 24 HD[UK IP]",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc_news.png",
+         "url":"aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
+      },
+      {
+         "name":"CBS News",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
+         "url":"kQg9BiLGYN/OqfmsH3Jm57Os0qK85aajiRmHM01zCGznqAtOdunkZ6FFLbqjEfc413s38QKmolXVNLTgbukGy/DP3WHXJcw3qvr0+8mH+Zg="
+      },
+      {
+         "name":"CBC News",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
+         "url":"8BLO7/Qhzd4aSEIqXPvHR7vA0ZP7fmoz4RPALb2RlmAR1a3S58gL69KBNqLrsVPAxiY24GdSW6pDw/60eErPRD78l1iDAqZca9kw9+SgAI0="
+      },
+      {
+         "name":"CNN",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnn.png",
+         "url":"pzWUR2COJxfZpdMkQXUnefeVgsfYG5yGj7Sx0a55BmVzmzo9LQLWWhuMsIiR+SGxSd92THQ5URGtp6u96x2TB3NYUgLJTZxqc1XfqtNE8Mg="
+      },
+      {
+         "name":"CNBC",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
+         "url":"BYp2XoE4efqKq7bPBVuE0CI6bHWRejnoCjTFmhhkdwbz6OcgR86xFMCdWYu604sV1ci21ZWLK80LW90yznepAw=="
+      },
+      {
+         "name":"CNBC World",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
+         "url":"rKo83gYTdsxj0/HdQDx1d5yqiVSQ2Q1Orcdod+jxH4DIM/1eP44ccL4D6P2vr3TXfsirul8++r/7m0AIcLr1xg=="
+      },
+      {
+         "name":"DW",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/dw.png",
+         "url":"RuMKYaQKuA4Jt8lkRKpNpcWTM/DyOn0NMbObw+Ddl5P+JMoZBuLQsfvlCGtkPyz3x3U7iyopGrqHVCMxCGSEUiXv+xqOuRa+qhquAhdgvg0="
+      },
+      {
+         "name":"FOX Business Network",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/fox.png",
+         "url":"Tk+OEsUZWu2uwWcwsQqtWh79VnyHNyjHbTv6k8CN9jBJPAb0rqBzpiFJ3dfvDBiD7CzBkkc/2Cl57D33HaCXJA=="
+      },
+      {
+         "name":"France24",
+         "programID":"CF24",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
+         "url":"S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
+      },
+      {
+         "name":"Telesur",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/telesur.png",
+         "url":"KoiyrgSR/ao0iWsFVLfnBm8L1TYCrdSGgseVfvw8FyYefApVLkoe3jhYgES04UM3+W/qcza2hm7zeRnFIoAQQQ=="
+      },
+      {
+         "name":"NBC",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",
+         "url":"rKo83gYTdsxj0/HdQDx1d7FX6CT3pJDaKxcAZPgLLvfQwOhYCCa+oGbn0b/brtdR1ci21ZWLK80LW90yznepAw=="
+      },
+      {
+         "name":"Newsy",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/newsy.png",
+         "url":"ttU+mRVCSQ7X6Vz+lTA07aSLWSZ/sGENJwWVbPX+EjLGYu0r/tqQl6I0duDwIbbPOR3Rgtm7jqOZPw/PXjELhG/FeV3k3elMoKckohW4oKo="
+      },
+      {
+         "name":"NHKWorld",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",
+         "url":"b7dXf5JN3D4ZbCny5nveibxJb7d9uCJoHgBbQIPzyLaX+zl2AXwoVXWK1u8x5SsRqzDgXtBrsGxsMsRRj5ogopExC4ibkj2eh8tI7xfoHV/87E+72jmFudzakgZ8YcHM"
+      },
+      {
+         "name":"RT",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/ru/rt.png",
+         "url":"HUJNuWjHrfiEYgBE3LVH/k1QBbb7SAO/Fd5SCQIHbTLBO/ZRFUu8J0p7qd3RreDfPvyXWIMCplxr2TD35KAAjQ=="
+      },
+      {
+         "name":"7News Boston",
+         "logo":"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",
+         "url":"9L3OpnKzx1sKucdAD7rITXnzhbgEpln2E0kzFP90xbVNXdU50smzbVC8yy5LvLdZ+21ObmUKiWSmlD78JC1cv74mJGfcnfnlmkV+b+Uq02V18uZLyoTaMX5TwSitZc+J/OxPu9o5hbnc2pIGfGHBzA=="
+      },
+      {
+         "name":"Action News Jax",
+         "logo":"https://i.imgur.com/nEcuCl9.png",
+         "url":"UsjgLdOYCzKlmYSoJqVOOaArJV/tj6wac2W9XbeM3g5ltf5vzPXsuN1FHXNaEueX7zWWseEhhzzDGlij0/fbJLskU/kOk+Fh7I1+u2+rDAs="
+      },
+      {
+         "name":"SkyNews",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
+         "url":"9V57vIae9Lo/L3HcnSHsT58AnZCLs4ts7hBO71wQipW00zHfKmJrP+d5h+qGeRmojgExPyiqhi7Xw+GVlpYZAz78l1iDAqZca9kw9+SgAI0="
+      },
+      {
+         "name":"TRT World",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/tr/trt-world.png",
+         "url":"pVK6ms8Vtrg7pcwR5nuPWuanJiehbN2weJqkSwGhHhSKn6Ma5qvM11nkvONkpthKW4kBXS0WAizmmIdvCkbBWdQ4BE9CcBGx5ssG4gzAXe0="
+      },
+      {
+         "name":"Weather Channel",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/weather-channel.png",
+         "url":"zlnX+PzmuD3si8cHX9BoX+aWnexnO0VJ4vD2keqlpdCOiZGZWFggfkVml/iwcY82yPg+s0BaLVFv7oV0/omymw=="
+      },
+      {
+         "name":"National Geo",
+         "logo":"https://static.iptv-epg.com/gb/NatGeo.uk.png",
+         "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjcpg70oVNAL1xVVgcgQi15lPvyXWIMCplxr2TD35KAAjQ=="
+      },
+      {
+         "name":"National Geo Wild",
+         "logo":"https://static.iptv-epg.com/us/NatGeoWild.us.png",
+         "url":"2oSg60oD8bOix1SzXvxoLz9xIgCQc8xIM+CN6Zm+aCebWNKPog0V4KsriSyJKrPGxPGsewIlxRQRGjZ0Q75E7w=="
+      },
+      {
+         "name":"National Geo People",
+         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",
+         "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjdhtAshZD+EYo5UHPVpBlMqCI1+3VPgS52qS8Wzm3fIgA=="
+      },
+      {
+         "name":"h2 history",
+         "logo":"https://static.iptv-epg.com/se/History2.se.png",
+         "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjc8+dVBev2RSCQhUQhb9BHouyRT+Q6T4WHsjX67b6sMCw=="
+      },
+      {
+         "name":"Smithsonian Channel",
+         "logo":"https://static.iptv-epg.com/us/SmithsonianChannel.us.png",
+         "url":"pvhoJrSq8gbAwfTvfOnL5Rizjc1icvnsJ7Wxdm25FQQiHQ/zxVLocTCE2Ib1TPMSxe0CAADQEYLgcEV3Xd08vw=="
+      },
+      {
+         "name":"LA Sexta",
+         "logo":"https://static.iptv-epg.com/es/LaSexta.es.png",
+         "url":"BvM13YaJIcNO2p31c9tBg39YW2RZ1vZL8fQsR6Wzh8b9qENkXZIM9Amz5Srl5u/JXQomw62HqXdFGSS5JqUJyw=="
+      },
+      {
+         "name":"RT International",
+         "logo":"https://static.iptv-epg.com/ru/RTInternational.ru.png",
+         "url":"CZhxBmBiwcbdlMyo1jhn9dj5u8Std8SKoIJQMgZtrKwci6RTXWMRIv3d6n9ENQcOrd0W/hxyNXorVv8/O5jJ3g=="
+      },
+      {
+         "name":"Sky News Australia",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/sky-news.png",
+         "url":"9/MWIqOaXu0hrmiPwzHR/N8gi3WDnVMPvWudMxJZyqBECm1B9EBlNZcsMrhWXh4uTFkswnVIppfZ7XLyHrVXHEoyACIuFHgKWKbBaR8ShNMLGxuY1A63o4niiih3NOsY"
+      },
+      {
+         "name":"Voice of America",
+         "logo":"http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png",
+         "url":"A1nzE7BiBdLOw5hxYzK6soQjS6AdasSwoNObAQZ28PhonuwKy42nV9K0vx7KHWPOWd5IYOWREcKIRe7qdJ7l7+WFUOT6jDMa/Czr/0C/7t4="
+      }
+   ]
 }
