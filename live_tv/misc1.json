@@ -5,18 +5,7 @@
 	"channels": [
 		
 
-		{
-			"name":"HBO 2 HD",
-			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/hbo2.png",
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRXpgvD3jfw4j897kPUwOZEQ=="
-		},
 		
-		{
-			"name":"HBO 2 HD",
-			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/hbo2.png",
-			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb5xeUlArx3yvN3i+Q0AsoSRZ17DvwaeE6ob2aY8DIZPAg=="
-		},
-	
 		
 		{
 			"name":"美国加州大学电视台",	
@@ -76,38 +65,10 @@
 			"name":"奥林匹克08",
 			"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/olympic.png",
 			"url": "wIzSvUHwUyzdirxwzNpBOlD/BfwaRjLZS2in4Dz+Oz3MA+5omXh9DCH4AC5nPRKsxe0CAADQEYLgcEV3Xd08vw=="
-		},
-		
-		
-		{
-			"name":"上海纪实",
-			 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
-			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/DZ4g1bVgWHSrJj/cL5fc/PvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"上海艺术人文",
-			"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海艺术人文.png",
-			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/GHeSq7sGLmOWweIg8U4JtPvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"上海外语",
-			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海外国语频道.png",
-			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi/raPWaFgnUcMjZ5Rc4SN9oPvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"上海新闻综合",
-			"logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海新闻综合频道.png",
-			"url": "BmsatlPO0LRaUroTYezP8SYpr2CgwyvCqIcZ6nbWPi98Dxnjrd7xWlms+qqzecrmPvyXWIMCplxr2TD35KAAjQ=="
-		},
-		{
-			"name":"上海都市",
-			 "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海都市.png",
-			"url": "LsMl28l6kmPYrfBkVwTXpsi6KObe3DTtmpWxjmH6dfODAhLekv4tN9sXE1g/PD9RUnShRPrnDp8Q9WcajtyWbnIckvqdsXGC1nn9jK2cK5/87E+72jmFudzakgZ8YcHM"
-		},
-		{
-			"name":"上海新闻",
-			"url": "LsMl28l6kmPYrfBkVwTXpsi6KObe3DTtmpWxjmH6dfN4CWPLbpMWisxLI0OEP+5fG1h+XUE7xkMDz9o5Q/1uLVFzShWgmH3ROn7lwAUsQL9zWFICyU2canNV36rTRPDI"
 		}
+		
+		
+		
 		
 		
 		
