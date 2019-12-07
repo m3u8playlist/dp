@@ -4,7 +4,6 @@
    "channels":[
       {
          "name":"ChannelNewsAsia",
-         "programID":"CCNA",
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/sg/channel-newsasia.png",
          "url":"r1mPV+19+aXBYGLf8oh5N2+8Js+R3c/ZiYjobx2e6sF0SAKKFNquxUdahG0+R8Op"
       },
@@ -23,11 +22,7 @@
          "logo":"https://www.cbn.com/images8/cbnnews/news-channel-logo.png",
          "url":"VrGsCpSjNJLMUJ+fkvCuP99MVO5COMofl/nbsz5vbJ/sRd916Rd17m4W9SqqWvb1JAGjU3IEOjM3Ws85YnguPLLtp9HbkE0YcGT679JdAD8="
       },
-      {
-         "name":"wwsb",
-         "logo":"https://www.mywestvillages.com/wp-content/uploads/2019/01/abc.jpg",
-         "url":"3k/v4a22qb/Vkfa0c1XRwGM/GJQCohnyZ+22W0S2oEtI4GfKeGZWH1GFt2KA5IO9Rx1h0uVb5NRyRdhzJVjxWQ=="
-      },
+     
       {
          "name":"3 news",
          "logo":"https://pbs.twimg.com/profile_images/961660243691343873/sXvzW-P0_400x400.jpg",
@@ -45,13 +40,11 @@
       },
       {
          "name":"ArirangTV",
-         "programID":"CARI",
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/arirang.png",
          "url":"hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
       },
       {
          "name":"aljazeera",
-         "programID":"CJAZ",
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/other/al-jazeera.png",
          "url":"p+KxFUV998u9Tcawdk8qJvdsCYA74Fx3Lao0ckb0lJxiM4W9qQizfDInAVl2UCMNCFzXGz0Bimuqm4OI5q1XlTxE7IYBcv7D4ZhH7iH+l7U="
       },
@@ -62,7 +55,6 @@
       },
       {
          "name":"BBCWorldNews",
-         "programID":"BBW",
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc-world-news.png",
          "url":"2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
       },
@@ -108,7 +100,6 @@
       },
       {
          "name":"France24",
-         "programID":"CF24",
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/fr/france24.png",
          "url":"S/xCVwsAw4oYdlOS8cVVoZjEjEMBJeMUjNPIZiZNioqu+4CkaPcysEz2H7fQVrVkK7LVjuFiUKRZi2Hkkt5JsnSX3/JU5n7xGFPpofMSR34="
       },
