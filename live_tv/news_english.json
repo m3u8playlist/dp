@@ -12,6 +12,13 @@
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
          "url":"FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
       },
+       {
+         "name":"Australia Channel",
+         "logo":"https://tbivision.com/files/2014/10/Australia-channel.jpg",
+         "url":"9/MWIqOaXu0hrmiPwzHR/N8gi3WDnVMPvWudMxJZyqBECm1B9EBlNZcsMrhWXh4uTFkswnVIppfZ7XLyHrVXHEoyACIuFHgKWKbBaR8ShNMLGxuY1A63o4niiih3NOsY"
+      },
+      
+      
       {
          "name":"Newsmax",
          "logo":"https://www.rbr.com/wp-content/uploads/newsmax-logo.jpg",
@@ -168,11 +175,32 @@
          "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",
          "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjdhtAshZD+EYo5UHPVpBlMqCI1+3VPgS52qS8Wzm3fIgA=="
       },
+        {
+         "name":"DocuBox",
+         "logo":"https://1.bp.blogspot.com/-2YmzTPTsGN4/WkqGMfFeRKI/AAAAAAAAFeY/C3ABmdbo0YwyeyhSLELCEwLPonR-vt7hgCLcBGAs/s1600/logo_docubox.png",
+         "url":"OPi6fX65t83+x4d07qxYTT9xIgCQc8xIM+CN6Zm+aCebNYwE/EDHBpBJW32B9awFxe0CAADQEYLgcEV3Xd08vw=="
+      },
+        {
+         "name":"Docurama",
+         "logo":"https://media.zenfs.com/en/variety.com/691ea96ceaba088d6e5ca0975079d136",
+         "url":"zamP8kjyfpBM7ZyYv5iABLCekCdvxq2IDay39waFj1CJo6tLI7gXLhBwOZoqoFxmdnv5s2NY41LkXOKpO3xam22wvOpPXcohIA2bO4VEVGPH4bBaDSwg39j4jHdkD8pUOGMTOG28k6bqRbHpXIjPuw=="
+      },
+        {
+         "name":"Knowledge Network",
+         "logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/knowledge_network_logo.png?itok=y1ffDtQK",
+         "url":"/BBTekVGTYZs+u2kauP+NFb8CKmL72oXkKDC800WIs8cc0R0aeOmpr6mbi9bVodh2svGrVVAhEj33H9WaoezbA=="
+      },
+        {
+         "name":"UN Web TV",
+         "logo":"https://lebretonconsulting.com/wp-content/uploads/2015/03/UN-Web-TV-sq.jpg",
+         "url":"5Qt6y0KtKsFj0kd0s8pjG2PMr5kkok0eqgVEvByXeebm0cbqDmEvevloC8JPb3fRZjPWp7x3RmHqQqrQje9afOqQ9S9Y6lA/XBMRAZn9TDTIzVgTUSnGkmY5sKg5Bl1f"
+      },
       {
          "name":"h2 history",
          "logo":"https://static.iptv-epg.com/se/History2.se.png",
          "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjc8+dVBev2RSCQhUQhb9BHouyRT+Q6T4WHsjX67b6sMCw=="
       },
+      
       {
          "name":"Smithsonian Channel",
          "logo":"https://static.iptv-epg.com/us/SmithsonianChannel.us.png",
