@@ -4,7 +4,16 @@
 
 	"channels": [
 		
-
+{
+			"name":"Prive",	
+			 "logo": "http://akamai.vidz.zeecdn.com/esselnewsletter/images/article1le-81c22673e5ee7fe.jpg",
+			"url": "kc7dCvPxSAP4Bl3jlJN1qCjUz5V1l4Ct1bOCtLo2hfQzrVj79aWVuuktuQggW//l"
+		},
+		{
+			"name":"Flix",	
+			 "logo": "https://yt3.ggpht.com/a/AGF-l7_L0gv7n1bKglEpJ9H5XGSI9mvrYOq-5kF_1A=s800-c-k-c0xffffffff-no-rj-mo",
+			"url": "kc7dCvPxSAP4Bl3jlJN1qCjUz5V1l4Ct1bOCtLo2hfRgMgIYp9a6Ac6d8P65I3a9"
+		},
 		
 		
 		{
