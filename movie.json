@@ -1,0 +1,23 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "电影",
+  "type":"episode",
+	"channels": [
+  {
+  "name":"双子杀手",
+"logo":"http://ddrk.me/douban_cache/3097572.jpg",
+"url":"F9Dykzil7+wazuB8UCWMm8qUVln4rTfQLzOQOb1WjvIxjVE/QwTMjSGnMqU4nU1UmSgWXkZadmHB6ipv4MelCZrsHK4qnmy9lVvjmQ44ucL55+2RhRUCRr4GpTuu3FshXDM5uS1EWB37arV8mUIR5ol9pFNzsUcAEFVTHPpUU2c="
+},
+  {
+  "name":"爱尔兰人",
+"logo":"http://ddrk.me/douban_cache/6981153.jpg",
+"url":"+WLcloPwNOH9qpeEcVTx5vDan8NPq/W/eQ4eXt9SYYwi2sQaplD3uo8scEQEdPXeHE9vrApPWVC6nr15S37Zray7vm1zemsfc9RfFiE7dfjZrN3jODISxwBe6qGMki8SqNSAl96KxFov/S65vvIcTSu2mW1BJdVsCs8YlNucmT27JFP5DpPhYeyNfrtvqwwL"
+},
+  {
+  "name":"好莱坞往事",
+"logo":"http://ddrk.me/douban_cache/27087724.jpg",
+"url":"vo6kO51o5EQTf5Nb+POiFvDan8NPq/W/eQ4eXt9SYYwP3bGkVBfGjUe/Pyshtt/n074QAHAzfa6X0mzEwMh3WnWWEB2v50YzkIWCQOuR4YlX0MQKeVKWeSvf0vcvj7KSllD96UV3DUjzCzBBbxJSvrLFtpT7lUkfWDPncNEW5ykAsFinc0e5FeQsN3OzDrZv"
+}
+  
+  ]
+  }
