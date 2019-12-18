@@ -2,7 +2,12 @@
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
 	"title": "人文自然",
 	"channels": [
-
+ {
+         "name":"Animal Planet",
+         "logo":"https://static.iptv-epg.com/us/AnimalPlanet.us.png",
+         "url":"0MaHedYuPR3qtz/bdcVH0IWwBK5CVwiVpAz22g7HxLc6D5QW78QJqIUxwLUviXBA+W/qcza2hm7zeRnFIoAQQQ=="
+      },
+		 
       {
          "name":"National Geo",
          "logo":"https://static.iptv-epg.com/gb/NatGeo.uk.png",
