@@ -3,16 +3,15 @@
     "title": "[TV][Live][澳洲]", 
 	"type":"tv",
     "channels": [
-        {
-            "name": "2UE SYDNEY", 
-            "url": "0VJ0/CIHB37kzsbTTLmoyUJQx2crr4nxmD94y6zIQRs2JY+rldOVVYibkJHQslEltYcK1YudDHQykeS2Wi6WWUfrLuINDXc+0GNXl2ETH+I="
-        }, 
+        
          {
             "name": "7 HD", 
+	"logo":"https://i.malimarcdn.com/premium-thai7HDF.jpg",
             "url": "tcZ0+Mvn54FEtLxTLfxim7tebAQTvbBDqFXXKD/9PV1Uap1ObXIYxSZsaHsxZMP38NYxGkVv5L7awcdZjaFz88hBn3vs7UE5jSq95JEIQIg="
         }, 
          {
             "name": "abc news", 
+
             "url": "FFWiSG4xI9H/Aj4MT3zN4tg3tog6WTWCSr79jMmjvkvKCTcb576WYezFCgtuvvW6e8kPjILJzFatzFXjXfs8LesVc0LX7+9qP85BZ+2ARn6ZHKL7KvYPNLILVHKj5bUqJj9ybYfAT7/7RJ4q7rcvVQ=="
         }, 
          {
