@@ -22,7 +22,21 @@
          "logo":"https://tbivision.com/files/2014/10/Australia-channel.jpg",
          "url":"9/MWIqOaXu0hrmiPwzHR/N8gi3WDnVMPvWudMxJZyqBECm1B9EBlNZcsMrhWXh4uTFkswnVIppfZ7XLyHrVXHEoyACIuFHgKWKbBaR8ShNMLGxuY1A63o4niiih3NOsY"
       },
-      
+      {
+         "name":"Cheddar Big News",
+         "logo":"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg",
+         "url":"V1wRMopuHn5cAOz3VSRRrGQB791ElVrBjmcPvLWrX8Z+yKu6Xz76v/ubQAhwuvXG"
+      },
+      {
+         "name":"cnn",
+         "logo":"https://github.com/m3u8playlist/tvlogo/blob/master/tv/us/cnn.png?raw=true",
+         "url":"Hp4mRXbjTrbI0IEcbCbWYUsnD0vCl0122deFf+EeCf7kMWWohqFcgfiVZeHaj240fBvFNsxgtZCbTwNiveL6HL4n5KPZHx6SR3kuSfDLQq0Jcq0nOCh/VVcdGwIv1elzNwmMAG+efVVoMtUQgbUOpfMTVfjPQlpF+0rGxg8pMIWUIe1jFyGypazN/cWa2AAoKMlaPgw1jaNq823ZU3RZHC7LXpZUPKAAH1ZIJUd7zBXWDmBlyNuvsCdpZ/6H2xIhN/xSGT96J154mHdQ37kvI5i3fE5OY6SALrH8zXZPvCa79PAudAnfbasSP3dbpzGin+V/xKXhVhBykGzyjEiQ/wo4e/x/zN//asM4ns28gJD5M4av4+S1f8NuDMKylyV7/l2Lwc/wPMishK8LCVjkHVmcKb8royF2zdHkgUbANz6pvQDUjUnH/2g5mG6PacTqyjiDvb3mkwCvMLxtBrpB3sPahDsho9Y1l1pRB4jBPtRW6TNvIKMcB+d6lrfr7hV6KkSxH2eRzqzSfI8dMJvpoJ39fG4zmwHBA3A86gmDT9ZTehgV+wYlOGzP2RbGGLrgovGmiyy+kjBqjHXRh83zxR/zdTdFMneh//G/b+vUQX4="
+      },
+      {
+         "name":"cbsn",
+         "logo":"https://github.com/m3u8playlist/tvlogo/blob/master/tv/us/cbs-news.png?raw=true",
+         "url":"lCG8tmmzCo8yg0hsf+LtZMrZ+3ksuGhtwRgnAx8drzNmaQklzEYbAuEARejDsYkC6h7UyPJinqNZ7yBwIGhDxwXziF+565aGiqNc3F2Ur6/VLantJSYMsdOV6n2E/UPa+/LLDwbNwkDo6SlaTC5BjZaqf+yDMSNFAeWXYTamz3Zl3PalfWRvDrV0Tm/7wPBS"
+      },
       
       {
          "name":"Newsmax",
@@ -39,6 +53,16 @@
          "name":"3 news",
          "logo":"https://pbs.twimg.com/profile_images/961660243691343873/sXvzW-P0_400x400.jpg",
          "url":"KQt0lmQ18EbFXNeE+2E4CYl5lIn67WUqioVWT+bQiPpjoK2YrhxI8LGDVqx8mjlA7RBUfTtpmK5nLmQ60xVFe3alRx54+d2+iNRD0k5TZnw+/JdYgwKmXGvZMPfkoACN"
+      },
+      {
+         "name":"C-NET",
+         "logo":"http://images.pluto.tv/channels/56283c8769ba54637dea0464/featuredImage.jpg",
+         "url":"Hp4mRXbjTrbI0IEcbCbWYUsnD0vCl0122deFf+EeCf7kMWWohqFcgfiVZeHaj240PSnMgTohRghDondnDqu+0xLypAI+/r0zEwZudmxZh9ZXoYaZAGuOyiEmGA4HRJ2zNwmMAG+efVVoMtUQgbUOpfMTVfjPQlpF+0rGxg8pMIWUIe1jFyGypazN/cWa2AAoKMlaPgw1jaNq823ZU3RZHC7LXpZUPKAAH1ZIJUd7zBXWDmBlyNuvsCdpZ/6H2xIhN/xSGT96J154mHdQ37kvI5i3fE5OY6SALrH8zXZPvCa79PAudAnfbasSP3dbpzGin+V/xKXhVhBykGzyjEiQ/wo4e/x/zN//asM4ns28gJD5M4av4+S1f8NuDMKylyV7/l2Lwc/wPMishK8LCVjkHVmcKb8royF2zdHkgUbANz6pvQDUjUnH/2g5mG6PacTqyjiDvb3mkwCvMLxtBrpB3sPahDsho9Y1l1pRB4jBPtRW6TNvIKMcB+d6lrfr7hV6KkSxH2eRzqzSfI8dMJvpoJ39fG4zmwHBA3A86gmDT9ZTehgV+wYlOGzP2RbGGLrgovGmiyy+kjBqjHXRh83zxR/zdTdFMneh//G/b+vUQX4="
+      },
+      {
+         "name":"The Feed",
+         "logo":"http://images.pluto.tv/channels/54173136ff9fba68282f4d53/featuredImage.jpg",
+         "url":"Hp4mRXbjTrbI0IEcbCbWYUsnD0vCl0122deFf+EeCf7kMWWohqFcgfiVZeHaj240fBvFNsxgtZCbTwNiveL6HI7D/rUeKrnNn0VFcQLTkscMER+WXUudDNbrQNXW7cfDNwmMAG+efVVoMtUQgbUOpfMTVfjPQlpF+0rGxg8pMIWUIe1jFyGypazN/cWa2AAoKMlaPgw1jaNq823ZU3RZHC7LXpZUPKAAH1ZIJUd7zBXWDmBlyNuvsCdpZ/6H2xIhN/xSGT96J154mHdQ37kvI5i3fE5OY6SALrH8zXZPvCa79PAudAnfbasSP3dbpzGin+V/xKXhVhBykGzyjEiQ/wo4e/x/zN//asM4ns28gJD5M4av4+S1f8NuDMKylyV7/l2Lwc/wPMishK8LCVjkHVmcKb8royF2zdHkgUbANz6pvQDUjUnH/2g5mG6PacTqyjiDvb3mkwCvMLxtBrpB3sPahDsho9Y1l1pRB4jBPtRW6TNvIKMcB+d6lrfr7hV6KkSxH2eRzqzSfI8dMJvpoJ39fG4zmwHBA3A86gmDT9ZTehgV+wYlOGzP2RbGGLrgovGmiyy+kjBqjHXRh83zxR/zdTdFMneh//G/b+vUQX4="
       },
       {
          "name":"ABC 7 WWSB",
