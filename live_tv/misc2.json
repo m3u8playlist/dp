@@ -15,6 +15,12 @@
 
             "url": "http://liveali.ifeng.com/live/FHZW.flv"
         }, 
+	     {
+            "name": "tvb财经台",
+
+            "url": "rtmp://202.69.69.180:443/webcast/bshdlive-pc"
+        }, 
+	 
           {
             "name": "rtmp",
 
