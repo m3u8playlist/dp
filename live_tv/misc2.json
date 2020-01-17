@@ -16,25 +16,11 @@
             "url": "http://liveali.ifeng.com/live/FHZW.flv"
         }, 
           {
-            "name": "翡翠台",
+            "name": "rtmp",
 
-            "url": "rtmp://rtmp.live.xylive.tv/live/00fc"
+            "url": "rtmp://media3.sinovision.net:1935/live/livestream"
         }, 
-          {
-            "name": "J2",
-
-            "url": "rtmp://rtmp.live.xylive.tv/live/0038"
-        }, 
-          {
-            "name": "无线新闻",
-
-            "url": "rtmp://rtmp.live.xylive.tv/live/00wxxw"
-        }, 
-          {
-            "name": "有线新闻",
-
-            "url": "rtmp://rtmp.live.xylive.tv/live/youxianxinwen"
-        }, 
+  
           {
             "name": "TVB星河",
 
