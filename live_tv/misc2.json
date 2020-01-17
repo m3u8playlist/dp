@@ -1,0 +1,49 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "频道杂集2",
+"type":"tv",
+	"channels": 
+  
+  [
+   {
+            "name": "凤凰资讯",
+
+            "url": "http://liveali.ifeng.com/live/FHZX.flv"
+        },
+          {
+            "name": "凤凰中文",
+
+            "url": "http://liveali.ifeng.com/live/FHZW.flv"
+        }, 
+          {
+            "name": "翡翠台",
+
+            "url": ",rtmp://rtmp.live.xylive.tv/live/00fc"
+        }, 
+          {
+            "name": "J2",
+
+            "url": "rtmp://rtmp.live.xylive.tv/live/0038"
+        }, 
+          {
+            "name": "无线新闻",
+
+            "url": "rtmp://rtmp.live.xylive.tv/live/00wxxw"
+        }, 
+          {
+            "name": "有线新闻",
+
+            "url": "rtmp://rtmp.live.xylive.tv/live/youxianxinwen"
+        }, 
+          {
+            "name": "TVB星河",
+
+            "url": "http://flv.live.xylive.tv/live/0040.flv"
+        },
+         {
+            "name": "天映频道",
+
+            "url": "http://flv.live.xylive.tv/live/0050.flv"
+        }
+  ]
+  }
