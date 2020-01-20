@@ -1,0 +1,90 @@
+ {
+    "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+    "title": "港台[flv格式]",
+    "type":"tv",
+    "channels": 
+  
+ 
+ [
+ {
+       
+        "name": "TVB翡翠",
+        "url": "http://pull.gzbqd.com/live/9def9ba42435bf973b2d22db73ac0d05.flv"
+    }, {
+        
+        "name": "TVBJ2",
+        "url": "http://hls.ws.anyrtc.io/live/b96b08925c67579bc93901ef9a2dcb79.flv"
+    }, {
+       
+        "name": "TVBJ5",
+        "url": "http://hls.ws.anyrtc.io/live/53c84ad95038dd94bb66e754b6486d2b.flv"
+    }, {
+       
+        "name": "TVB明珠",
+        "url": "http://hls.ws.anyrtc.io/live/643fd002cee1e83b18a65265c5c8dfc6.flv"
+    }, {
+       
+        "name": "TVB新闻",
+        "url": "http://hls.ws.anyrtc.io/live/78c9ba83780ef89f1008f9838ede078f.flv"
+    }, {
+       
+        "name": "中视",
+        "url": "http://hls.ws.anyrtc.io/live/aa4bb6f13a9138a3e21f36cb3dfcbb3c.flv"
+    }, {
+       
+        "name": "华视",
+        "url": "http://hls.ws.anyrtc.io/live/370f7dbe364aa3c12e7a04ed4c2a6c22.flv"
+    }, {
+       
+        "name": "台视",
+        "url": "http://hls.ws.anyrtc.io/live/fdd20b76809c9f671fcd598693fbb4b9.flv"
+    }, {
+        
+        "name": "民视",
+        "url": "http://hls.ws.anyrtc.io/live/0958b916092be8623f538ceecf36470e.flv"
+    }, {
+       
+        "name": "八大第一",
+        "url": "http://hls.ws.anyrtc.io/live/c81706470a13d0e30c39db85fdeee09d.flv"
+    }, {
+       
+        "name": "八大综合",
+        "url": "http://hls.ws.anyrtc.io/live/7cbc1d385e587cad37b4bc0976eb03c0.flv"
+    }, {
+        
+        "name": "八大戏剧",
+        "url": "http://hls.ws.anyrtc.io/live/5e2312bd8262d8d177d0b26a3df32762.flv"
+    }, {
+        
+        "name": "东森新闻",
+        "url": "http://hls.ws.anyrtc.io/live/1023f58cd548eecdc8aba9ba68734162.flv"
+    }, {
+       
+        "name": "中天新闻",
+        "url": "http://hls.ws.anyrtc.io/live/439c7f366ae0ce00901b485f31b780d7.flv"
+    }, {
+      
+        "name": "寰宇新聞",
+        "url": "http://hls.ws.anyrtc.io/live/06285d4ddce1a7a13bfc579b5029e38c.flv"
+    }, {
+       
+        "name": "TVBS新聞",
+        "url": "http://hls.ws.anyrtc.io/live/48ee6127168c2c4800fe6ba70b509c0d.flv"
+    }, {
+      
+        "name": "HBO",
+        "url": "http://hls.ws.anyrtc.io/live/44a3a318f54746d538c9e5f80d79b741.flv"
+    }, {
+       
+        "name": "美亚电影",
+        "url": "http://hls.ws.anyrtc.io/live/cfdd449b2d56826d3e2340a3a59b90b0.flv"
+    }, {
+       
+        "name": "星卫电影",
+        "url": "http://hls.ws.anyrtc.io/live/7123b70ad6267e61a2dd6f2d8ad545a6.flv"
+    }, {
+       
+        "name": "好莱坞电影",
+        "url": "http://hls.ws.anyrtc.io/live/3c6821cd7bad7d57f67b945e1cbbf8fd.flv"
+    }]
+  }
