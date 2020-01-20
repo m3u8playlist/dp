@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=fc2d24b23601213fcf334ed464e636f8/11139f25bc315c6045957b8482b1cb1348547742.jpg" group-title="电影",黑莓电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=73d41c5a2e3fb80e0cd161df06d02ffb/68c8ba315c6034a82ce2a8eac413495408237642.jpg" group-title="电影",黑莓动画
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gacgtsxv1oj206w02b0sp.jpg" group-title="电影",黑莓电竞
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvboji.jpg" group-title="电影",Newtv-搏击
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvgongfu.jpg" group-title="电影",Newtv-中国功夫
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 tvg-logo="https://wx2.sinaimg.cn/large/796c550dly1gacic2hzitj20b405kaai.jpg" group-title="电影",Newtv-动作电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/large/796c550dly1gacic2b4gzj20b405kwez.jpg" group-title="电影",Newtv-炫舞未来
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvlama.jpg" group-title="电影",Newtv-潮妈辣婆
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 tvg-logo="https://wx2.sinaimg.cn/large/796c550dly1gacic2mw2bj20b405kt96.jpg" group-title="电影",Newtv-古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvhaiwai.jpg" group-title="电影",Newtv-海外剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiating.jpg" group-title="电影",Newtv-家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiankang.jpg" group-title="电影",Newtv-健康有约
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvnongye.jpg" group-title="电影",Newtv-农业致富
+http://gslbserv.itv.cmvideo.cn:80/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6193684637634073625&owchid=ystenlive&owsid=7951969344462094324
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="电影",Newtv-金牌综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvxiju.jpg" group-title="电影",Newtv-爱情喜剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjingsong.jpg" group-title="电影",Newtv-惊悚悬疑
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjunlv.jpg" group-title="电影",Newtv-军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg" group-title="电影",Newtv-精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="电影",Newtv-精品记录
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg" group-title="电影",Newtv-精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="电影",Newtv-军事评论
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdapian.jpg" group-title="电影",Newtv-明星大片
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJZY.jpg" group-title="电影",Newtv-超级综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJTY.jpg" group-title="电影",Newtv-超级体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJDY.jpg" group-title="电影",Newtv-超级电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJDSJ.jpg" group-title="电影",Newtv-超级电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
