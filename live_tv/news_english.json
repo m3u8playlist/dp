@@ -13,6 +13,11 @@
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/abc-news.png",
          "url":"ttU+mRVCSQ7X6Vz+lTA07aSLWSZ/sGENJwWVbPX+EjI5Sb6uqFiTFL78J5xnP32c2VNiw341MRVLgAqfrEphp/Y6viiOi5c/IEuoSGZd5eA="
       },
+        {
+         "name":"CBS News",
+         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
+         "url":"+zorHGbsdH0eih1GDhx1PUJQx2crr4nxmD94y6zIQRsvEymuVfG3asnij1qgYr+NbAHanucmg9oBdmp1Rk4VOg=="
+      },
        {
          "name":"Australia Channel",
          "logo":"https://tbivision.com/files/2014/10/Australia-channel.jpg",
@@ -95,11 +100,7 @@
          "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/bbc_news.png",
          "url":"aZhuSGijTcNz7maX2hHShb3T/zvm+/Blhnv40D0VYMwwNuXYjrV9X+hZs4U90p+3RRHteqlCh5jFhpX1RjIf/hH/e0fvU+1PPyJgMZMoTBBZ1EL/lTWy9xFM2jVIOj4oBTTzd9S6wsMz1Ly70RMigQ=="
       },
-      {
-         "name":"CBS News",
-         "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
-         "url":"lCG8tmmzCo8yg0hsf+LtZMrZ+3ksuGhtwRgnAx8drzNmaQklzEYbAuEARejDsYkC6h7UyPJinqNZ7yBwIGhDxwXziF+565aGiqNc3F2Ur6/VLantJSYMsdOV6n2E/UPa+/LLDwbNwkDo6SlaTC5BjZaqf+yDMSNFAeWXYTamz3Zl3PalfWRvDrV0Tm/7wPBS"
-      },
+    
 
       {
          "name":"CNBC World",
