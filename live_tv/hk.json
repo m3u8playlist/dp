@@ -16,6 +16,27 @@
 			"url": "5DP9i2a76QuvYGB3UlpL2UE0eBxDAHzP089usekDHcqRcFhXP/AHSTjNd9wsjhe1+W/qcza2hm7zeRnFIoAQQQ=="
 		},
 		{
+			"name":"有綫新聞台",
+			"logo":"http://img1.gtimg.com/ent/pics/hv1/19/182/2192/142581229.png",
+			"url": "FefJ/PvVvOFRblq9N4XPamGShbKeKl+2dz156SyoUC7UFFHE9ArK24/TX7eiU8x5yM1YE1EpxpJmObCoOQZdXw=="
+		},
+		{
+			"name":"有綫新聞台",
+			"logo":"http://img1.gtimg.com/ent/pics/hv1/19/182/2192/142581229.png",
+			"url": "FefJ/PvVvOFRblq9N4XPamGShbKeKl+2dz156SyoUC5Sf3HKT787G/cgRISETRZGyM1YE1EpxpJmObCoOQZdXw=="
+		},
+		{
+			"name":"无线新闻台",
+			"logo":"https://cn.heytv.org/wp-content/uploads/2018/12/1-1P40ZG925S9.jpg",
+			"url": "yxPNfvqT/0Qw81LUsVqOaKIcQLmwLKpZKoE/Vfqafz7jwcX1VI/6WVuvR24Ibl2Z2XuY8pBa1KPdpaym8bnVtQ=="
+		},
+		{
+			"name":"英皇娱乐",
+			"logo":"https://www.czlogo.com/uploads/allimg/2018/12/17/1-1Q21F14H50-L.png",
+			"url": "FefJ/PvVvOFRblq9N4XPamGShbKeKl+2dz156SyoUC64JbhUBysIWHc0egA4cg/6XpgvD3jfw4j897kPUwOZEQ=="
+		},
+		
+		{
 			"name":"tvb pearl",
 			"logo":"http://img1.allchina.cn//exchange/zhuanmai/userupfile/images/200972787533653195.jpg",
 			"url": "tBukkYe4TA631IpLtvJTWPxgZ3o/EK6GyqXU6UU2mUhyxnm98VSWY5Hlc6fYu4SqyM1YE1EpxpJmObCoOQZdXw=="
@@ -56,25 +77,31 @@
 		},
 		
 		{
-			"name": "凤凰中文",
+			"name": "凤凰中文官方",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-cn.png",
-			"url": "JqvaQbngKyoQ48JIdtJkMrb+j9ULLX7yWuTt0GoGMdQbkv4q+KGGkdT/wJe5n9JWrs6mcPZjhqpzwTpQnzXGrcjNWBNRKcaSZjmwqDkGXV8="
+			"url": "7BSXmjuxnkCmizV70+P2TpRpgLLoBw/S4ntP564AoxttTSOUEzVCKV0/EIMkaOTw"
 		},
 		{
-			"name": "凤凰中文",
+			"name": "凤凰中文HD(杭州移动)",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-cn.png",
-			"url": "O2DwMQjwK7TBZNStT8iAsqhtyAmc4E3loB1lD7zJnSO2/o/VCy1+8lrk7dBqBjHUksoFpxLIXsBnR3LGsDk7/7V1iPyhcKbJzPWdHVSSIPk="
+			"url": "X4Z1NJURiQ9z+vO8bQNm7+3o1/Pngkdnp7Pvkw5LKPwZSc55hQ4IWANpRENev0ttPL0Q8LcJxB1TOLV+cVJkXw=="
+		},
+		{
+			"name": "凤凰资讯官方",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-zixun.png",
+			"url": "7BSXmjuxnkCmizV70+P2TpRpgLLoBw/S4ntP564AoxuPzrQdz4PRFykPLqFdOcH4"
 		},
 		{
 			"name": "凤凰资讯",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-zixun.png",
-			"url": "Yzf42GGmRNmDxc8qSGvTx6s7Rcz1RMmh7/n91ebQzvxslV2ubG0iD3t8MRCn2gra17q6Xrozlk/wRD18AsJd/g=="
+			"url": "qXCj3oRbrbWBLmve8lBYDm+Sw1SAOxQ0TSQsSID1T6UrNK9LCeILCxhEoD1IS4R3h1yz/ZQLyTC1zmkdWf4XVHNYUgLJTZxqc1XfqtNE8Mg="
 		},
 		{
-			"name": "凤凰资讯",
+			"name": "凤凰资讯HD(杭州移动)",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-zixun.png",
-			"url": "O2DwMQjwK7TBZNStT8iAsqhtyAmc4E3loB1lD7zJnSO2/o/VCy1+8lrk7dBqBjHUksoFpxLIXsBnR3LGsDk7/2SfI9c98eahNjhXRVEaLZs="
+			"url": "X4Z1NJURiQ9z+vO8bQNm7+3o1/Pngkdnp7Pvkw5LKPwYB6brTUTwJghNkdmmuYxwXFj7fKA3YykiZ8SOVx78UA=="
 		},
+		
 		{
 			"name": "凤凰香港",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/hk/phoenix-hk.png",
