@@ -1,0 +1,23 @@
+{
+	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+    "title": "各地景观直播", 
+	"type":"tv",
+    "channels": [
+        
+         {
+            "name": "浙江舟山东极岛", 
+	          "logo":"http://p1.img.cctvpic.com/photoworkspace/2019/01/29/2019012916365855527.jpg",
+            "url": "AjL4felJkdtzzS+YOp2EgNzUrbwP3UHyR4B3UbWVjrgtyvPjU9g3B4EJ2zLsEbxfmWFA6imVksSkxzcL1XjetA=="
+        }, 
+         {
+            "name": "郑东新区千玺广场", 
+	          "logo":"https://p1.img.cctvpic.com/photoworkspace/2020/01/14/2020011415122437314.jpg",
+            "url": "NqXlqm2P3S8yomj+sgU4yk+n+1Ge2O2KncqT/ZkasFI5tcNVop0QXYAzkkYJFy6MekPu+Jk4ikRIVkrmdc2okzt1sPSTX4FQIm/Vn5hqmJ0="
+        }
+        
+
+        
+        
+        
+        ]
+        }
