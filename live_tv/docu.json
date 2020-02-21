@@ -60,31 +60,26 @@
 	        "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/全纪实.png",
          "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUA5efX1GMUFZXj5IjMGI2wruZF8L8ipnwLM/Dn1njwPM="
       },
-       {
-         "name":"上海纪实",
-	       "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
-         "url":"3NopE6OIC8LaiL+twfd3mAtMffckUvjq7ajLiARM1qxDSdvD7BRFgntjG0xnMAlUhQyKy9MXuNpC6lFSjtSxp7uZF8L8ipnwLM/Dn1njwPM="
-      },
-      {
+    {
             "name": "上海纪实",
                "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
-            "url": "http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8"
+            "url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQujqrcBA4InAS9IlWGROkWmPL0Q8LcJxB1TOLV+cVJkXw=="
          },
          {
             "name": "上海纪实",
             "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/上海纪实.png",
-            "url": "http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8"
+            "url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQspom/lU5LE9lkPgalzakp9PL0Q8LcJxB1TOLV+cVJkXw=="
          },
 
          {
             "name": "北京纪实",
             "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/北京纪实.png",
-            "url": "http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8"
+            "url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtb3EsM8y2UbnPUnmplVChCUyCuQPIWS0ikQMrh2KQxyw=="
          },
          {
             "name": "北京纪实",
             "logo": "https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/北京纪实.png",
-            "url": "http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8"
+            "url": "WgrgoHLs4+eEearsKLAydSTpkDxocrnDebPSq8xADQtoVAsubd7EY2IvV6FgI/MGa/7cr8c7mEjngzlO6+QaFw=="
          }
   
   ]
