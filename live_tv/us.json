@@ -13,10 +13,7 @@
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cnbc.png",
 			"url": "MJCqZWwPfi+DDa6tnkh9MyaftIKZr12K9Ewey+ySG4QVoTS9s5yH0w+5bUCW7cnFyY2UPPjbYW103LZLpxsAYun/FhpeK0daNUaWwyhKTWi7JFP5DpPhYeyNfrtvqwwL"
 		},
-		{
-			"name": "POP USA",
-			"url": "8YZ/6CSvr4TpQMBsBK3O1utnh4duaVmsZ0P1MS2uKG7CxUklBDvDz/SS84GH6iL38l+yV0TDJwfH5EsLO/MHuoN6gU/9pFuXkxx67iooczr87E+72jmFudzakgZ8YcHM"
-		},
+		
 		{
 			"name": "NBC",
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/nbc.png",	
@@ -26,10 +23,7 @@
 			"name": "SPORTSMAX",
 			"url": "rKo83gYTdsxj0/HdQDx1dz6ab2G9BBzpJHTrUlBOOb4qUKSF3M2DLhMu6CFN0rdsZ17DvwaeE6ob2aY8DIZPAg=="
 		},
-		{
-			"name": "BYU TV",
-			"url": "xO7edENYRJu1/Mau0s6ebrOs0qK85aajiRmHM01zCGwKyVXH1DKpLMgk3mI5ZvQSoPSfipYNa/r8+bL5ffPeI+FY0ipoYt0NoEPjop71LKg="
-		},
+		
 		
 
 		{
@@ -37,11 +31,7 @@
 			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
 			"url": "+zorHGbsdH0eih1GDhx1PUJQx2crr4nxmD94y6zIQRsvEymuVfG3asnij1qgYr+NbAHanucmg9oBdmp1Rk4VOg=="
 		},
-		{
-			"name": "CBS News 2",
-			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/us/cbs-news.png",
-			"url": "zEthSs5p5SYSpVxuGKZd5vw8/h/8uJWKco47AwVlxWVPzvur/pTwykBcXVk+5BUlxe0CAADQEYLgcEV3Xd08vw=="
-		},
+		
 
 		{
 			"name": "ABC News",
