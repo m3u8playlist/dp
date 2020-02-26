@@ -2,11 +2,7 @@
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
 	"title": "人文自然",
 	"channels": [
-{
-			"name":"动物星球",
-			"logo":"https://www.czlogo.com/uploads/image/2018/10/30/15408329555973.jpg",
-			"url": "qXCj3oRbrbWBLmve8lBYDipDxXNVBLzRiOFKzV2Vxc+UxibZMHrkVzzdgRQ1UFhiap6QZVMyZ5USglUTpydiwMjNWBNRKcaSZjmwqDkGXV8="
-		},
+
 		 
       {
          "name":"National Geo",
@@ -22,6 +18,18 @@
          "name":"National Geo People",
          "logo":"https://www.4rfv.com/4rfv_news_images/foxinternational_scripts/N1FCBBO1CGOQ_0.jpg",
          "url":"2oSg60oD8bOix1SzXvxoL0Jz2uh4urxoKTtCZbpSjjdhtAshZD+EYo5UHPVpBlMqCI1+3VPgS52qS8Wzm3fIgA=="
+      },
+		  {
+         "name":"狗狗宠物",
+         "url":"Yb9uBbc+g1dVWFTGA1l7x/jm++r20CU620WrQUxiyOH/a3urQZIhaSyzBTp7JwidFu4qCcvmh7EvupUzS4QygLskU/kOk+Fh7I1+u2+rDAs="
+      },
+        {
+         "name":"超级游艇",
+         "url":"v6Jtg5aPAChsXf6fj1gTopbwIsbmncl/Z5szC+m8NJSXQmn/DpUIdrPH7oAKr2jKGeIFv6NJHcIHPcZeRTtJUQ=="
+      },
+          {
+         "name":"动物世界",
+         "url":"ckiXZn4bQ+Xq334UM6tNv72VzqQjdX7IGNLtnDb6EJtXCXEQSw+Nng3Ew5FsR0bbuyRT+Q6T4WHsjX67b6sMCw=="
       },
         {
          "name":"Weather Channel",
