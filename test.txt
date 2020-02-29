@@ -13,4 +13,4 @@ urlElement=a
 urlElementAttr=href
 logo_pre=https://iwant-sex.com
 url_pre=https://iwant-sex.com
-realurl_regex=source src=\\\"([^\\\"]+)
+realurl_regex=source src="([^"]+)
