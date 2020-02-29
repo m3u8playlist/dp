@@ -1,15 +1,15 @@
-name=测试以下
+name=测试
 type=lanscape
 url1=https://iwant-sex.com/videos/?sortby=newest
 url2_pre=https://iwant-sex.com/videos/?sortby=newest&page=
 url2_suffix=none
 divcontent=.container .row .col-md-9 .row
 divitems=div.well
-titleElementRegex=img
+titleElement=img
 titleElementAttr=title
-logoElementRegex=img
+logoElement=img
 logoElementAttr=src
-urlElementRegex=a
+urlElement=a
 urlElementAttr=href
 logo_pre=https://iwant-sex.com
 url_pre=https://iwant-sex.com
