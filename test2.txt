@@ -17,7 +17,7 @@
 # realurl_regex，播放页面里的真实地址正则表达式
 
 
-name=测试
+name=测试2
 type=lanscape
 url1=https://iwant-sex.com/videos/?sortby=newest
 url2_pre=https://iwant-sex.com/videos/?sortby=newest&page=
