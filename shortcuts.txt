@@ -1,4 +1,0 @@
-name="test1"
-url="www.google.com"
-name="test2"
-url="www.baidu.com"
