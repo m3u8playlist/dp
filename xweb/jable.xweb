@@ -1,0 +1,26 @@
+display_name=jable|最新更新
+type=landscape
+cat=av
+page_number=177
+page1_url=https://jable.tv/latest-updates/1/
+page2_url_pre=https://jable.tv/latest-updates/
+page2_url_suffix=/
+first_container_select=.site-content
+first_items_select=div.col-6
+title_select=h6 a
+title_select_attr=none
+logo_select=.img-box img
+logo_select_attr=data-src
+first_url_select=h6 a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=none
+realurl_regex=rel="preload"\s*href="([^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none

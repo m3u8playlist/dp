@@ -1,0 +1,39 @@
+display_name=NYG|最新更新
+type=landscape
+cat=av
+page_number=414
+page1_url=https://nyg520.com
+page2_url_pre=https://nyg520.com/?page=
+page2_url_suffix=none
+first_container_select=.videos .flex-row .content
+first_items_select=.grid_item
+title_select=.description
+title_select_attr=none
+logo_select=img
+logo_select_attr=data-src
+first_url_select=.link
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=https://nyg520.com
+realurl_regex=value="(http[^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=https://nyg520.com/search/?searchtypeval=&keyword=`
+search_url2=https://nyg520.com/search/?page=^&searchtypeval=&keyword=`
+search_first_container_select=.videos .content
+search_first_items_select=.grid_item
+search_title_select=.link .description
+search_title_select_attr=none
+search_logo_select=img
+search_logo_select_attr=data-src
+search_first_url_select=.link
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=https://nyg520.com

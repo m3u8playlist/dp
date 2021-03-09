@@ -1,0 +1,40 @@
+display_name=嘀哩哩
+type=portrait
+cat=episode
+page_number=100
+page1_url=http://www.dililitv.com/film
+page2_url_pre=http://www.dililitv.com/film/page/
+page2_url_suffix=none
+first_container_select=.list-content
+first_items_select=.u-movie
+title_select=h2
+title_select_attr=none
+logo_select=.list-poster img
+logo_select_attr=data-original
+first_url_select=a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=none
+realurl_regex=var vid\s*=\s*'([^']+)
+second_flag=yes
+second_container_select=.vlink
+second_items_select=a
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=id
+second_url_pre=https://www.dililitv.com/vplay/
+second_url_suffix=.html
+search_flag=yes
+search_url=http://www.dililitv.com/?s=`
+search_url2=http://www.dililitv.com/page/^?s=`
+search_first_container_select=.list-content
+search_first_items_select=.u-movie
+search_title_select=h2
+search_title_select_attr=none
+search_logo_select=.list-poster img
+search_logo_select_attr=data-original
+search_first_url_select=a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=none

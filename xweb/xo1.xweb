@@ -1,0 +1,39 @@
+display_name=xo娱乐网|最新
+type=landscape
+cat=av
+page_number=714
+page1_url=https://xo104.com/category/al
+page2_url_pre=https://xo104.com/category/al/page/
+page2_url_suffix=none
+first_container_select=ul.b2_gap 
+first_items_select=li
+title_select=h2
+title_select_attr=none
+logo_select=img
+logo_select_attr=src
+first_url_select=h2 a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=none
+realurl_regex=source src="([^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=https://xo104.com/?s=`&type=post
+search_url2=https://xo104.com/page/^?s=`&type=post
+search_first_container_select=ul.b2_gap
+search_first_items_select=li
+search_title_select=h2
+search_title_select_attr=none
+search_logo_select=img
+search_logo_select_attr=src
+search_first_url_select=h2 a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=none

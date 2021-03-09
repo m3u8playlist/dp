@@ -1,0 +1,39 @@
+display_name=9453
+type=landscape
+cat=av
+page_number=92
+page1_url=https://9453.me/videos?o=mr&page=1
+page2_url_pre=https://9453.me/videos?o=mr&page=
+page2_url_suffix=none
+first_container_select=.container .row .row
+first_items_select=.col-sm-6
+title_select=.video-title
+title_select_attr=none
+logo_select=img
+logo_select_attr=src
+first_url_select=a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=https://9453.me
+realurl_regex=source src="([^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=https://9453.me/search/videos?search_query=`
+search_url2=https://9453.me/search/videos?search_query=`&page=^
+search_first_container_select=.container .row .row
+search_first_items_select=.col-sm-6
+search_title_select=.video-title
+search_title_select_attr=none
+search_logo_select=img
+search_logo_select_attr=src
+search_first_url_select=a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=https://9453.me
