@@ -2,9 +2,10 @@
 
 # app下载和讨论
 
-介绍:https://site.dotplayer.vercel.app
+介绍: https://site.dotplayer.vercel.app
 
-app:https://apps.apple.com/do/app/id1483907624
+下载: https://apps.apple.com/do/app/id1483907624
 
-tg:https://t.me/dotplayer
+tg讨论组: https://t.me/dotplayer
 
+## 本app只有iOS版，没有安卓版
