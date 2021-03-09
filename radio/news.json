@@ -1,0 +1,88 @@
+{
+"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+"title":"英语新闻电台",
+"type":"radio",
+"channels":[
+{"name":"NPR",
+"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/NPR.png",
+"url":"Oa9HywpqDa2myUgVBHfc28cGk1wjK0NTZTJMemwfnnDRPRG1SlXalzfPp5fdWop7"},
+{"name":"CSPAN",
+"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/CSPN.jpg",
+"url":"tY0naac752SeTFFRgBbJFMO/FbvVNxuvbZmBexHlaTYiW6eIp1qFWmPHY1U3PsFx4Bncxki4LrA9Y+DRyoepgA=="},
+{"name":"WNYC",
+"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/WNYC.png",
+"url":"9ciIAnJe5lpvVZVE6dx218QUJp78GsryKFTnBujlZT22gdy7T/1yzicvzlDum3wC"},
+{"name":"CNA938",
+"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/938.jpg",
+"url":"2M3GTSjfL+BX/tGkgKQTJsO/FbvVNxuvbZmBexHlaTZi1uunnWg0RH8atCgr8rOUmeksmaU/qyWTYco6fcg5eA=="},
+{"name":"MSNBC",
+"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/MSNBC.jpg",
+"url":"lY2laxeuAyUhzELxT4lC7r/dluQ1xCAxIwz4vzApesNinOIuvnL9riK4ssSOUl5GcLEd4SPhkN/GSOLhlXa/oA=="},
+{"name":"New Zealand National",
+"logo":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/zdcW4dPE8E.jpg",
+"url":"G8pJ6lDVpNdTui6M0vfgUbI1llKq+8pL/rEqMkkLJmpl+dd84j6hAqMkIkAvaHNx"},
+{"name":"New Zealand Pacific",
+"logo":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/zMPbmLCeQh.jpg",
+"url":"G8pJ6lDVpNdTui6M0vfgUbI1llKq+8pL/rEqMkkLJmp17OcF1JqC5uRicJftdIGACVFoB/DyTvDpEdOYCouQKQ=="},
+{
+			"name":"BBC World Service",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png",
+			"url": "k3P7u2EbYqNzdsnih4czPlxFhjN7yvz+m2NeiDk+ZmNFlItktEfKir9PGyr5Hg2FngWeI6Yu/FL6HTVmgk7JZA=="
+		},
+        		{
+			"name":"BBC Radio 1",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/BFcU2vjUXh.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8j2hsAl4a49HihDziPfvW1A=="
+		},
+		{
+			"name":"BBC 1Xtra",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/89MJWuCrEF.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8f6JGn6nI6tHczC/GrDsXVw=="
+		},
+				{
+			"name":"BBC Radio 2",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/N6JJwvwy9g.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ829orL0jT4L66dc5SZALBzg=="
+		},
+				{
+			"name":"BBC Radio 3",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/shtS6qMGDF.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8LCzfBdtt9TD+YbqBy3X4tw=="
+		},
+				{
+			"name":"BBC Radio 4",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/NHeXQWMsBh.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8E+tCTpHL4Y/hLTVz8o/fdg=="
+		},
+				{
+			"name":"BBC Radio 4 Extra",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/2kxpnsRvzm.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8dtbLattLQAdOAb0lLYC8/g=="
+		},
+		{
+			"name":"BBC Radio 4 LW",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/2Gm4R3w2nt.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8oA9CoF9J4ifN0uthWeXtZA=="
+		},
+				{
+			"name":"BBC Radio 5",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8XESMaNfXYlxPnh3SjARM5Q=="
+		},
+		{
+			"name":"BBC 6",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/ZjeeuBNXRP.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMdafCUhWjoqu3VSNk+7tVBrGR0xDwX2aU0VAypKhTiyfw=="
+		},
+		{
+			"name":"BBC London 94.9",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/UYN5ruMG3J.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMdvCkemWtOWN1sHSGJ2bKyGyR1Z+R4wyxt75EAXlk8Pvaw9x4mOXLGUWjZ8P5gWmxuZpWR/nrhYgABV+9yHhhQ9Mae8ij7ciZ4uB/fU96oP3olXn52OsLkx0J9eklYH6GQ="
+		},
+		{
+			"name":"BBC Asian Network",
+			"logo":"https://static.mytuner.mobi/media/tvos_radios/cRqAAWNnbV.png",
+			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMeVLhrRom1PUxg2+9CUwOt+tpS1nApwV6rAhPw/6UQjZw=="
+		}
+]
+}
