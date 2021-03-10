@@ -1,0 +1,20 @@
+sub_title=playNo1
+sub_category=logo
+sub_type=adult
+sub_first_url=http://stno1.playno1.com/portal.php?mod=list&catid=78
+sub_more_url_pre=http://stno1.playno1.com/portal.php?mod=list&catid=78&page=
+sub_more_url_suffix=none
+sub_rule_container_select=.mn .bm
+sub_rule_items_select=
+sub_rule_title_select=
+sub_rule_title_select_attr=
+sub_rule_logo_select=
+sub_rule_logo_select_attr=
+sub_rule_url_select=
+sub_rule_url_select_attr=
+sub_rule_logo_pre=
+sub_rule_url_pre=
+item_rule_contai_select=
+item_rule_img_replace_flag=
+item_rule_img_replace_s=
+item_rule_img_replace_t=
