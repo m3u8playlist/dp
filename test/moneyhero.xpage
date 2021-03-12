@@ -2,7 +2,7 @@ sub_title=MoneyHero
 sub_has_logo=true
 sub_is_safe=true
 sub_first_url=https://www.moneyhero.com.hk/blog/zh/
-sub_more_url_pre=http://t66y.com/thread0806.php?fid=7&search=&page=
+sub_more_url_pre=https://www.moneyhero.com.hk/blog/zh/page/
 sub_more_url_suffix=none
 sub_rule_container_select=#primary .post-home .leaf-more-articles
 sub_rule_items_select=.home-articles
