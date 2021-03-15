@@ -1,0 +1,39 @@
+display_name=疯av
+type=landscape
+cat=av
+page_number=3000
+page1_url=https://airav.cc/index.aspx
+page2_url_pre=https://airav.cc/index.aspx?idx=
+page2_url_suffix=none
+first_container_select=.mainbody_left_clips ul
+first_items_select=li
+title_select=h3
+title_select_attr=none
+logo_select=.ga_click div
+logo_select_attr=data-img_url
+first_url_select=.ga_click
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=https://airav.cc/
+realurl_regex=file:"(http[^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=https://airav.cc/searchresults.aspx?Search=
+search_url2=https://airav.cc/searchresults.aspx?Search=`&Type=0&idx=^
+search_first_container_select=.ga_click div
+search_first_items_select=li
+search_title_select=h3
+search_title_select_attr=none
+search_logo_select=.ga_click div
+search_logo_select_attr=data-img_url
+search_first_url_select=.ga_click
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=https://airav.cc/
