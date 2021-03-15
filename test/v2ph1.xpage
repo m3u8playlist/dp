@@ -17,5 +17,6 @@ sub_rule_logo_pre=none
 sub_rule_url_pre=https://www.v2ph.com
 item_rule_container_select=.photos-list
 item_rule_img_replace_flag=true
+item_rule_img_delete_src_flag=true
 item_rule_img_replace_s=data-src
 item_rule_img_replace_t=src
