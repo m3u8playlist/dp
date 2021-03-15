@@ -4,7 +4,7 @@ sub_is_safe=false
 sub_first_url=https://www.v2ph.com/country/china
 sub_more_url_pre=https://www.v2ph.com/country/china?page=
 sub_more_url_suffix=none
-sub_rule_container_select=.albums-list
+sub_rule_container_select=.albums-list .col-12
 sub_rule_items_select=.thumbnail
 sub_rule_date_select=.album-photos
 sub_rule_title_select=h3
