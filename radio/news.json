@@ -12,9 +12,6 @@
 {"name":"WNYC",
 "logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/WNYC.png",
 "url":"9ciIAnJe5lpvVZVE6dx218QUJp78GsryKFTnBujlZT22gdy7T/1yzicvzlDum3wC"},
-{"name":"CNA938",
-"logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/938.jpg",
-"url":"2M3GTSjfL+BX/tGkgKQTJsO/FbvVNxuvbZmBexHlaTZi1uunnWg0RH8atCgr8rOUmeksmaU/qyWTYco6fcg5eA=="},
 {"name":"MSNBC",
 "logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/MSNBC.jpg",
 "url":"lY2laxeuAyUhzELxT4lC7r/dluQ1xCAxIwz4vzApesNinOIuvnL9riK4ssSOUl5GcLEd4SPhkN/GSOLhlXa/oA=="},
@@ -27,52 +24,52 @@
 {
 			"name":"BBC World Service",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/Lz9bbsba4c.png",
-			"url": "k3P7u2EbYqNzdsnih4czPlxFhjN7yvz+m2NeiDk+ZmNFlItktEfKir9PGyr5Hg2FngWeI6Yu/FL6HTVmgk7JZA=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyuu6P3m84vaYqHuX+bB31edtkUFQXK0i8UHdgaaplK9LQ=="
 		},
         		{
 			"name":"BBC Radio 1",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/BFcU2vjUXh.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8j2hsAl4a49HihDziPfvW1A=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbE9qRtYlOQ8faLH7uNsnyaQ=="
 		},
 		{
 			"name":"BBC 1Xtra",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/89MJWuCrEF.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8f6JGn6nI6tHczC/GrDsXVw=="
+			"url": "Q2DnQFQ0EO0eAJehV++ApXxnAsHV5W5JEnQNU8d5bE3cIeTqwLU8XdIZgOIHy++/"
 		},
 				{
 			"name":"BBC Radio 2",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/N6JJwvwy9g.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ829orL0jT4L66dc5SZALBzg=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbQwkmlHmcfkp0RZbbANn7Xg=="
 		},
 				{
 			"name":"BBC Radio 3",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/shtS6qMGDF.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8LCzfBdtt9TD+YbqBy3X4tw=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbQfFJmEBfkY4BV/yBHZI1CQ=="
 		},
 				{
 			"name":"BBC Radio 4",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/NHeXQWMsBh.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8E+tCTpHL4Y/hLTVz8o/fdg=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbg4M/EcaE0Y5naWrw4IHDsA=="
 		},
 				{
 			"name":"BBC Radio 4 Extra",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/2kxpnsRvzm.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8dtbLattLQAdOAb0lLYC8/g=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbx/pjj/UgHKWdlVLpRNsDKA=="
 		},
 		{
 			"name":"BBC Radio 4 LW",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/2Gm4R3w2nt.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8oA9CoF9J4ifN0uthWeXtZA=="
+			"url": "Q2DnQFQ0EO0eAJehV++ApXxnAsHV5W5JEnQNU8d5bE0JsgwySwF6GAg26OzOe/n96qO+wbiHqd49vl2IVuV0PrGC0FWwvOSyAiOeq/uECUo="
 		},
 				{
 			"name":"BBC Radio 5",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMcJAYkt+tmyTyMGpDN1TCJ8XESMaNfXYlxPnh3SjARM5Q=="
+			"url": "irwhG3UVq9Gr4gjo1XoHF+0sMdwaSpv3dgJI8fQCCyvjgJ1MIoAtr6cFvpkZjdtbp34IS9dg5Err39hA9doWT5ioGXhGtPlVEOWzhxNwyCE="
 		},
 		{
 			"name":"BBC 6",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/ZjeeuBNXRP.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMdafCUhWjoqu3VSNk+7tVBrGR0xDwX2aU0VAypKhTiyfw=="
+			"url": "Q2DnQFQ0EO0eAJehV++ApXxnAsHV5W5JEnQNU8d5bE3R95C9IR++i9h6PvV/U6+h"
 		},
 		{
 			"name":"BBC London 94.9",
@@ -82,7 +79,7 @@
 		{
 			"name":"BBC Asian Network",
 			"logo":"https://static.mytuner.mobi/media/tvos_radios/cRqAAWNnbV.png",
-			"url": "yuo6EHIaxcEcNGdAoDbhYGdzvjaPPJsemKo4ZOKTjMeVLhrRom1PUxg2+9CUwOt+tpS1nApwV6rAhPw/6UQjZw=="
+			"url": "Q2DnQFQ0EO0eAJehV++ApXxnAsHV5W5JEnQNU8d5bE3DDKo67yEfSiDpHFJWCc9hykJcA02/SMl5zRKWmnxBEw=="
 		}
 ]
 }
