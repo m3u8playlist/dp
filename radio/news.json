@@ -3,8 +3,11 @@
 "title":"英语新闻电台",
 "type":"radio",
 "channels":[
-{"name":"NPR news",
+{"name":"NPR News",
 "logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/NPR.png",
+"url":"Oa9HywpqDa2myUgVBHfc28cGk1wjK0NTZTJMemwfnnDRPRG1SlXalzfPp5fdWop7"},
+	{"name":"ABC News",
+"logo":"https://images-na.ssl-images-amazon.com/images/I/41YxTpIyAlL._AC_UL600_SR600,600_.png",
 "url":"oKeGpThAe868ZBa2/1/l7QW7auqyfHEoCTLDrkeLvAx1mLl4S7vGJxgmDMbc2tNtBeo3CvND7BxUDvoC8RgNpMj4PrNAWi1Rb+6FdP6Jsps="},
 {"name":"CSPAN",
 "logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/radio/CSPN.jpg",
