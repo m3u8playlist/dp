@@ -1,0 +1,31 @@
+{
+   "uuid":"f80996cd-ea76-45a1-972c-16554baf2f20",
+   "tv":[
+      {
+         "name":"英语新闻",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json"
+      }
+   ],
+   "radio":[
+      {
+         "name":"新加坡",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json"
+      }
+   ],
+   "xweb":[
+      {
+         "name":"91美剧网",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/91mjw1.xweb"
+      }
+   ],
+   "caiji":[
+      {
+         "name":"辣椒",
+         "flag":1,
+         "url":"https://apilj.com/api.php/Seacms/vod/"
+      }
+   ]
+}
