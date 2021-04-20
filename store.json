@@ -12,6 +12,16 @@
          "name":"新加坡",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/sgradio.json"
+      },
+      {
+         "name":"英语新闻",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/news.json"
+      },
+      {
+         "name":"国内电台",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/radio/fm.json"
       }
    ],
    "xweb":[
@@ -19,23 +29,137 @@
          "name":"91美剧网",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/91mjw1.xweb"
+      },{
+         "name":"91美剧网-每日更新",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/91mjw2.xweb"
+      },
+      {
+         "name":"iwantsex",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/iwant.xweb"
+      },
+        {
+         "name":"jable",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/jable.xweb"
+      },
+        {
+         "name":"片库-电影",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku1.xweb"
+      },
+        {
+         "name":"片库-剧集",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku2.xweb"
+      },
+        {
+         "name":"片库-动漫",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku3.xweb"
+      },
+        {
+         "name":"环亚无码",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/hywm.xweb"
+      },
+      {
+         "name":"独播库-剧集",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk1.xweb"
+      },
+       {
+         "name":"独播库-电影",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk2.xweb"
+      },
+       {
+         "name":"独播库-动漫",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk3.xweb"
       }
    ],
    "caiji":[
       {
          "name":"辣椒",
          "flag":1,
-         "url":"https://apilj.com/api.php/Seacms/vod/"
+         "url":"https://apilj.com/api.php/Seacms/vod"
       },
             {
          "name":"花椒",
          "flag":1,
-         "url":"https://apihjzy.com/api.php/Seacms/vod/"
+         "url":"https://apihjzy.com/api.php/Seacms/vod"
       },
               {
          "name":"123资源",
          "flag":0,
          "url":"https://123ku.com/inc/seacms.php"
+      },
+            {
+         "name":"6888资源站",
+         "flag":1,
+         "url":"http://avzy6888.com/inc/api.php"
+      },
+           {
+         "name":"乐播资源",
+         "flag":1,
+         "url":"https://lbapi9.com/api.php/provide/vod/at/xml/"
+      },
+           {
+         "name":"ok资源",
+         "flag":0,
+         "url":"http://www.haozy.cc/inc/ldg_sea.php"
+      },
+           {
+         "name":"鲨鱼资源",
+         "flag":1,
+         "url":"https://shayuapi.com/api.php/provide/vod/at/xml"
+      },
+           {
+         "name":"大地资源站",
+         "flag":1,
+         "url":"http://dadiapi.com/sea_api.php"
+      },
+           {
+         "name":"环亚资源",
+         "flag":1,
+         "url":"http://wmcj8.com/inc/sapi.php"
+      },
+           {
+         "name":"小黄瓜资源",
+         "flag":1,
+         "url":"http://cj.xhgcjym.com/inc/api.php"
+      },
+           {
+         "name":"佳丽",
+         "flag":1,
+         "url":"https://jialiapi.com/api.php/provide/vod/at/xml"
+      },
+        {
+         "name":"名优馆",
+         "flag":1,
+         "url":"http://mygzycj.com/sapi.php"
+      },
+        {
+         "name":"博天堂",
+         "flag":1,
+         "url":"http://bttcj.com/inc/sapi.php"
+      },
+        {
+         "name":"茄子资源",
+         "flag":1,
+         "url":"http://ssl.qieziapi.xyz/inc/api.php"
+      },
+        {
+         "name":"麻花资源",
+         "flag":0,
+         "url":"http://www.mahuazy.net/inc/ldg_api.php"
+      },
+        {
+         "name":"速播資源",
+         "flag":0,
+         "url":"http://www.subo988.com/inc/api.php"
       }
    ]
 }
