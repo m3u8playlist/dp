@@ -177,5 +177,42 @@
          "flag":0,
          "url":"http://www.subo988.com/inc/api.php"
       }
+      ,
+        {
+         "name":"33uu资源",
+         "flag":0,
+         "url":"http://www.209zy.net/inc/api.php"
+      },
+        {
+         "name":"1886资源",
+         "flag":0,
+         "url":"http://cj.1886zy.co/inc/api.php"
+      },
+        {
+         "name":"天空资源",
+         "flag":0,
+         "url":"http://api.tiankongapi.com/api.php/provide/vod/at/xml/"
+      },
+        {
+         "name":"百度云资源",
+         "flag":0,
+         "url":"https://api.apibdzy.com/api.php/provide/vod/at/xml/"
+      }
+      ,
+        {
+         "name":"穿梭资源",
+         "flag":0,
+         "url":"http://ok.888hyk.com/api.php/provide/vod/at/xml/"
+      },
+        {
+         "name":"十点影视",
+         "flag":0,
+         "url":"http://shidian.vip/api.php/provide/vod/at/xml/"
+      },
+        {
+         "name":"追剧吧",
+         "flag":0,
+         "url":"http://www.huaxiab.com/api.php/provide/vod/at/xml"
+      }
    ]
 }
