@@ -26,6 +26,16 @@
          "name":"辣椒",
          "flag":1,
          "url":"https://apilj.com/api.php/Seacms/vod/"
+      },
+            {
+         "name":"花椒",
+         "flag":1,
+         "url":"https://apihjzy.com/api.php/Seacms/vod/"
+      },
+              {
+         "name":"123资源",
+         "flag":0,
+         "url":"https://123ku.com/inc/seacms.php"
       }
    ]
 }
