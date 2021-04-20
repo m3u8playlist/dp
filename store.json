@@ -78,6 +78,11 @@
          "name":"独播库-动漫",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk3.xweb"
+      },
+       {
+         "name":"NYG|最新更新",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nyg.xweb"
       }
    ],
    "caiji":[
