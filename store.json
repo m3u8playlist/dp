@@ -243,6 +243,17 @@
          "name":"追剧吧",
          "flag":0,
          "url":"http://www.huaxiab.com/api.php/provide/vod/at/xml"
+      },
+        {
+         "name":"八戒资源网",
+         "flag":0,
+         "url":"http://cj.bajiecaiji.com/inc/api.php"
+      },
+        {
+         "name":"天空资源网",
+         "flag":0,
+         "url":"https://api.tiankongapi.com/api.php/provide/vod/at/xml"
       }
+        
    ]
 }
