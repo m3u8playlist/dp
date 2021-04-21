@@ -107,7 +107,56 @@
          "flag":1,
          "url":"https://apihjzy.com/api.php/Seacms/vod"
       },
-        
+          {
+         "name":"色色资源站",
+         "flag":1,
+         "url":"http://sscj8.com/inc/sapi.php"
+      }, {
+         "name":"玖玖资源站",
+         "flag":1,
+         "url":"http://99zywcj.com/inc/sck.php"
+      },
+       {
+         "name":"狼少年资源站",
+         "flag":1,
+         "url":"http://cjmygzy.com/inc/sapi.php"
+      },
+       {
+         "name":"富二代资源站",
+         "flag":1,
+         "url":"http://f2dcj6.com/sapi"
+      },
+       {
+         "name":"字幕网资源站",
+         "flag":1,
+         "url":"http://zmcj88.com/sapi"
+      },
+       {
+         "name":"久草资源站",
+         "flag":1,
+         "url":"http://jcspcj8.com/sapi"
+      },
+       {
+         "name":"JAV名优资源站",
+         "flag":1,
+         "url":"http://mygzycj.com/sapi.php"
+      },
+       {
+         "name":"利来资源站",
+         "flag":1,
+         "url":"http://llzxcj.com/inc/sck.php"
+      },
+       {
+         "name":"博天堂资源站",
+         "flag":1,
+         "url":"http://bttcj.com/inc/sapi.php"
+      },
+       {
+         "name":"环亚资源站",
+         "flag":1,
+         "url":"http://wmcj8.com/inc/sapi.php"
+      },
+
               {
          "name":"123资源",
          "flag":0,
@@ -139,11 +188,6 @@
          "url":"http://dadiapi.com/sea_api.php"
       },
            {
-         "name":"环亚资源",
-         "flag":1,
-         "url":"http://wmcj8.com/inc/sapi.php"
-      },
-           {
          "name":"小黄瓜资源",
          "flag":1,
          "url":"http://cj.xhgcjym.com/inc/api.php"
@@ -153,16 +197,7 @@
          "flag":1,
          "url":"https://jialiapi.com/api.php/provide/vod/at/xml"
       },
-        {
-         "name":"名优馆",
-         "flag":1,
-         "url":"http://mygzycj.com/sapi.php"
-      },
-        {
-         "name":"博天堂",
-         "flag":1,
-         "url":"http://bttcj.com/inc/sapi.php"
-      },
+
         {
          "name":"茄子资源",
          "flag":1,
