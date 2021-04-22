@@ -33,5 +33,10 @@
 {"name":"CBeebies HD",
 "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/uk/cbeebies.png",
 "url":"WIv/SRE23W5YxQqnCipOA9r4srTK34y0W0gLxGhRR1KWPXUcwv1ecap37ZcpnPBo0wZggdpuR4FNQGVjqsYT9cB5MvtP85yDluGObsbXvXnnHphjmCAp/h9++g5hOYgKVam6RSZiX25fP9fFnof2/EVcqd+NLf5m0VW1EzcKDmQ="},
+  {
+         "name":"BBCWorldNews",
+         "logo":"https://gitee.com/zhang_san_dao/tvlogo/raw/master/tv/uk/bbc-world-news.png",
+         "url":"2gsQJokOJnUXhXSLElFnBXRT/efZV+w5qJQan+M63xQ+/JdYgwKmXGvZMPfkoACN"
+      }
 ]
 }
