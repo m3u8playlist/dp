@@ -5,7 +5,13 @@
          "name":"英语新闻",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/news_english.json"
+      },
+      {
+         "name":"BBC需英国IP观看",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/bbc.json"
       }
+      
    ],
    "radio":[
       {
