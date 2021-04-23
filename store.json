@@ -15,7 +15,13 @@
          "name":"Bloomber",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/Bloomber.json"
+      },
+       {
+         "name":"福建移动源",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fjyd.json"
       }
+      
       
       
    ],
