@@ -10,7 +10,13 @@
          "name":"BBC需英国IP观看",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/bbc.json"
+      },
+       {
+         "name":"Bloomber",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/Bloomber.json"
       }
+      
       
    ],
    "radio":[
