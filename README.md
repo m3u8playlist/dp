@@ -16,9 +16,9 @@ tg讨论组: https://t.me/dotplayer
 
 2.0 TF版界面预览
 
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8192.PNG" width = "300" alt="1" align=left />
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8193.PNG" width = "300" alt="2"  align=left/>
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8194.PNG" width = "300" alt="3"  align=left/>
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8195.PNG" width = "300" alt="4"  align=left/>
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8196.png" width = "300" alt="5" align=left />
-<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8197.PNG" width = "300" alt="6"  align=left/>
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8192.PNG" width = "250" alt="1"  align=left />
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8193.PNG" width = "250" alt="2"  align=left />
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8194.PNG" width = "250" alt="3"  align=left />
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8195.PNG" width = "250" alt="4"  align=left />
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8196.png" width = "250" alt="5"  align=left />
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8197.PNG" width = "250" alt="6"  align=left />
