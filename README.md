@@ -16,10 +16,12 @@ tg讨论组: https://t.me/dotplayer
 
 2.0 TF版界面预览
 
+<img src="https://github.com/m3u8playlist/dp/raw/master/IMG_8192.PNG" width = "400" alt="1" />
+
 
 ![1](https://github.com/m3u8playlist/dp/raw/master/IMG_8192.PNG "1")
 ![2](https://github.com/m3u8playlist/dp/raw/master/IMG_8193.PNG "2")
 ![3](https://github.com/m3u8playlist/dp/raw/master/IMG_8194.PNG "3")
 ![4](https://github.com/m3u8playlist/dp/raw/master/IMG_8195.PNG "4")
-![5](https://github.com/m3u8playlist/dp/raw/master/IMG_8196.PNG "5")
+![5](https://github.com/m3u8playlist/dp/raw/master/IMG_8196.png "5")
 ![6](https://github.com/m3u8playlist/dp/raw/master/IMG_8197.PNG "6")
