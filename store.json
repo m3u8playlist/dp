@@ -282,6 +282,11 @@
          "name":"八戒资源网",
          "flag":0,
          "url":"http://cj.bajiecaiji.com/inc/api.php"
+      },
+      {
+         "name":"88资源",
+         "flag":0,
+         "url":"http://www.88zyw.net/inc/seacmsapi.php"
       }
         
    ]
