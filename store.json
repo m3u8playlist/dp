@@ -62,6 +62,11 @@
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/imeiju1.xweb"
       },
+        {
+         "name":"奈菲影视-电影",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nf1.xweb"
+      },
       
       {
          "name":"iwantsex",
