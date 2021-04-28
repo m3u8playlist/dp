@@ -1,9 +1,9 @@
 display_name=91美剧网
 type=portrait
 cat=episode
-tag=每日更新,科幻,恐怖,喜剧,剧情
-page1_url=https://91mjw.com/category/all_mj,https://91mjw.com/category/kehuanpian,https://91mjw.com/category/kongbupian,https://91mjw.com/category/xijupian,https://91mjw.com/category/juqingpian
-page2_url_pre=https://91mjw.com/category/all_mj/page/,https://91mjw.com/category/kehuanpian/page/,https://91mjw.com/category/kongbupian/page/,https://91mjw.com/category/xijupian/page/,https://91mjw.com/category/juqingpian/page/
+tag=每日更新,科幻,恐怖,喜剧,剧情,纪录片
+page1_url=https://91mjw.com/category/all_mj,https://91mjw.com/category/kehuanpian,https://91mjw.com/category/kongbupian,https://91mjw.com/category/xijupian,https://91mjw.com/category/juqingpian,https://91mjw.com/category/jilupian
+page2_url_pre=https://91mjw.com/category/all_mj/page/,https://91mjw.com/category/kehuanpian/page/,https://91mjw.com/category/kongbupian/page/,https://91mjw.com/category/xijupian/page/,https://91mjw.com/category/juqingpian/page/,https://91mjw.com/category/jilupian/page/
 page2_url_suffix=none
 first_container_select=div.m-movies
 first_items_select=.u-movie
