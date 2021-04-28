@@ -20,6 +20,46 @@
          "name":"福建移动源",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/fjyd.json"
+      },
+      {
+         "name":"香港",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hk.m3u"
+      },
+      {
+         "name":"日本",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/jp.m3u"
+      },
+      {
+         "name":"韩国",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/kr.m3u"
+      },
+      {
+         "name":"澳门",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/mo.m3u"
+      },
+      {
+         "name":"新加坡",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/sg.m3u"
+      },
+      {
+         "name":"台湾",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tw.m3u"
+      },
+      {
+         "name":"英国",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u"
+      },
+      {
+         "name":"美国",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u"
       }
       
       
@@ -51,88 +91,46 @@
       {
          "name":"91美剧网",
          "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/91mjw1.xweb"
-      },{
-         "name":"91美剧网-每日更新",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/91mjw2.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/91mjw.xweb2"
       },
       {
          "name":"爱美剧",
          "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/imeiju1.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/imj.xweb2"
       },
         {
-         "name":"奈菲影视-电影",
+         "name":"奈菲影视",
          "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nf1.xweb"
-      },
-       {
-         "name":"奈菲影视|电视剧",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nf2.xweb"
-      },
-       {
-         "name":"奈菲影视-综艺",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nf3.xweb"
-      },
-       {
-         "name":"奈菲影视-动漫",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nf4.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/nf.xweb2"
       },
       
-      {
-         "name":"iwantsex",
+       {
+         "name":"5楼自拍",
          "flag":1,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/iwant.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/5f.xweb2"
       },
-        {
-         "name":"jable",
+       {
+         "name":"mustjav",
          "flag":1,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/jable.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/mustjav.xweb2"
       },
         {
-         "name":"片库-电影",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku1.xweb"
-      },
-        {
-         "name":"片库-剧集",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku2.xweb"
-      },
-        {
-         "name":"片库-动漫",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/pianku3.xweb"
-      },
-        {
-         "name":"环亚无码",
+         "name":"javtube",
          "flag":1,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/hywm.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/javtube.xweb2"
+      },
+        {
+         "name":"片库",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/pianku.xweb2"
       },
       {
-         "name":"独播库-剧集",
+         "name":"独播库",
          "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk1.xweb"
-      },
-       {
-         "name":"独播库-电影",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk2.xweb"
-      },
-       {
-         "name":"独播库-动漫",
-         "flag":0,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/dbk3.xweb"
-      },
-       {
-         "name":"NYG|最新更新",
-         "flag":1,
-         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb/nyg.xweb"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/dbk.xweb2"
       }
+       
+       
    ],
    "caiji":[
       {
