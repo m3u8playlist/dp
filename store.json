@@ -128,7 +128,13 @@
          "name":"独播库",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/dbk.xweb2"
+      },
+       {
+         "name":"Jable",
+         "flag":1,
+         "url":" https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/jable.xweb2"
       }
+     
        
        
    ],
