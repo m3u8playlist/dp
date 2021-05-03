@@ -1,9 +1,9 @@
 display_name=jable
 type=landscape
 cat=av
-tag=首頁
-page1_url=https://jable.tv/latest-updates/1/
-page2_url_pre=https://jable.tv/latest-updates/
+tag=首頁,角色劇情
+page1_url=https://jable.tv/latest-updates/1/,https://jable.tv/categories/roleplay/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from=01
+page2_url_pre=https://jable.tv/latest-updates/,https://jable.tv/categories/roleplay/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from=
 page2_url_suffix=/
 first_container_select=.site-content
 first_items_select=div.col-6
