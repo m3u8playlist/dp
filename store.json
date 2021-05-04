@@ -312,6 +312,11 @@
          "name":"4K姨妈资源",
          "flag":0,
          "url":"https://4k.4kyima.com/api.php/provide/vod/at/xml"
+      },
+      {
+         "name":"恐怖鸭资源",
+         "flag":0,
+         "url":"https://kongbuya.com/api.php/provide/vod/at/xml"
       }
       
       
