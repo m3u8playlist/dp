@@ -307,6 +307,11 @@
          "name":"优果资源",
          "flag":1,
          "url":"https://www.ugvapi.com/inc/seacmsapi.php"
+      },
+       {
+         "name":"4K姨妈资源",
+         "flag":0,
+         "url":"https://4k.4kyima.com/api.php/provide/vod/at/xml"
       }
       
       
