@@ -302,6 +302,11 @@
          "name":"7777688资源",
          "flag":1,
          "url":"http://m.7777688.com/inc/api.php"
+      },
+        {
+         "name":"优果资源",
+         "flag":1,
+         "url":"https://www.ugvapi.com/inc/seacmsapi.php"
       }
       
       
