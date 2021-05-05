@@ -314,9 +314,14 @@
          "url":"https://4k.4kyima.com/api.php/provide/vod/at/xml"
       },
       {
-         "name":"1711[官方解析资源]",
+         "name":"1717[官方解析资源]",
          "flag":0,
          "url":"http://zy.itono.cn/inc/api.php"
+      },
+       {
+         "name":"花园影视[官方解析资源]",
+         "flag":0,
+         "url":"http://api.zz22x.com/inc/qb.php"
       }
       
       
