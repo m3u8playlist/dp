@@ -315,6 +315,12 @@
          "flag":0,
          "url":"http://api.zz22x.com/inc/seacmsapi.php"
       }
+      ,
+       {
+         "name":"voooe[官方解析资源]",
+         "flag":0,
+         "url":"https://cms.voooe.cn/api.php/provide/vod/at/xml"
+      }
       
       
         
