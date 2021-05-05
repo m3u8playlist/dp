@@ -312,8 +312,12 @@
          "name":"4K姨妈资源",
          "flag":0,
          "url":"https://4k.4kyima.com/api.php/provide/vod/at/xml"
+      },
+      {
+         "name":"voooe[官方解析资源]",
+         "flag":0,
+         "url":"https://cms.voooe.cn/api.php/provide/vod/at/xml"
       }
-      
       
       
         
