@@ -199,11 +199,7 @@
          "url":"http://wmcj8.com/inc/sapi.php"
       },
 
-              {
-         "name":"123资源",
-         "flag":0,
-         "url":"https://123ku.com/inc/seacms.php"
-      },
+            
             {
          "name":"6888资源站",
          "flag":1,
@@ -214,11 +210,7 @@
          "flag":1,
          "url":"https://lbapi9.com/api.php/provide/vod/at/xml/"
       },
-           {
-         "name":"ok资源",
-         "flag":0,
-         "url":"http://www.haozy.cc/inc/ldg_sea.php"
-      },
+          
            {
          "name":"鲨鱼资源",
          "flag":1,
