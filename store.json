@@ -320,6 +320,21 @@
          "name":"voooe[官方解析资源]",
          "flag":0,
          "url":"https://cms.voooe.cn/api.php/provide/vod/at/xml"
+      },
+      {
+         "name":"宅看影视",
+         "flag":0,
+         "url":"https://www.zhaikanys.com/api.php/provide/vod/at/xml"
+      },
+      {
+         "name":"605资源",
+         "flag":0,
+         "url":"http://www.605zy.co/inc/api.php"
+      },
+      {
+         "name":"快播资源",
+         "flag":0,
+         "url":"http://www.kuaibozy.com/api.php/provide/vod/at/xml"
       }
       
       
