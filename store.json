@@ -60,6 +60,16 @@
          "name":"美国",
          "flag":0,
          "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u"
+      },
+       {
+         "name":"青海PLTV西宁移动ip版",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/cn20210517-1.json"
+      },
+        {
+         "name":"福建PLTV移动CDN修改版",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/live_tv/cn20210517-2.json"
       }
       
       
