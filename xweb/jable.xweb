@@ -15,7 +15,7 @@ first_url_select=h6 a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=none
-realurl_regex=rel="preload"\s*href="([^"]+)
+realurl_regex=hlsUrl = '([^']+)
 second_flag=none
 second_container_select=none
 second_items_select=none
