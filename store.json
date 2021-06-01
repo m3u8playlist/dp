@@ -157,8 +157,14 @@
         {
          "name":"av6k",
          "flag":1,
-         "url":" https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/av6k.xweb2"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/av6k.xweb2"
+      },
+       {
+         "name":"云美剧",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/lizhi1314.xweb2"
       }
+      
       
     
        
