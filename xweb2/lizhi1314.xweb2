@@ -26,15 +26,15 @@ second_url_select_attr=href
 second_url_pre=http://lizhi1314.net
 second_url_suffix=none
 search_flag=yes
-search_url=https://gimy.app/search/-------------.html?wd=`
-search_url2=https://gimy.app/search/`----------^---.html
-search_first_container_select=.box-main-content #content
-search_first_items_select=.details-info-min
-search_title_select=.video-pic
+search_url=http://lizhi1314.net/vodsearch/-------------.html?wd=`
+search_url2=http://lizhi1314.net/vodsearch/`----------^---.html
+search_first_container_select=.warp
+search_first_items_select=.topic_box
+search_title_select=.bor_img3_right a
 search_title_select_attr=title
-search_logo_select=.video-pic
-search_logo_select_attr=data-original
-search_first_url_select=.video-pic
+search_logo_select=.bor_img3_right img
+search_logo_select_attr=src
+search_first_url_select=.bor_img3_right a
 search_first_url_select_attr=href
-search_logo_pre=none
-search_first_url_pre=https://gimy.app
+search_logo_pre=http://lizhi1314.net
+search_first_url_pre=http://lizhi1314.net
