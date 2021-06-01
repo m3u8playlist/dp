@@ -1,9 +1,9 @@
 display_name=云美剧
 type=portrait
 cat=episode
-tag=2021新剧榜单,魔幻/科幻,灵异/惊悚,都市/情感,犯罪/历史,选秀/综艺,动漫/卡通
-page1_url=http://lizhi1314.net/label/2021xinjutop.html,http://lizhi1314.net/vodtype/1.html,http://lizhi1314.net/vodtype/2.html,http://lizhi1314.net/vodtype/3.html,http://lizhi1314.net/vodtype/4.html,http://lizhi1314.net/vodtype/5.html,http://lizhi1314.net/vodtype/6.html
-page2_url_pre=http://lizhi1314.net/label/2021xinjutop/page/,http://lizhi1314.net/vodtype/1-,http://lizhi1314.net/vodtype/2-,http://lizhi1314.net/vodtype/3-,http://lizhi1314.net/vodtype/4-,http://lizhi1314.net/vodtype/5-,http://lizhi1314.net/vodtype/6-
+tag=魔幻/科幻,灵异/惊悚,都市/情感,犯罪/历史,选秀/综艺,动漫/卡通
+page1_url=http://lizhi1314.net/vodtype/1.html,http://lizhi1314.net/vodtype/2.html,http://lizhi1314.net/vodtype/3.html,http://lizhi1314.net/vodtype/4.html,http://lizhi1314.net/vodtype/5.html,http://lizhi1314.net/vodtype/6.html
+page2_url_pre=http://lizhi1314.net/vodtype/1-,http://lizhi1314.net/vodtype/2-,http://lizhi1314.net/vodtype/3-,http://lizhi1314.net/vodtype/4-,http://lizhi1314.net/vodtype/5-,http://lizhi1314.net/vodtype/6-
 page2_url_suffix=.html
 first_container_select=.warp
 first_items_select=.cn_box2
