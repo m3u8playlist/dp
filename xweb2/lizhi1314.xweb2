@@ -29,7 +29,7 @@ search_flag=yes
 search_url=http://lizhi1314.net/vodsearch/-------------.html?wd=`
 search_url2=http://lizhi1314.net/vodsearch/`----------^---.html
 search_first_container_select=.warp
-search_first_items_select=.topic_box
+search_first_items_select=.cn_box2
 search_title_select=.bor_img3_right a
 search_title_select_attr=title
 search_logo_select=.bor_img3_right img
