@@ -1,5 +1,5 @@
 sub_title=Apple World Today
-sub_has_logo=true
+sub_has_logo=false
 sub_is_safe=true
 sub_first_url=https://www.appleworld.today/
 sub_more_url_pre=https://www.appleworld.today/page/
@@ -9,8 +9,8 @@ sub_rule_items_select=.post-outer
 sub_rule_date_select=none
 sub_rule_title_select=h2 a
 sub_rule_title_select_attr=none
-sub_rule_logo_select=img
-sub_rule_logo_select_attr=data-src
+sub_rule_logo_select=none
+sub_rule_logo_select_attr=none
 sub_rule_url_select=h2 a
 sub_rule_url_select_attr=href
 sub_rule_logo_pre=none
