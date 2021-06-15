@@ -163,6 +163,11 @@
          "name":"云美剧",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/lizhi1314.xweb2"
+      },
+       {
+         "name":"WWDC2021",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/wwdc2021.xweb2"
       }
       
       
@@ -332,11 +337,7 @@
          "flag":1,
          "url":"https://www.ugvapi.com/inc/seacmsapi.php"
       },
-       {
-         "name":"4K姨妈资源",
-         "flag":0,
-         "url":"https://4k.4kyima.com/api.php/provide/vod/at/xml"
-      },
+       
       {
          "name":"1717[官方解析资源]",
          "flag":0,
