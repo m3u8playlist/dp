@@ -168,10 +168,15 @@
          "name":"WWDC2021",
          "flag":0,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/wwdc2021.xweb2"
+      },
+       {
+         "name":"jpysvip",
+         "flag":0,
+         "url":" https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/jpysvip.xweb2"
       }
       
       
-    
+   
        
        
    ],
