@@ -3,7 +3,7 @@ type=portrait
 cat=episode
 tag=电影,连续剧,综艺,动漫
 page1_url=https://www.jpysvip.net/vodtype/1.html,https://www.jpysvip.net/vodtype/2.html,https://www.jpysvip.net/vodtype/3.html,https://www.jpysvip.net/vodtype/4.html
-page2_url_pre=https://www.jpysvip.net/vodtype/1-,https://www.jpysvip.net/vodtype/2-,https://www.jpysvip.net/vodtype/3-,https://www.jpysvip.net/vodtype/4-,
+page2_url_pre=https://www.jpysvip.net/vodtype/1-,https://www.jpysvip.net/vodtype/2-,https://www.jpysvip.net/vodtype/3-,https://www.jpysvip.net/vodtype/4-
 page2_url_suffix=.html
 first_container_select=ul.myui-vodlist
 first_items_select=li
@@ -15,7 +15,7 @@ first_url_select=h4 a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=https://www.jpysvip.net
-realurl_regex=var vid="(http[^"]+)
+realurl_regex=url":"(http[^"]+)
 second_flag=yes
 second_container_select=.tab-content ul
 second_items_select=li
