@@ -373,11 +373,6 @@
          "name":"快播资源",
          "flag":0,
          "url":"http://www.kuaibozy.com/api.php/provide/vod/at/xml"
-      },
-      {
-         "name":"番茄资源",
-         "flag":0,
-         "url":"http://api.fqzy.cc/seacmsapi.php/provide/vod/at/xml/"
       }
      
       
