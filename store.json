@@ -172,7 +172,17 @@
        {
          "name":"jpysvip",
          "flag":0,
-         "url":" https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/jpysvip.xweb2"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/jpysvip.xweb2"
+      },
+       {
+         "name":"pornlulu",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/pornlulu.xweb2"
+      },
+       {
+         "name":"小鸭影音100vdo",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/100vdo.xweb2"
       }
       
       
