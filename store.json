@@ -188,10 +188,15 @@
        {
          "name":"i want sex",
          "flag":1,
-         "url":" https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/iwantsex.xweb2"
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/iwantsex.xweb2"
+      } ,
+       {
+         "name":"欧乐影院",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/olevod.xweb2"
       }
      
-   
+  
        
        
    ],
