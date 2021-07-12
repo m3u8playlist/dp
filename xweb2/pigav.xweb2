@@ -24,16 +24,16 @@ second_title_select_attr=none
 second_url_select=none
 second_url_select_attr=none
 second_url_pre=none
-search_flag=yes
-search_url=https://www.javdove.com/search/videos?search_query=`
-search_url2=https://www.javdove.com/search/videos?search_query=`&page=^
-search_first_container_select=#wrapper .container .row .row
-search_first_items_select=.col-xs-6 .well
-search_title_select=h3
+search_flag=no
+search_url=none
+search_url2=none
+search_first_container_select=none
+search_first_items_select=none
+search_title_select=none
 search_title_select_attr=none
-search_logo_select=img
-search_logo_select_attr=src|data-original
-search_first_url_select=a
-search_first_url_select_attr=href
+search_logo_select=none
+search_logo_select_attr=none
+search_first_url_select=none
+search_first_url_select_attrnone
 search_logo_pre=none
-search_first_url_pre=https://www.javdove.com
+search_first_url_pre=none
