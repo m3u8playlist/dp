@@ -1,0 +1,39 @@
+display_name=pigav
+type=landscape
+cat=av
+tag=最新,热门,长片,无码
+page1_url=https://pigav.com/%e6%9c%80%e6%96%b0av%e7%b7%9a%e4%b8%8a%e7%9c%8b,https://pigav.com/%e7%86%b1%e9%96%80av%e7%b7%9a%e4%b8%8a%e7%9c%8b,https://pigav.com/%e9%95%b7%e7%89%87av%e7%b7%9a%e4%b8%8a%e7%9c%8b,https://pigav.com/%e7%84%a1%e7%a2%bcav%e7%b7%9a%e4%b8%8a%e7%9c%8b
+page2_url_pre=https://pigav.com/%E6%9C%80%E6%96%B0av%E7%B7%9A%E4%B8%8A%E7%9C%8B/page/,https://pigav.com/%e7%86%b1%e9%96%80av%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/,https://pigav.com/%e9%95%b7%e7%89%87av%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/,https://pigav.com/%e7%84%a1%e7%a2%bcav%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/
+page2_url_suffix=none
+first_container_select=#main .penci-block_content
+first_items_select=.penci-post-item
+title_select=h3 a
+title_select_attr=none
+logo_select=regex
+logo_select_attr=url\("(http[^"]+)
+first_url_select=h3 a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=none
+realurl_regex=source src="(http[^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=https://www.javdove.com/search/videos?search_query=`
+search_url2=https://www.javdove.com/search/videos?search_query=`&page=^
+search_first_container_select=#wrapper .container .row .row
+search_first_items_select=.col-xs-6 .well
+search_title_select=h3
+search_title_select_attr=none
+search_logo_select=img
+search_logo_select_attr=src|data-original
+search_first_url_select=a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=https://www.javdove.com
