@@ -26,8 +26,7 @@ second_url_select_attr=none
 second_url_pre=none
 search_flag=yes
 search_url=https://jable.tv/search/`/
-search_url2=https://jable.tv/search/?mode=&function=get_block&block_id=list_videos_videos_list_search_result&q=`&sort_by=&from_videos=^&from_albums=^&&mode=async&function=get_block&block_id=list_videos_videos_list_search_result&q=ss&sort_by=&from_videos=10&from_albums=10&_=1626428343550
-search_first_container_select=section.pb-3
+search_url2=https://jable.tv/search/?mode=&function=get_block&block_id=list_videos_videos_list_search_result&q=`&sort_by=&from_videos=^&from_albums=^
 search_first_items_select=div.col-6
 search_title_select=h6 a
 search_title_select_attr=none
