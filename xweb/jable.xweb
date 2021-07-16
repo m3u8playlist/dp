@@ -24,3 +24,16 @@ second_title_select_attr=none
 second_url_select=none
 second_url_select_attr=none
 second_url_pre=none
+search_flag=yes
+search_url=https://jable.tv/search/`/
+search_url2=https://jable.tv/search/`/&p=^
+search_first_container_select=section.pb-3
+search_first_items_select=.video-img-box
+search_title_select=.title a
+search_title_select_attr=title
+search_logo_select=.img-box a img
+search_logo_select_attr=data-src
+search_first_url_select=.title a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=https://jable.tv
