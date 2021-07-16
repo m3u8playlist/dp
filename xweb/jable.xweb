@@ -30,7 +30,7 @@ search_url2=https://jable.tv/search/`/&p=^
 search_first_container_select=section.pb-3
 search_first_items_select=.video-img-box
 search_title_select=.title a
-search_title_select_attr=title
+search_title_select_attr=none
 search_logo_select=.img-box a img
 search_logo_select_attr=data-src
 search_first_url_select=.title a
