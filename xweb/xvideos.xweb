@@ -26,7 +26,7 @@ second_url_select_attr=none
 second_url_pre=none
 search_flag=yes
 search_url=https://www.xvideos.com/?k=`
-search_url2=https://jable.tv/search/?q=`&from_videos=^&from_albums=^
+search_url2=https://www.xvideos.com/?k=`&p=^
 search_first_container_select=div.mozaique
 search_first_items_select=.thumb-block
 search_title_select=.title a
