@@ -36,4 +36,4 @@ search_logo_select_attr=data-src
 search_first_url_select=h6 a
 search_first_url_select_attr=href
 search_logo_pre=none
-search_first_url_pre=https://jable.tv
+search_first_url_pre=none
