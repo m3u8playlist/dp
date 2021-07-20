@@ -1,6 +1,7 @@
 display_name=片库-电影
 type=portrait
 cat=episode
+page_number=100
 page1_url=https://www.pianku.la/list/1.html
 page2_url_pre=https://www.pianku.la/list/1-
 page2_url_suffix=.html
