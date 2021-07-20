@@ -15,7 +15,7 @@ first_url_select=a
 first_url_select_attr=href
 logo_pre=http://www.imj6.com
 first_url_pre=http://www.imj6.com
-realurl_regex=var now="(http[^"]+)
+realurl_regex=url":"(http[^"]+)
 second_flag=yes
 second_container_select=.playlist
 second_items_select=li
