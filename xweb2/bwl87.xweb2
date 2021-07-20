@@ -1,9 +1,9 @@
 display_name=阿房影视
 type=portrait
 cat=episode
-tag=电影
-page1_url=https://bwl87.com/type/1/
-page2_url_pre=https://bwl87.com/type/1-
+tag=电影,连续剧,综艺,动漫,国产剧,日韩剧,欧美剧,日本剧
+page1_url=https://bwl87.com/type/1/,https://www.bwl87.com/type/2/,https://www.bwl87.com/type/3/,https://www.bwl87.com/type/4/,https://www.bwl87.com/type/13/,https://www.bwl87.com/type/15/,https://www.bwl87.com/type/16/,https://www.bwl87.com/type/27/
+page2_url_pre=https://bwl87.com/type/1-,https://bwl87.com/type/2-,https://www.bwl87.com/type/3-,https://www.bwl87.com/type/4-,https://www.bwl87.com/type/13-,https://www.bwl87.com/type/15-,https://www.bwl87.com/type/16-,https://www.bwl87.com/type/27-
 page2_url_suffix=none
 first_container_select=ul.myui-vodlist
 first_items_select=.myui-vodlist__box
