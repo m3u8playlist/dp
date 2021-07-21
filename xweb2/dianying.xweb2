@@ -15,7 +15,7 @@ first_url_select=.module-item-titlebox a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=http://dianying.im
-realurl_regex=url="(http[^"]+)
+realurl_regex=url":"([^"]+)
 second_flag=yes
 second_container_select=.module-player-list
 second_items_select=.scroll-content
