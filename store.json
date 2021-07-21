@@ -200,6 +200,31 @@
          "name":"番鸽号",
          "flag":1,
          "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/javdove.xweb2"
+      } ,
+       {
+         "name":"pigav",
+         "flag":1,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/pigav.xweb2"
+      },
+       {
+         "name":"电影先生",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/dianying.xweb2"
+      },
+       {
+         "name":"91美剧网cc",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/91mjw2.xweb2"
+      },
+       {
+         "name":"阿房影视",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/bwl87.xweb2"
+      },
+       {
+         "name":"艾迪影视",
+         "flag":0,
+         "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/xweb2/aidi.xweb2"
       }
  
        
