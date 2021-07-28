@@ -425,9 +425,9 @@
          "url":"http://www.kuaibozy.com/api.php/provide/vod/at/xml"
       },
        {
-         "name":"乐多资源",
-         "flag":0,
-         "url":"http://api.leduozy.com/inc/seacmsapi.php"
+         "name":"77资源",
+         "flag":1,
+         "url":"https://www.77zy.vip/inc/seacmsapi.php"
       }
       
      
