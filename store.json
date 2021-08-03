@@ -433,8 +433,23 @@
          "name":"rr资源",
          "flag":0,
          "url":"https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/"
+      },
+       {
+         "name":"红牛资源",
+         "flag":0,
+         "url":"https://www.hongniuzy.com/inc/api.php"
+      },
+       {
+         "name":"1186资源",
+         "flag":0,
+         "url":"http://cj.1886zy.co/inc/api.php"
       }
-      
+      ,
+       {
+         "name":"影派资源",
+         "flag":0,
+         "url":"https://v.dtjos.com/api.php/provide/vod/at/xml"
+      }
      
         
    ]
