@@ -451,9 +451,9 @@
          "url":"https://v.dtjos.com/api.php/provide/vod/at/xml"
       },
        {
-         "name":"趣播资源",
+         "name":"苍天资源",
          "flag":1,
-         "url":"https://www.qbzyz.com/api.php/provide/vod/at/xml"
+         "url":"http://cj.cangtiancj.com/api.php/Seacms/vod/"
       },
        {
          "name":"安逸资源",
