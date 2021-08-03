@@ -449,6 +449,16 @@
          "name":"影派资源",
          "flag":0,
          "url":"https://v.dtjos.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"趣播资源",
+         "flag":1,
+         "url":"https://www.qbzyz.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"安逸资源",
+         "flag":0,
+         "url":"http://dy.51isu.com:11801/api.php/provide/vod/at/xml"
       }
      
         
