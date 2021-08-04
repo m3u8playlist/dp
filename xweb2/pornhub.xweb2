@@ -8,7 +8,7 @@ page2_url_suffix=none
 first_container_select=ul#videoCategory
 first_items_select=li.pcVideoListItem
 title_select=span.title a
-title_select_attr=none
+title_select_attr=title
 logo_select=img
 logo_select_attr=data-src
 first_url_select=span.title a
@@ -30,7 +30,7 @@ search_url2=https://cn.pornhub.com/video/search?search=`&page=^
 search_first_container_select=ul#videoSearchResult
 search_first_items_select=li.pcVideoListItem
 search_title_select=span.title a
-search_title_select_attr=none
+search_title_select_attr=title
 search_logo_select=img
 search_logo_select_attr=data-src
 search_first_url_select=span.title a
