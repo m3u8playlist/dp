@@ -459,7 +459,38 @@
          "name":"安逸资源",
          "flag":0,
          "url":"http://dy.51isu.com:11801/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"北斗星资源",
+         "flag":0,
+         "url":"https://api.bdxzyapi.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"泰剧迷",
+         "flag":0,
+         "url":"https://www.taijumi.cc/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"全网影视",
+         "flag":0,
+         "url":"https://www.qwysvip.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"花椒资源网",
+         "flag":1,
+         "url":"https://cj.apihjzy.com/inc/api.php"
+      },
+       {
+         "name":"9987全网综合资源",
+         "flag":1,
+         "url":"https://www.qbzyz.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"人人资源",
+         "flag":0,
+         "url":"https://www.rrzyw.cc/api.php/provide/vod/at/xml/"
       }
+      
      
         
    ]
