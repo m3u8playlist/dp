@@ -505,6 +505,72 @@
          "name":"MianFei影视",
          "flag":0,
          "url":"http://www.ruiuri.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"免费电影",
+         "flag":0,
+         "url":"http://www.ruiuri.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"流年影院",
+         "flag":0,
+         "url":"http://www.liunianys.cn/api.php/provide/vod/at/xml/"
+      },
+       {
+         "name":"赞片VIP",
+         "flag":0,
+         "url":"http://vip.1573i.com/api.php/provide/vod/at/xml/"
+      },
+       {
+         "name":"好好资源",
+         "flag":0,
+         "url":"http://haohaozy.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"萌果资源",
+         "flag":0,
+         "url":"http://api.appearoo.top/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"",
+         "flag":0,
+         "url":"http://www.susouzy.com/api.php/provide/vod/at/xml"
+      },
+       
+       {
+         "name":"天堂资源",
+         "flag":0,
+         "url":"http://vipmv.cc/api.php/provide/vod/at/xml/"
+      },
+       {
+         "name":"鲸鱼云资源",
+         "flag":0,
+         "url":"http://zy.gazf.cn/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"m3u8.TV",
+         "flag":0,
+         "url":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"饭团资源",
+         "flag":0,
+         "url":"http://fantuan.wkfile.com/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"U猫m3u8",
+         "flag":0,
+         "url":"http://umao.ml/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"橘猫资源",
+         "flag":0,
+         "url":"http://www.zitv.cc/api.php/provide/vod/at/xml"
+      },
+       {
+         "name":"最快资源",
+         "flag":0,
+         "url":"http://cj.1886zy.co/inc/seacmsapi.php"
       }
       
      
