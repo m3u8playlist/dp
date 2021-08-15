@@ -381,12 +381,6 @@
 },
 {
 "type": 0,
-"sourceName": "7k资源",
-"apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
-"parserUrl": "https://jx.xmflv.com/?url="
-},
-{
-"type": 0,
 "sourceName": "天空资源",
 "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
 "reverse": 0
