@@ -4,470 +4,511 @@
 {
 "type": 0,
 "sourceName": "快播资源",
-"baseUrl": "http://www.kuaibozy.com",
 "apiUrl": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "八戒资源",
-"baseUrl": "http://cj.bajiecaiji.com",
 "apiUrl": "http://cj.bajiecaiji.com/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "不开门",
-"baseUrl": "http://c.bukai.men",
 "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "免费电影",
-"baseUrl": "http://www.ruiuri.com",
 "apiUrl": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "红牛资源",
-"baseUrl": "http://www.hongniuzy.com",
 "apiUrl": "http://www.hongniuzy.com/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "影派TV",
-"baseUrl": "https://v.dtjos.com",
 "apiUrl": "https://v.dtjos.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "555",
-"baseUrl": "https://www.o8tv.com",
 "apiUrl": "https://www.o8tv.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "流年影院",
-"baseUrl": "http://www.liunianys.cn",
 "apiUrl": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "赞片VIP",
-"baseUrl": "http://vip.1573i.com",
 "apiUrl": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "88资源",
-"baseUrl": "http://www.88zyw.net",
 "apiUrl": "http://www.88zyw.net/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "聚宇资源",
-"baseUrl": "https://zy.ajuyu.com",
 "apiUrl": "https://zy.ajuyu.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "好好资源",
-"baseUrl": "http://haohaozy.com",
 "apiUrl": "http://haohaozy.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "萌果资源",
-"baseUrl": "http://api.appearoo.top",
 "apiUrl": "http://api.appearoo.top/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "速搜资源",
-"baseUrl": "http://www.susouzy.com",
 "apiUrl": "http://www.susouzy.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "天堂资源",
-"baseUrl": "http://vipmv.cc",
 "apiUrl": "http://vipmv.cc/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "鲸鱼云资源",
-"baseUrl": "http://zy.gazf.cn/api.php",
 "apiUrl": "http://zy.gazf.cn/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "橘猫资源",
-"baseUrl": "http://www.zitv.cc",
 "apiUrl": "http://www.zitv.cc/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "最快资源",
-"baseUrl": "http://cj.1886zy.co",
 "apiUrl": "http://cj.1886zy.co/inc/seacmsapi.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "8090资源",
-"baseUrl": "http://zy.yilans.net:8090",
 "apiUrl": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "真不卡",
-"baseUrl": "http://db.taijuwang.cc",
 "apiUrl": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "明日资源",
-"baseUrl": "http://zy.zcocc.com",
 "apiUrl": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "今日资源",
-"baseUrl": "http://mac.jin.345888.xyz",
 "apiUrl": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "恐怖鸭",
-"baseUrl": "https://kongbuya.com",
 "apiUrl": "https://kongbuya.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "飘花电影网",
-"baseUrl": "http://www.2mjtt.com/inc",
 "apiUrl": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "猪猪影院",
-"baseUrl": "https://www.zzyingyuan.com",
 "apiUrl": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "爪可可影视",
-"baseUrl": "https://www.zwcoco.com",
 "apiUrl": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "77看片",
-"baseUrl": "https://www.77kpp.com",
 "apiUrl": "https://www.77kpp.com/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "90资源",
-"baseUrl": "http://www.9xku.com",
 "apiUrl": "http://www.9xku.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "90偶尔",
-"baseUrl": "http://iiiv.vip",
 "apiUrl": "http://iiiv.vip/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "39看资源",
-"baseUrl": "https://www.39kan.com",
 "apiUrl": "https://www.39kan.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "605资源",
-"baseUrl": "http://www.605zy.co",
 "apiUrl": "http://www.605zy.co/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "穿梭资源",
-"baseUrl": "http://ok.888hyk.com",
 "apiUrl": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "独播库",
-"baseUrl": "http://api.dbyunzy.com",
 "apiUrl": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "百度云1",
-"baseUrl": "https://api.apibdzy.com",
 "apiUrl": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "百度云2",
-"baseUrl": "https://cj.apibdzy.com",
 "apiUrl": "https://cj.apibdzy.com/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "百度云3",
-"baseUrl": "https://m3u8.apibdzy.com",
 "apiUrl": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "浊游资源",
-"baseUrl": "http://ss47.zdzyw.co",
 "apiUrl": "http://ss47.zdzyw.co/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "哎呀APP",
-"baseUrl": "http://www.aisvod.com",
 "apiUrl": "http://www.aisvod.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "侦探APP",
-"baseUrl": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
 "apiUrl": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "青蛙APP",
-"baseUrl": "http://qwys8.tv",
 "apiUrl": "http://qwys8.tv/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "云播APP",
-"baseUrl": "http://bxin.tv",
 "apiUrl": "http://bxin.tv/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "阿姨追剧APP",
-"baseUrl": "http://app.yiciyuan.me",
 "apiUrl": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "爱吧APP",
-"baseUrl": "http://28kysapp.com",
 "apiUrl": "http://28kysapp.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "追剧吧",
-"baseUrl": "http://www.huaxiab.com",
 "apiUrl": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "追剧吧影视APP",
-"baseUrl": "http://iapp.zhuiju8.vip",
 "apiUrl": "http://iapp.zhuiju8.vip/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "明日APP",
-"baseUrl": "https://watchmi.cc",
 "apiUrl": "https://watchmi.cc/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "播放呀APP",
-"baseUrl": "https://www.bofangya.com",
 "apiUrl": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "氢视频APP",
-"baseUrl": "http://hmgdxf.com",
 "apiUrl": "http://hmgdxf.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "优炫APP",
-"baseUrl": "http://yuntv.iyxtv.cn",
 "apiUrl": "http://yuntv.iyxtv.cn/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "蓝果APP",
-"baseUrl": "http://www.languotv.com",
 "apiUrl": "http://www.languotv.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "555APP",
-"baseUrl": "http://fx.movie06.com",
 "apiUrl": "http://fx.movie06.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "小蜻蜓APP",
-"baseUrl": "http://3ketv.com",
 "apiUrl": "http://3ketv.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "亦龙APP",
-"baseUrl": "http://app2.yilongys.cn",
 "apiUrl": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "淘影TV",
-"baseUrl": "http://tv.4kvod.com",
 "apiUrl": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "玉米影视",
-"baseUrl": "http://yumi.video",
 "apiUrl": "http://yumi.video/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "8K影视",
-"baseUrl": "http://vip.8kvod.com:888",
 "apiUrl": "http://vip.8kvod.com:888/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "293影院",
-"baseUrl": "http://app.wangweizhushou.com:2020",
 "apiUrl": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "新女神",
-"baseUrl": "http://cms.tvbox543.com:80",
 "apiUrl": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "蓝猫B站",
-"baseUrl": "https://www.lmzy.cc",
 "apiUrl": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "人人迷",
-"baseUrl": "https://zy.renrenmi.cc",
 "apiUrl": "https://zy.renrenmi.cc/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "09tv",
-"baseUrl": "https://09tv.top/api.php/provide/vod/at/xml",
 "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "雅阁影视",
-"baseUrl": "https://2btv.eu",
 "apiUrl": "https://2btv.eu/api.php/provide/vod/at/xml/",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "安逸影院",
-"baseUrl": "http://dy.51isu.com:11801",
 "apiUrl": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "7k资源",
-"baseUrl": "https://zy.7kjx.com",
 "apiUrl": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
 "parserUrl": "https://jx.xmflv.com/?url="
 },
 {
 "type": 0,
 "sourceName": "天空资源",
-"baseUrl": "http://api.tiankongapi.com",
 "apiUrl": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "1717云",
-"baseUrl": "http://zy.itono.cn",
 "apiUrl": "http://zy.itono.cn/inc/api.php",
 "reverse": 0
 },
 {
 "type": 0,
 "sourceName": "TV资源",
-"baseUrl": "http://tv.aitesucai.xyz",
 "apiUrl": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+"reverse": 0
+},
+  {
+"type": 1,
+"sourceName": "环亚资源",
+"apiUrl": "http://wmcj8.com/inc/sapi.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "花椒资源",
+"apiUrl": "https://apihjzy.com/api.php/Seacms/vod",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "色色资源",
+"apiUrl": "http://sscj8.com/inc/sapi.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "玖玖资源",
+"apiUrl": "http://99zywcj.com/inc/sck.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "狼少年资源",
+"apiUrl": "http://cjmygzy.com/inc/sapi.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "富二代资源",
+"apiUrl": "http://f2dcj6.com/sapi",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "字幕网资源",
+"apiUrl": "http://zmcj88.com/sapi",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "久草资源",
+"apiUrl": "http://jcspcj8.com/sapi",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "名优馆资源",
+"apiUrl": "http://mygzycj.com/sapi.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "利来资源",
+"apiUrl": "http://llzxcj.com/inc/sck.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "博天堂资源",
+"apiUrl": "http://bttcj.com/inc/sapi.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "鲨鱼资源",
+"apiUrl": "https://shayuapi.com/api.php/provide/vod/at/xml",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "大地资源",
+"apiUrl": "http://dadiapi.com/sea_api.php",
+"reverse": 0
+},
+    {
+"type": 1,
+"sourceName": "佳丽",
+"apiUrl": "https://jialiapi.com/api.php/provide/vod/at/xml",
+"reverse": 0
+},
+  {
+"type": 1,
+"sourceName": "老鸦资源",
+"apiUrl": "https://api.apilyzy.com/api.php/Seacms/vod",
+"reverse": 0
+},
+  {
+"type": 1,
+"sourceName": "77",
+"apiUrl": "https://www.77zy.vip/inc/seacmsapi.php",
+"reverse": 0
+},
+  {
+"type": 1,
+"sourceName": "苍天资源",
+"apiUrl": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+"reverse": 0
+},
+  {
+"type": 1,
+"sourceName": "9号资源",
+"apiUrl": "http://fhapi9.com/api.php/provide/vod/at/xml",
 "reverse": 0
 }
 ]
