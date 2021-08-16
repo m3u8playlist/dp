@@ -505,5 +505,305 @@
 "apiUrl": "http://fhapi9.com/api.php/provide/vod/at/xml",
 "reverse": 0
 }
-]
+],
+  "source2": [
+    
+    {
+"sourceName": "爱看TV",
+"apiUrl": "http://mini.aikantv.top/mogai_api.php/v1.vod",
+"searchUrl": "http://mini.aikantv.top/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://mini.aikantv.top/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "80影视",
+"apiUrl": "http://www.ccc8.net/api.php/v1.vod",
+"searchUrl": "http://www.ccc8.net/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.ccc8.net/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "80k影视",
+"apiUrl": "http://1080p.tv/api.php/v1.vod",
+"searchUrl": "http://1080p.tv/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://1080p.tv/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "FUFU影视",
+"apiUrl": "https://fufu.ixhduta.cn/api.php/v1.vod",
+"searchUrl": "https://fufu.ixhduta.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://fufu.ixhduta.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "VIP影视",
+"apiUrl": "http://www.sp.ooo/api.php/v1.vod",
+"searchUrl": "http://www.sp.ooo/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.sp.ooo/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "爱影视",
+"apiUrl": "https://www.hzlff.cn/api.php/v1.vod",
+"searchUrl": "https://www.hzlff.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://www.hzlff.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "白菜追剧",
+"apiUrl": "http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod",
+"searchUrl": "http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "初心影视",
+"apiUrl": "https://www.18mv.club/api.php/v1.vod",
+"searchUrl": "https://www.18mv.club/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://www.18mv.club/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "顶空影视",
+"apiUrl": "http://app1.dikotv.com/api.php/v1.vod",
+"searchUrl": "http://app1.dikotv.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app1.dikotv.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "段友影视",
+"apiUrl": "https://lb.5277s.com/api.php/v1.vod",
+"searchUrl": "https://lb.5277s.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://lb.5277s.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "飞捷影视",
+"apiUrl": "http://www.fj6080.com/api.php/v1.vod",
+"searchUrl": "http://www.fj6080.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.fj6080.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "佛系追剧",
+"apiUrl": "http://foxi.kk06.top/mogai_api.php/v1.vod",
+"searchUrl": "http://foxi.kk06.top/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://foxi.kk06.top/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "公主影视",
+"apiUrl": "http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod",
+"searchUrl": "http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "辉哥影视",
+"apiUrl": "https://app.y.hgyule8.com/api.php/v1.vod",
+"searchUrl": "https://app.y.hgyule8.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://app.y.hgyule8.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "好看剧",
+"apiUrl": "http://v.0719.me/api.php/v1.vod",
+"searchUrl": "http://v.0719.me/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://v.0719.me/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "哈尼视频",
+"apiUrl": "http://www.videovips.top/api.php/v1.vod",
+"searchUrl": "http://www.videovips.top/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.videovips.top/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "核桃影视V1",
+"apiUrl": "http://app.hetaoys.vip/api.php/v1.vod",
+"searchUrl": "http://app.hetaoys.vip/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.hetaoys.vip/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "绿豆影音",
+"apiUrl": "https://www.lvdoutv.cn/api.php/v1.vod",
+"searchUrl": "https://www.lvdoutv.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://www.lvdoutv.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "懒猫电影",
+"apiUrl": "http://www.lanmaody.com/api.php/v1.vod",
+"searchUrl": "http://www.lanmaody.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.lanmaody.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "蓝鲸视界",
+"apiUrl": "https://apps.vd5.cc/api.php/v1.vod",
+"searchUrl": "https://apps.vd5.cc/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://apps.vd5.cc/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "冷视TV",
+"apiUrl": "https://len.tv/api.php/v1.vod",
+"searchUrl": "https://len.tv/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://len.tv/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "魔方TV",
+"apiUrl": "http://tv.mofangzy.xyz/api.php/v1.vod",
+"searchUrl": "http://tv.mofangzy.xyz/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://tv.mofangzy.xyz/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "喵乐影视",
+"apiUrl": "http://miaoletv.com/api.php/v1.vod",
+"searchUrl": "http://miaoletv.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://miaoletv.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "南府追剧",
+"apiUrl": "http://app.xkvideo.design/api.php/v1.vod",
+"searchUrl": "http://app.xkvideo.design/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.xkvideo.design/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "内涵影视",
+"apiUrl": "http://v.nhdyys.cn/api.php/v1.vod",
+"searchUrl": "http://v.nhdyys.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://v.nhdyys.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "柠檬影视",
+"apiUrl": "https://tv.13nm.com/api.php/v1.vod",
+"searchUrl": "https://tv.13nm.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "https://tv.13nm.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "片多儿",
+"apiUrl": "http://meinaikang.com/api.php/v1.vod",
+"searchUrl": "http://meinaikang.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://meinaikang.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "手指影视",
+"apiUrl": "http://szys3355.com/mogai_api.php/v1.vod",
+"searchUrl": "http://szys3355.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://szys3355.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "淘剧社",
+"apiUrl": "http://app.shuhai99.com/api.php/v1.vod",
+"searchUrl": "http://app.shuhai99.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.shuhai99.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "团夕影院",
+"apiUrl": "http://119.29.121.48/api.php/v1.vod",
+"searchUrl": "http://119.29.121.48/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://119.29.121.48/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "我爱电影",
+"apiUrl": "http://v.5imv.cc/api.php/v1.vod",
+"searchUrl": "http://v.5imv.cc/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://v.5imv.cc/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "我爱跟剧",
+"apiUrl": "http://www.52gen.com/api.php/v1.vod",
+"searchUrl": "http://www.52gen.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.52gen.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "蜗牛看鸭",
+"apiUrl": "http://app.snailkya.xyz/api.php/v1.vod",
+"searchUrl": "http://app.snailkya.xyz/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.snailkya.xyz/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "吾爱影视",
+"apiUrl": "http://app.5lp.net/api.php/v1.vod",
+"searchUrl": "http://app.5lp.net/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.5lp.net/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "小城影视",
+"apiUrl": "http://www.269w.com/api.php/v1.vod",
+"searchUrl": "http://www.269w.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.269w.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "先锋影视",
+"apiUrl": "http://58xtv.net/api.php/v1.vod",
+"searchUrl": "http://58xtv.net/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://58xtv.net/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "小极影视",
+"apiUrl": "http://app.xiaoysw.com/api.php/v1.vod",
+"searchUrl": "http://app.xiaoysw.com/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app.xiaoysw.com/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "星空影视",
+"apiUrl": "http://xiongkongwx.cn/api.php/v1.vod",
+"searchUrl": "http://xiongkongwx.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://xiongkongwx.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "小蜻蜓视频",
+"apiUrl": "http://3ketv.com/mogai_api.php/v1.vod",
+"searchUrl": "http://3ketv.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://3ketv.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "休闲影视",
+"apiUrl": "http://tv.78tv.cc/api.php/v1.vod",
+"searchUrl": "http://tv.78tv.cc/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://tv.78tv.cc/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "远方影视",
+"apiUrl": "http://yfys1122.com/mogai_api.php/v1.vod",
+"searchUrl": "http://yfys1122.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://yfys1122.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "颖家影院",
+"apiUrl": "http://zly.xjqxz.top/api.php/v1.vod",
+"searchUrl": "http://zly.xjqxz.top/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://zly.xjqxz.top/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "亦龙影视",
+"apiUrl": "http://app2.yilongys.cn/api.php/v1.vod",
+"searchUrl": "http://app2.yilongys.cn/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://app2.yilongys.cn/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "优炫影视",
+"apiUrl": "http://yuntv.iyxtv.cn/mogai_api.php/v1.vod",
+"searchUrl": "http://yuntv.iyxtv.cn/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://yuntv.iyxtv.cn/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "一只鱼影视",
+"apiUrl": "http://www.bd-4k.ml/api.php/v1.vod",
+"searchUrl": "http://www.bd-4k.ml/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://www.bd-4k.ml/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "追番猫",
+"apiUrl": "http://dm.496dy.cn:88/api.php/v1.vod",
+"searchUrl": "http://dm.496dy.cn:88/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://dm.496dy.cn:88/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "追剧吧",
+"apiUrl": "http://zhuijuba.vip/api.php/v1.vod",
+"searchUrl": "http://zhuijuba.vip/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://zhuijuba.vip/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "侦探影视",
+"apiUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod",
+"searchUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://ys.huangguay.com/mogai_api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+},
+{
+"sourceName": "追影兔",
+"apiUrl": "http://longw.xyz:91/api.php/v1.vod",
+"searchUrl": "http://longw.xyz:91/api.php/v1.vod?page=1&limit=10&wd=%s",
+"detailUrl": "http://longw.xyz:91/api.php/v1.vod/detail?vod_id=%s&rel_limit=10",
+}
+    
+  ]
+  
+  
 }
