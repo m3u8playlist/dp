@@ -1,9 +1,9 @@
 display_name=奈飞星
 type=portrait
 cat=episode
-tag=电影
-page1_url=https://nfxhd.com/vodshow/movie--time---------/
-page2_url_pre=https://nfxhd.com/vodshow/movie--time------
+tag=电影,美剧,日韩
+page1_url=https://nfxhd.com/vodshow/movie--time---------/,https://nfxhd.com/vodshow/tvplay--time---------/,https://nfxhd.com/vodshow/tvshow--time---------/
+page2_url_pre=https://nfxhd.com/vodshow/movie--time------,https://nfxhd.com/vodshow/tvplay--time------,https://nfxhd.com/vodshow/tvshow--time------
 page2_url_suffix=---/
 first_container_select=ul.myui-vodlist
 first_items_select=li
