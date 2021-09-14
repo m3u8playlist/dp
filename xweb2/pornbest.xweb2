@@ -1,0 +1,39 @@
+display_name=pornbest
+type=landscape
+cat=av
+tag=最新
+page1_url=http://www.pornbest.org/?sort=updated
+page2_url_pre=http://www.pornbest.org/?sort=updated&per-page=96&page=
+page2_url_suffix=none
+first_container_select=#videos
+first_items_select=.card
+title_select=.lines a
+title_select_attr=none
+logo_select=img
+logo_select_attr=data-src
+first_url_select=.lines a
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=http://www.pornbest.org
+realurl_regex=source src="([^"]+)
+second_flag=none
+second_container_select=none
+second_items_select=none
+second_title_select=none
+second_title_select_attr=none
+second_url_select=none
+second_url_select_attr=none
+second_url_pre=none
+search_flag=yes
+search_url=http://www.pornbest.org/?q=`
+search_url2=http://www.pornbest.org/q/`?page=^
+search_first_container_select=#videos
+search_first_items_select=.card
+search_title_select=.lines a
+search_title_select_attr=none
+search_logo_select=img
+search_logo_select_attr=data-src
+search_first_url_select=.lines a
+search_first_url_select_attr=href
+search_logo_pre=none
+search_first_url_pre=http://www.pornbest.org
