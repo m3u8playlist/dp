@@ -1,9 +1,9 @@
 display_name=独播库
 type=portrait
 cat=episode
-tag=电影,剧集,综艺,动漫
-page1_url=https://www.duboku.tv/vodtype/1.html,https://www.duboku.tv/vodtype/2.html,https://www.duboku.tv/vodtype/3.html,https://www.duboku.tv/vodtype/4.html
-page2_url_pre=https://www.duboku.tv/vodtype/1-,https://www.duboku.tv/vodtype/2-,https://www.duboku.tv/vodtype/3-,https://www.duboku.tv/vodtype/4-
+tag=剧集,港剧,综艺,动漫
+page1_url=https://www.duboku.tv/vodtype/2.html,https://www.duboku.tv/vodtype/20.html,https://www.duboku.tv/vodtype/3.html,https://www.duboku.tv/vodtype/4.html
+page2_url_pre=https://www.duboku.tv/vodtype/2-,https://www.duboku.tv/vodtype/20-,https://www.duboku.tv/vodtype/3-,https://www.duboku.tv/vodtype/4-
 page2_url_suffix=.html
 first_container_select=.myui-vodlist
 first_items_select=li
