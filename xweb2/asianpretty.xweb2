@@ -1,9 +1,9 @@
 display_name=麻豆
 type=landscape
 cat=av
-tag=麻豆
-page1_url=https://asianpretty.com/tag/%e9%ba%bb%e8%b1%86/
-page2_url_pre=https://asianpretty.com/tag/%e9%ba%bb%e8%b1%86/page/
+tag=麻豆,SWAG
+page1_url=https://asianpretty.com/tag/%e9%ba%bb%e8%b1%86/,https://asianpretty.com/tag/swag/
+page2_url_pre=https://asianpretty.com/tag/%e9%ba%bb%e8%b1%86/page/,https://asianpretty.com/tag/swag/page/
 page2_url_suffix=none
 first_container_select=.videos-list
 first_items_select=article
