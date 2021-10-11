@@ -5,7 +5,7 @@ tag=日韩,国产,欧美,变态
 page1_url=http://www.ios-wiki.com/yas/1.html,http://www.ios-wiki.com/yas/2.html,http://www.ios-wiki.com/yas/3.html,http://www.ios-wiki.com/yas/4.html
 page2_url_pre=http://www.ios-wiki.com/yas/1/page/,http://www.ios-wiki.com/yas/2/page/,http://www.ios-wiki.com/yas/3/page/,http://www.ios-wiki.com/yas/4/page/
 page2_url_suffix=.html
-first_container_select=.container .row ul
+first_container_select=#L9EVER .container .row ul
 first_items_select=li
 title_select=h2 a
 title_select_attr=none
@@ -27,7 +27,7 @@ second_url_pre=none
 search_flag=yes
 search_url=http://www.ios-wiki.com/vodsearch/-------------.html?wd=`
 search_url2=http://www.ios-wiki.com/vodsearch/`----------^---.html
-search_first_container_select=.container .row .layout-box ul
+search_first_container_select=#L9EVER .container .row .layout-box ul
 search_first_items_select=li
 search_title_select=h5 a
 search_title_select_attr=none
