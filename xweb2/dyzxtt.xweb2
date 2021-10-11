@@ -1,9 +1,9 @@
 display_name=电影在线天堂
 type=portrait
 cat=episode
-tag=电影
-page1_url=http://www.dyzxtt.com/pianku/dianying-----------.html
-page2_url_pre=http://www.dyzxtt.com/pianku/dianying--------
+tag=电影,剧集,动漫
+page1_url=http://www.dyzxtt.com/pianku/dianying-----------.html,http://www.dyzxtt.com/pianku/juji-----------.html,http://www.dyzxtt.com/pianku/dongman-----------.html
+page2_url_pre=http://www.dyzxtt.com/pianku/dianying--------,http://www.dyzxtt.com/pianku/juji--------,http://www.dyzxtt.com/pianku/dongman--------
 page2_url_suffix=---.html
 first_container_select=.module .module-list .module-items
 first_items_select=.module-item
