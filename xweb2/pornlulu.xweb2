@@ -13,7 +13,7 @@ logo_select=img
 logo_select_attr=data-src
 first_url_select=.card-body  a
 first_url_select_attr=href
-logo_pre=http://www.pornlulu.com
+logo_pre=none
 first_url_pre=http://www.pornlulu.com
 realurl_regex=source src="(http[^"]+)
 second_flag=none
