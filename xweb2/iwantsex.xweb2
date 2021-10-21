@@ -15,7 +15,7 @@ first_url_select=a
 first_url_select_attr=href
 logo_pre=https://iwant-sex.com
 first_url_pre=https://iwant-sex.com
-realurl_regex=source src="([^"]+)
+realurl_regex=source src="([^"]+m3u8)
 second_flag=none
 second_container_select=none
 second_items_select=none
