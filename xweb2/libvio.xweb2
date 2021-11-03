@@ -1,9 +1,9 @@
 display_name=LIB在线
 type=portrait
 cat=episode
-tag=电影
-page1_url=https://www.libvio.com/type/1.html
-page2_url_pre=https://www.libvio.com/type/1-
+tag=剧集,动漫,日韩剧,欧美剧
+page1_url=https://www.libvio.com/type/2.html,https://www.libvio.com/type/4.html,https://www.libvio.com/type/15.html,https://www.libvio.com/type/16.html
+page2_url_pre=https://www.libvio.com/type/2-,https://www.libvio.com/type/4-,https://www.libvio.com/type/15-,https://www.libvio.com/type/16-
 page2_url_suffix=.html
 first_container_select=ul.stui-vodlist
 first_items_select=.stui-vodlist__box
