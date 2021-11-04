@@ -15,7 +15,7 @@ first_url_select=.card-body  a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=http://www.pornlulu.com
-realurl_regex=source src="(http[^"]+)
+realurl_regex=src="(http[^"]+m3u8)
 second_flag=none
 second_container_select=none
 second_items_select=none
