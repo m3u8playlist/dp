@@ -1,9 +1,9 @@
 display_name=冲TMTV
 type=portrait
 cat=episode
-tag=电影
-page1_url=https://chongtmtv.com/index.php/vod/show/id/1.html
-page2_url_pre=https://chongtmtv.com/index.php/vod/show/id/1/page/
+tag=电影,电视,综艺,动漫
+page1_url=https://chongtmtv.com/index.php/vod/show/id/1.html,https://chongtmtv.com/index.php/vod/type/id/2.html,https://chongtmtv.com/index.php/vod/type/id/3.html,https://chongtmtv.com/index.php/vod/type/id/4.html
+page2_url_pre=https://chongtmtv.com/index.php/vod/show/id/1/page/,https://chongtmtv.com/index.php/vod/show/id/2/page/,https://chongtmtv.com/index.php/vod/show/id/3/page/,https://chongtmtv.com/index.php/vod/show/id/4/page/
 page2_url_suffix=.html
 first_container_select=.vodlist
 first_items_select=.pack-ykpack
