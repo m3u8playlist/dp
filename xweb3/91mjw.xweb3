@@ -18,6 +18,8 @@
 "playlist_node_title":"",
 "playlist_title":"",
 "playlist_url":"",
+"playlist_url_replace":"",
+"playlist_info":"",
 "search_flag":true,
 "search_url_first_page":"",
 "search_url_other_page":"",
