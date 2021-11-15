@@ -16,7 +16,7 @@
 "playlist_flag":true,
 "playlist_group_node":"//div[contains(@id, 'video_list_li')]",
 "playlist_title":"//a",
-"playlist_url":"//a@id",
+"playlist_url":"//a/@id",
 "playlist_url_replace":"https://91mjw.com/vplay/{id}.html",
 "playlist_info":"//p[contains(@class, 'jianjie')]/span",
 "search_flag":true,
