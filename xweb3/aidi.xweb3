@@ -10,7 +10,7 @@
 "vod_info":"",
 "vod_score":"//span[@class='pic_text']",
 "vod_title":"//p[contains(@class, 'vodlist_title')]/a",
-"vod_image":"//a[contains(@class, 'vodlist_thumb')/@data-original",
+"vod_image":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "vod_url":"//p[contains(@class, 'vodlist_title')]/a/@href",
 "play_regex":"dXJsIjoiKGh0dHBbXiJdKyk=",
 "playlist_flag":true,
@@ -24,6 +24,6 @@
 "search_url_other_page":"https://aidi.tv/vsearch/{wd}----------{pg}---.html",
 "search_vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "search_vod_title":"//h4/a/@title",
-"search_vod_image":"//a[contains(@class, 'vodlist_thumb')/@data-original",
+"search_vod_image":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "search_vod_url":"//h4/a/@href",
 }
