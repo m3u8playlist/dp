@@ -5,7 +5,7 @@
 "base_url":"https://jable.tv",
 "tags":"最近更新,全新上市",
 "url_first_page":"https://jable.tv/latest-updates/1/,https://jable.tv/new-release/",
-"url_other_page":"https://jable.tv/latest-updates/{pg},https://jable.tv/new-release/{pg}",
+"url_other_page":"https://jable.tv/latest-updates/{pg}/,https://jable.tv/new-release/{pg}/",
 "vod_node":"//div[contains(@id, 'site-content')]//div[contains(@class, 'video-img-box')]",
 "vod_info":"//span[contains(@class, 'label')]",
 "vod_score":"",
