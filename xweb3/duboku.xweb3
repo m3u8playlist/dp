@@ -7,7 +7,7 @@
 "url_first_page":"https://www.duboku.tv/vodtype/2.html,https://www.duboku.tv/vodtype/20.html,https://www.duboku.tv/vodtype/3.html,https://www.duboku.tv/vodtype/4.html",
 "url_other_page":"https://www.duboku.tv/vodtype/2-{pg}.html,https://www.duboku.tv/vodtype/20-{pg}.html,https://www.duboku.tv/vodtype/3-{pg}.html,https://www.duboku.tv/vodtype/4-{pg}.html",
 "vod_node":"//ul[contains(@class, 'myui-vodlist')]//li",
-"vod_info":"//span[@class='pic-text']",
+"vod_info":"//span[contains(@class, 'pic-text')]",
 "vod_score":"//span[@class='tag']",
 "vod_title":"//h4/a",
 "vod_image":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
