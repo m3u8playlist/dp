@@ -8,7 +8,7 @@
 "url_other_page":"https://aidi.tv/show/dianying--------{pg}---.html,https://aidi.tv/show/lianxuju--------{pg}---.html,https://aidi.tv/show/zongyi--------{pg}---.html,https://aidi.tv/show/dongman--------{pg}---.html",
 "vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
-"vod_score":"//span[@class='pic_text']",
+"vod_score":"//span[contains(@class, 'pic_text')]",
 "vod_title":"//p[contains(@class, 'vodlist_title')]/a",
 "vod_image":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "vod_url":"//p[contains(@class, 'vodlist_title')]/a/@href",
