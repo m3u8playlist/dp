@@ -14,7 +14,7 @@
 "vod_url":"//h4/a/@href",
 "play_regex":"dXJsIjoiKGh0dHBbXiJdKyk=",
 "playlist_flag":true,
-"playlist_group_node":"//ul[contains(@id, 'myui-content__list')]",
+"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
 "playlist_title":"//li/a",
 "playlist_url":"//li/a/@href",
 "playlist_url_replace":"",
