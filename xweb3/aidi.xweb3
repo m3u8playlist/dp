@@ -18,7 +18,7 @@
 "playlist_title":"//li//a",
 "playlist_url":"//li//a/@href",
 "playlist_url_replace":"",
-"playlist_info":"//li//div[contains(@class, 'content_desc')]//span",
+"playlist_info":"//div[contains(@class, 'content_desc')]//span",
 "search_flag":true,
 "search_url_first_page":"https://aidi.tv/vsearch/-------------.html?wd={wd}&submit=",
 "search_url_other_page":"https://aidi.tv/vsearch/{wd}----------{pg}---.html",
