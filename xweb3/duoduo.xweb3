@@ -9,7 +9,7 @@
 "vod_node":"//ul[contains(@class, 'stui-vodlist')]//li",
 "vod_info":"//em[@class='text-red']",
 "vod_score":"",
-"vod_title":"//h3/a/title",
+"vod_title":"//h3/a/@title",
 "vod_image":"",
 "vod_url":"//h3/a/@href",
 "play_regex":"",
