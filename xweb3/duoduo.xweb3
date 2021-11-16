@@ -22,8 +22,8 @@
 "search_flag":true,
 "search_url_first_page":"http://www.duoduozy.com/vodsearch/-------------.html?wd={wd}&submit=",
 "search_url_other_page":"http://www.duoduozy.com/vodsearch/{wd}----------{pg}---.html",
-"search_vod_node":"//ul[contains(@class, 'stui-vodlist')]/li",
-"search_vod_title":"//h3/a",
+"search_vod_node":"//ul[contains(@class, 'stui-vodlist')]",
+"search_vod_title":"//li//h3/a",
 "search_vod_image":"",
-"search_vod_url":"//h3/a/@href",
+"search_vod_url":"//li//h3/a/@href",
 }
