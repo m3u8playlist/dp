@@ -6,7 +6,7 @@
 "tags":"电影,电视剧,综艺,动漫",
 "url_first_page":"https://vipmv.tv/vodshow/1-----------.html,https://vipmv.tv/vodshow/2-----------.html,https://vipmv.tv/vodshow/3-----------.html,https://vipmv.tv/vodshow/4-----------.html",
 "url_other_page":"https://vipmv.tv/vodshow/1--------{pg}---.html,https://vipmv.tv/vodshow/2--------{pg}---.html,https://vipmv.tv/vodshow/3--------{pg}---.html,https://vipmv.tv/vodshow/4--------{pg}---.html",
-"vod_node":"//div[contains(@class, 'vodlist')]//div[@class='pack-ykpack']",
+"vod_node":"//div[contains(@class, 'vodlist')]//div[@class='pack-ykpack ']",
 "vod_info":"//span[contains(@class, 'pack-prt')]",
 "vod_score":"//span[contains(@class, 'pack-prt ol3')]",
 "vod_title":"//a[@class='vodname']",
