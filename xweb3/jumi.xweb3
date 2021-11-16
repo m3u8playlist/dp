@@ -23,7 +23,7 @@
 "search_url_first_page":"https://jumi.tv/search.html?wd={wd}&submit=",
 "search_url_other_page":"https://jumi.tv/search/page/{pg}/wd/{wd}.html",
 "search_vod_node":"//ul[contains(@class, 'myui-vodlist__media')]//li",
-"search_vod_title":"//h4/a/@title",
+"search_vod_title":"//h4/a",
 "search_vod_image":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
 "search_vod_url":"//h4/a/@href",
 }
