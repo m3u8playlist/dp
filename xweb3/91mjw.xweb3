@@ -2,6 +2,7 @@
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
 "title":"91美剧网",
 "episode_flag":true,
+"landscape_flag":false,
 "base_url":"https://91mjw.com",
 "tags":"最新美剧,科幻,恐怖,喜剧,剧情,纪录片",
 "url_first_page":"https://91mjw.com/category/all_mj, https://91mjw.com/category/kehuanpian,https://91mjw.com/category/kongbupian,https://91mjw.com/category/xijupian,https://91mjw.com/category/juqingpian,https://91mjw.com/category/jilupian",
