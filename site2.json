@@ -2,11 +2,11 @@
 "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
 "json":[{
 "type":1,
-"name":"if101",
+"name":"if101[屏蔽国内ip]",
 "api":"http://api.if101.tv/v1/vod"
 },{
 "type":0,
-"name":"if101",
+"name":"if101[屏蔽国内ip]",
 "api":"https://demo.if101.tv/api.php/provide/vod/at/xml"
 },{
 "type":0,
