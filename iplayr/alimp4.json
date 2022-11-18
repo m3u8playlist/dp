@@ -32,7 +32,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a[@class='module-item-title']/@href",
-"vod_link_regex":"PGEgaHJlZj0iL3ZvZGRldGFpbChcZCsp",
+"vod_link_regex":"PGEgaHJlZj0iXC92b2RkZXRhaWxcLyhcZCsp",
 "vod_link_url":"http://xin.alimp4.com/vodplay/{id}-1-1/",
 "play_regex":"InVybCI6IiglW14iXSsp",
 "play_url":"{id}",
@@ -51,6 +51,6 @@
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//h3/a/@href",
-"search_vod_link_regex":"PGEgaHJlZj0iL3ZvZGRldGFpbChcZCsp",
+"search_vod_link_regex":"PGEgaHJlZj0iXC92b2RkZXRhaWxcLyhcZCsp",
 "search_vod_link_url":"http://xin.alimp4.com/vodplay/{id}-1-1/"
 }
