@@ -1,0 +1,54 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"阿里影视",
+"episode_flag":false,
+"landscape_flag":true,
+"category": [{
+			"title": "国产AV",
+			"url0": "http://xin.alimp4.com/vodtype/2/",
+			"url1": "http://xin.alimp4.com/vodtype/2-{pg}/"
+		},
+		{
+			"title": "阿里独家",
+			"url0": "http://xin.alimp4.com/vodtype/1/",
+			"url1": "http://xin.alimp4.com/vodtype/1-{pg}/"
+		},
+    {
+			"title": "日韩AV",
+			"url0": "http://xin.alimp4.com/vodtype/3/",
+			"url1": "http://xin.alimp4.com/vodtype/3-{pg}/"
+		},
+    {
+			"title": "欧美动漫",
+			"url0": "http://xin.alimp4.com/vodtype/4/",
+			"url1": "http://xin.alimp4.com/vodtype/4-{pg}/"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-item')]",
+"vod_info":"span[@class='video-class']",
+"vod_score":"",
+"vod_title":"//a[@class='module-item-title']",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a[@class='module-item-title']/@href",
+"vod_link_url":"http://xin.alimp4.com{id}",
+"play_regex":"InVybCI6IiglW14iXSsp",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//div[contains(@class, 'video-info-footer')]",
+"playlist_title":"//a[1]",
+"playlist_link_id":"//a[1]/@href",
+"playlist_link_url":"{id}",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://theav.xyz/search/{wd}",
+"search_url_other_page":"https://theav.xyz/search/{wd}/{pg}",
+"search_vod_node":"//div[contains(@class, 'video-list')]//div[contains(@class, 'card')]",
+"search_vod_title":"//span[@class='av_data_title']",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://theav.xyz{id}"
+}
