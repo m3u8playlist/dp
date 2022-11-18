@@ -24,7 +24,7 @@
 			"url1": "http://xin.alimp4.com/vodtype/4-{pg}/"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-item')]",
+"vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-item-go')]",
 "vod_info":"span[@class='video-class']",
 "vod_score":"",
 "vod_title":"//a[@class='module-item-title']",
