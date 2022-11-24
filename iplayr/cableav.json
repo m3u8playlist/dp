@@ -5,14 +5,49 @@
 "landscape_flag":true,
 "yt_dlp":true,
 "category": [{
-			"title": "中國主播",
-			"url0": "https://cableav.tv/category/chinese-live-porn/",
-			"url1": "https://cableav.tv/category/chinese-live-porn/page/{pg}/"
+		"title": "中國主播",
+		"url0": "https://cableav.tv/category/chinese-live-porn/",
+		"url1": "https://cableav.tv/category/chinese-live-porn/page/{pg}/"
+		},
+	     {
+		"title": "韓國主播",
+		"url0": "https://cableav.tv/category/korean-live-porn/",
+		"url1": "https://cableav.tv/category/korean-live-porn/page/{pg}/"
+		},
+	     {
+		"title": "自拍流出",
+		"url0": "https://cableav.tv/category/selfie-porn/",
+		"url1": "https://cableav.tv/category/selfie-porn/page/{pg}/"
+		},
+	     {
+		"title": "主播福利",
+		"url0": "https://cableav.tv/category/private-show-porn/",
+		"url1": "https://cableav.tv/category/private-show-porn/page/{pg}/"
+		},
+	     {
+		"title": "網紅福利",
+		"url0": "https://cableav.tv/category/kol-selfie-porn/",
+		"url1": "https://cableav.tv/category/kol-selfie-porn/page/{pg}/"
+		},
+	     {
+		"title": "91大神",
+		"url0": "https://cableav.tv/category/master-91porn/",
+		"url1": "https://cableav.tv/category/master-91porn/page/{pg}/"
+		},
+	     {
+		"title": "國產AV",
+		"url0": "https://cableav.tv/category/chinese-av-porn/",
+		"url1": "https://cableav.tv/category/chinese-av-porn/page/{pg}/"
+		},
+	     {
+		"title": "JAV 4K",
+		"url0": "https://cableav.tv/category/jav-4k/",
+		"url1": "https://cableav.tv/category/jav-4k/page/{pg}/"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'blog-items')]//article",
 "vod_info":"//time[contains(@class, 'entry-date')]",
-"vod_score":"//span[contains(@class='duration-text')]",
+"vod_score":"//span[contains(@class,'duration-text')]",
 "vod_title":"//h3/a",
 "vod_image_id":"//img/@data-src",
 "vod_image_regex":"",
@@ -27,14 +62,14 @@
 "playlist_link_id":"",
 "playlist_link_url":"",
 "playlist_info":"",
-"search_flag":true,
-"search_url_first_page":"https://cn.pornhub.com/video/search?search={wd}",
-"search_url_other_page":"https://cn.pornhub.com/video/search?search={wd}&page={pg}",
-"search_vod_node":"//ul[contains(@id, 'videoSearchResult')]//li[contains(@class, 'pcVideoListItem')]",
-"search_vod_title":"//span[@class='title']/a/@title",
-"search_vod_image_id":"//img/@data-mediumthumb",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
 "search_vod_image_regex":"",
-"search_vod_image_url":"{id}",
-"search_vod_link_id":"//span[@class='title']/a/@href",
-"search_vod_link_url":"https://cn.pornhub.com{id}"
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
 }
