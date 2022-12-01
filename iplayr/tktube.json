@@ -11,7 +11,7 @@
 		}
 	     
 	],  
-"vod_node":"//div[contains(@id, 'list-videos')]//div[contains(@class, 'item')]",
+"vod_node":"//div[contains(@class, 'list-videos')]//div[contains(@class, 'item')]",
 "vod_info":"//div[contains(@class, 'added')]//em",
 "vod_score":"//div[contains(@class,'duration')]",
 "vod_title":"//strong[@class='title']",
