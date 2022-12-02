@@ -10,7 +10,7 @@
 		}
 		
 	],  
-"vod_node":"//div[contains(@id, 'videos')]//div[contains(@class, 'card')]",
+"vod_node":"//div[contains(@id, 'videos')]//div[@class='card']",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[@class='two-lines']//a[@class='visited']",
