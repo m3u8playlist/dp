@@ -3,6 +3,7 @@
 "title":"朴樱影视",
 "episode_flag":true,
 "landscape_flag":false,
+"open_with_safari_flag",true,
 "category": [{
 			"title": "电影",
 			"url0": "https://www.b09.net/vodshow/1-----------/",
@@ -34,7 +35,7 @@
 "vod_link_id":"//a/@href",
 "vod_link_regex":"",
 "vod_link_url":"https://www.b09.net{id}",
-"play_regex":"InVybCI6IihodHRwW14iXSttM3U4KQ==",
+"play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[contains(@class, 'module-play-list')]//div[contains(@class, 'module-play-list-content')]",
