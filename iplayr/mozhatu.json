@@ -3,6 +3,7 @@
 "title":"莫扎兔",
 "episode_flag":true,
 "landscape_flag":false,
+"open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
 			"url0": "https://www.mozhatu.com/index.php/vod/show/id/1.html",
