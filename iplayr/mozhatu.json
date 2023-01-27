@@ -6,28 +6,28 @@
 "open_with_safari_flag":false,
 "category": [{
 			"title": "电影",
-			"url0": "https://www.mozhatu.com/index.php/vod/show/id/1.html",
-			"url1": "https://www.mozhatu.com/index.php/vod/show/id/1/page/{pg}.html"
+			"url0": "https://www.mozhatu.com/vodshow/1-----------/",
+			"url1": "https://www.mozhatu.com/vodshow/1--------{pg}---/"
 		},
 {
 			"title": "剧集",
-			"url0": "https://www.mozhatu.com/index.php/vod/show/id/2.html",
-			"url1": "https://www.mozhatu.com/index.php/vod/show/id/2/page/{pg}.html"
+			"url0": "https://www.mozhatu.com/vodshow/2-----------/",
+			"url1": "https://www.mozhatu.com/vodshow/2--------{pg}---/"
 		},
     {
 			"title": "综艺",
-			"url0": "https://www.mozhatu.com/index.php/vod/show/id/3.html",
-			"url1": "https://www.mozhatu.com/index.php/vod/show/id/3/page/{pg}.html"
+			"url0": "https://www.mozhatu.com/vodshow/3-----------/",
+			"url1": "https://www.mozhatu.com/vodshow/3--------{pg}---/"
 		},
     {
 			"title": "动漫",
-			"url0": "https://www.mozhatu.com/index.php/vod/show/id/4.html",
-			"url1": "https://www.mozhatu.com/index.php/vod/show/id/4/page/{pg}.html"
+			"url0": "https://www.mozhatu.com/vodshow/4-----------/",
+			"url1": "https://www.mozhatu.com/vodshow/4--------{pg}---/"
 		},
       {
 			"title": "记录",
-			"url0": "https://www.mozhatu.com/index.php/vod/show/id/5.html",
-			"url1": "https://www.mozhatu.com/index.php/vod/show/id/5/page/{pg}.html"
+			"url0": "https://www.mozhatu.com/vodshow/5-----------/",
+			"url1": "https://www.mozhatu.com/vodshow/5--------{pg}---/"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'module')]//a[contains(@class, 'module-item')]",
