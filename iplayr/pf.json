@@ -28,7 +28,7 @@
 "playlist_info":"",
 "search_flag":true,
 "search_url_first_page":"https://www.pornfind.org/zh-hans/find/{wd}",
-"search_url_other_page":"https://www.pornfind.org/zh-hans/find/{wd}/?page={pg}",
+"search_url_other_page":"https://www.pornfind.org/zh-hans/find/{wd}?page={pg}",
 "search_vod_node":"//div[contains(@id, 'videos')]//div[contains(@class, 'my-2')]",
 "search_vod_title":"//h5/a",
 "search_vod_image_id":"//img/@data-src",
