@@ -3,7 +3,6 @@
 "title":"cableav",
 "episode_flag":false,
 "landscape_flag":true,
-"yt_dlp":true,
 "category": [{
 		"title": "中國主播",
 		"url0": "https://cableav.tv/category/chinese-live-porn/",
@@ -54,7 +53,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//h3/a/@href",
 "vod_link_url":"{id}",
-"play_regex":"",
+"play_regex":"c2luZ2xlX3ZpZGVvX3VybCI6IihbXiJdKyk=",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
