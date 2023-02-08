@@ -5,24 +5,14 @@
 "landscape_flag":false,
 "referer":"",
 "open_with_safari_flag":true,
-"category": [{
-			"title": "剧集",
-			"url0": "https://www.duboku.tv/vodtype/2.html",
-			"url1": "https://www.duboku.tv/vodtype/2-{pg}.html"
-		},
-		
-     {
-			"title": "日韩剧",
-			"url0": "https://www.duboku.tv/vodtype/15.html",
-			"url1": "https://www.duboku.tv/vodtype/15-{pg}.html"
-		},
+"category": [
                   {
-			"title": "陆剧",
+			"title": "电影",
 			"url0": "https://www.duboku.tv/vodtype/13.html",
 			"url1": "https://www.duboku.tv/vodtype/13-{pg}.html"
 		},
                   {
-			"title": "港剧",
+			"title": "电视剧",
 			"url0": "https://www.duboku.tv/vodtype/20.html",
 			"url1": "https://www.duboku.tv/vodtype/20-{pg}.html"
 		},
@@ -38,31 +28,31 @@
 		}
 	],    
 
-"vod_node":"//ul[contains(@class, 'myui-vodlist')]//li",
-"vod_info":"//span[contains(@class, 'pic-text')]",
-"vod_score":"//span[@class='tag']",
-"vod_title":"//h4/a",
-"vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
+"vod_node":"//div[contains(@class, 'lists-content')]//ul//li",
+"vod_info":"//div[contains(@class, 'note')]/span",
+"vod_score":"//span[@class='rate']",
+"vod_title":"//h2/a",
+"vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//h4/a/@href",
-"vod_link_url":"https://www.duboku.tv{id}",
-"play_regex":"dXJsIjoiKGh0dHBbXiJdKyk=",
+"vod_link_id":"//h2/a/@href",
+"vod_link_url":"https://www.dandanzan10.top{id}",
+"play_regex":"",
 "play_url":"{id}",
-"playlist_flag":true,
-"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
-"playlist_title":"//li/a",
-"playlist_link_id":"//li/a/@href",
-"playlist_link_url":"https://www.duboku.tv{id}",
-"playlist_info":"//span[contains(@class, 'sketch')]",
-"search_flag":true,
-"search_url_first_page":"https://www.duboku.tv/vodsearch/-------------.html?wd={wd}&submit=",
-"search_url_other_page":"https://www.duboku.tv/vodsearch/{wd}----------{pg}---.html",
-"search_vod_node":"//ul[contains(@class, 'myui-vodlist__media')]//li",
-"search_vod_title":"//h4/a",
-"search_vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
 "search_vod_image_regex":"",
-"search_vod_image_url":"{id}",
-"search_vod_link_id":"//h4/a/@href",
-"search_vod_link_url":"https://www.duboku.tv{id}"
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
 }
