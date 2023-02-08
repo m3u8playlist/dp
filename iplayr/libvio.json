@@ -1,0 +1,64 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"LIBVIO",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.libvio.me/type/1.html",
+			"url1": "https://www.libvio.me/type/1-{pg}.html"
+		},
+		
+     {
+			"title": "剧集",
+			"url0": "https://www.libvio.me/type/2.html",
+			"url1": "https://www.libvio.me/type/2-{pg}.html"
+		},
+                  {
+			"title": "日韩剧",
+			"url0": "https://www.libvio.me/type/15.html",
+			"url1": "https://www.libvio.me/type/15-{pg}.html"
+		},
+                  {
+			"title": "欧美剧",
+			"url0": "https://www.libvio.me/type/16.html",
+			"url1": "https://www.libvio.me/type/16-{pg}.html"
+		},
+
+                  {
+			"title": "动漫",
+			"url0": "https://www.libvio.me/type/4.html",
+			"url1": "https://www.libvio.me/type/4-{pg}.html"
+		}
+	],    
+
+"vod_node":"//ul[contains(@class, 'stui-vodlist')]//li",
+"vod_info":"//span[contains(@class, 'pic-text')]",
+"vod_score":"//span[contains(@class, 'pic-tag')]",
+"vod_title":"//h4/a",
+"vod_image_id":"//a/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h4/a/@href",
+"vod_link_url":"https://www.libvio.me{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'stui-content__playlist')]",
+"playlist_title":"//li/a",
+"playlist_link_id":"//li/a/@href",
+"playlist_link_url":"https://www.libvio.me{id}",
+"playlist_info":"//p[contains(@class, 'desc')]",
+"search_flag":true,
+"search_url_first_page":"https://www.libvio.me/search/-------------.html?wd={wd}&submit=",
+"search_url_other_page":"https://www.libvio.me/search/{wd}----------{pg}---.html",
+"search_vod_node":"//ul[contains(@class, 'stui-vodlist')]//li",
+"search_vod_title":"//h4/a",
+"search_vod_image_id":"//a/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h4/a/@href",
+"search_vod_link_url":"https://www.libvio.me{id}"
+}
