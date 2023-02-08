@@ -8,23 +8,23 @@
 "category": [
                   {
 			"title": "电影",
-			"url0": "https://www.duboku.tv/vodtype/13.html",
-			"url1": "https://www.duboku.tv/vodtype/13-{pg}.html"
+			"url0": "https://www.dandanzan10.top/dianying/",
+			"url1": "https://www.dandanzan10.top/dianying/index_{pg}.html"
 		},
                   {
 			"title": "电视剧",
-			"url0": "https://www.duboku.tv/vodtype/20.html",
-			"url1": "https://www.duboku.tv/vodtype/20-{pg}.html"
+			"url0": "https://www.dandanzan10.top/dianshiju/",
+			"url1": "https://www.dandanzan10.top/dianshiju/index_{pg}.html"
 		},
                   {
 			"title": "综艺",
-			"url0": "https://www.duboku.tv/vodtype/3.html",
-			"url1": "https://www.duboku.tv/vodtype/3-{pg}.html"
+			"url0": "https://www.dandanzan10.top/zongyi/",
+			"url1": "https://www.dandanzan10.top/zongyi/index_{pg}.html"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.duboku.tv/vodtype/4.html",
-			"url1": "https://www.duboku.tv/vodtype/4-{pg}.html"
+			"url0": "https://www.dandanzan10.top/dongman/",
+			"url1": "https://www.dandanzan10.top/dongman/index_{pg}.html"
 		}
 	],    
 
