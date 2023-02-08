@@ -8,33 +8,33 @@
 "category": [
 {
 "title": "电影",
-"url0": "https://ddys.one/category/movie/",
-"url1": "https://ddys.one/category/movie/page/{pg}/"
+"url0": "https://ddys.art/category/movie/",
+"url1": "https://ddys.art/category/movie/page/{pg}/"
 },
 {
 "title": "华语集",
-"url0": "https://ddys.one/category/drama/cn-drama/",
-"url1": "https://ddys.one/category/drama/cn-drama/page/{pg}/"
+"url0": "https://ddys.art/category/drama/cn-drama/",
+"url1": "https://ddys.art/category/drama/cn-drama/page/{pg}/"
 },
 {
 "title": "日剧",
-"url0": "https://ddys.one/category/drama/jp-drama/",
-"url1": "https://ddys.one/category/drama/jp-drama/page/{pg}/"
+"url0": "https://ddys.art/category/drama/jp-drama/",
+"url1": "https://ddys.art/category/drama/jp-drama/page/{pg}/"
 },
   {
 "title": "韩剧",
-"url0": "https://ddys.one/category/drama/kr-drama/",
-"url1": "https://ddys.one/category/drama/kr-drama/page/{pg}/"
+"url0": "https://ddys.art/category/drama/kr-drama/",
+"url1": "https://ddys.art/category/drama/kr-drama/page/{pg}/"
 },
 {
 "title": "欧美剧",
-"url0": "https://ddys.one/category/drama/western-drama/",
-"url1": "https://ddys.one/category/drama/western-drama/page/{pg}/"
+"url0": "https://ddys.art/category/drama/western-drama/",
+"url1": "https://ddys.art/category/drama/western-drama/page/{pg}/"
 },
 {
 "title": "动漫",
-"url0": "https://ddys.one/category/anime/new-bangumi/",
-"url1": "https://ddys.one/category/anime/new-bangumi/page/{pg}/"
+"url0": "https://ddys.art/category/anime/new-bangumi/",
+"url1": "https://ddys.art/category/anime/new-bangumi/page/{pg}/"
 }
 ],
 "vod_node": "//div[contains(@class, 'post-box-list')]//article",
@@ -43,9 +43,9 @@
 "vod_title": "//h2/a",
 "vod_image_id": "//a/@data-original",
 "vod_image_regex": "YmFja2dyb3VuZC1pbWFnZTogdXJsXCgoW15cKV0rKQ==",
-"vod_image_url": "https://ddys.one{id}",
+"vod_image_url": "https://ddys.art{id}",
 "vod_link_id": "//h2/a/@href",
-"vod_link_url": "https://ddys.one{id}",
+"vod_link_url": "https://ddys.art{id}",
 "play_regex": "",
 "play_url": "{id}",
 "playlist_flag": false,
@@ -55,7 +55,7 @@
 "playlist_link_url": "",
 "playlist_info": "",
 "search_flag": true,
-"search_url_first_page": "https://ddys.one/?s={wd}&post_type=post",
+"search_url_first_page": "https://ddys.art/?s={wd}&post_type=post",
 "search_url_other_page": "",
 "search_vod_node": "//div[contains(@class, 'post-box-list')]//article",
 "search_vod_title": "//h2/a",
@@ -63,5 +63,5 @@
 "search_vod_image_regex": "",
 "search_vod_image_url": "{id}",
 "search_vod_link_id": "//h2/a/@href",
-"search_vod_link_url": "https://ddys.one{id}"
+"search_vod_link_url": "https://ddys.art{id}"
 }
