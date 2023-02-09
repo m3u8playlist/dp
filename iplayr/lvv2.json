@@ -1,6 +1,6 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"cableav",
+"title":"lvv2",
 "episode_flag":false,
 "landscape_flag":true,
  "open_with_safari_flag":true,
@@ -15,7 +15,7 @@
 "vod_info":"//div[contains(@class, 'ct-time')]/span",
 "vod_score":"",
 "vod_title":"//h3/a",
-"vod_image_id":"//img/@src",
+"vod_image_id":"//img/@data-echo",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h3/a/@href",
