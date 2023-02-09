@@ -57,7 +57,7 @@
 "search_flag": true,
 "search_url_first_page": "https://ddys.art/?s={wd}&post_type=post",
 "search_url_other_page": "",
-"search_vod_node": "//div[contains(@class, 'post-box-list')]//article",
+"search_vod_node": "//main[id(@class, 'main')]//article",
 "search_vod_title": "//h2/a",
 "search_vod_image_id": "//img/@data-original",
 "search_vod_image_regex": "",
