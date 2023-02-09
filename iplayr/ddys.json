@@ -54,7 +54,7 @@
 "playlist_link_id": "",
 "playlist_link_url": "",
 "playlist_info": "",
-"search_flag": true,
+"search_flag": false,
 "search_url_first_page": "https://ddys.art/?s={wd}&post_type=post",
 "search_url_other_page": "",
 "search_vod_node": "//main[id(@class, 'main')]//article",
