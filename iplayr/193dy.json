@@ -7,6 +7,21 @@
 		"title": "电影",
 		"url0": "https://www.193dy.com/index.php?s=home-vod-type-id-1.html",
 		"url1": "https://www.193dy.com/index.php?s=home-vod-type-id-1-p-{pg}.html"
+		},
+	     {
+		"title": "电视剧",
+		"url0": "https://www.193dy.com/index.php?s=home-vod-type-id-2.html",
+		"url1": "https://www.193dy.com/index.php?s=home-vod-type-id-2-p-{id}.html"
+		},
+	     {
+		"title": "动漫",
+		"url0": "https://www.193dy.com/index.php?s=home-vod-type-id-3.html",
+		"url1": "https://www.193dy.com/index.php?s=home-vod-type-id-3-p-{pg}.html"
+		},
+	     {
+		"title": "综艺",
+		"url0": "https://www.193dy.com/index.php?s=home-vod-type-id-4.html",
+		"url1": "https://www.193dy.com/index.php?s=home-vod-type-id-4-p-{pg}.html"
 		}
 	],  
 "vod_node":"//ul[contains(@class, 'pic-list')]//li",
