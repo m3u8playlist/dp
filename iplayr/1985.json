@@ -24,7 +24,7 @@
 		"url1": "https://www.1985.one/vodtype/3-{pg}.html"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-item')]",
+"vod_node":"//div[contains(@class, 'module-items')]//div[@class='module-item']",
 "vod_info":"//div[contains(@class, 'module-item-text')]",
 "vod_score":"",
 "vod_title":"//div[contains(@class, 'video-name')]/a",
@@ -44,7 +44,7 @@
 "search_flag":true,
 "search_url_first_page":"https://www.1985.one/vodsearch.html?wd={wd}",
 "search_url_other_page":"https://www.1985.one/vodsearch/page/{pg}/wd/{wd}.html",
-"search_vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-search-item')]",
+"search_vod_node":"//div[contains(@class, 'module-items')]//div[@class='module-item']",
 "search_vod_title":"//h3/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
