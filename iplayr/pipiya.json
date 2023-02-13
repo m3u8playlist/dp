@@ -63,7 +63,7 @@
 "search_url_other_page": "https://www.pipiya.cc/vodsearch/page/{pg}/wd/{wd}.html",
 "search_vod_node": "//div[contains(@class, 'search-box')]",
 "search_vod_title": "//div[contains(@class, 'thumb-txt')]",
-"search_vod_image_id": "/div[contains(@class, 'gen-movie-img')]/@data-original",
+"search_vod_image_id": "//div[contains(@class, 'gen-movie-img')]/@data-original",
 "search_vod_image_regex": "",
 "search_vod_image_url": "{id}",
 "search_vod_link_id": "//a[@class='public-list-exp']/@href",
