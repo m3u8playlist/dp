@@ -17,7 +17,7 @@
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//div[class='relative']/a/@href",
+"vod_link_id":"//div[@class='relative']/a/@href",
 "vod_link_url":"https://rou.video{id}",
 "play_regex":"dmlkZW9VcmwiOiIoW14iXSsp",
 "play_url":"{id}",
@@ -35,6 +35,6 @@
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"//div[class='relative']/a/@href",
+"search_vod_link_id":"//div[@class='relative']/a/@href",
 "search_vod_link_url":"https://rou.video{id}"
 }
