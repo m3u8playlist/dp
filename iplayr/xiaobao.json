@@ -1,0 +1,63 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"小宝影院",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"category": [{
+			"title": "电影",
+			"url0": "https://xiaoheimi.net/index.php/vod/type/id/1.html",
+			"url1": "https://xiaoheimi.net/index.php/vod/type/id/1/page/{pg}.html"
+		},
+		
+     {
+			"title": "电视剧",
+			"url0": "https://xiaoheimi.net/index.php/vod/type/id/2.html",
+			"url1": "https://xiaoheimi.net/index.php/vod/type/id/2/page/{pg}.html"
+		},
+                  {
+			"title": "动漫",
+			"url0": "https://xiaoheimi.net/index.php/vod/type/id/4.html",
+			"url1": "https://xiaoheimi.net/index.php/vod/type/id/4/page/{pg}.html"
+		},
+                  {
+			"title": "综艺",
+			"url0": "https://xiaoheimi.net/index.php/vod/type/id/3.html",
+			"url1": "https://xiaoheimi.net/index.php/vod/type/id/3/page/{pg}.html"
+		},
+
+                  {
+			"title": "纪录片",
+			"url0": "https://xiaoheimi.net/index.php/vod/type/id/21.html",
+			"url1": "https://xiaoheimi.net/index.php/vod/type/id/21/page/{pg}.html"
+		}
+	],    
+
+"vod_node":"//ul[contains(@class, 'myui-vodlist')]//li",
+"vod_info":"//span[contains(@class, 'tag')]",
+"vod_score":"",
+"vod_title":"//h4/a",
+"vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h4/a/@href",
+"vod_link_url":"https://xiaoheimi.net{id}",
+"play_regex":"InVybCI6IihodHRwW14iXSsp",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
+"playlist_title":"//li/a",
+"playlist_link_id":"//li/a/@href",
+"playlist_link_url":"https://xiaoheimi.net{id}",
+"playlist_info":"//span[contains(@class, 'content')]",
+"search_flag":true,
+"search_url_first_page":"https://xiaoheimi.net/index.php/vod/search.html?wd={wd}&submit=",
+"search_url_other_page":"https://xiaoheimi.net/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"search_vod_node":"//ul[contains(@class, 'myui-vodlist__media')]//li",
+"search_vod_title":"//h4/a",
+"search_vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h4/a/@href",
+"search_vod_link_url":"https://xiaoheimi.net{id}"
+}
