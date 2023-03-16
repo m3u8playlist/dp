@@ -7,7 +7,28 @@
 			"title": "新作上市",
 			"url0": "https://pigav.com/%e6%9c%80%e6%96%b0av%e7%b7%9a%e4%b8%8a%e7%9c%8b",
 			"url1": "https://pigav.com/%E6%9C%80%E6%96%B0av%E7%B7%9A%E4%B8%8A%E7%9C%8B/page/{pg}/"
+		},
+	     {
+			"title": "無碼",
+			"url0": "https://pigav.com/%e7%84%a1%e7%a2%bcav%e7%b7%9a%e4%b8%8a%e7%9c%8b",
+			"url1": "https://pigav.com/%e7%84%a1%e7%a2%bcav%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/{pg}/"
+		},
+	     {
+			"title": "熱門",
+			"url0": "https://pigav.com/%e7%86%b1%e9%96%80av%e7%b7%9a%e4%b8%8a%e7%9c%8b",
+			"url1": "https://pigav.com/%e7%86%b1%e9%96%80av%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/{pg}/"
+		},
+	     {
+			"title": "長片",
+			"url0": "https://pigav.com/%e9%95%b7%e7%89%87av%e7%b7%9a%e4%b8%8a%e7%9c%8b",
+			"url1": "https://pigav.com/%e9%95%b7%e7%89%87av%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/{pg}/"
+		},
+	     {
+			"title": "日韓",
+			"url0": "https://pigav.com/%e6%97%a5%e9%9f%93av%e7%b7%9a%e4%b8%8a%e7%9c%8b",
+			"url1": "https://pigav.com/%e6%97%a5%e9%9f%93av%e7%b7%9a%e4%b8%8a%e7%9c%8b/page/{pg}/"
 		}
+	     
 	],  
 "vod_node":"//div[contains(@class, 'block-content')]//article",
 "vod_info":"",
