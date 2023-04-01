@@ -8,10 +8,30 @@
 "search_flag": false,
 "base_url": "https://www.ahhhhfs.com",
 "category": [
-{
+    {
 "title": "首页",
 "url0": "https://www.ahhhhfs.com",
 "url1": "https://www.ahhhhfs.com/page/{pg}/"
+},
+{
+"title": "资讯",
+"url0": "https://www.ahhhhfs.com/it/",
+"url1": "https://www.ahhhhfs.com/it/page/{pg}/"
+},
+  {
+"title": "福利",
+"url0": "https://www.ahhhhfs.com/welfare/",
+"url1": "https://www.ahhhhfs.com/welfare/page/{pg}/"
+},
+{
+"title": "折腾记",
+"url0": "https://www.ahhhhfs.com/toss/",
+"url1": "https://www.ahhhhfs.com/toss/page/{pg}/"
+},
+{
+"title": "小声说",
+"url0": "https://www.ahhhhfs.com/say/",
+"url1": "https://www.ahhhhfs.com/say/page/{pg}/"
 }
 ],
 "parse": {
