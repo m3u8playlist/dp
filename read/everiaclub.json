@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "everia.club",
+"type": 1,
+nsfw":true,
+"image_only_flag": true,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "https://everia.club",
+"category": [
+{
+"title": "首页",
+"url0": "https://everia.club",
+"url1": "https://everia.club/?paged={pg}"
+}
+],
+"parse": {
+"list_node": "//div[@class='posts-wrapper']//article",
+"list_date": "",
+"list_title": "//h2",
+"list_image_id": "//img/@data-src",
+"list_image_regex": "",
+"list_image_url": "{id}",
+"list_link_id": "//h2/a/@href",
+"list_link_url": "{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "//figure[contains(@class, 'wp-block-gallery')]//figure",
+"post_images": "//img/@data-src"
+}
+}
