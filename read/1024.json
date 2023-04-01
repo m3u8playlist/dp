@@ -1,8 +1,8 @@
 {
 	"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
 	"title": "1024",
-  "nsfw":true,
-	"type": 3,
+        "nsfw":true,
+	"type": 0,
 	"image_only_flag": false,
 	"multiple_pages_flag": false,
 	"search_flag": false,
