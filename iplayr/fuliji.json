@@ -1,0 +1,54 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"福利姬",
+"episode_flag":false,
+"landscape_flag":true,
+"category": [{
+			"title": "最新",
+			"url0": "https://fuliji.lol/fuliji/rank/%E6%9C%80%E6%96%B0",
+			"url1": "https://fuliji.lol/fuliji/rank/%E6%9C%80%E6%96%B0?page={pg}/"
+		},
+    {
+			"title": "热门",
+			"url0": "https://fuliji.lol/fuliji/rank/%E7%83%AD%E9%97%A8",
+			"url1": "https://fuliji.lol/fuliji/rank/%E7%83%AD%E9%97%A8?page={pg}/"
+		},
+    {
+			"title": "推荐",
+			"url0": "https://fuliji.lol/fuliji/rank/%E6%8E%A8%E8%8D%90",
+			"url1": "https://www.fuliji.space/fuliji/rank/%E6%8E%A8%E8%8D%90?page={pg}/"
+		},
+    {
+			"title": "福利姬",
+			"url0": "https://www.fuliji.space/fuliji/cate/%E7%A6%8F%E5%88%A9%E5%A7%AC",
+			"url1": "https://www.fuliji.space/fuliji/cate/%E7%A6%8F%E5%88%A9%E5%A7%AC?page={pg}/"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'module-items')]//a",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://www.fuliji.space{id}",
+"play_regex":"dXJsOiAiKGh0dHBbXiJdK20zdTgp",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://www.fuliji.space/fuliji/search?q={wd}",
+"search_url_other_page":"https://www.fuliji.space/fuliji/search?q={wd}&page={pg}",
+"search_vod_node":"//div[contains(@class, 'module-items')]//a",
+"search_vod_title":"//div[@class='module-poster-item-title']",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://www.fuliji.space{id}"
+}
