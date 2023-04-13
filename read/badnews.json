@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "bad.news",
+"type": 1,
+"nsfw":true,
+"image_only_flag": true,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "https://bad.news",
+"category": [
+    {
+"title": "H漫",
+"url0": "https://bad.news/mh",
+"url1": "https://bad.news/mh/page-{pg}/"
+}
+],
+"parse": {
+"list_node": "//article",
+"list_date": "",
+"list_title": "//h4//a",
+"list_image_id": "//img/@src",
+"list_image_regex": "",
+"list_image_url": "{id}",
+"list_link_id": "//h4//a/@href",
+"list_link_url": "https://bad.news{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "//div[contains(@class, 'stui-pannel-box')]",
+"image_replace_flag": true,
+"image_replace_target": "data-echo",
+"image_replace_with": "src",
+"post_images_node": "",
+"post_images": ""
+}
+}
