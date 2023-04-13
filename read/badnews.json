@@ -36,7 +36,7 @@
 "search_list_image_url": "",
 "search_list_link_id": "",
 "search_list_link_url": "",
-"post_node": "//div[contains(@class, 'stui-pannel-box')]",
+"post_node": "//div[contains(@class, 'col-md-12')]",
 "image_replace_flag": true,
 "image_replace_target": "data-echo",
 "image_replace_with": "src",
