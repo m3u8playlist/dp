@@ -18,7 +18,7 @@
 "list_node": "//article",
 "list_date": "",
 "list_title": "//h4//a",
-"list_image_id": "//img/@src",
+"list_image_id": "//img/@data-echo",
 "list_image_regex": "",
 "list_image_url": "{id}",
 "list_link_id": "//h4//a/@href",
