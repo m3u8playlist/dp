@@ -11,7 +11,7 @@
 			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item]",
+"vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "vod_info":"",
 "vod_score":"//div[@class='duration']",
 "vod_title":"//div[@class='detail']/a",
@@ -31,7 +31,7 @@
 "search_flag":true,
 "search_url_first_page":"https://www.njav.tv/zh/search?keyword={wd}",
 "search_url_other_page":"https://www.njav.tv/zh/search?keyword={wd}&page={pg}",
-"search_vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item]",
+"search_vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "search_vod_title":"//div[@class='detail']/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
