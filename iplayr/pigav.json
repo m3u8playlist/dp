@@ -52,9 +52,9 @@
 "search_url_other_page":"https://pigav.com/page/{pg}?s={wd}",
 "search_vod_node":"//div[contains(@class, 'block-content')]//article",
 "search_vod_title":"//h2/a",
-"search_vod_image_id":"//span[contains(@class, 'img')]/@data-bgsrc",
-"search_vod_image_regex":"",
-"search_vod_image_url":"{id}",
+"search_vod_image_id":"",
+"search_vod_image_regex":"ZGF0YS1iZ3NyYz0iaHR0cHM6XC9cL2ltZ1wuKFteIl0rKQ==",
+"search_vod_image_url":"https://orion.{id}",
 "search_vod_link_id":"//h2/a/@href",
 "search_vod_link_url":"{id}"
 }
