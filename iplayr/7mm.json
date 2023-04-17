@@ -1,0 +1,63 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"7mmtv",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "有码",
+			"url0": "https://7mmtv.sx/zh/censored_list/all/1.html",
+			"url1": "https://7mmtv.sx/zh/censored_list/all/{pg}.html"
+		},
+		{
+			"title": "无码",
+			"url0": "https://7mmtv.sx/zh/uncensored_list/all/1.html",
+			"url1": "https://7mmtv.sx/zh/uncensored_list/all/{pg}.html"
+		},
+                  {
+			{
+			"title": "素人",
+			"url0": "https://7mmtv.sx/zh/amateurjav_list/all/1.html",
+			"url1": "https://7mmtv.sx/zh/amateurjav_list/all/{pg}.html"
+		},
+             {
+			"title": "中字",
+			"url0": "https://7mmtv.sx/zh/chinese_list/all/1.html",
+			"url1": "https://7mmtv.sx/zh/chinese_list/all/{pg}.html"
+		},
+      {
+			"title": "国产",
+			"url0": "https://7mmtv.sx/zh/amateur_list/all/1.html",
+			"url1": "https://7mmtv.sx/zh/amateur_list/all/{pg}.html"
+		}
+	],    
+
+"vod_node":"//div[contains(@class, 'content')]//div[@class='video']",
+"vod_info":"//span[contains(@class, 'text-muted')]",
+"vod_score":"",
+"vod_title":"//h3/a",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h3/a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://7mmtv.sx/zh/searchall_search/all/{wd}/1.html",
+"search_url_other_page":"https://7mmtv.sx/zh/searchall_search/all/{wd}/{pg}.html",
+"search_vod_node":"//div[contains(@class, 'content')]//div[@class='video']",
+"search_vod_title":"//h3/a",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h3/a/@href",
+"search_vod_link_url":"{id}"
+}
