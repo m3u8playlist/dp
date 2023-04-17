@@ -32,7 +32,6 @@
 			"url1": "https://7mmtv.sx/zh/amateur_list/all/{pg}.html"
 		}
 	],    
-
 "vod_node":"//div[contains(@class, 'content')]//div[@class='video']",
 "vod_info":"//span[contains(@class, 'text-muted')]",
 "vod_score":"",
