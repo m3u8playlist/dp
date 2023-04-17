@@ -19,7 +19,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='detail']/a/@href",
-"vod_link_url":"https://www.njav.tv{id}",
+"vod_link_url":"https://www.njav.tv/zh/{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -37,5 +37,5 @@
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//div[@class='detail']/a/@href",
-"search_vod_link_url":"https://www.njav.tv{id}"
+"search_vod_link_url":"https://www.njav.tv/zh/{id}"
 }
