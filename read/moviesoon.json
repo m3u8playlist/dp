@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "影像日报",
+"type": 1,
+"nsfw":false,
+"image_only_flag": false,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "http://moviesoon.com",
+"category": [
+    {
+"title": "首页",
+"url0": "http://moviesoon.com/news/",
+"url1": "http://moviesoon.com/news/page/{pg}/"
+}
+],
+"parse": {
+"list_node": "//div[@id='content']//div[@class='post']",
+"list_date": "//div[contains(@class, 'postAyrinti')]/p/a[2]",
+"list_title": "//h2//a",
+"list_image_id": "//img/@src",
+"list_image_regex": "",
+"list_image_url": "{id}",
+"list_link_id": "//h2//a/@href",
+"list_link_url": "{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "//div[@class='post']",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "",
+"post_images": ""
+}
+}
