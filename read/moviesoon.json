@@ -16,7 +16,7 @@
 ],
 "parse": {
 "list_node": "//div[@id='content']//div[@class='post']",
-"list_date": "//div[contains(@class, 'postAyrinti')]/p/a[2]",
+"list_date": "//div[contains(@class, 'postAyrinti')]/p/",
 "list_title": "//h2//a",
 "list_image_id": "//img/@src",
 "list_image_regex": "",
