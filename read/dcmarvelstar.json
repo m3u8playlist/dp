@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@id='main']//article",
+"list_node": "//main[@id='main']//article",
 "list_date": "//time[contains(@class, 'entry-date')]",
 "list_title": "//h2//a",
 "list_image_id": "//img/@src",
