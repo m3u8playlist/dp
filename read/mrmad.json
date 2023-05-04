@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@class='elementor-widget-container']//article",
+"list_node": "//*[@id='content']//section[2]//div[@class='elementor-widget-container']//article",
 "list_date": "//span[contains(@class, 'elementor-post-date')]",
 "list_title": "//h3//a",
 "list_image_id": "//img/@src",
@@ -36,7 +36,7 @@
 "search_list_image_url": "",
 "search_list_link_id": "",
 "search_list_link_url": "",
-"post_node": "//article//div[@class='entry-content']",
+"post_node": "//article//div[contains(@class, 'entry-content')]",
 "image_replace_flag": false,
 "image_replace_target": "",
 "image_replace_with": "",
