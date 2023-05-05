@@ -1,0 +1,41 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"草草了事",
+"episode_flag":false,
+"landscape_flag":true,
+"category": [{
+			"title": "新作上市",
+			"url0": "https://coacls.com/",
+			"url1": "https://coacls.com/page/{pg}/"
+		}
+	     
+	     
+	],  
+"vod_node":"//div[contains(@id, 'index-tab-main')]//posts",
+"vod_info":"//item[contains(@class, 'icon-circle')]",
+"vod_score":"",
+"vod_title":"//h2/a",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h2/a/@href",
+"vod_link_url":"{id}",
+"play_regex":"c291cmNlIHNyYz0iKFteIl0rKQ==",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://coacls.com/?s={wd}&type=post",
+"search_url_other_page":"https://coacls.com/page/{pg}?s={wd}&type=post",
+"search_vod_node":"//div[contains(@class, 'search-content')]//posts",
+"search_vod_title":"//h2/a",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h2/a/@href",
+"search_vod_link_url":"{id}"
+}
