@@ -56,7 +56,7 @@
 "playlist_group_node":"//div[@class='play-list']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"{id}",
+"playlist_link_url":"https://mncks.buzz{id}",
 "playlist_info":"",
 "search_flag":true,
 "search_url_first_page":"https://mncks.buzz/search/{wd}",
