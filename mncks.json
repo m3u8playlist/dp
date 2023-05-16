@@ -1,0 +1,71 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"猛男仓库",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "国产传媒",
+			"url0": "https://mncks.buzz/type/158.html",
+			"url1": "https://mncks.buzz/type/158/{pg}"
+		},
+             {
+			"title": "亚洲资源",
+			"url0": "https://mncks.buzz/type/246.html",
+			"url1": "https://mncks.buzz/type/246/{pg}"
+		},
+{
+			"title": "另类仓库",
+			"url0": "https://mncks.buzz/type/327.html",
+			"url1": "https://mncks.buzz/type/327/{pg}"
+		},
+             {
+			"title": "网爆热门",
+			"url0": "https://mncks.buzz/type/343.html",
+			"url1": "https://mncks.buzz/type/343/{pg}"
+		},
+{
+			"title": "精品资源",
+			"url0": "https://mncks.buzz/type/161.html",
+			"url1": "https://mncks.buzz/type/161/{pg}"
+		},
+{
+			"title": "大众精品",
+			"url0": "https://mncks.buzz/type/164.html",
+			"url1": "https://mncks.buzz/type/164/{pg}"
+		},
+{
+			"title": "热门视频",
+			"url0": "https://mncks.buzz/type/177.html",
+			"url1": "https://mncks.buzz/type/177/{pg}"
+		}
+	],    
+"vod_node":"//div[@id='videos']//div[contains(@class, 'item')]",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='sui1']/a",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='sui1']/a/@href",
+"vod_link_url":"https://mncks.buzz{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='play-list']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"{id}",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://mncks.buzz/search/{wd}",
+"search_url_other_page":"https://mncks.buzz/search/{wd}/n/{pg}",
+"search_vod_node":"//div[@id='videos']//div[contains(@class, 'item')]",
+"search_vod_title":"//div[@class='detail']/a",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='sui1']/a/@href",
+"search_vod_link_url":"https://mncks.buzz{id}"
+}
