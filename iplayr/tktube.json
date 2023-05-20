@@ -3,7 +3,7 @@
 "title":"tktube",
 "episode_flag":false,
 "landscape_flag":true,
-"yt_dlp":true,
+"open_with_safari_flag":true,
 "category": [{
 		"title": "最近更新",
 		"url0": "https://www.tktube.com/latest-updates/",
