@@ -4,6 +4,7 @@
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
+	"open_with_safari_flag":true,
 "category": [{
 			"title": "精品推荐",
 			"url0": "https://www.jltouhong6.buzz/index.php/vod/type/id/20.html",
@@ -144,7 +145,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://www.jltouhong6.buzz{id}",
-"play_regex":"c3RyZWFtID0gJyhodHRwW14nXSsp",
+"play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
