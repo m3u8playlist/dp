@@ -23,12 +23,8 @@
 			"title": "动漫",
 			"url0": "https://cokemv.me/vodshow/3--hits---------.html",
 			"url1": "https://cokemv.me/vodshow/3--hits------{pg}---.html"
-		},
-      {
-			"title": "记录",
-			"url0": "http://www.mozhatu.com/vodshow/5-----------/",
-			"url1": "http://www.mozhatu.com/vodshow/5--------{pg}---/"
 		}
+      
 	],  
 "vod_node":"//div[contains(@class, 'module')]//a[contains(@class, 'module-item')]",
 "vod_info":"div[@class='module-item-note']",
