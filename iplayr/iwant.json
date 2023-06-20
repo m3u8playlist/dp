@@ -3,7 +3,7 @@
 "title":"iwant-sex",
 "episode_flag":false,
 "landscape_flag":true,
-"referer":"",
+"referer":"https://iwant-sex.com/",
 "category": [{
 			"title": "最近",
 			"url0": "https://iwant-sex.com/videos/?sortby=newest",
@@ -34,7 +34,7 @@
 "vod_image_url":"https://iwant-sex.com{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://iwant-sex.com{id}",
-"play_regex":"Y29udGVudFVybCI6ICIoWyJdKyk=",
+"play_regex":"Y29udGVudFVybCI6ICIoW14iXSsp",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
