@@ -31,7 +31,7 @@
 "search_flag":true,
 "search_url_first_page":"https://www.renren.pro/search?wd={wd}",
 "search_url_other_page":"https://www.renren.pro/search?wd={wd}&pg={pg}",
-"search_vod_node":"//div[contains(@class, 'module-list')]//div[@class='module-item']",
+"search_vod_node":"//div[contains(@class, 'module-list')]//div[@class='module-search-item']",
 "search_vod_title":"//div[@class='module-item-titlebox']/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
