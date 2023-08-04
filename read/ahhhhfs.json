@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@id='rizhuti_v2_module_lastpost_item-2']//article",
+"list_node": "//div[@id='ri_home_lastpost_widget-2']//article",
 "list_date": "//time",
 "list_title": "//h2//a",
 "list_image_id": "//img/@data-src",
