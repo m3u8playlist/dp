@@ -18,7 +18,7 @@
 "list_node": "//div[@id='ri_home_lastpost_widget-2']//article",
 "list_date": "//time",
 "list_title": "//h2//a",
-"list_image_id": "//img/@data-src",
+"list_image_id": "//a[contains(@class, 'media-img')]/@data-bg",
 "list_image_regex": "",
 "list_image_url": "{id}",
 "list_link_id": "//h2//a/@href",
