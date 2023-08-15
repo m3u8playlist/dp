@@ -18,7 +18,7 @@
 "list_node": "//div[@class='loop-blog-post']//article",
 "list_date": "//span[@class='post-date']",
 "list_title": "//h2//a",
-"list_image_id": "//img/@src-orig",
+"list_image_id": "//img/@src",
 "list_image_regex": "",
 "list_image_url": "{id}",
 "list_link_id": "//h2//a/@href",
