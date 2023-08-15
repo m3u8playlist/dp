@@ -1,0 +1,69 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"在线之家",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.zxzj.pro/list/1.html",
+			"url1": "https://www.zxzj.pro/list/1-{pg}.html/"
+		},
+		{
+			"title": "美剧",
+			"url0": "https://www.zxzj.pro/list/2.html",
+			"url1": "https://www.zxzj.pro/list/2-{pg}.html/"
+		},
+
+                  {
+			"title": "韩剧",
+			"url0": "https://www.zxzj.pro/list/3.html",
+			"url1": "https://www.zxzj.pro/list/3-{pg}.html/"
+		},
+                  {
+			"title": "日剧",
+			"url0": "https://www.zxzj.pro/list/4.html",
+			"url1": "https://www.zxzj.pro/list/4-{pg}.html/"
+		},
+                  {
+			"title": "动漫",
+			"url0": "https://www.zxzj.pro/list/6.html",
+			"url1": "https://www.zxzj.pro/list/6-{pg}.html/"
+		},
+
+                 {
+			"title": "泰剧",
+			"url0": "https://www.zxzj.pro/list/5.html",
+			"url1": "https://www.zxzj.pro/list/5-{pg}.html/"
+		}
+	],    
+
+"vod_node":"//ul[contains(@class, 'stui-vodlist')]//li",
+"vod_info":"//span[contains(@class, 'text-right')]",
+"vod_score":"",
+"vod_title":"//h4/a",
+"vod_image_id":"//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h4/a/@href",
+"vod_link_url":"https://www.zxzj.pro{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'stui-content__playlist')]",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://www.zxzj.pro{id}",
+"playlist_info":"//div[@class='stui-content__detail']",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}
