@@ -20,7 +20,7 @@
 "vod_info":"//time",
 "vod_score":"//a[@class='author']",
 "vod_title":"//h3/a",
-"vod_image_id":"//video/@data-echo",
+"vod_image_id":"//img/@data-echo[2]",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='coverdiv']/a/@href",
