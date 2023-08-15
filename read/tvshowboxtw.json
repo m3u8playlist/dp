@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@class='loop-blog-post']//article",
+"list_node": "//article",
 "list_date": "//span[@class='post-date']",
 "list_title": "//h2//a",
 "list_image_id": "//img/@src",
