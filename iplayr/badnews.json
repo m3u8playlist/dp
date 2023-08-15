@@ -1,12 +1,17 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"bad.news长视频",
+"title":"bad.news",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "最近更新",
+			"title": "短视频",
+			"url0": "https://bad.news/tag/porn",
+			"url1": "https://bad.news/tag/porn/page-{pg}"
+		},
+	{
+			"title": "长视频",
 			"url0": "https://bad.news/tag/long-porn",
 			"url1": "https://bad.news/tag/long-porn/page-{pg}"
 		}
