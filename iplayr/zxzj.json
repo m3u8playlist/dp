@@ -8,34 +8,34 @@
 "category": [{
 			"title": "电影",
 			"url0": "https://www.zxzj.pro/list/1.html",
-			"url1": "https://www.zxzj.pro/list/1-{pg}.html/"
+			"url1": "https://www.zxzj.pro/vodshow/1--------{pg}---.html"
 		},
 		{
 			"title": "美剧",
 			"url0": "https://www.zxzj.pro/list/2.html",
-			"url1": "https://www.zxzj.pro/list/2-{pg}.html/"
+			"url1": "https://www.zxzj.pro/vodshow/2--------{pg}---.html"
 		},
 
                   {
 			"title": "韩剧",
 			"url0": "https://www.zxzj.pro/list/3.html",
-			"url1": "https://www.zxzj.pro/list/3-{pg}.html/"
+			"url1": "https://www.zxzj.pro/vodshow/3--------{pg}---.html"
 		},
                   {
 			"title": "日剧",
 			"url0": "https://www.zxzj.pro/list/4.html",
-			"url1": "https://www.zxzj.pro/list/4-{pg}.html/"
+			"url1": "https://www.zxzj.pro/vodshow/4--------{pg}---.html"
 		},
                   {
 			"title": "动漫",
 			"url0": "https://www.zxzj.pro/list/6.html",
-			"url1": "https://www.zxzj.pro/list/6-{pg}.html/"
+			"url1": "https://www.zxzj.pro/vodshow/6--------{pg}---.html"
 		},
 
                  {
 			"title": "泰剧",
 			"url0": "https://www.zxzj.pro/list/5.html",
-			"url1": "https://www.zxzj.pro/list/5-{pg}.html/"
+			"url1": "https://www.zxzj.pro/list/vodshow/5--------{pg}---.html"
 		}
 	],    
 
