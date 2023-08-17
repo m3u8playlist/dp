@@ -9,6 +9,26 @@
 			"title": "エロ动画",
 			"url0": "https://zh-cn.javmix.tv/video/",
 			"url1": "https://zh-cn.javmix.tv/video/page/{pg}/"
+		},
+	{
+			"title": "去马赛克",
+			"url0": "https://zh-cn.javmix.tv/xvideo/",
+			"url1": "https://zh-cn.javmix.tv/xvideo/page/{pg}/"
+		},
+	{
+			"title": "业余岗位",
+			"url0": "https://zh-cn.javmix.tv/fc2ppv/",
+			"url1": "https://zh-cn.javmix.tv/fc2ppv/page/{pg}/"
+		},
+	{
+			"title": "急升",
+			"url0": "https://zh-cn.javmix.tv/soaring/",
+			"url1": "https://zh-cn.javmix.tv/soaring/page/{pg}/"
+		},
+	{
+			"title": "人气度",
+			"url0": "https://zh-cn.javmix.tv/popularity/",
+			"url1": "https://zh-cn.javmix.tv/popularity/page/{pg}/"
 		}
 	],    
 "vod_node":"//div[@class='post-list']//a",
