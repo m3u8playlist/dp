@@ -11,7 +11,7 @@
 			"url1": "https://taisinba.com/cn/news?page={pg}"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'videos-lists')]//div[contains(@class, 'uk-card')]",
+"vod_node":"//div[contains(@class, 'videos-lists')]//div[@data-date='no']",
 "vod_info":"//time",
 "vod_score":"//div[@class='count']",
 "vod_title":"//h5",
