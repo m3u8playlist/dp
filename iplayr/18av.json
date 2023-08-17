@@ -1,0 +1,55 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"18av",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"category": [{
+			"title": "korean-bj",
+			"url0": "https://18av.online/category/korean-bj/",
+			"url1": "https://18av.online/category/korean-bj/page/{pg}/"
+		},
+    {
+			"title": "kpop-deepfake",
+			"url0": "https://18av.online/category/kpop-deepfake/",
+			"url1": "https://18av.online/category/kpop-deepfake/page/{pg}/"
+		},
+    {
+			"title": "simpasian",
+			"url0": "https://18av.online/category/simpasian/",
+			"url1": "https://18av.online/category/simpasian/page/{pg}/"
+		},
+    {
+			"title": "swag",
+			"url0": "https://18av.online/category/swag/",
+			"url1": "https://18av.online/category/swag/page/{pg}/"
+		}
+	],  
+"vod_node":"//div[contains(@id, 'primary')]//article",
+"vod_info":"//span[@class='duration']",
+"vod_score":"//div[@class='video-added']",
+"vod_title":"//header[@class='entry-header']",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"c291cmNlIHNyYz0iKFteIl0rKQ==",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://18av.online/?s={wd}",
+"search_url_other_page":"https://18av.online/page/{pg}/?s={wd}",
+"search_vod_node":"//main[@id='main']//article",
+"search_vod_title":"//header[@class='entry-header']",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"{id}"
+}
