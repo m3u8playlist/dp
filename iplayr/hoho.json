@@ -1,0 +1,60 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "吼吼",
+"episode_flag": false,
+"landscape_flag": true,
+"category": [
+{
+"title": "亚洲无码",
+"url0": "https://xianshangkan.cc/vod/type/id/1.html",
+"url1": "https://xianshangkan.cc/vod/type/id/1/page/{pg}.html"
+},
+  {
+"title": "美女主播",
+"url0": "https://xianshangkan.cc/vod/type/id/2.html",
+"url1": "https://xianshangkan.cc/vod/type/id/2/page/{pg}.html"
+},
+  {
+"title": "三级伦理",
+"url0": "https://xianshangkan.cc/vod/type/id/3.html",
+"url1": "https://xianshangkan.cc/vod/type/id/3/page/{pg}.html"
+},
+  {
+"title": "国产传媒",
+"url0": "https://xianshangkan.cc/vod/type/id/4.html",
+"url1": "https://xianshangkan.cc/vod/type/id/4/page/{pg}.html"
+},
+  {
+"title": "国产自拍",
+"url0": "https://xianshangkan.cc/vod/type/id/5.html",
+"url1": "https://xianshangkan.cc/vod/type/id/5/page/{pg}.html"
+}
+],
+"vod_node": "//ul[contains(@class, 'stui-vodlist')]//li",
+"vod_info": "",
+"vod_score": "",
+"vod_title": "//h4/a",
+"vod_image_id": "//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
+"vod_image_regex": "",
+"vod_image_url": "{id}",
+"vod_link_id": "//h4/a/@href",
+"vod_link_url": "https://xianshangkan.cc{id}",
+"play_regex": "InVybCI6IihodHRwW14iXSsp",
+"play_url": "{id}",
+"playlist_flag": true,
+"playlist_group_node": "//div[@class='play-btn']",
+"playlist_title": "//a",
+"playlist_link_id": "//a/@href",
+"playlist_link_url": "https://xianshangkan.cc{id}",
+"playlist_info": "//p[contains(@class, 'desc')]",
+"search_flag": true,
+"search_url_first_page": "https://xianshangkan.cc/vod/search/page/1/wd/{wd}.html",
+"search_url_other_page": "https://xianshangkan.cc/vod/search/page/{pg}/wd/{wd}.html",
+"search_vod_node": "//ul[contains(@class, 'stui-vodlist')]//li",
+"search_vod_title": "//h4/a",
+"search_vod_image_id": "//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
+"search_vod_image_regex": "",
+"search_vod_image_url": "{id}",
+"search_vod_link_id": "//h4/a/@href",
+"search_vod_link_url": "https://xianshangkan.cc{id}"
+}
