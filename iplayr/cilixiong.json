@@ -9,11 +9,6 @@
 			"title": "电影",
 			"url0": "https://www.cilixiong.net/movie/",
 			"url1": "https://www.cilixiong.net/movie/index_{pg}.html"
-		},
-		{
-			"title": "剧集",
-			"url0": "https://www.cilixiong.net/drama/",
-			"url1": "https://www.cilixiong.net/drama/index_{pg}.html"
 		}
 	],    
 
