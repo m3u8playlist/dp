@@ -17,8 +17,8 @@
 		}
 	],    
 
-"vod_node":"div[contains(@class, 'row-cols-2')]////div[@class='col']",
-"vod_info":"//div[@class='jidi']/span",
+"vod_node":"div[contains(@class, 'row-cols-2')]//div[@class='col']",
+"vod_info":"",
 "vod_score":"//span[contains(@class, 'rank')]",
 "vod_title":"//h2",
 "vod_image_id":"",
