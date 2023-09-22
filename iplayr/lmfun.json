@@ -47,7 +47,7 @@
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"http://lmfun.vip{id}",
-"playlist_info":"//div[@class='show-desc']",
+"playlist_info":"//div[contains(@class, 'show-desc')]",
 "search_flag":false,
 "search_url_first_page":"",
 "search_url_other_page":"",
