@@ -34,7 +34,7 @@
 "vod_node":"//div[@class='module']/a",
 "vod_info":"//div[@class='module-item-note']",
 "vod_score":"",
-"vod_title":"//div[@class='dmodule-poster-item-title']",
+"vod_title":"//div[@class='module-poster-item-title']",
 "vod_image_id":"//img/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
