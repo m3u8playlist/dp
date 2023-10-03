@@ -1,0 +1,61 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "充电头网",
+"type": 1,
+"nsfw":false,
+"image_only_flag": false,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "https://www.ahhhhfs.com",
+"category": [
+    {
+"title": "新闻",
+"url0": "https://www.chongdiantou.com/archives/category/news",
+"url1": "https://www.chongdiantou.com/archives/category/news/page/{pg}/"
+},
+      {
+"title": "导购",
+"url0": "https://www.chongdiantou.com/archives/category/buy",
+"url1": "https://www.chongdiantou.com/archives/category/buy/page/{pg}/"
+},
+      {
+"title": "评测",
+"url0": "https://www.chongdiantou.com/archives/category/reviews",
+"url1": "https://www.chongdiantou.com/archives/category/reviews/page/{pg}/"
+},
+      {
+"title": "拆解",
+"url0": "https://www.chongdiantou.com/archives/category/teardowns",
+"url1": "https://www.chongdiantou.com/archives/category/teardowns/page/{pg}/"
+}
+],
+"parse": {
+"list_node": "//div[contains(@class, 'list-archive')]//div[contains(@class, 'list-item')]",
+"list_date": "//time",
+"list_title": "//div[@class='list-body']/a",
+"list_image_id": "",
+"list_image_regex": "YmFja2dyb3VuZC1pbWFnZTp1cmxcKCcoW14nXSsp",
+"list_image_url": "{id}",
+"list_link_id": "//div[@class='list-body']/a/@href",
+"list_link_url": "{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "//div[@class='post-content']",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "",
+"post_images": ""
+}
+}
