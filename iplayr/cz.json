@@ -7,39 +7,44 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最新电影",
-			"url0": "https://cz01.cc/zuixindianying",
-			"url1": "https://cz01.cc/zuixindianying/page/{pg}"
+			"url0": "https://www.cz01.pro/zuixindianying",
+			"url1": "https://www.cz01.pro/zuixindianying/page/{pg}"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://cz01.cc/meijutt",
-			"url1": "https://cz01.cc/meijutt/page/{pg}"
+			"url0": "https://www.cz01.pro/meijutt",
+			"url1": "https://www.cz01.pro/meijutt/page/{pg}"
+		},
+			{
+			"title": "日剧",
+			"url0": "https://www.cz01.pro/riju",
+			"url1": "https://www.cz01.pro/riju/page/{pg}"
 		},
      {
 			"title": "国产剧",
-			"url0": "https://cz01.cc/gcj",
-			"url1": "https://cz01.cc/gcj/page/{pg}"
+			"url0": "https://www.cz01.pro/gcj",
+			"url1": "https://www.cz01.pro/gcj/page/{pg}"
 		},
                   {
 			"title": "韩剧",
-			"url0": "https://cz01.cc/hanjutv",
-			"url1": "https://cz01.cc/hanjutv/page/{pg}"
+			"url0": "https://www.cz01.pro/hanjutv",
+			"url1": "https://www.cz01.pro/hanjutv/page/{pg}"
 		},
                   {
 			"title": "番剧",
-			"url0": "https://cz01.cc/fanju",
-			"url1": "https://cz01.cc/fanju/page/{pg}"
+			"url0": "https://www.cz01.pro/fanju",
+			"url1": "https://www.cz01.pro/fanju/page/{pg}"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://cz01.cc/dm",
-			"url1": "https://cz01.cc/dm/page/{pg}"
+			"url0": "https://www.cz01.pro/dm",
+			"url1": "https://www.cz01.pro/dm/page/{pg}"
 		},
 
                  {
 			"title": "豆瓣250",
-			"url0": "https://cz01.cc/dbtop250",
-			"url1": "https://cz01.cc/dbtop250/page/{pg}"
+			"url0": "https://www.cz01.pro/dbtop250",
+			"url1": "https://www.cz01.pro/dbtop250/page/{pg}"
 		}
 	],    
 
