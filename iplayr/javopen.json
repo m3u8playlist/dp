@@ -26,7 +26,7 @@
 			"url1": "https://javopen.co/amatuer-porn/page/{pg}/"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'vc_column-inner')]//div[contains(@class, 'video-section')]//div[contains(@class, 'item')]",
+"vod_node":"//section[@class='wpb-content-wrapper']//div[contains(@class, 'vc_column-inner')]/div[contains(@class, 'video-section')]//div[contains(@class, 'item')]",
 "vod_info":"//span[@class='date']",
 "vod_score":"",
 "vod_title":"//h3/a",
