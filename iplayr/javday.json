@@ -34,7 +34,7 @@
 "vod_image_url":"https://javday.tv{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://javday.tv{id}",
-"play_regex":"c291cmNlIHNyYz0nKFteJ10rKQ==",
+"play_regex":"PCEtLSAoaHR0cHNbXiBdKyk=",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
