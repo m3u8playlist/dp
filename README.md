@@ -1,7 +1,6 @@
 
-被人举报，开发者账号被终止,原小点播放器终结,现在提供ipa自签
 
-# 下载
+# 下载ipa自签
 https://t.me/dotplayer
 
 # 安装
@@ -18,12 +17,13 @@ https://t.me/dotplayer
 ## 截图
 
 
-![1](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_1.png) 
-![2](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_2.png) 
-![3](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_3.png) 
-![4](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_4.png) 
-![5](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_5.png) 
-![6](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_6.png) 
-   
+![1](https://raw.githubusercontent.com/m3u8playlist/dp/master/1.png) 
+![2](https://raw.githubusercontent.com/m3u8playlist/dp/master/2.png) 
+![3](https://raw.githubusercontent.com/m3u8playlist/dp/master/3.png) 
+![4](https://raw.githubusercontent.com/m3u8playlist/dp/master/4.png) 
+![5](https://raw.githubusercontent.com/m3u8playlist/dp/master/5.png) 
+![6](https://raw.githubusercontent.com/m3u8playlist/dp/master/6.png) 
+![7](https://raw.githubusercontent.com/m3u8playlist/dp/master/7.png) 
+![8](https://raw.githubusercontent.com/m3u8playlist/dp/master/8.png) 
 
 
