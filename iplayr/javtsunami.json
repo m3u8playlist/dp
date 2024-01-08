@@ -11,7 +11,7 @@
 			"url1": "https://javtsunami.com/page/{pg}?filter=latest"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'videos-list')]//article",
+"vod_node":"//main[@id='main']//article",
 "vod_info":"",
 "vod_score":"//span[@class='duration']",
 "vod_title":"//header/span",
