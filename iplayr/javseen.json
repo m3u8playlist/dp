@@ -1,40 +1,25 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"javopen",
+"title":"javseen",
 "episode_flag":false,
-"landscape_flag":true,
+"landscape_flag":false,
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "censored",
-			"url0": "https://javopen.co/jav-censored/",
-			"url1": "https://javopen.co/jav-censored/page/{pg}/"
-		},
-  {
-			"title": "uncensored",
-			"url0": "https://javopen.co/jav-uncensored/",
-			"url1": "https://javopen.co/jav-uncensored/page/{pg}/"
-		},
-  {
-			"title": "mgstage",
-			"url0": "https://javopen.co/mgstage/",
-			"url1": "https://javopen.co/mgstage/page/{pg}/"
-		},
-  {
-			"title": "amatuer-porn",
-			"url0": "https://javopen.co/amatuer-porn/",
-			"url1": "https://javopen.co/amatuer-porn/page/{pg}/"
+			"title": "recent",
+			"url0": "https://javseen.tv/recent/",
+			"url1": "https://javseen.tv/recent/{pg}/"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'video-section')]//div[contains(@class, 'col-md-3')]",
-"vod_info":"//span[@class='date']",
+"vod_node":"//ul[@class='video']//li",
+"vod_info":"//span[contains(@class, 'add-time')]",
 "vod_score":"",
-"vod_title":"//h3/a",
-"vod_image_id":"//img/@data-src",
+"vod_title":"//div[@class='video-title']",
+"vod_image_id":"//img/@src",
 "vod_image_regex":"",
-"vod_image_url":"{id}",
-"vod_link_id":"//h3/a/@href",
-"vod_link_url":"{id}",
+"vod_image_url":"https://javseen.tv{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://javseen.tv{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -44,13 +29,13 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://javopen.co/?s={wd}",
-"search_url_other_page":"https://javopen.co/page/{pg}/?s={wd}",
-"search_vod_node":"//div[@class='container']//div[contains(@class, 'main-content')]//div[contains(@class, 'col-md-3')]",
-"search_vod_title":"//h3/a",
-"search_vod_image_id":"//img/@data-src",
+"search_url_first_page":"https://javseen.tv/search/video/?s={wd}",
+"search_url_other_page":"https://javseen.tv/search/video/?s={wd}&page={pg}",
+"search_vod_node":"//ul[@class='video']//li",
+"search_vod_title":"//div[@class='video-title']",
+"search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"{id}",
-"search_vod_link_id":"//h3/a/@href",
-"search_vod_link_url":"{id}"
+"search_vod_image_url":"https://javseen.tv{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://javseen.tv{id}"
 }
