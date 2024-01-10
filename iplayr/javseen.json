@@ -11,7 +11,7 @@
 			"url1": "https://javseen.tv/recent/{pg}/"
 		}
 	],    
-"vod_node":"//ul[@class='video']//li",
+"vod_node":"//ul[@class='videos']//li",
 "vod_info":"//span[contains(@class, 'add-time')]",
 "vod_score":"",
 "vod_title":"//div[@class='video-title']",
@@ -31,7 +31,7 @@
 "search_flag":true,
 "search_url_first_page":"https://javseen.tv/search/video/?s={wd}",
 "search_url_other_page":"https://javseen.tv/search/video/?s={wd}&page={pg}",
-"search_vod_node":"//ul[@class='video']//li",
+"search_vod_node":"//ul[@class='videos']//li",
 "search_vod_title":"//div[@class='video-title']",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
