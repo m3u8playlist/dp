@@ -41,6 +41,6 @@
 "image_replace_target": "",
 "image_replace_with": "",
 "post_images_node": "//figure[contains(@class, 'wp-block-gallery')]//figure",
-"post_images": "//img/@data-src"
+"post_images": "//img/@src"
 }
 }
