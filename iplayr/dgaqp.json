@@ -8,6 +8,11 @@
 			"title": "新作上市",
 			"url0": "https://dgaqp.com/new/",
 			"url1": "https://dgaqp.com/new/{pg}/"
+		},
+	{
+			"title": "无码",
+			"url0": "https://dgaqp.com/uncensored/",
+			"url1": "https://dgaqp.com/uncensored/{pg}/"
 		}
 	],  
 "vod_node":"//section[contains(@class, 'video-list-section')]//div[contains(@class, 'video-item')]",
