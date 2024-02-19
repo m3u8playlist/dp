@@ -22,7 +22,7 @@
 
 	],  
 "vod_node":"//section[contains(@class, 'list-main')]/div[@class='row']//div[contains(@class, 'col-md-4')]",
-"vod_info":"",
+"vod_info":"//label[@class='fg-light5']",
 "vod_score":"",
 "vod_title":"//div[contains(@class, 'movie-box-title')]//a",
 "vod_image_id":"//img/@src",
