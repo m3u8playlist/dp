@@ -8,7 +8,18 @@
 			"title": "无码",
 			"url0": "https://www.javrate.com/menu/uncensored",
 			"url1": "https://www.javrate.com/menu/uncensored/5-2-{pg}/"
+		},
+	{
+			"title": "有码",
+			"url0": "https://www.javrate.com/menu/censored",
+			"url1": "https://www.javrate.com/menu/censored/5-2-{pg}/"
+		},
+	{
+			"title": "国产",
+			"url0": "https://www.javrate.com/menu/chinese",
+			"url1": "https://www.javrate.com/menu/chinese/5-2-{pg}/"
 		}
+
 	],  
 "vod_node":"//section[contains(@class, 'list-main')]/div[@class='row']//div[contains(@class, 'list-main')]//div[contains(@class, 'col-md-4')]",
 "vod_info":"",
