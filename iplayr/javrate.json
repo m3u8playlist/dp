@@ -21,7 +21,7 @@
 		}
 
 	],  
-"vod_node":"//section[contains(@class, 'list-main')]/div[@class='row']//div[contains(@class, 'list-main')]//div[contains(@class, 'col-md-4')]",
+"vod_node":"//section[contains(@class, 'list-main')]/div[@class='row']//div[contains(@class, 'col-md-4')]",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[contains(@class, 'movie-box-title')]//a",
