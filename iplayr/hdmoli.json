@@ -26,7 +26,7 @@
 			"url1": "https://hdmoli.fun/show/anime--------{pg}---.html"
 		}
 ],
-"vod_node":"//div[@class='main']////div[@class='module']/a",
+"vod_node":"//a[contains(@class, 'module-poster-item')]",
 "vod_info":"//div[@class='module-item-note']",
 "vod_score":"",
 "vod_title":"//div[@class='module-poster-item-title']",
