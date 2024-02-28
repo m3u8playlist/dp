@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "photos18",
+"type": 1,
+"nsfw":true,
+"image_only_flag": true,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "https://www.photos18.com",
+"category": [
+{
+"title": "最新",
+"url0": "https://www.photos18.com",
+"url1": "https://www.photos18.com/?paged={pg}"
+}
+],
+"parse": {
+"list_node": "//[@id='videos']//div[@class='card']",
+"list_date": "",
+"list_title": "//div[contains(@class, 'card-body')/a",
+"list_image_id": "//img/@src",
+"list_image_regex": "",
+"list_image_url": "https://www.photos18.com{id}",
+"list_link_id": "//div[contains(@class, 'card-body')/a/@href",
+"list_link_url": "https://www.photos18.com{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "//[@id='content']",
+"post_images": "//img/@src"
+}
+}
