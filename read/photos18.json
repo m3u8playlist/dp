@@ -17,7 +17,7 @@
 "parse": {
 "list_node": "//div[@class='card-columns']//div[@class='card']",
 "list_date": "",
-"list_title": "//div[contains(@class, 'card-body')/a",
+"list_title": "//div[contains(@class, 'card-body')]/a",
 "list_image_id": "//img/@src",
 "list_image_regex": "",
 "list_image_url": "https://www.photos18.com{id}",
