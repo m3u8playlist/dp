@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@class='card']",
+"list_node": "//div[@class='card-columns']//div[@class='card']",
 "list_date": "",
 "list_title": "//div[contains(@class, 'card-body')/a",
 "list_image_id": "//img/@src",
