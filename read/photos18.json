@@ -21,7 +21,7 @@
 "list_image_id": "//img/@src",
 "list_image_regex": "",
 "list_image_url": "https://www.photos18.com{id}",
-"list_link_id": "//div[contains(@class, 'card-body')/a/@href",
+"list_link_id": "//div[contains(@class, 'card-body')]/a/@href",
 "list_link_url": "https://www.photos18.com{id}",
 "chapter_node": "",
 "chapter_title": "",
