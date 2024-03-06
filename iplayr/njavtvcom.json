@@ -8,13 +8,13 @@
 "category": [
   {
 			"title": "新作上市",
-			"url0": "https://njavtv.com/dm440/cn/release",
-			"url1": "https://njavtv.com/dm440/cn/release?page={pg}"
+			"url0": "https://njavtv.com/release",
+			"url1": "https://njavtv.com/release?page={pg}"
 		},
   {
 			"title": "最近更新",
-			"url0": "https://njavtv.com/dm415/cn/new",
-			"url1": "https://njavtv.com/dm415/cn/new?page={pg}"
+			"url0": "https://njavtv.com/new",
+			"url1": "https://njavtv.com/new?page={pg}"
 		}
 	],    
 "vod_node":"//div[@class='thumbnail group']",
