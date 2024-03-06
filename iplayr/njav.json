@@ -5,10 +5,16 @@
 "landscape_flag":true,
 "referer":"https://javplayer.me/",
 "open_with_safari_flag":true,
-"category": [{
+"category": [
+	{
+			"title": "最近上市",
+			"url0": "https://njav.xyz/zh/new-release",
+			"url1": "https://njav.xyz/zh/new-release?page={pg}"
+		},
+	{
 			"title": "最近更新",
-			"url0": "https://www.njav.tv/zh/recent-update",
-			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
+			"url0": "https://njav.xyz/zh/recent-update",
+			"url1": "https://njav.xyz/zh/recent-update?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
@@ -19,7 +25,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='detail']/a/@href",
-"vod_link_url":"https://www.njav.tv/zh/{id}",
+"vod_link_url":"https://njav.xyz/zh/{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -29,13 +35,13 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://www.njav.tv/zh/search?keyword={wd}&sort=recent_update",
-"search_url_other_page":"https://www.njav.tv/zh/search?keyword={wd}&page={pg}&sort=recent_update",
+"search_url_first_page":"https://njav.xyz/zh/search?keyword={wd}&sort=recent_update",
+"search_url_other_page":"https://njav.xyz/zh/search?keyword={wd}&page={pg}&sort=recent_update",
 "search_vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "search_vod_title":"//div[@class='detail']/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//div[@class='detail']/a/@href",
-"search_vod_link_url":"https://www.njav.tv/zh/{id}"
+"search_vod_link_url":"https://njav.xyz/zh/{id}"
 }
