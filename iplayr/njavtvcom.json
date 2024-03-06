@@ -1,0 +1,47 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"njavtv.com",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://javplayer.me/",
+"open_with_safari_flag":true,
+"category": [
+  {
+			"title": "新作上市",
+			"url0": "https://njavtv.com/dm440/cn/release",
+			"url1": "https://njavtv.com/dm440/cn/release?page={pg}"
+		},
+  {
+			"title": "最近更新",
+			"url0": "https://njavtv.com/dm415/cn/new",
+			"url1": "https://njavtv.com/dm415/cn/new?page={pg}"
+		}
+	],    
+"vod_node":"//div[@class='thumbnail group']",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//a[contains(@class, 'text-secondary')]",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a[contains(@class, 'text-secondary')]/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://njavtv.com/cn/search/{wd}",
+"search_url_other_page":"https://njavtv.com/cn/search/{wd}?page={pg}",
+"search_vod_node":"//div[@class='thumbnail group']",
+"search_vod_title":"//a[contains(@class, 'text-secondary')]",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a[contains(@class, 'text-secondary')]/@href",
+"search_vod_link_url":"{id}"
+}
