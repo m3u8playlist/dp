@@ -12,7 +12,7 @@
 		}
 	],  
 "vod_node":"//div[contains(@class, 'hasMedia')]",
-"vod_info":"",
+"vod_info":"//label[@style='color:#989898;']",
 "vod_score":"",
 "vod_title":"//h3//a",
 "vod_image_id":"//video/@poster",
