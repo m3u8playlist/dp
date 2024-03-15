@@ -12,7 +12,7 @@
 	],  
 "vod_node":"//div[@class='ugc']",
 "vod_info":"//a[@class='author']",
-"vod_score":"",
+"vod_score":"//div[@class='ct-time']",
 "vod_title":"//h3/a",
 "vod_image_id":"//video/@poster",
 "vod_image_regex":"",
