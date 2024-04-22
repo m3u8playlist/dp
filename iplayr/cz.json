@@ -7,44 +7,44 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最新电影",
-			"url0": "https://www.czzy88.com/zuixindianying",
-			"url1": "https://www.czzy88.com/zuixindianying/page/{pg}"
+			"url0": "https://www.cz233.com/zuixindianying",
+			"url1": "https://www.cz233.com/zuixindianying/page/{pg}"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://www.czzy88.com/meijutt",
-			"url1": "https://www.czzy88.com/meijutt/page/{pg}"
+			"url0": "https://www.cz233.com/meijutt",
+			"url1": "https://www.cz233.com/meijutt/page/{pg}"
 		},
 			{
 			"title": "日剧",
-			"url0": "https://www.czzy88.com/riju",
-			"url1": "https://www.czzy88.com/riju/page/{pg}"
+			"url0": "https://www.cz233.com/riju",
+			"url1": "https://www.cz233.com/riju/page/{pg}"
 		},
      {
 			"title": "国产剧",
-			"url0": "https://www.czzy88.com/gcj",
-			"url1": "https://www.czzy88.com/gcj/page/{pg}"
+			"url0": "https://www.cz233.com/gcj",
+			"url1": "https://www.cz233.com/gcj/page/{pg}"
 		},
                   {
 			"title": "韩剧",
-			"url0": "https://www.czzy88.com/hanjutv",
-			"url1": "https://www.czzy88.com/hanjutv/page/{pg}"
+			"url0": "https://www.cz233.com/hanjutv",
+			"url1": "https://www.cz233.com/hanjutv/page/{pg}"
 		},
                   {
 			"title": "番剧",
-			"url0": "https://www.czzy88.com/fanju",
-			"url1": "https://www.czzy88.com/fanju/page/{pg}"
+			"url0": "https://www.cz233.com/fanju",
+			"url1": "https://www.cz233.com/fanju/page/{pg}"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.czzy88.com/dm",
-			"url1": "https://www.czzy88.com/dm/page/{pg}"
+			"url0": "https://www.cz233.com/dm",
+			"url1": "https://www.cz233.com/dm/page/{pg}"
 		},
 
                  {
 			"title": "豆瓣250",
-			"url0": "https://www.czzy88.com/dbtop250",
-			"url1": "https://www.czzy88.com/dbtop250/page/{pg}"
+			"url0": "https://www.cz233.com/dbtop250",
+			"url1": "https://www.cz233.com/dbtop250/page/{pg}"
 		}
 	],    
 
