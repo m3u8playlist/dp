@@ -12,7 +12,7 @@
 		}
 	],  
 "vod_node":"//*[@id='__next']//div[contains(@class, 'shadow')]",
-"vod_info":"spancontains(@class, 'text-xs')]",
+"vod_info":"//span[contains(@class, 'text-xs')]",
 "vod_score":"",
 "vod_title":"//img/@alt",
 "vod_image_id":"//img/@src",
