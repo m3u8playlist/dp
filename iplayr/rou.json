@@ -10,7 +10,7 @@
 			"url1": "https://rou.video/v?order=createdAt&page={pg}"
 		}
 	],  
-"vod_node":"//*[@id='__next']/div/div/div[1]/div[2]/div/div[1]/div[1]/div[3]//div[contains(@class, 'shadow')]",
+"vod_node":"//*[@id='__next']//div[contains(@class, 'shadow')]",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//img/@alt",
@@ -30,7 +30,7 @@
 "search_flag":true,
 "search_url_first_page":"https://rou.video/search?q={wd}",
 "search_url_other_page":"https://rou.video/search?q={wd}&page={pg}",
-"search_vod_node":"//*[@id='__next']/div/div/div[1]/div[2]/div/div[3]//div[contains(@class, 'shadow')]",
+"search_vod_node":"//*[@id='__next']//div[contains(@class, 'shadow')]",
 "search_vod_title":"//img/@alt",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
