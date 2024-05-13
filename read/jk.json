@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "jk.rs",
+"type": 1,
+"nsfw":true,
+"image_only_flag": true,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "https://www.jk.rs",
+"category": [
+{
+"title": "首页",
+"url0": "https://www.jk.rs/",
+"url1": "https://www.jk.rs/page/{pg}"
+}
+],
+"parse": {
+"list_node": "//div[@id='masonry']//div[contains(@class, 'item')]",
+"list_date": "",
+"list_title": "//a[@class='item-link']",
+"list_image_id": "//img/@data-original",
+"list_image_regex": "",
+"list_image_url": "{id}",
+"list_link_id": "//a[@class='item-link']/@href",
+"list_link_url": "{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "//div[@id='masonry']//img",
+"post_images": "//img/@data-original"
+}
+}
