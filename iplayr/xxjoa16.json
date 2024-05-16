@@ -4,6 +4,7 @@
 "episode_flag":false,
 "landscape_flag":true,
 "vod_referer_flag":true,
+"open_with_safari_flag":true,
 "category": [{
 			"title": "XX조아",
 			"url0": "https://xxjoa35.com/",
