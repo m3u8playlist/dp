@@ -32,7 +32,7 @@
 "search_url_other_page":"https://cn.pornhub.com/video/search?search={wd}&page={pg}",
 "search_vod_node":"//ul[contains(@class, 'videos')]//li",
 "search_vod_title":"//span[@class='title']/a",
-"search_vod_image_id":"//img/@data-image",
+"search_vod_image_id":"//img/@data-mediabook",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//span[@class='title']/a/@href",
