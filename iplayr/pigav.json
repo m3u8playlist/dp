@@ -52,7 +52,7 @@
 "search_url_other_page":"https://pigav.com/page/{pg}?s={wd}",
 "search_vod_node":"//div[contains(@class, 'block-content')]//article",
 "search_vod_title":"//h2/a",
-"search_vod_image_id":"//img/@src",
+"search_vod_image_id":"//span[contains(@class, 'wp-post-image')]/@data-bgsrc",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//h2/a/@href",
