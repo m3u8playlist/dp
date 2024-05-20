@@ -20,7 +20,7 @@
 "list_title": "//h2",
 "list_image_id": "",
 "list_image_regex": "",
-"list_image_url": "{id}",
+"list_image_url": "",
 "list_link_id": "//a/@href",
 "list_link_url": "https://cgtt.me{id}",
 "chapter_node": "",
