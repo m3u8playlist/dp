@@ -30,7 +30,7 @@
 "vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
 "vod_score":"//span[contains(@class,'right-score')]",
-"vod_title":"//p[@class='vodlist_title']//a",
+"vod_title":"//p[@class='vodlist_title']//a/@title",
 "vod_image_id":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
