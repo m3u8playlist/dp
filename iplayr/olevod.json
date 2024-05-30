@@ -29,7 +29,7 @@
 ],
 "vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
-"vod_score":"//span[@class='text_right text_dy']",
+"vod_score":"//span[@class=' text_right text_dy']",
 "vod_title":"//p[@class='vodlist_title']//a/@title",
 "vod_image_id":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "vod_image_regex":"",
