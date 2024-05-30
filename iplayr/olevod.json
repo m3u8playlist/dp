@@ -8,50 +8,50 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://www.olevod.com/index.php/vod/show/id/1.html",
-			"url1": "https://www.olevod.com/index.php/vod/show/id/1/page/{pg}.html"
+			"url0": "https://www.olehdtv.com/index.php/vod/show/id/1.html",
+			"url1": "https://www.olehdtv.com/index.php/vod/show/id/1/page/{pg}.html"
 		},
                {
 			"title": "连续剧",
-			"url0": "https://www.olevod.com/index.php/vod/show/id/2.html",
-			"url1": "https://www.olevod.com/index.php/vod/show/id/2/page/{pg}.html"
+			"url0": "https://www.olehdtv.com/index.php/vod/show/id/2.html",
+			"url1": "https://www.olehdtv.com/index.php/vod/show/id/2/page/{pg}.html"
 		},
                {
 			"title": "综艺",
-			"url0": "https://www.olevod.com/index.php/vod/show/id/3.html",
-			"url1": "https://www.olevod.com/index.php/vod/show/id/3/page/{pg}.html"
+			"url0": "https://www.olehdtv.com/index.php/vod/show/id/3.html",
+			"url1": "https://www.olehdtv.com/index.php/vod/show/id/3/page/{pg}.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://www.olevod.com/index.php/vod/show/id/4.html",
-			"url1": "https://www.olevod.com/index.php/vod/show/id/4/page/{pg}.html"
+			"url0": "https://www.olehdtv.com/index.php/vod/show/id/4.html",
+			"url1": "https://www.olehdtv.com/index.php/vod/show/id/4/page/{pg}.html"
 		}
 ],
-"vod_node":"//div[contains(@id, 'navList')]////div[contains(@class, 'el-col')]",
+"vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
-"vod_score":"//span[contains(@class,'right-score')",
-"vod_title":"//h4",
-"vod_image_id":"//img/@src",
+"vod_score":"//span[contains(@class,'right-score')]",
+"vod_title":"//p[@class='vodlist_title']//a",
+"vod_image_id":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//p[@class='vodlist_title']/a/@href",
-"vod_link_url":"https://www.olevod.com{id}",
+"vod_link_id":"//p[@class='vodlist_title']//a/@href",
+"vod_link_url":"https://www.olehdtv.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//div[@id='playlistbox']//ul",
+"playlist_group_node":"//ul[contains(@class, 'content_playlist')]",
 "playlist_title":"//li/a",
 "playlist_link_id":"//li/a/@href",
-"playlist_link_url":"https://www.olevod.com{id}",
-"playlist_info":"//p[@class='blurb']",
+"playlist_link_url":"https://www.olehdtv.com{id}",
+"playlist_info":"//li[contains(@class, 'desc')]",
 "search_flag":true,
-"search_url_first_page":"https://www.olevod.com/index.php/vod/search.html?wd={wd}&submit=",
-"search_url_other_page":"https://www.olevod.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
-"search_vod_node":"//div[contains(@id, 'navList')]////div[contains(@class, 'el-col')]",
-"search_vod_title":"//h4",
-"search_vod_image_id":"//img/@src",
+"search_url_first_page":"https://www.olehdtv.com/index.php/vod/search.html?wd={wd}&submit=",
+"search_url_other_page":"https://www.olehdtv.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"search_vod_node":"//ul[contains(@class, 'vodlist')]//li",
+"search_vod_title":"//h4/a",
+"search_vod_image_id":"//a[contains(@class, 'vodlist_thumb')]/@data-original",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"//a/@href",
-"search_vod_link_url":"https://www.olevod.com{id}"
+"search_vod_link_id":"//h4/a/@href",
+"search_vod_link_url":"https://www.olehdtv.com{id}"
 }
