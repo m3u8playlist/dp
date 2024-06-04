@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://missav.com/new",
-			"url1": "https://missav.com/new?page={pg}"
+			"url0": "https://missav.li/new",
+			"url1": "https://missav.li/new?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'thumbnail')]",
