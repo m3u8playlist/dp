@@ -45,14 +45,14 @@
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"{id}",
 "playlist_info":"//div[@class='yp_context']",
-"search_flag":false,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
+"search_flag":true,
+"search_url_first_page":"https://www.kmeiju.cc/?s={wd}",
+"search_url_other_page":"https://www.kmeiju.cc/page/{pg}?s={wd}",
+"search_vod_node":"//div[@class='bt_img mi_ne_kd search_list']//ul//li",
+"search_vod_title":"//h3/a",
 "search_vod_image_id":"",
-"search_vod_image_regex":"",
-"search_vod_image_url":"",
-"search_vod_link_id":"",
-"search_vod_link_url":""
+"search_vod_image_regex":"//img/@data-original",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h3/a/@href",
+"search_vod_link_url":"{id}"
 }
