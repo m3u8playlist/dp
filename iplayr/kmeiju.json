@@ -1,0 +1,58 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"美剧星球",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.kmeiju.cc/movie_kmeiju",
+			"url1": "https://www.kmeiju.cc/movie_kmeiju/page/{pg}"
+		},
+		{
+			"title": "剧集",
+			"url0": "https://www.kmeiju.cc/tv_kmeiju",
+			"url1": "https://www.kmeiju.cc/tv_kmeiju/page/{pg}"
+		},
+			
+     {
+			"title": "番剧",
+			"url0": "https://www.kmeiju.cc/fan_kmeiju",
+			"url1": "https://www.kmeiju.cc/fan_kmeiju/page/{pg}"
+		},
+      {
+			"title": "记录",
+			"url0": "https://www.kmeiju.cc/record",
+			"url1": "https://www.kmeiju.cc/record/page/{pg}"
+		}
+	],    
+
+"vod_node":"//div[@class='bt_img mi_ne_kd mrb']//ul//li",
+"vod_info":"//div[@class='jidi']",
+"vod_score":"//span[@class='furk']",
+"vod_title":"//h3/a",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h3/a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='paly_list_btn']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"{id}",
+"playlist_info":"//div[@class='yp_context']",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}
