@@ -10,9 +10,9 @@
 			"url1": "https://bad.news/av/page-{pg}"
 		}
 	],  
-"vod_node":"//div[@class='ugc']",
+"vod_node":"//div[@class='content']//div[@class='link col-md-4']",
 "vod_info":"//a[@class='author']",
-"vod_score":"//div[@class='ct-time']",
+"vod_score":"",
 "vod_title":"//h3/a",
 "vod_image_id":"//video/@poster",
 "vod_image_regex":"",
