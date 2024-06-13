@@ -15,13 +15,13 @@
 }
 ],
 "parse": {
-"list_node": "//div[@id='masonry']//div[contains(@class, 'item')]",
+"list_node": "//div[@class='index-latest-posts']//div[contains(@class, 'masonry-item')]",
 "list_date": "",
-"list_title": "//a[@class='item-link']",
-"list_image_id": "//img/@data-original",
+"list_title": "//h2//a",
+"list_image_id": "//img/@data-src",
 "list_image_regex": "",
 "list_image_url": "{id}",
-"list_link_id": "//a[@class='item-link']/@href",
+"list_link_id": "/h2//a/@href",
 "list_link_url": "{id}",
 "chapter_node": "",
 "chapter_title": "",
@@ -40,7 +40,7 @@
 "image_replace_flag": false,
 "image_replace_target": "",
 "image_replace_with": "",
-"post_images_node": "//div[@id='masonry']//img",
-"post_images": "//img/@data-original"
+"post_images_node": "//div[@class='masonry-item']",
+"post_images": "//img/@data-src"
 }
 }
