@@ -15,10 +15,10 @@
 }
 ],
 "parse": {
-"list_node": "//div[@id='content']//article",
+"list_node": "//div[@id='blog-entries']//article",
 "list_date": "",
 "list_title": "//h2",
-"list_image_id": "//img/@src",
+"list_image_id": "//img/@data-src",
 "list_image_regex": "",
 "list_image_url": "{id}",
 "list_link_id": "//h2/a/@href",
@@ -40,7 +40,7 @@
 "image_replace_flag": false,
 "image_replace_target": "",
 "image_replace_with": "",
-"post_images_node": "//figure[contains(@class, 'wp-block-gallery')]//figure",
-"post_images": "//img/@src"
+"post_images_node": "//figure[contains(@class, 'wp-block-image')]",
+"post_images": "//img/@data-src"
 }
 }
