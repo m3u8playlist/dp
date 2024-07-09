@@ -9,6 +9,41 @@
 			"title": "最近更新",
 			"url0": "https://jav.sb/label/rank/by/time.html",
 			"url1": "https://jav.sb/label/rank/by/time/page/{pg}.html"
+		},
+	{
+			"title": "日本有码",
+			"url0": "https://jav.sb/javtype/Censored.html",
+			"url1": "https://jav.sb/javtype/Censored-{pg}.html"
+		},
+	{
+			"title": "日本无码",
+			"url0": "https://jav.sb/javtype/Uncensored.html",
+			"url1": "https://jav.sb/javtype/Uncensored-{pg}.html"
+		},
+	{
+			"title": "FC2",
+			"url0": "https://jav.sb/javtype/FC2-PPV.html",
+			"url1": "https://jav.sb/javtype/FC2-PPV-{pg}.html"
+		},
+	{
+			"title": "无码破解",
+			"url0": "https://jav.sb/javtype/Mosaic_Removed.html",
+			"url1": "https://jav.sb/javtype/Mosaic_Removed-{pg}.html"
+		},
+	{
+			"title": "中文字幕",
+			"url0": "https://jav.sb/javtype/CHN_SUB.html",
+			"url1": "https://jav.sb/javtype/CHN_SUB-{pg}.html"
+		},
+	{
+			"title": "MGS",
+			"url0": "https://jav.sb/javtype/MGS.html",
+			"url1": "https://jav.sb/javtype/MGS-{pg}.html"
+		},
+	{
+			"title": "国产",
+			"url0": "https://jav.sb/javtype/Asian_Amateur.html",
+			"url1": "https://jav.sb/javtype/Asian_Amateur-{pg}.html"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'thumbnail')]",
