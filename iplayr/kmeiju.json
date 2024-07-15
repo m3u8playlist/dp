@@ -6,37 +6,37 @@
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "电影",
-			"url0": "https://www.fmeiju.com/movie_kmeiju",
-			"url1": "https://www.fmeiju.com/movie_kmeiju/page/{pg}"
+			"title": "美剧",
+			"url0": "https://www.fmeiju.com/list/meiju.html",
+			"url1": "https://www.fmeiju.com/list/meiju-{pg}.html"
 		},
 		{
-			"title": "剧集",
-			"url0": "https://www.fmeiju.com/tv_kmeiju",
-			"url1": "https://www.fmeiju.com/tv_kmeiju/page/{pg}"
+			"title": "电视剧",
+			"url0": "https://www.fmeiju.com/vodshow/tv-----------.html",
+			"url1": "https://www.fmeiju.com/vodshow/tv--------{pg}---.html"
 		},
 			
      {
-			"title": "番剧",
-			"url0": "https://www.fmeiju.com/fan_kmeiju",
-			"url1": "https://www.fmeiju.com/fan_kmeiju/page/{pg}"
+			"title": "综艺",
+			"url0": "https://www.fmeiju.com/list/zy.html",
+			"url1": "https://www.fmeiju.com/list/zy-{pg}.html"
 		},
       {
-			"title": "记录",
-			"url0": "https://www.fmeiju.com/record",
-			"url1": "https://www.fmeiju.com/record/page/{pg}"
+			"title": "动漫",
+			"url0": "https://www.fmeiju.com/list/dm.html",
+			"url1": "https://www.fmeiju.com/list/dm-{pg}.html"
 		}
 	],    
 
-"vod_node":"//div[@class='bt_img mi_ne_kd mrb']//ul//li",
-"vod_info":"//div[@class='jidi']",
-"vod_score":"//span[@class='furk']",
-"vod_title":"//h3/a",
-"vod_image_id":"//img/@data-original",
+"vod_node":"//ul[contains(@class, 'img-list')]//li",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//span[@class='vname']",
+"vod_image_id":"//a[contains(@class, 'img-pic')]/@data-original",
 "vod_image_regex":"",
-"vod_image_url":"{id}",
-"vod_link_id":"//h3/a/@href",
-"vod_link_url":"{id}",
+"vod_image_url":"https://www.fmeiju.com{id}",
+"vod_link_id":"//a[contains(@class, 'img-pic')]/@href",
+"vod_link_url":"https://www.fmeiju.com{id}",
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
@@ -48,11 +48,11 @@
 "search_flag":true,
 "search_url_first_page":"https://www.fmeiju.com/?s={wd}",
 "search_url_other_page":"https://www.fmeiju.com/page/{pg}?s={wd}",
-"search_vod_node":"//div[@class='bt_img mi_ne_kd search_list']//ul//li",
-"search_vod_title":"//h3/a",
+"search_vod_node":"//ul[contains(@class, 'img-list')]//li",
+"search_vod_title":"//span[@class='vname']",
 "search_vod_image_id":"",
-"search_vod_image_regex":"//img/@data-original",
-"search_vod_image_url":"{id}",
-"search_vod_link_id":"//h3/a/@href",
-"search_vod_link_url":"{id}"
+"search_vod_image_regex":"//a[contains(@class, 'img-pic')]/@href",
+"search_vod_image_url":"https://www.fmeiju.com{id}",
+"search_vod_link_id":"//a[contains(@class, 'img-pic')]/@href",
+"search_vod_link_url":"https://www.fmeiju.com{id}"
 }
