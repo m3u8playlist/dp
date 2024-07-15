@@ -7,24 +7,24 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
-			"url0": "https://www.kmeiju.cc/movie_kmeiju",
-			"url1": "https://www.kmeiju.cc/movie_kmeiju/page/{pg}"
+			"url0": "https://www.fmeiju.com/movie_kmeiju",
+			"url1": "https://www.fmeiju.com/movie_kmeiju/page/{pg}"
 		},
 		{
 			"title": "剧集",
-			"url0": "https://www.kmeiju.cc/tv_kmeiju",
-			"url1": "https://www.kmeiju.cc/tv_kmeiju/page/{pg}"
+			"url0": "https://www.fmeiju.com/tv_kmeiju",
+			"url1": "https://www.fmeiju.com/tv_kmeiju/page/{pg}"
 		},
 			
      {
 			"title": "番剧",
-			"url0": "https://www.kmeiju.cc/fan_kmeiju",
-			"url1": "https://www.kmeiju.cc/fan_kmeiju/page/{pg}"
+			"url0": "https://www.fmeiju.com/fan_kmeiju",
+			"url1": "https://www.fmeiju.com/fan_kmeiju/page/{pg}"
 		},
       {
 			"title": "记录",
-			"url0": "https://www.kmeiju.cc/record",
-			"url1": "https://www.kmeiju.cc/record/page/{pg}"
+			"url0": "https://www.fmeiju.com/record",
+			"url1": "https://www.fmeiju.com/record/page/{pg}"
 		}
 	],    
 
@@ -46,8 +46,8 @@
 "playlist_link_url":"{id}",
 "playlist_info":"//div[@class='yp_context']",
 "search_flag":true,
-"search_url_first_page":"https://www.kmeiju.cc/?s={wd}",
-"search_url_other_page":"https://www.kmeiju.cc/page/{pg}?s={wd}",
+"search_url_first_page":"https://www.fmeiju.com/?s={wd}",
+"search_url_other_page":"https://www.fmeiju.com/page/{pg}?s={wd}",
 "search_vod_node":"//div[@class='bt_img mi_ne_kd search_list']//ul//li",
 "search_vod_title":"//h3/a",
 "search_vod_image_id":"",
