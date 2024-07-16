@@ -12,8 +12,8 @@
 		},
 	{
 			"title": "短视频",
-			"url0": "https://bad.news/tag/porn",
-			"url1": "https://bad.news/tag/porn/page-{pg}"
+			"url0": "https://bad.news/tag/porn/sort-new",
+			"url1": "https://bad.news/tag/porn/sort-new/page-{pg}"
 		}
 	],  
 "vod_node":"//div[@class='link show ']",
