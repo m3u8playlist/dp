@@ -9,6 +9,11 @@
 			"title": "长视频",
 			"url0": "https://bad.news/tag/long-porn",
 			"url1": "https://bad.news/tag/long-porn/page-{pg}"
+		},
+	{
+			"title": "短视频",
+			"url0": "https://bad.news/tag/porn",
+			"url1": "https://bad.news/tag/porn/page-{pg}"
 		}
 	],  
 "vod_node":"//div[@class='link show ']",
