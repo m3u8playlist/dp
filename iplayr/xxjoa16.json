@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "XX조아",
-			"url0": "https://xxjoa35.com/",
-			"url1": "https://xxjoa35.com/page/{pg}/"
+			"url0": "https://xxjoa37.com/",
+			"url1": "https://xxjoa37.com/page/{pg}/"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'video-loop')]//div[contains(@class, 'video-block')]",
