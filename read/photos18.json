@@ -40,7 +40,7 @@
 "image_replace_flag": false,
 "image_replace_target": "",
 "image_replace_with": "",
-"post_images_node": "//[@class='img-wrapper']",
-"post_images": "//img/@src"
+"post_images_node": "//[@id='conten']",
+"post_images": "//a/@href"
 }
 }
