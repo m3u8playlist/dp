@@ -1,0 +1,46 @@
+{
+"uuid": "b7d40c9e-8c7a-4e9a-a2cf-22dc1b078db7",
+"title": "play no1",
+"type": 1,
+"nsfw":true,
+"image_only_flag": false,
+"multiple_pages_flag": false,
+"search_flag": false,
+"base_url": "http://www.playno1.com",
+"category": [
+    {
+"title": "首页",
+"url0": "http://www.playno1.com/portal.php?mod=list&catid=78",
+"url1": "http://www.playno1.com/portal.php?mod=list&catid=78&page={pg}/"
+}
+],
+"parse": {
+"list_node": "//div[@class='fire_float']//ul//li",
+"list_date": "//time",
+"list_title": "//h3//a",
+"list_image_id": "//img/@src",
+"list_image_regex": "",
+"list_image_url": "{id}",
+"list_link_id": "//h3//a/@href",
+"list_link_url": "{id}",
+"chapter_node": "",
+"chapter_title": "",
+"chapter_link_id": "",
+"chapter_link_url": "",
+"search_first_page_url": "",
+"search_other_page_url": "",
+"search_list_node": "",
+"search_list_title": "",
+"search_list_image_id": "",
+"search_list_image_regex": "",
+"search_list_image_url": "",
+"search_list_link_id": "",
+"search_list_link_url": "",
+"post_node": "//td[@id='article_content']",
+"image_replace_flag": false,
+"image_replace_target": "",
+"image_replace_with": "",
+"post_images_node": "",
+"post_images": ""
+}
+}
