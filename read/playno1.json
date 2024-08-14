@@ -15,7 +15,7 @@
 }
 ],
 "parse": {
-"list_node": "//div[@class='fire_float']//ul//li",
+"list_node": "//div[@class='bm vw eis_mtm']//div[@class='fire_float']",
 "list_date": "",
 "list_title": "//h3//a",
 "list_image_id": "//img/@src",
