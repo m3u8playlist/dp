@@ -16,7 +16,7 @@
 ],
 "parse": {
 "list_node": "//div[@class='fire_float']//ul//li",
-"list_date": "//time",
+"list_date": "",
 "list_title": "//h3//a",
 "list_image_id": "//img/@src",
 "list_image_regex": "",
