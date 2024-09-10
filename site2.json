@@ -2,9 +2,32 @@
 "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
 "json":[{
 "type":1,
-"name":"海外看",
-"api":"http://api.haiwaikan.com/v1/vod"
-},{
+"name":"黑木耳",
+"api":"https://json.heimuer.xyz/api.php/provide/vod"
+},
+ {
+"type":8,
+"name":"欧乐影院",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json"
+},  {
+"type":8,
+"name":"素白白",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/subaibaiys.json"
+},  {
+"type":0,
+"name":"量子",
+"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml"
+},  {
+"type":1,
+"name":"非凡",
+"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"
+}, 
+  {
+"type":8,
+"name":"磁力熊",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cilixiong"
+},
+  {
 "type":1,
 "name":"魔都资源",
 "api":"https://caiji.moduapi.cc/api.php/provide/vod"
@@ -12,11 +35,17 @@
 "type":1,
 "name":"暴风app",
 "api":"http://app.bfzyapi.com/api.php/provide/vod"
-},{
-"type":0,
-"name":"U酷资源",
-"api":"https://api.ukuapi.com/api.php/provide/vod/at/xml"
-},{
+},
+  {
+"type":8,
+"name":"av01",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/av01.json"
+},  {
+"type":8,
+"name":"jav.sb",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/javsb.json"
+}, 
+  {
 "type":8,
 "name":"njav",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/njav.json"
@@ -32,7 +61,28 @@
 "type":8,
 "name":"肉视频",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/rou.json"
-},{
+},
+  {
+"type":8,
+"name":"ppp",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ppp.json"
+},
+    {
+"type":8,
+"name":"bad.news长视频",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnews-long.json"
+},
+    {
+"type":8,
+"name":"bad.news av",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnewav.json"
+},
+    {
+"type":8,
+"name":"hayav",
+"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/hayav.json"
+},
+  {
 "type":8,
 "name":"7mm",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/7mm.json"
@@ -42,10 +92,6 @@
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/pf.json"
 },
 {
-"type":8,
-"name":"磁力熊",
-"api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cilixiong"
-},{
 "type":8,
 "name":"Jable",
 "api":"https://raw.githubusercontent.com/trial/dp/master/json2/jable.json"
