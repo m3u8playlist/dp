@@ -21,7 +21,7 @@
 			"url1": "https://motv.app/vodshow/41--------{pg}---/"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'movie-list-body')]//div[contains(@class, 'movie-list-item')]",
+"vod_node":"//div[contains(@class, 'movie-list-body flex')]//div[contains(@class, 'movie-list-item')]",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[contains(@class, 'movie-title')]",
@@ -41,7 +41,7 @@
 "search_flag":true,
 "search_url_first_page":"https://motv.app/vodsearch/-------------/?wd={wd}",
 "search_url_other_page":"https://motv.app/vodsearch/{wd}----------{pg}---/",
-"search_vod_node":"//div[contains(@class, 'movie-list-body')]//div[contains(@class, 'vod-search-list')]",
+"search_vod_node":"//div[contains(@class, 'movie-list-body flex')]//div[contains(@class, 'vod-search-list')]",
 "search_vod_title":"//div[contains(@class, 'movie-title')]",
 "search_vod_image_id":"//div[contains(@class, 'movie-post-lazyload')]/@data-original",
 "search_vod_image_regex":"",
