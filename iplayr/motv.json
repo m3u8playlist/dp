@@ -1,0 +1,51 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"motv",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://motv.app/",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "日本有码",
+			"url0": "https://motv.app/vodshow/20-----------/",
+			"url1": "https://motv.app/vodshow/20--------{pg}---/"
+		},
+  {
+			"title": "日本无码",
+			"url0": "https://motv.app/vodshow/50-----------/",
+			"url1": "https://motv.app/vodshow/50--------{pg}---/"
+		},
+  {
+			"title": "国产",
+			"url0": "https://motv.app/vodshow/41-----------/",
+			"url1": "https://motv.app/vodshow/41--------{pg}---/"
+		}
+	],    
+"vod_node":"//div[contains(@class, 'movie-list-body')]//div[contains(@class, 'movie-list-item')]",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[contains(@class, 'movie-title')]",
+"vod_image_id":"//div[contains(@class, 'movie-post-lazyload')]/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"https://motv.app{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://motv.app{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://motv.app/vodsearch/-------------/?wd={wd}",
+"search_url_other_page":"https://motv.app/vodsearch/{wd}----------{pg}---/",
+"search_vod_node":"//div[contains(@class, 'movie-list-body')]//div[contains(@class, 'vod-search-list')]",
+"search_vod_title":"//div[contains(@class, 'movie-title')]",
+"search_vod_image_id":"//div[contains(@class, 'movie-post-lazyload')]/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"https://motv.app{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://motv.app{id}"
+}
