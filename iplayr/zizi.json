@@ -38,7 +38,7 @@
 
 	],    
 
-"vod_node":"//div[@class='module-items']//div[contains(@class, 'module-item')]",
+"vod_node":"//div[@class='module-items']//div[@class='module-item']",
 "vod_info":"//div[@class='module-item-text']",
 "vod_score":"",
 "vod_title":"//div[@class='module-item-titlebox']/a",
@@ -55,14 +55,14 @@
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://www.ziziys.com{id}",
 "playlist_info":"//div[@class='video-info-item video-info-content vod_content']/span",
-"search_flag":false,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
-"search_vod_image_id":"",
+"search_flag":true,
+"search_url_first_page":"https://www.ziziys.com/vsearch/--.html?wd={wd}",
+"search_url_other_page":"https://www.ziziys.com/vsearch/{wd}--{pg}.html",
+"search_vod_node":"//div[@class='module-items']//div[@class='module-search-item']",
+"search_vod_title":"//h3/a",
+"search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"",
-"search_vod_link_id":"",
-"search_vod_link_url":""
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h3/a/@href",
+"search_vod_link_url":"https://www.ziziys.com{id}"
 }
