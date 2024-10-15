@@ -1,0 +1,62 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"爱一帆",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.yfsp.tv/list/movie",
+			"url1": "https://www.yfsp.tv/list/movie?page={pg}"
+		},
+		{
+			"title": "剧集",
+			"url0": "https://www.yfsp.tv/list/drama",
+			"url1": "https://www.yfsp.tv/list/drama?page={pg}"
+		},
+			{
+			"title": "动漫",
+			"url0": "https://www.yfsp.tv/list/anime",
+			"url1": "https://www.yfsp.tv/list/anime?page={pg}"
+		},
+     {
+			"title": "记录片",
+			"url0": "https://www.yfsp.tv/list/documentary",
+			"url1": "https://www.yfsp.tv/list/documentary?page={pg}"
+		},
+                  {
+			"title": "综艺",
+			"url0": "https://www.yfsp.tv/list/variety",
+			"url1": "https://www.yfsp.tv/list/variety?page={pg}"
+		}
+	],    
+
+"vod_node":"//div[@id='list-page']//div[contains(@class, 'ng-star-inserted')]",
+"vod_info":"//div[@class='jidi']/span",
+"vod_score":"//div[@class='rating']",
+"vod_title":"//div[@class='title']/a",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='title']/a/@href",
+"vod_link_url":"https://www.yfsp.tv{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='n-media-list']//div[@class='paly_list_btn']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://www.yfsp.tv{id}",
+"playlist_info":"//div[contains(@class, 'summary')]",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}
