@@ -7,38 +7,38 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最新电影",
-			"url0": "https://czzy.top/zuixindianying",
-			"url1": "https://czzy.top/zuixindianying/page/{pg}"
+			"url0": "https://www.czzyvideo.com/zuixindianying",
+			"url1": "https://www.czzyvideo.com/zuixindianying/page/{pg}"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://czzy.top/meijutt",
-			"url1": "https://czzy.top/meijutt/page/{pg}"
+			"url0": "https://www.czzyvideo.com/meijutt",
+			"url1": "https://www.czzyvideo.com/meijutt/page/{pg}"
 		},
 			{
 			"title": "日剧",
-			"url0": "https://czzy.top/riju",
-			"url1": "https://czzy.top/riju/page/{pg}"
+			"url0": "https://www.czzyvideo.com/riju",
+			"url1": "https://www.czzyvideo.com/riju/page/{pg}"
 		},
      {
 			"title": "国产剧",
-			"url0": "https://czzy.top/gcj",
-			"url1": "https://czzy.top/gcj/page/{pg}"
+			"url0": "https://www.czzyvideo.com/gcj",
+			"url1": "https://www.czzyvideo.com/gcj/page/{pg}"
 		},
                   {
 			"title": "韩剧",
-			"url0": "https://czzy.top/hanjutv",
-			"url1": "https://czzy.top/hanjutv/page/{pg}"
+			"url0": "https://www.czzyvideo.com/hanjutv",
+			"url1": "https://www.czzyvideo.com/hanjutv/page/{pg}"
 		},
                   {
 			"title": "番剧",
-			"url0": "https://czzy.top/fanju",
-			"url1": "https://czzy.top/fanju/page/{pg}"
+			"url0": "https://www.czzyvideo.com/fanju",
+			"url1": "https://www.czzyvideo.com/fanju/page/{pg}"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://czzy.top/dm",
-			"url1": "https://czzy.top/dm/page/{pg}"
+			"url0": "https://www.czzyvideo.com/dm",
+			"url1": "https://www.czzyvideo.com/dm/page/{pg}"
 		},
 
                  {
