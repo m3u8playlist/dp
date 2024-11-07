@@ -27,7 +27,7 @@
 "vod_title":"//div[contains(@class, 'movie-title')]",
 "vod_image_id":"//div[contains(@class, 'movie-post-lazyload')]/@data-original",
 "vod_image_regex":"",
-"vod_image_url":"https://motv.app{id}",
+"vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://motv.app{id}",
 "play_regex":"",
