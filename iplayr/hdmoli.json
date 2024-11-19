@@ -34,7 +34,7 @@
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]//li",
+"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://hdmoli.pro{id}",
