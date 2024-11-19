@@ -7,23 +7,23 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://hdmoli.fun/show/movie-----------.html",
-			"url1": "https://hdmoli.fun/show/movie--------{pg}---.html"
+			"url0": "https://hdmoli.pro/show/movie-----------.html",
+			"url1": "https://hdmoli.pro/show/movie--------{pg}---.html"
 		},
                {
 			"title": "连续剧",
-			"url0": "https://hdmoli.fun/show/tvplay-----------.html",
-			"url1": "https://hdmoli.fun/show/tvplay--------{pg}---.html"
+			"url0": "https://hdmoli.pro/show/tvplay-----------.html",
+			"url1": "https://hdmoli.pro/show/tvplay--------{pg}---.html"
 		},
                {
 			"title": "综艺",
-			"url0": "https://hdmoli.fun/type/variety.html",
-			"url1": "https://hdmoli.fun/show/variety--------{pg}---.html"
+			"url0": "https://hdmoli.pro/type/variety.html",
+			"url1": "https://hdmoli.pro/show/variety--------{pg}---.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://hdmoli.fun/type/anime.html",
-			"url1": "https://hdmoli.fun/show/anime--------{pg}---.html"
+			"url0": "https://hdmoli.pro/type/anime.html",
+			"url1": "https://hdmoli.pro/show/anime--------{pg}---.html"
 		}
 ],
 "vod_node":"//a[contains(@class, 'module-poster-item')]",
@@ -34,14 +34,14 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://hdmoli.fun{id}",
+"vod_link_url":"https://hdmoli.pro{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='module-play-list']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://hdmoli.fun{id}",
+"playlist_link_url":"https://hdmoli.pro{id}",
 "playlist_info":"//div[contains(@class, 'module-info-introduction-content')]",
 "search_flag":false,
 "search_url_first_page":"",
