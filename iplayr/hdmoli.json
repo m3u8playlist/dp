@@ -7,42 +7,38 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://hdmoli.pro/show/movie-----------.html",
-			"url1": "https://hdmoli.pro/show/movie--------{pg}---.html"
+			"url0": "https://hdmoli.pro/mlist/index1.html",
+			"url1": "https://hdmoli.pro/mlist/index1-{pg}.html"
 		},
                {
 			"title": "连续剧",
-			"url0": "https://hdmoli.pro/show/tvplay-----------.html",
-			"url1": "https://hdmoli.pro/show/tvplay--------{pg}---.html"
+			"url0": "https://hdmoli.pro/mlist/index1.html",
+			"url1": "https://hdmoli.pro/mlist/index2-{pg}.html"
 		},
-               {
-			"title": "综艺",
-			"url0": "https://hdmoli.pro/type/variety.html",
-			"url1": "https://hdmoli.pro/show/variety--------{pg}---.html"
-		},
+         
                {
 			"title": "动漫",
-			"url0": "https://hdmoli.pro/type/anime.html",
-			"url1": "https://hdmoli.pro/show/anime--------{pg}---.html"
+			"url0": "https://hdmoli.pro/mlist/index41.html",
+			"url1": "https://hdmoli.pro/mlist/index41-{pg}.html"
 		}
 ],
-"vod_node":"//a[contains(@class, 'module-poster-item')]",
-"vod_info":"//div[@class='module-item-note']",
-"vod_score":"",
-"vod_title":"//div[@class='module-poster-item-title']",
-"vod_image_id":"//img/@data-original",
+"vod_node":"//ul[contains(@class, 'myui-vodlist')]//li",
+"vod_info":"",
+"vod_score":"//span[@class='pic-tag pic-tag-top']",
+"vod_title":"//h4/a",
+"vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//a/@href",
+"vod_link_id":"//h4/a/@href",
 "vod_link_url":"https://hdmoli.pro{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//div[@class='module-play-list']",
+"playlist_group_node":"//ul[contains(@class, 'myui-content__list')]//li",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://hdmoli.pro{id}",
-"playlist_info":"//div[contains(@class, 'module-info-introduction-content')]",
+"playlist_info":"//div[contains(@class, 'myui-panel-box clearfix')]",
 "search_flag":false,
 "search_url_first_page":"",
 "search_url_other_page":"",
