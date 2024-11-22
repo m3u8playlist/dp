@@ -4,7 +4,7 @@
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"https://motv.app/",
-"open_with_safari_flag":true,
+"open_with_safari_flag":false,
 "category": [{
 			"title": "日本有码",
 			"url0": "https://motv.app/vodshow/20-----------/",
@@ -30,7 +30,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://motv.app{id}",
-"play_regex":"",
+"play_regex":"InVybCI6IihodHRwc1teIl0rKQ==",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
