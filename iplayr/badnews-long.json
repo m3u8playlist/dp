@@ -25,7 +25,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//a[@class='dateline']/@href",
 "vod_link_url":"https://bad.news{id}",
-"play_regex":"ZGF0YS1zb3VyY2U9IihbXiJdKzE2KSI=",
+"play_regex":"ZGF0YS1zb3VyY2U9IihbXiJdKz8pIg==",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
