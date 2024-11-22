@@ -3,7 +3,7 @@
 "title": "xgroovy",
 "episode_flag": false,
 "landscape_flag": true,
-  "open_with_safari_flag":true,
+  "open_with_safari_flag":false,
 "category": [
 {
 "title": "Newest",
@@ -40,7 +40,7 @@
 "vod_image_url": "{id}",
 "vod_link_id": "//a/@href",
 "vod_link_url": "{id}",
-"play_regex": "",
+"play_regex": "c3JjPSIoaHR0cHNbXiJdKzcyMHBcLm1wND8p",
 "play_url": "{id}",
 "playlist_flag": false,
 "playlist_group_node": "",
