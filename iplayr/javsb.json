@@ -4,7 +4,7 @@
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
-"open_with_safari_flag":true,
+"open_with_safari_flag":false,
 "category": [{
 			"title": "最近更新",
 			"url0": "https://jav.sb/label/rank/by/time.html",
@@ -51,7 +51,7 @@
 "vod_score":"//span[contains(@class, 'absolute')]",
 "vod_title":"//a[contains(@class, 'text-secondary')]",
 "vod_image_id":"//img/@data-src",
-"vod_image_regex":"",
+"vod_image_regex":"InVybCI6IihbXiJdK20zdTgp",
 "vod_image_url":"https://jav.sb{id}",
 "vod_link_id":"//a[contains(@class, 'text-secondary')]/@href",
 "vod_link_url":"https://jav.sb{id}",
