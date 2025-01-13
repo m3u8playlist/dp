@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://missav.sh/en/new-release",
-			"url1": "https://missav.sh/en/new-release?page={pg}"
+			"url0": "https://missav.sh/en/dm1/new-release",
+			"url1": "https://missav.sh/en/dm1/new-release?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
