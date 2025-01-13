@@ -6,7 +6,7 @@
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "最近更新",
+			"title": "New Release",
 			"url0": "https://missav.sh/en/dm1/new-release",
 			"url1": "https://missav.sh/en/dm1/new-release?page={pg}"
 		}
