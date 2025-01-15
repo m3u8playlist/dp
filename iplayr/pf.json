@@ -5,8 +5,8 @@
 "landscape_flag":true,
 "category": [{
 			"title": "首页",
-			"url0": "https://www.pornfind.org/find/%E6%8E%A2%E8%8A%B1",
-			"url1": "https://www.pornfind.org/find/%E6%8E%A2%E8%8A%B1?page={pg}"
+			"url0": "https://www.pornfind.cc/find/%E6%8E%A2%E8%8A%B1",
+			"url1": "https://www.pornfind.cc/find/%E6%8E%A2%E8%8A%B1?page={pg}"
 		}
 	],  
 "vod_node":"//div[contains(@id, 'videos')]//div[contains(@class, 'py-2')]",
@@ -27,8 +27,8 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://www.pornfind.org/search?q={wd}",
-"search_url_other_page":"https://www.pornfind.org/find/{wd}?page={pg}",
+"search_url_first_page":"https://www.pornfind.cc/search?q={wd}",
+"search_url_other_page":"https://www.pornfind.cc/find/{wd}?page={pg}",
 "search_vod_node":"//div[contains(@id, 'videos')]//div[contains(@class, 'py-2')]",
 "search_vod_title":"//h5/a",
 "search_vod_image_id":"//img/@data-src",
