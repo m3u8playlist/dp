@@ -11,14 +11,14 @@
 			"url1": "https://rou.video/v?order=createdAt&page={pg}"
 		}
 	],  
-"vod_node":"//*[@id='__next']//div[contains(@class, 'shadow')]",
-"vod_info":"//span[contains(@class, 'text-xs')]",
-"vod_score":"",
+"vod_node":"//*[@id='__next']//div[contains(@class, 'aspect-video')]",
+"vod_info":"//div[contains(@class, 'bottom-0')]",
+"vod_score":"//div[contains(@class, 'bottom-1')]",
 "vod_title":"//img/@alt",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//div[@class='relative']/a/@href",
+"vod_link_id":"//a/@href",
 "vod_link_url":"https://rou.video{id}",
 "play_regex":"",
 "play_url":"{id}",
@@ -31,11 +31,11 @@
 "search_flag":true,
 "search_url_first_page":"https://rou.video/search?q={wd}",
 "search_url_other_page":"https://rou.video/search?q={wd}&page={pg}",
-"search_vod_node":"//*[@id='__next']//div[contains(@class, 'shadow')]",
+"search_vod_node":"//*[@id='__next']//div[contains(@class, 'aspect-video')]",
 "search_vod_title":"//img/@alt",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"//div[@class='relative']/a/@href",
+"search_vod_link_id":"//a/@href",
 "search_vod_link_url":"https://rou.video{id}"
 }
