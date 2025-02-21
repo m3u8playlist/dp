@@ -9,11 +9,11 @@
 			"url1": "https://cn.pornhub.com/video?page={pg}"
 		}
 	],  
-"vod_node":"//ul[contains(@class, 'videoList')]//li",
+"vod_node":"//ul[contains(@id, 'videoCategory')]//li[contains(@class, 'pcVideoListItem')]",
 "vod_info":"",
 "vod_score":"//span[@class='time']",
 "vod_title":"//div[@class='title']/a",
-"vod_image_id":"//img/@data-path",
+"vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='title']/a/@href",
