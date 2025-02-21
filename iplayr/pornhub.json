@@ -3,7 +3,6 @@
 "title":"pornhub",
 "episode_flag":false,
 "landscape_flag":true,
-"open_with_safari_flag":true,
 "category": [{
 			"title": "首页",
 			"url0": "https://cn.pornhub.com/video?page=1",
@@ -19,7 +18,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='title']/a/@href",
 "vod_link_url":"https://cn.pornhub.com{id}",
-"play_regex":"",
+"play_regex":"dmlkZW9VcmwiOiIoW14iXSspIiwicXVhbGl0eSI6IjcyMCI=",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
