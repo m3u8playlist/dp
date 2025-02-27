@@ -20,7 +20,7 @@
 		"list_title": "//h2/a",
 		"list_image_id": "//picture/@data-orig-file",
 		"list_image_regex": "",
-		"list_image_url": "",
+		"list_image_url": "{id}",
 		"list_link_id": "//h2/a/@href",
 		"list_link_url": "{id}",
 		"chapter_node": "",
