@@ -3,37 +3,37 @@
 "title":"素白白",
 "episode_flag":true,
 "landscape_flag":false,
-"referer":"https://www.subaibaiys.com",
+"referer":"https://www.subaibai.com",
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
-			"url0": "https://www.subaibaiys.com/new-movie",
-			"url1": "https://www.subaibaiys.com/new-movie/page/{pg}"
+			"url0": "https://www.subaibai.com/new-movie",
+			"url1": "https://www.subaibai.com/new-movie/page/{pg}"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://www.subaibaiys.com/american-drama",
-			"url1": "https://www.subaibaiys.com/american-drama/page/{pg}"
+			"url0": "https://www.subaibai.com/american-drama",
+			"url1": "https://www.subaibai.com/american-drama/page/{pg}"
 		},
      {
 			"title": "国产剧",
-			"url0": "https://www.subaibaiys.com/domestic-drama",
-			"url1": "https://www.subaibaiys.com/domestic-drama/page/{pg}"
+			"url0": "https://www.subaibai.com/domestic-drama",
+			"url1": "https://www.subaibai.com/domestic-drama/page/{pg}"
 		},
                   {
 			"title": "韩剧",
-			"url0": "https://www.subaibaiys.com/korean-drama",
-			"url1": "https://www.subaibaiys.com/korean-drama/page/{pg}"
+			"url0": "https://www.subaibai.com/korean-drama",
+			"url1": "https://www.subaibai.com/korean-drama/page/{pg}"
 		},
                   {
 			"title": "动漫电影",
-			"url0": "https://www.subaibaiys.com/cartoon-movie",
-			"url1": "https://www.subaibaiys.com/cartoon-movie/page/{pg}"
+			"url0": "https://www.subaibai.com/cartoon-movie",
+			"url1": "https://www.subaibai.com/cartoon-movie/page/{pg}"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.subaibaiys.com/anime-drama",
-			"url1": "https://www.subaibaiys.com/anime-drama/page/{pg}"
+			"url0": "https://www.subaibai.com/anime-drama",
+			"url1": "https://www.subaibai.com/anime-drama/page/{pg}"
 		}
 	],    
 
