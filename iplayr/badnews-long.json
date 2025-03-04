@@ -16,7 +16,7 @@
 			"url1": "https://bad.news/tag/porn/sort-new/page-{pg}"
 		}
 	],  
-"vod_node":"//div[contains(@class, "show")]",
+"vod_node":"//div[contains(@class, 'show')]",
 "vod_info":"//time",
 "vod_score":"",
 "vod_title":"//h3//a",
