@@ -17,7 +17,7 @@
 "vod_title":"//span[contains(@class, 'video-title')]",
 "vod_image_id":"//img/@data-src",
 "vod_image_regex":"",
-"vod_image_url":"https://javdoe.sh{id}",
+"vod_image_url":"{id}",
 "vod_link_id":"//a[contains(@class, 'thumbnail')]/@href",
 "vod_link_url":"https://javdoe.sh{id}",
 "play_regex":"",
@@ -35,7 +35,7 @@
 "search_vod_title":"//span[contains(@class, 'video-title')]",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"https://javdoe.sh{id}",
+"search_vod_image_url":"{id}",
 "search_vod_link_id":"//a[contains(@class, 'thumbnail')]/@href",
 "search_vod_link_url":"https://javdoe.sh{id}"
 }
