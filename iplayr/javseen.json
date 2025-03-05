@@ -12,12 +12,12 @@
 		}
 	],    
 "vod_node":"//ul[@class='videos']//li",
-"vod_info":"//span[contains(@class, 'add-time')]",
+"vod_info":"//span[contains(@class, 'video-overlay badge')]",
 "vod_score":"",
-"vod_title":"//div[@class='video-title']",
+"vod_title":"//span[@class='video-title']",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
-"vod_image_url":"https://javseen.tv{id}",
+"vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://javseen.tv{id}",
 "play_regex":"",
@@ -32,10 +32,10 @@
 "search_url_first_page":"https://javseen.tv/search/video/?s={wd}",
 "search_url_other_page":"https://javseen.tv/search/video/?s={wd}&page={pg}",
 "search_vod_node":"//ul[@class='videos']//li",
-"search_vod_title":"//div[@class='video-title']",
+"search_vod_title":"//span[@class='video-title']",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"https://javseen.tv{id}",
+"search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
 "search_vod_link_url":"https://javseen.tv{id}"
 }
