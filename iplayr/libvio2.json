@@ -45,7 +45,7 @@
 "play_regex": "",
 "play_url": "{id}",
 "playlist_flag": true,
-"playlist_group_node": "//a[contains(@class, 'stui-content__playlist')]",
+"playlist_group_node": "//ul[contains(@class, 'stui-content__playlist')]",
 "playlist_title": "//li/a",
 "playlist_link_id": "//li/a/@href",
 "playlist_link_url": "https://www.libvio.site{id}",
