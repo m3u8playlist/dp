@@ -11,7 +11,7 @@
 		}
 	],  
 "vod_node":"//div[@class='entry']",
-"vod_info":"",
+"vod_info":"//div[@class='ct-time]",
 "vod_score":"",
 "vod_title":"//h3/a",
 "vod_image_id":"//img/@data-echo",
