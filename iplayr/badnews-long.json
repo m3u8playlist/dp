@@ -20,7 +20,7 @@
 "vod_info":"//label[@style='color:#989898;']",
 "vod_score":"",
 "vod_title":"//h3//a",
-"vod_image_id":"//img/@data-echo",
+"vod_image_id":"//video/@poster",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h3/a/@href",
