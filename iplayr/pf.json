@@ -20,7 +20,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//h5/a/@href",
 "vod_link_url":"{id}",
-"play_regex":"PGgzPjxpIGNsYXNzPSdmYSBmYS1leHRlcm5hbC1saW5rJz48L2k+IDxhIGhyZWY9IihbXiJdKyk=",
+"play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
