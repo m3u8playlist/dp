@@ -1,0 +1,52 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "4K-AV",
+"episode_flag": true,
+"landscape_flag": false,
+"referer": "",
+"open_with_safari_flag": false,
+"category": [
+{
+"title": "剧集",
+"url0": "https://4k-av.com/tv/",
+"url1": "https://4k-av.com/tv/page-{pg}.html"
+},
+{
+"title": "电影",
+"url0": "https://4k-av.com/movie/",
+"url1": "https://4k-av.com/movie/page-{pg}.html"
+},
+{
+"title": "AV",
+"url0": "https://4k-av.com/av/",
+"url1": "https://4k-av.com/av/page-{pg}.html"
+}
+],
+"vod_node": "//div[@id='MainContent_newestlist']//div[contains(@class, 'NTMitem')]",
+"vod_info": "//label[@title='年份']",
+"vod_score": "//label[@title='分辨率']",
+"vod_title": "//div[@class='title']/a",
+"vod_image_id": "//img/@src",
+"vod_image_regex": "",
+"vod_image_url": "{id}",
+"vod_link_id": "//div[@class='title']/a/@href",
+"vod_link_url": "https://4k-av.com{id}",
+"play_regex": "PHNvdXJjZSBzcmM9IihbXiJdKyk=",
+"play_url": "{id}",
+"playlist_flag": false,
+"playlist_group_node": "//ul[@id='rtlist']",
+"playlist_title": "//li/span[@class='stitle']",
+"playlist_link_id": "//li/img/@href",
+"playlist_link_url": "https://4k-av.com{id}",
+"playlist_info": "//span[contains(@class, 'sketch')]",
+"search_flag": true,
+"search_url_first_page": "https://4k-av.com/s?k={wd}",
+"search_url_other_page": "https://4k-av.com/s?k={wd}&page={pg}",
+"search_vod_node": "//div[@id='MainContent_newestlist']//div[@class='NTMitem Main']",
+"search_vod_title": "//div[@class='title']/a",
+"search_vod_image_id": "//img/@src",
+"search_vod_image_regex": "",
+"search_vod_image_url": "{id}",
+"search_vod_link_id": "//div[@class='title']/a/@href",
+"search_vod_link_url": "https://4k-av.com{id}"
+}
