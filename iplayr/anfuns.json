@@ -1,0 +1,58 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "anfuns",
+"episode_flag": true,
+"landscape_flag": false,
+"open_with_safari_flag": true,
+"category": [
+{
+"title": "新旧番剧",
+"url0": "https://www.anfuns.org/type/1.html",
+"url1": "https://www.anfuns.org/type/1-{pg}.html"
+},
+{
+"title": "蓝光无修",
+"url0": "https://www.anfuns.org/type/2.html",
+"url1": "https://www.anfuns.org/type/2-{pg}.html"
+},
+
+{
+"title": "动漫剧场",
+"url0": "https://www.anfuns.org/type/3.html",
+"url1": "https://www.anfuns.org/type/3-{pg}.html"
+},
+
+{
+"title": "欧美动漫",
+"url0": "https://www.anfuns.org/type/4.html",
+"url1": "https://www.anfuns.org/type/4-{pg}.html"
+}
+],
+"vod_node": "//ul[contains(@class, 'hl-vod-list')]//li",
+"vod_info": "//span[contains(@class, 'remarks')]",
+"vod_score": "//span[contains(@class, 'score')]",
+"vod_title": "//div[contains(@class, 'hl-item-title')]/a",
+"vod_image_id": "//a[contains(@class, 'hl-item-thumb')]/@data-original",
+"vod_image_regex": "",
+"vod_image_url": "{id}",
+"vod_link_id": "//div[contains(@class, 'hl-item-title')]/a/@href",
+"vod_link_url": "https://www.anfuns.org{id}",
+"play_regex": "",
+"play_url": "{id}",
+"playlist_flag": true,
+"playlist_group_node": "//ul[contains(@class, 'hl-plays-list')]",
+"playlist_title": "//li/a",
+"playlist_link_id": "//li/a/@href",
+"playlist_link_url": "https://www.anfuns.org{id}",
+"playlist_info": "//a[contains(@class, 'hl-data-menu')]",
+"search_flag": true,
+"search_url_first_page": "https://www.anfuns.org/search.html?wd={wd}&submit=",
+"search_url_other_page": "https://www.anfuns.org/search/page/{pg}/wd/{wd}.html",
+"search_vod_node": "//ul[contains(@class, 'hl-one-list')]//li",
+"search_vod_title": "//div[contains(@class, 'hl-item-title')]/a",
+"search_vod_image_id": "//a[contains(@class, 'hl-item-thumb')]/@data-original",
+"search_vod_image_regex": "",
+"search_vod_image_url": "{id}",
+"search_vod_link_id": "//div[contains(@class, 'hl-item-title')]/a/@href",
+"search_vod_link_url": "https://www.anfuns.org{id}"
+}
