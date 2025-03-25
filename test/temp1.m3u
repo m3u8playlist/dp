@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,dash
+https://gist.githubusercontent.com/m3u8playlist/83a81c3e893584c29bb9c541a95dd5a6/raw/b.mpd
 #EXTINF:-1 ,松视2欧美版
 http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 ,松视3欧美版
