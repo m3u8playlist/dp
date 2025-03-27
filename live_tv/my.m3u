@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo-620x360.png" ,NHK World
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+https://gist.githubusercontent.com/m3u8playlist/947d82deaee1a5b40b1f551c1eb2b7be/raw/c.mpd
 
 
 #EXTINF:-1 logo="http://www.astra2sat.com/wp-content/uploads/2016/09/Arirang-World.jpg" ,Arirang
