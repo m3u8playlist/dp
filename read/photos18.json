@@ -10,8 +10,8 @@
 "category": [
 {
 "title": "最新",
-"url0": "https://www.photos18.com",
-"url1": "https://www.photos18.com/?paged={pg}"
+"url0": "https://www.photos18.com/?page=1&per-page=100",
+"url1": "https://www.photos18.com/?page={pg}&per-page=100"
 }
 ],
 "parse": {
@@ -40,7 +40,7 @@
 "image_replace_flag": false,
 "image_replace_target": "",
 "image_replace_with": "",
-"post_images_node": "//[@id='content']",
-"post_images": "//a/@href"
+"post_images_node": "//div[@id='content']",
+"post_images": "//img/@src"
 }
 }
