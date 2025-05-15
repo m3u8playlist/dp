@@ -39,7 +39,7 @@
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//ul[@class='anthology-list-play']",
+"playlist_group_node":"//ul[contains(@class, 'anthology-list-play')]",
 "playlist_title":"//li/a",
 "playlist_link_id":"//li/a/@href",
 "playlist_link_url":"https://anime.girigirilove.com{id}",
