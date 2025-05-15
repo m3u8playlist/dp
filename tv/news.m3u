@@ -34,8 +34,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_hd.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/GB_News.jpg" group-title="us",GB News (1080P)
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Euronews.jpg" group-title="eu",Euronews English (720p)
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Euronews.jpg" group-title="fr",Euronews English (720p)
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/DW.jpg" group-title="de",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/France24.jpg" group-title="fr",France 24 ENG (720p)
@@ -58,7 +58,11 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://livetv-fa.tubi.video/scripps-news/playlist_4300k.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="us",NBC News NOW (1080P)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="us",ABC News Live (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="TopStoriesbyNewsy.us" tvg-name="Top Stories by Newsy" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="us",Top Stories by Newsy
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 tvg-id="NewsNet.us" tvg-name="NewsNet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="us",NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us" tvg-name="HollyWire" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="us",HollyWire
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="us",Cheddar News
+https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="de",NRWision
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/chunklist_w1502807230_b8513010.m3u8
