@@ -27,8 +27,8 @@
 		}
 	],  
 "vod_node":"//div[@class='post-list']//div[contains(@class, 'col-md-3')]",
-"vod_info":"//span[contains(@class, 'model-view')]",
-"vod_score":"//span[contains(@class, 'model-view-left')]",
+"vod_info":"//span[@class='model-view']",
+"vod_score":"//span[@class='model-view-left']",
 "vod_title":"//div[contains(@class, 'entry-title')]/a",
 "vod_image_id":"//img/@data-original",
 "vod_image_regex":"",
