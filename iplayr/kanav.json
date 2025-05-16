@@ -1,0 +1,56 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"kanav",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://rou.video/",
+"open_with_safari_flag":true,	
+"category": [{
+			"title": "中文字幕",
+			"url0": "https://kanav.info/index.php/vod/type/id/1.html",
+			"url1": "https://kanav.info/index.php/vod/type/id/1/page/{pg}.html"
+		},
+  {
+			"title": "日韩有码",
+			"url0": "https://kanav.info/index.php/vod/type/id/2.html",
+			"url1": "https://kanav.info/index.php/vod/type/id/2/page/{pg}.html"
+		},
+  {
+			"title": "日韩无码",
+			"url0": "https://kanav.info/index.php/vod/type/id/3.html",
+			"url1": "https://kanav.info/index.php/vod/type/id/3/page/{pg}.html"
+		},
+  {
+			"title": "国产AV",
+			"url0": "https://kanav.info/index.php/vod/type/id/4.html",
+			"url1": "https://kanav.info/index.php/vod/type/id/4/page/{pg}.html"
+		}
+	],  
+"vod_node":"//div[@class='post-list']//div[contains(@class, 'col-md-3')]",
+"vod_info":"//span[contains(@class, 'model-view')]",
+"vod_score":"//span[contains(@class, 'model-view-left')]",
+"vod_title":"//div[contains(@class, 'entry-title')]/a",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[contains(@class, 'entry-title')]/a/@href",
+"vod_link_url":"https://kanav.info{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://kanav.info/index.php/vod/search.html?wd={wd}&by=time_add",
+"search_url_other_page":"https://kanav.info/index.php/vod/search/by/time_add/page/{pg}/wd/{wd}.html",
+"search_vod_node":"//div[@class='post-list']//div[contains(@class, 'video-item')]",
+"search_vod_title":"//div[contains(@class, 'entry-title')]/a",
+"search_vod_image_id":"//img/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[contains(@class, 'entry-title')]/a/@href",
+"search_vod_link_url":"https://kanav.info{id}"
+}
