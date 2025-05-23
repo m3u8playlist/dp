@@ -3,7 +3,7 @@
 "title":"xvideos",
 "episode_flag":false,
 "landscape_flag":true,
-"yt_dlp":true,
+"yt_dlp":false,
 "category": [{
 			"title": "首页",
 			"url0": "https://www.xvideos.com/new/1",
@@ -19,7 +19,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//p[@class='title']/a/@href",
 "vod_link_url":"https://www.xvideos.com{id}",
-"play_regex":"",
+"play_regex":"aHRtbDVwbGF5ZXIuc2V0VmlkZW9ITFNcKCcoW14nXSsp",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
