@@ -3,6 +3,7 @@
 "title":"pornhub",
 "episode_flag":false,
 "landscape_flag":true,
+"referer":"https://cn.pornhub.com/",
 "category": [{
 			"title": "首页",
 			"url0": "https://cn.pornhub.com/video?page=1",
