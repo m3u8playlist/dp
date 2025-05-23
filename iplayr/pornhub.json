@@ -9,7 +9,7 @@
 			"url1": "https://cn.pornhub.com/video?page={pg}"
 		}
 	],  
-"vod_node":"//ul[contains(@class, 'browseVideo-tabSplit')]//li",
+"vod_node":"//li[@data-video-segment='straight']",
 "vod_info":"",
 "vod_score":"//span[@class='time']",
 "vod_title":"//div[@class='title']/a",
@@ -29,7 +29,7 @@
 "search_flag":true,
 "search_url_first_page":"https://cn.pornhub.com/video/search?search={wd}",
 "search_url_other_page":"https://cn.pornhub.com/video/search?search={wd}&page={pg}",
-"search_vod_node":"//ul[contains(@class, 'browseVideo-tabSplit')]//li",
+"search_vod_node":"//li[@data-video-segment='straight']",
 "search_vod_title":"//div[@class='title']/a",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
