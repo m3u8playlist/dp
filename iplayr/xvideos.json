@@ -19,7 +19,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//p[@class='title']/a/@href",
 "vod_link_url":"https://www.xvideos.com{id}",
-"play_regex":"aHRtbDVwbGF5ZXIuc2V0VmlkZW9ITFNcKCcoW14nXSsp",
+"play_regex":"c2V0VmlkZW9ITFNcKCcoW14nXSsp",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
