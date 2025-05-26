@@ -37,3 +37,10 @@ https://t.me/+Uo2xZNAl5lvKx98t
 
 ## IPTV
 - https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/tv/IPTV_Xplayr.m3u
+
+## 申请制作新站点json
+ 如果觉得有站点资源不错,自己又不会制作json,可以在issue提出申请制作新站点json,但是站点必须满足以下条件
+ - 自建资源,高清,无赌场水印
+ - 不能是集合其他采集站资源(比如黑木耳,红牛,量子,非凡等等,这些请直接添加采集站)的网站
+ - 网站没有cf盾,不需要真人验证
+ - 非js渲染成的页面
