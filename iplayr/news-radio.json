@@ -1,0 +1,32 @@
+{
+"uuid":"d802d274-199f-4a38-9b7b-66f43ef4d09e",
+"title":"News",
+"data": [
+  {"name":"CNA938",
+   "logo":"https://playpoint.asia/wp-content/uploads/CNA-Money-Mind-logo-Smaller-feature.jpg",
+   "url":"https://14033.live.streamtheworld.com/938NOW_PREM.aac",
+   "group":"News"
+  },
+  {"name":"BBC World Service",
+   "logo":"https://play-lh.googleusercontent.com/pbYT0Rn-mvwgwu5gkhcxvOjrm3Vyyypk8izmNVGn3SmEHp3aRi1Mze5ok89ttx8A1Q=w480-h960",
+   "url":"https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+   "group":"News"
+  },
+  {"name":"ABC Newsradio",
+   "logo":"https://cdn-profiles.tunein.com/s150918/images/logod.jpg",
+   "url":"https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8",
+   "group":"News"
+  },
+ 
+    {"name":"NPR radio",
+   "logo":"https://jedfoundation.org/wp-content/uploads/2021/11/NPR_Sticker.png",
+   "url":"https://npr-ice.streamguys1.com/live.mp3",
+   "group":"News"
+  },
+    {"name":"UFM100.3",
+   "logo":"http://radiosg.com/images/stations/1713920506.webp",
+   "url":"https://28093.live.streamtheworld.com:443/UFM_1003AAC.aac",
+   "group":"Music"
+  }
+ 
+  ]}
