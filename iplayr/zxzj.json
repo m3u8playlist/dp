@@ -7,35 +7,35 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
-			"url0": "https://www.zxzja.com/list/1.html",
-			"url1": "https://www.zxzja.com/vodshow/1--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/1.html",
+			"url1": "https://www.zxzjhd.com/vodshow/1--------{pg}---.html"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://www.zxzja.com/list/2.html",
-			"url1": "https://www.zxzja.com/vodshow/2--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/2.html",
+			"url1": "https://www.zxzjhd.com/vodshow/2--------{pg}---.html"
 		},
 
                   {
 			"title": "韩剧",
-			"url0": "https://www.zxzja.com/list/3.html",
-			"url1": "https://www.zxzja.com/vodshow/3--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/3.html",
+			"url1": "https://www.zxzjhd.com/vodshow/3--------{pg}---.html"
 		},
                   {
 			"title": "日剧",
-			"url0": "https://www.zxzja.com/list/4.html",
-			"url1": "https://www.zxzja.com/vodshow/4--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/4.html",
+			"url1": "https://www.zxzjhd.com/vodshow/4--------{pg}---.html"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.zxzja.com/list/6.html",
-			"url1": "https://www.zxzja.com/vodshow/6--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/6.html",
+			"url1": "https://www.zxzjhd.com/vodshow/6--------{pg}---.html"
 		},
 
                  {
 			"title": "泰剧",
-			"url0": "https://www.zxzja.com/list/5.html",
-			"url1": "https://www.zxzja.com/list/vodshow/5--------{pg}---.html"
+			"url0": "https://www.zxzjhd.com/list/5.html",
+			"url1": "https://www.zxzjhd.com/list/vodshow/5--------{pg}---.html"
 		}
 	],    
 
@@ -47,14 +47,14 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h4/a/@href",
-"vod_link_url":"https://www.zxzja.com{id}",
+"vod_link_url":"https://www.zxzjhd.com{id}",
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
 "playlist_group_node":"//ul[contains(@class, 'stui-content__playlist')]",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://www.zxzja.com{id}",
+"playlist_link_url":"https://www.zxzjhd.com{id}",
 "playlist_info":"//div[@class='stui-content__detail']",
 "search_flag":false,
 "search_url_first_page":"",
