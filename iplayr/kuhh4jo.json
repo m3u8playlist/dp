@@ -28,7 +28,7 @@
 "url1": "https://www.kuhh4jo.com/vod/show/id/4/sortType/1/page/{pg}"
 }
 ],
-"vod_node": "//div[@class='movie-ul']//div[@class='content-card']",
+"vod_node": "//div[@class='sc-iLcQFX kIxBaS']",
 "vod_info": "",
 "vod_score": "//div[contains(@class, 'score')]",
 "vod_title": "//div[@class='title']",
