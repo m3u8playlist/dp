@@ -32,7 +32,7 @@ https://t.me/+Uo2xZNAl5lvKx98t
 - https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnewav.json
 
 ##  其他较优质资源
-  黑木耳,ikun,量子,非凡,牛牛
+  ikun,量子,非凡,牛牛
 
 ## IPTV
 - https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/tv/IPTV_Xplayr.m3u
