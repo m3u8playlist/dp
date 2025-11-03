@@ -31,7 +31,7 @@
 "vod_image_url": "{id}",
 "vod_link_id": "//a/@href",
 "vod_link_url": "https://www.hanjukankan.com{id}",
-"play_regex": "InVybCI6IihbXiJdKyk=",
+"play_regex": "InVybCI6IihodHRwW14iXSsp",
 "play_url": "{id}",
 "playlist_flag": true,
 "playlist_group_node": "//div[contains(@class, 'module-play-list-content')]",
