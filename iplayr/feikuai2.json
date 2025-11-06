@@ -12,18 +12,18 @@
 		},
 		{
 			"title": "剧集",
-			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
-			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+			"url0": "https://feikuai.tv/vodshow/2--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/2--time------{pg}---.html"
 		},
 			{
 			"title": "综艺",
-			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
-			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+			"url0": "https://feikuai.tv/vodshow/3--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/3--time------{pg}---.html"
 		},
      {
 			"title": "动漫",
-			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
-			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+			"url0": "https://feikuai.tv/vodshow/4--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/4--time------{pg}---.html"
 		}
 	],    
 
@@ -49,7 +49,7 @@
 "search_url_other_page":"https://feikuai.tv/vodsearch/{wd}----------{pg}---.html",
 "search_vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-card-item')]",
 "search_vod_title":"//div[@class='module-card-item-title']//a",
-"search_vod_image_id":"//img/@src",
+"search_vod_image_id":"//img/@data-original",
 "search_vod_image_regex":"",
 "search_vod_image_url":"https://feikuai.tv{id}",
 "search_vod_link_id":"//div[@class='module-card-item-title']//a/@href",
