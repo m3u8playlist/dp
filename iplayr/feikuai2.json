@@ -1,0 +1,57 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"飞快",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+		},
+		{
+			"title": "剧集",
+			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+		},
+			{
+			"title": "综艺",
+			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+		},
+     {
+			"title": "动漫",
+			"url0": "https://feikuai.tv/vodshow/1--time---------.html",
+			"url1": "https://feikuai.tv/vodshow/1--time------{pg}---.html"
+		}
+	],    
+
+"vod_node":"//div[contains(@class, 'module-items')]//a",
+"vod_info":"//div[@class='jidi']/span",
+"vod_score":"//div[@class='rating']",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"https://feikuai.tv{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://feikuai.tv{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='module-play-list']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://feikuai.tv{id}",
+"playlist_info":"//div[@class='module-info-introduction-content']//p",
+"search_flag":true,
+"search_url_first_page":"https://feikuai.tv/vodsearch/-------------.html?wd={wd}",
+"search_url_other_page":"https://feikuai.tv/vodsearch/{wd}----------{pg}---.html",
+"search_vod_node":"//div[contains(@class, 'module-items')]//div[contains(@class, 'module-card-item')]",
+"search_vod_title":"//div[@class='module-card-item-title']//a",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"https://feikuai.tv{id}",
+"search_vod_link_id":"//div[@class='module-card-item-title']//a/@href",
+"search_vod_link_url":"https://feikuai.tv{id}"
+}
