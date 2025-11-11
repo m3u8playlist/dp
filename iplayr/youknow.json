@@ -47,7 +47,7 @@
 "search_flag": true,
 "search_url_first_page": "https://www.youknow.tv/vodsearch/-------------/?wd={wd}",
 "search_url_other_page": "https://www.youknow.tv/vodsearch/{wd}----------{pg}---/",
-"search_vod_node": "//div[contains(@class, 'module-card-item')]",
+"search_vod_node": "//div[@class='module-card-item module-item']",
 "search_vod_title": "//div[@class='module-card-item-title']/a",
 "search_vod_image_id": "//img/@data-original",
 "search_vod_image_regex": "",
