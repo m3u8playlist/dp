@@ -1,0 +1,57 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "youknow.tv",
+"episode_flag": true,
+"landscape_flag": false,
+"referer": "",
+"open_with_safari_flag": true,
+"category": [
+{
+"title": "剧集",
+"url0": "https://www.youknow.tv/vodshow/1-----------/",
+"url1": "https://www.youknow.tv/vodshow/1--------{pg}---/"
+},
+{
+"title": "电影",
+"url0": "https://www.youknow.tv/vodshow/2-----------/",
+"url1": "https://www.youknow.tv/vodshow/2--------{pg}---/"
+},
+{
+"title": "综艺",
+"url0": "https://www.youknow.tv/vodshow/3-----------/",
+"url1": "https://www.youknow.tv/vodshow/3--------{pg}---/"
+},
+{
+"title": "动漫",
+"url0": "https://www.youknow.tv/vodshow/4-----------/",
+"url1": "https://www.youknow.tv/vodshow/4--------{pg}---/"
+}
+],
+"vod_node": "//a[contains(@class, 'module-poster-item')]",
+"vod_info": "//div[@class='module-item-note']",
+"vod_score": "",
+"vod_title": "//div[@class='module-poster-item-title']",
+"vod_image_id": "//img/@data-original",
+"vod_image_regex": "",
+"vod_image_url": "https://www.youknow.tv{id}",
+"vod_link_id": "//a/@href",
+"vod_link_url": "https://www.youknow.tv{id}",
+"play_regex": "",
+"play_url": "{id}",
+"playlist_flag": true,
+"playlist_group_node": "//div[contains(@class, 'module-play-list')]",
+"playlist_title": "//a",
+"playlist_link_id": "//a/@href",
+"playlist_link_url": "https://www.youknow.tv{id}",
+"playlist_info": "//div[contains(@class, 'module-info-introduction')]",
+"search_flag": true,
+"search_url_first_page": "https://www.youknow.tv/vodsearch/-------------/?wd={wd}",
+"search_url_other_page": "https://www.youknow.tv/vodsearch/{wd}----------{pg}---/",
+"search_vod_node": "//div[contains(@class, 'module-card-item')]",
+"search_vod_title": "//div[@class='module-card-item-title']/a",
+"search_vod_image_id": "//img/@data-original",
+"search_vod_image_regex": "",
+"search_vod_image_url": "https://www.youknow.tv{id}",
+"search_vod_link_id": "//div[@class='module-card-item-title']/a/@href",
+"search_vod_link_url": "https://www.youknow.tv{id}"
+}
