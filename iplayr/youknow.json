@@ -8,23 +8,23 @@
 "category": [
 {
 "title": "剧集",
-"url0": "https://www.youknow.tv/vodshow/1-----------/",
-"url1": "https://www.youknow.tv/vodshow/1--------{pg}---/"
+"url0": "https://www.youknow.tv/show/1-----------/",
+"url1": "https://www.youknow.tv/show/1--------{pg}---/"
 },
 {
 "title": "电影",
-"url0": "https://www.youknow.tv/vodshow/2-----------/",
-"url1": "https://www.youknow.tv/vodshow/2--------{pg}---/"
+"url0": "https://www.youknow.tv/show/2-----------/",
+"url1": "https://www.youknow.tv/show/2--------{pg}---/"
 },
 {
 "title": "综艺",
-"url0": "https://www.youknow.tv/vodshow/3-----------/",
-"url1": "https://www.youknow.tv/vodshow/3--------{pg}---/"
+"url0": "https://www.youknow.tv/show/3-----------/",
+"url1": "https://www.youknow.tv/show/3--------{pg}---/"
 },
 {
 "title": "动漫",
-"url0": "https://www.youknow.tv/vodshow/4-----------/",
-"url1": "https://www.youknow.tv/vodshow/4--------{pg}---/"
+"url0": "https://www.youknow.tv/show/4-----------/",
+"url1": "https://www.youknow.tv/show/4--------{pg}---/"
 }
 ],
 "vod_node": "//a[contains(@class, 'module-poster-item')]",
