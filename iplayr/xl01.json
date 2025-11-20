@@ -1,0 +1,47 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"修罗影视",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "剧集",
+			"url0": "https://xl01.com.de/s/all?type=1",
+			"url1": "https://xl01.com.de/s/all/{pg}?type=1"
+		},
+		{
+			"title": "电影",
+			"url0": "https://xl01.com.de/s/all?type=0",
+			"url1": "https://xl01.com.de/s/all/{pg}?type=0"
+		}
+	],    
+
+"vod_node":"//div[@class='card-body']//div[contains(@class, 'card')]",
+"vod_info":"",
+"vod_score":"//strong[@class='ribbon ribbon-top p-0']",
+"vod_title":"//h3",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://xl01.com.de{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@id='play-list']//div[@class='d-flex']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://xl01.com.de{id}",
+"playlist_info":"//div[@class='col mb-2']",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}
