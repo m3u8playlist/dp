@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://taisinba.com/cn/news",
-			"url1": "https://taisinba.com/cn/news?page={pg}"
+			"url0": "https://thaiav.com/cn/news",
+			"url1": "https://thaiav.com/cn/news?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'videos-lists')]//div[@data-date='no']",
@@ -19,7 +19,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://taisinba.com{id}",
+"vod_link_url":"https://thaiav.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
