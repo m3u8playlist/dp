@@ -8,18 +8,18 @@
 "category": [
 {
 "title": "剧集",
-"url0": "https://www.hanjukankan.com/xvs1xatxbtxctxdtxetxftxgtxhtatbtct.html",
-"url1": "https://www.hanjukankan.com/xvs1xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
+"url0": "http://www.hanjukankan.com/xvs1xatxbtxctxdtxetxftxgtxhtatbtct.html",
+"url1": "http://www.hanjukankan.com/xvs1xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
 },
 {
 "title": "电影",
-"url0": "https://www.hanjukankan.com/xvs2xatxbtxctxdtxetxftxgtxhtatbtct.html",
-"url1": "https://www.hanjukankan.com/xvs2xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
+"url0": "http://www.hanjukankan.com/xvs2xatxbtxctxdtxetxftxgtxhtatbtct.html",
+"url1": "http://www.hanjukankan.com/xvs2xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
 },
 {
 "title": "综艺",
-"url0": "https://www.hanjukankan.com/xvs3xatxbtxctxdtxetxftxgtxhtatbtct.html",
-"url1": "https://www.hanjukankan.com/xvs3xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
+"url0": "http://www.hanjukankan.com/xvs3xatxbtxctxdtxetxftxgtxhtatbtct.html",
+"url1": "http://www.hanjukankan.com/xvs3xatxbtxctxdtxetxftxgtxht{pg}atbtct.html"
 }
 ],
 "vod_node": "//div[contains(@class, 'module-items')]/a",
@@ -30,23 +30,23 @@
 "vod_image_regex": "",
 "vod_image_url": "{id}",
 "vod_link_id": "//a/@href",
-"vod_link_url": "https://www.hanjukankan.com{id}",
+"vod_link_url": "http://www.hanjukankan.com{id}",
 "play_regex": "InVybCI6IihodHRwW14iXSsp",
 "play_url": "{id}",
 "playlist_flag": true,
 "playlist_group_node": "//div[contains(@class, 'module-play-list-content')]",
 "playlist_title": "//a",
 "playlist_link_id": "//a/@href",
-"playlist_link_url": "https://www.hanjukankan.com{id}",
+"playlist_link_url": "http://www.hanjukankan.com{id}",
 "playlist_info": "//div[contains(@class, 'module-info-introduction-content')]",
 "search_flag": true,
-"search_url_first_page": "https://www.hanjukankan.com/xvseabcdefghigklm.html?wd={wd}",
-"search_url_other_page": "https://www.hanjukankan.com/xvse{wd}abcdefghig{pg}klm.html",
+"search_url_first_page": "http://www.hanjukankan.com/xvseabcdefghigklm.html?wd={wd}",
+"search_url_other_page": "http://www.hanjukankan.com/xvse{wd}abcdefghig{pg}klm.html",
 "search_vod_node": "//div[contains(@class, 'module-items')]//div[contains(@class, 'module-item')]",
 "search_vod_title": "//div[@class='module-card-item-title']/a",
 "search_vod_image_id": "//img/@data-original",
 "search_vod_image_regex": "",
 "search_vod_image_url": "{id}",
 "search_vod_link_id": "//div[@class='module-card-item-title']/a/@href",
-"search_vod_link_url": "https://www.hanjukankan.comid}"
+"search_vod_link_url": "http://www.hanjukankan.comid}"
 }
