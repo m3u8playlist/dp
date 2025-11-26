@@ -1,6 +1,6 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"missav.com",
+"title":"missav",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
@@ -14,6 +14,31 @@
 			"title": "新作上市",
 			"url0": "https://missav.ws/dm590/release",
 			"url1": "https://missav.ws/dm590/release?page={pg}"
+		},
+	{
+			"title": "中文字幕",
+			"url0": "https://missav.ws/dm265/chinese-subtitle",
+			"url1": "https://missav.ws/dm265/chinese-subtitle?page={pg}"
+		},
+	{
+			"title": "麻豆",
+			"url0": "https://missav.ws/dm35/madou",
+			"url1": "https://missav.ws/dm35/madou?page={pg}"
+		},
+		{
+			"title": "无码流出",
+			"url0": "https://missav.ws/dm628/uncensored-leak",
+			"url1": "https://missav.ws/dm628/uncensored-leak?page={pg}"
+		},
+		{
+			"title": "fc2",
+			"url0": "https://missav.ws/dm150/fc2",
+			"url1": "https://missav.ws/dm150/fc2?page={pg}"
+		},
+		{
+			"title": "luxu",
+			"url0": "https://missav.ws/dm21/luxu",
+			"url1": "https://missav.ws/dm21/luxu?page={pg}"
 		}
 	],    
 "vod_node":"//div[@class='thumbnail group']",
