@@ -4,13 +4,14 @@
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"https://cn.pornhub.com/",
+	"open_with_safari_flag":true,
 "category": [{
 			"title": "首页",
 			"url0": "https://cn.pornhub.com/video?page=1",
 			"url1": "https://cn.pornhub.com/video?page={pg}"
 		}
 	],  
-"vod_node":"//li[@data-video-segment='straight']",
+"vod_node":"//li[@data-segment='straight']",
 "vod_info":"",
 "vod_score":"//span[@class='time']",
 "vod_title":"//div[@class='title']/a",
@@ -30,7 +31,7 @@
 "search_flag":true,
 "search_url_first_page":"https://cn.pornhub.com/video/search?search={wd}",
 "search_url_other_page":"https://cn.pornhub.com/video/search?search={wd}&page={pg}",
-"search_vod_node":"//li[@data-video-segment='straight']",
+"search_vod_node":"//li[@data-segment='straight']",
 "search_vod_title":"//div[@class='title']/a",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
