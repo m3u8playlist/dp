@@ -7,8 +7,13 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://missav.com/dm428/new",
-			"url1": "https://missav.com/dm428/new?page={pg}"
+			"url0": "https://missav.ws/dm515/new",
+			"url1": "https://missav.ws/dm515/new?page={pg}"
+		},
+	{
+			"title": "新作上市",
+			"url0": "https://missav.ws/dm590/release",
+			"url1": "https://missav.ws/dm590/release?page={pg}"
 		}
 	],    
 "vod_node":"//div[@class='thumbnail group']",
@@ -29,8 +34,8 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://missav.com/search?keyword={wd}",
-"search_url_other_page":"https://missav.com/search?keyword={wd}&page={pg}",
+"search_url_first_page":"https://missav.ws/search?keyword={wd}",
+"search_url_other_page":"https://missav.ws/search?keyword={wd}&page={pg}",
 "search_vod_node":"//div[@class='thumbnail group']",
 "search_vod_title":"//a[contains(@class, 'text-secondary')]",
 "search_vod_image_id":"//img/@data-src",
