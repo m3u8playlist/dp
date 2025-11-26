@@ -14,7 +14,7 @@
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[@class='two-lines']//a[@class='visited']",
-"vod_image_id":"//img/@data-src",
+"vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='two-lines']//a[@class='visited']/@href",
