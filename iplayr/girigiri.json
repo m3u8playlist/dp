@@ -3,28 +3,28 @@
 "title":"girigiri愛動漫",
 "episode_flag":true,
 "landscape_flag":false,
-"referer":"https://anime.girigirilove.com/",
+"referer":"https://bgm.girigirilove.com/",
 "enable_cache_flag":false,
 "open_with_safari_flag":true,
   "category": [{
 			"title": "日番",
-			"url0": "https://anime.girigirilove.com/show/2-----------/",
-			"url1": "https://anime.girigirilove.com/show/2--------{pg}---/"
+			"url0": "https://bgm.girigirilove.com/show/2-----------/",
+			"url1": "https://bgm.girigirilove.com/show/2--------{pg}---/"
 		},
                {
 			"title": "美番",
-			"url0": "https://anime.girigirilove.com/show/3-----------/",
-			"url1": "https://anime.girigirilove.com/show/3--------{pg}---/"
+			"url0": "https://bgm.girigirilove.com/show/3-----------/",
+			"url1": "https://bgm.girigirilove.com/show/3--------{pg}---/"
 		},
                {
 			"title": "剧场版",
-			"url0": "https://anime.girigirilove.com/show/21-----------/",
-			"url1": "https://anime.girigirilove.com/show/21--------{pg}---/"
+			"url0": "https://bgm.girigirilove.com/show/21-----------/",
+			"url1": "https://bgm.girigirilove.com/show/21--------{pg}---/"
 		},
                {
 			"title": "真人番剧",
-			"url0": "https://anime.girigirilove.com/show/20-----------/",
-			"url1": "https://anime.girigirilove.com/show/20--------{pg}---/"
+			"url0": "https://bgm.girigirilove.com/show/20-----------/",
+			"url1": "https://bgm.girigirilove.com/show/20--------{pg}---/"
 		}
 ],
 "vod_node":"//div[contains(@class, 'public-list-box')]",
@@ -35,23 +35,23 @@
 "vod_image_regex":"",
 "vod_image_url":"https://anime.girigirilove.com{id}",
 "vod_link_id":"//div[@class='public-list-button']//a/@href",
-"vod_link_url":"https://anime.girigirilove.com{id}",
+"vod_link_url":"https://bgm.girigirilove.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//ul[contains(@class, 'anthology-list-play')]",
 "playlist_title":"//li/a",
 "playlist_link_id":"//li/a/@href",
-"playlist_link_url":"https://anime.girigirilove.com{id}",
+"playlist_link_url":"https://bgm.girigirilove.com{id}",
 "playlist_info":"//div[contains(@id, 'height_limit')]",
 "search_flag":true,
-"search_url_first_page":"https://anime.girigirilove.com/search/-------------/?wd={wd}",
-"search_url_other_page":"https://anime.girigirilove.com/search/{wd}----------{pg}---/",
+"search_url_first_page":"https://bgm.girigirilove.com/search/-------------/?wd={wd}",
+"search_url_other_page":"https://bgm.girigirilove.com/search/{wd}----------{pg}---/",
 "search_vod_node":"//div[contains(@class, 'public-list-box')]",
 "search_vod_title":"//div[contains(@class, 'thumb-txt')]",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"https://anime.girigirilove.com{id}",
+"search_vod_image_url":"https://bgm.girigirilove.com{id}",
 "search_vod_link_id":"//a[@class='public-list-exp']/@href",
-"search_vod_link_url":"https://anime.girigirilove.com{id}"
+"search_vod_link_url":"https://bgm.girigirilove.com{id}"
 }
