@@ -31,7 +31,7 @@
 "url1": "https://cn.xgroovy.com/categories/creampie/{pg}/"
 }
 ],
-"vod_node": "//div[@class='list-videos']//div[@class='item  ']",
+"vod_node": "//div[@class='list-videos']//div[@class='item   ']",
 "vod_info": "//div[@class='views']",
 "vod_score": "//div[contains(@class, 'duration')]",
 "vod_title": "//strong[@class='title']",
@@ -51,7 +51,7 @@
 "search_flag": true,
 "search_url_first_page": "https://cn.xgroovy.com/search/{wd}/",
 "search_url_other_page": "https://cn.xgroovy.com/search/{wd}/{pg}/",
-"search_vod_node": "//div[@class='list-videos']//div[@class='item  ']",
+"search_vod_node": "//div[@class='list-videos']//div[@class='item   ']",
 "search_vod_title": "//strong[@class='title']",
 "search_vod_image_id": "//img/@src",
 "search_vod_image_regex": "",
