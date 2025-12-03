@@ -1,0 +1,47 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"风铃动漫",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"enable_cache_flag":false,
+"open_with_safari_flag":true,
+  "category": [{
+			"title": "番剧",
+			"url0": "https://www.aafun.cc/feng-f/0CCCCS.html",
+			"url1": "https://www.aafun.cc/feng-f/0CCCCS-{pg}.html"
+		},
+               {
+			"title": "剧场",
+			"url0": "https://www.aafun.cc/feng-f/HCCCCS.html",
+			"url1": "https://www.aafun.cc/feng-f/HCCCCS-{pg}.html"
+		}
+],
+"vod_node":"//ul[contains(@class, 'hl-vod-list')]//li",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='hl-item-text']//a",
+"vod_image_id":"",
+"vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgiKFteIl0rKQ==",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='hl-item-text']//a/@href",
+"vod_link_url":"https://www.aafun.cc{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'hl-plays-list')]",
+"playlist_title":"//li/a",
+"playlist_link_id":"//li/a/@href",
+"playlist_link_url":"https://www.aafun.cc{id}",
+"playlist_info":"//span[@class='hl-content-text']",
+"search_flag":true,
+"search_url_first_page":"https://www.aafun.cc/feng-s.html?wd={wd}&submit=",
+"search_url_other_page":"https://www.aafun.cc/feng-s/page/{pg}/wd/{wd}.html",
+"search_vod_node":"//ul[contains(@class, 'hl-one-list')]//li",
+"search_vod_title":"//div[contains(@class, 'hl-item-title')]//a",
+"search_vod_image_id":"",
+"search_vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgiKFteIl0rKQ==",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[contains(@class, 'hl-item-title')]//a/@href",
+"search_vod_link_url":"https://www.aafun.cc{id}"
+}
