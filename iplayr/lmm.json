@@ -22,7 +22,7 @@
 			"url1": "https://www.lmm58.com/type/dianying_{pg}.html"
 		}
 ],
-"vod_node":"//dic[@id='mdym']//div[contains(@class, 'video-img-box')]",
+"vod_node":"//div[@id='mdym']//div[contains(@class, 'video-img-box')]",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//h6//a",
