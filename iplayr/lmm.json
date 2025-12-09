@@ -8,18 +8,18 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "最近更新",
-			"url0": "https://www.lmm58.com/label/new.html",
-			"url1": "https://www.lmm58.com/label/new/page/{pg}.html"
+			"url0": "https://www.lmm50.com/label/new.html",
+			"url1": "https://www.lmm50.com/label/new/page/{pg}.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://www.lmm58.com/type/dongman.html",
-			"url1": "https://www.lmm58.com/type/dongman_{pg}.html"
+			"url0": "https://www.lmm50.com/type/dongman.html",
+			"url1": "https://www.lmm50.com/type/dongman_{pg}.html"
 		},
     {
 			"title": "电影",
-			"url0": "https://www.lmm58.com/type/dianying.html",
-			"url1": "https://www.lmm58.com/type/dianying_{pg}.html"
+			"url0": "https://www.lmm50.com/type/dianying.html",
+			"url1": "https://www.lmm50.com/type/dianying_{pg}.html"
 		}
 ],
 "vod_node":"//div[@id='mdym']//div[contains(@class, 'video-img-box')]",
@@ -30,14 +30,14 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h6//a/@href",
-"vod_link_url":"https://www.lmm58.com{id}",
+"vod_link_url":"https://www.lmm50.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='scroll-content']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://www.lmm58.com{id}",
+"playlist_link_url":"https://www.lmm50.com{id}",
 "playlist_info":"//div[@class='video-info-item video-info-content']",
 "search_flag":false,
 "search_url_first_page":"",
