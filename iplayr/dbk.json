@@ -27,7 +27,7 @@
 			"url1": "https://www.dbku.tv/vodshow/4--------{pg}---.html"
 		}
 ],
-"vod_node":"//div[contains(@class, 'myui-vodlist')]//li",
+"vod_node":"//ul[@class='myui-vodlist clearfix']//li",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//h4//a",
