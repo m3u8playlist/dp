@@ -43,7 +43,7 @@
 "playlist_title":"//li//a",
 "playlist_link_id":"//li//a/@href",
 "playlist_link_url":"https://www.dbku.tv{id}",
-"playlist_info":"//span[@class='text-muted']",
+"playlist_info":"//p[@class='data hidden-xs']",
 "search_flag":true,
 "search_url_first_page":"https://www.dbku.tv/vodsearch/-------------.html?wd={wd}",
 "search_url_other_page":"",
