@@ -1,0 +1,57 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"javhdz.hot",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [
+	{
+			"title": "trending",
+			"url0": "https://javhdz.hot/trending/",
+			"url1": "https://javhdz.hot/trending/page/{pg}/"
+		},
+  	{
+			"title": "censored",
+			"url0": "https://javhdz.hot/category/censored-2/",
+			"url1": "https://javhdz.hot/category/censored-2/page/{pg}/"
+		},
+  	{
+			"title": "uncensored",
+			"url0": "https://javhdz.hot/category/uncensored-3/",
+			"url1": "https://javhdz.hot/category/uncensored-3/page/{pg}/"
+		},
+  	{
+			"title": "beauty",
+			"url0": "https://javhdz.hot/category/beauty-4/",
+			"url1": "https://javhdz.hot/category/beauty-4/page/{pg}/"
+		}
+	],    
+"vod_node":"//ul[@id='movie-last-movie']//li",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='movie-title-1']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"https://javhdz.hot{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://javhdz.hot{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://javhdz.hot/search/{wd}/",
+"search_url_other_page":"https://javhdz.hot/search/{wd}/page/{pg}/",
+"search_vod_node":"//ul[@id='movie-last-movie']",
+"search_vod_title":"//li//div[@class='movie-title-1']",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"https://javhdz.hot{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://javhdz.hot{id}"
+}
