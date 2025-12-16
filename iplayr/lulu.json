@@ -17,7 +17,7 @@
 "vod_title":"//div[@class='two-lines']//a[@class='visited']",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
-"vod_image_url":"{id}",
+"vod_image_url":"https://www.pornlulu.com{id}",
 "vod_link_id":"//div[@class='two-lines']//a[@class='visited']/@href",
 "vod_link_regex":"",
 "vod_link_url":"https://www.pornlulu.com{id}",
