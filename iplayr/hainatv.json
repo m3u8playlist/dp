@@ -7,11 +7,6 @@
 "open_with_safari_flag":true,
 "category": [
 {
-"title": "电影",
-"url0": "https://www.hainatv.net/index.php/vod/show/id/1.html",
-"url1": "https://www.hainatv.net/index.php/vod/show/id/1/page/{pg}.html"
-},
-{
 "title": "剧集",
 "url0": "https://www.hainatv.net/index.php/vod/show/id/2.html",
 "url1": "https://www.hainatv.net/index.php/vod/show/id/2/page/{pg}.html"
