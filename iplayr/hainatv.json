@@ -8,18 +8,18 @@
 "category": [
 {
 "title": "剧集",
-"url0": "https://www.hainatv.net/index.php/vod/show/id/2.html",
-"url1": "https://www.hainatv.net/index.php/vod/show/id/2/page/{pg}.html"
+"url0": "https://www.hainatv.net/index.php/vod/type/id/2.html",
+"url1": "https://www.hainatv.net/index.php/vod/type/id/2/page/{pg}.html"
 },
 {
 "title": "动漫",
-"url0": "https://www.hainatv.net/index.php/vod/show/id/4.html",
-"url1": "https://www.hainatv.net/index.php/vod/show/id/4/page/{pg}.html"
+"url0": "https://www.hainatv.net/index.php/vod/type/id/4.html",
+"url1": "https://www.hainatv.net/index.php/vod/type/id/4/page/{pg}.html"
 },
 {
 "title": "综艺",
-"url0": "https://www.hainatv.net/index.php/vod/show/id/3.html",
-"url1": "https://www.hainatv.net/index.php/vod/show/id/3/page/{pg}.html"
+"url0": "https://www.hainatv.net/index.php/vod/type/id/3.html",
+"url1": "https://www.hainatv.net/index.php/vod/type/id/3/page/{pg}.html"
 }
 ],
 "vod_node": "//ul[contains(@class, 'hl-vod-list')]//li",
