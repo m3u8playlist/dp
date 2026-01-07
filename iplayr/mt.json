@@ -1,0 +1,58 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"麦田",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"https://www.mtyy5.com",
+"use-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+"enable_cache_flag":false,
+"open_with_safari_flag":true,
+  "category": [{
+			"title": "电影",
+			"url0": "https://www.mtyy5.com/vodshow/1--hits_week---------.html",
+			"url1": "https://www.mtyy5.com/vodshow/1--hits_week------{pg}---.html"
+		},
+               {
+			"title": "剧集",
+			"url0": "https://www.mtyy5.com/vodshow/2--hits_week---------.html",
+			"url1": "https://www.mtyy5.com/vodshow/2--hits_week------{pg}---.html"
+		},
+               {
+			"title": "综艺",
+			"url0": "https://www.mtyy5.com/vodshow/3--hits_week---------.html",
+			"url1": "https://www.mtyy5.com/vodshow/3--hits_week------{pg}---.html"
+		},
+               {
+			"title": "动漫",
+			"url0": "https://www.mtyy5.com/vodshow/4--hits_week---------.html",
+			"url1": "https://www.mtyy5.com/vodshow/4--hits_week------{pg}---.html"
+		}
+],
+"vod_node":"//div[contains(@class, 'public-list-box')]",
+"vod_info":"//span[contains(@class, 'public-list-prb')]",
+"vod_score":"//span[contains(@class, 'public-prt')]",
+"vod_title":"//div[@class='public-list-button']//a",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='public-list-button']//a/@href",
+"vod_link_url":"https://www.mtyy5.com{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'anthology-list-play')]",
+"playlist_title":"//li//a",
+"playlist_link_id":"//li//a/@href",
+"playlist_link_url":"https://www.mtyy5.com{id}",
+"playlist_info":"//div[@class='this-desc']",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"",
+"search_vod_link_url":"{id}"
+}
