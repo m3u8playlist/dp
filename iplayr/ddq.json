@@ -4,6 +4,7 @@
 "episode_flag":true,
 "landscape_flag":false,
 "referer":"",
+"cf_flag":true,
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
