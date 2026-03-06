@@ -20,9 +20,9 @@
 			"url1": "https://theav.xyz/eu/{pg}"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'video-list')]//div[contains(@class, 'card')]",
-"vod_info":"div[@class='video-text-icon']",
-"vod_score":"//div[contains(@class, 'duration')]",
+"vod_node":"//div[contains(@class, 'video-av-data')]//div[@class='avdata card ']",
+"vod_info":"//span[@class='title_fanhao']",
+"vod_score":"//div[@class='duration']",
 "vod_title":"//span[@class='av_data_title']",
 "vod_image_id":"//img/@data-src",
 "vod_image_regex":"",
@@ -40,7 +40,7 @@
 "search_flag":true,
 "search_url_first_page":"https://theav.xyz/search/{wd}",
 "search_url_other_page":"https://theav.xyz/search/{wd}/{pg}",
-"search_vod_node":"//div[contains(@class, 'video-list')]//div[contains(@class, 'card')]",
+"search_vod_node":"//div[contains(@class, 'video-av-data')]//div[@class='avdata card ']",
 "search_vod_title":"//span[@class='av_data_title']",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
