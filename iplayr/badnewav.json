@@ -6,8 +6,8 @@
 "referer":"",
 "category": [{
 			"title": "新作上市",
-			"url0": "https://bad.news/av",
-			"url1": "https://bad.news/av/page-{pg}"
+			"url0": "https://bad.news/av/release",
+			"url1": "https://bad.news/av/release/page-{pg}"
 		}
 	],  
 "vod_node":"//a[@class='video-list-content-item']",
