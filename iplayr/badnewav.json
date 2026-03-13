@@ -10,11 +10,11 @@
 			"url1": "https://bad.news/av/release/page-{pg}"
 		}
 	],  
-"vod_node":"//div[@class='entry']",
+"vod_node":"//div[@class='twi hasMedia link']",
 "vod_info":"//div[@class='ct-time']",
 "vod_score":"",
 "vod_title":"//h3/a",
-"vod_image_id":"//img/@data-echo",
+"vod_image_id":"//video/@poster",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h3/a/@href",
