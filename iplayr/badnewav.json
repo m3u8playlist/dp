@@ -12,7 +12,7 @@
 	],  
 "vod_node":"//div[@class='twi hasMedia link']",
 "vod_info":"//div[@class='ct-time']",
-"vod_score":"",
+"vod_score":"//a[@class='author']",
 "vod_title":"//h3/a",
 "vod_image_id":"//video/@poster",
 "vod_image_regex":"",
