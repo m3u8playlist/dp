@@ -1,0 +1,65 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"supjav",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://emturbovid.com/",
+ "open_with_safari_flag": true,
+"category": [{
+			"title": "censored",
+			"url0": "https://supjav.com/category/censored-jav",
+			"url1": "https://supjav.com/category/censored-jav/page/{pg}"
+		},
+    {
+			"title": "uncensored",
+			"url0": "https://supjav.com/category/uncensored-jav",
+			"url1": "https://supjav.com/category/uncensored-jav/page/{pg}"
+		},
+    {
+			"title": "amateur",
+			"url0": "https://supjav.com/category/amateur",
+			"url1": "https://supjav.com/category/amateur/page/{pg}"
+		},
+    {
+			"title": "chinese-subtitles",
+			"url0": "https://supjav.com/category/chinese-subtitles",
+			"url1": "https://supjav.com/category/chinese-subtitles/page/{pg}"
+		},{
+			"title": "reducing-mosaic",
+			"url0": "https://supjav.com/category/reducing-mosaic",
+			"url1": "https://supjav.com/category/reducing-mosaic/page/{pg}"
+		},
+     {
+			"title": "english-subtitles",
+			"url0": "https://supjav.com/category/english-subtitles",
+			"url1": "https://supjav.com/category/english-subtitles/page/{pg}"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'posts')]//div[contains(@class, 'post')]",
+"vod_info":"//div[@class='meta']",
+"vod_score":"",
+"vod_title":"//h3//a",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h3//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://supjav.com/?s={wd}",
+"search_url_other_page":"https://supjav.com/page/{pg}?s={wd}",
+"search_vod_node":"//div[contains(@class, 'posts')]//div[contains(@class, 'post')]",
+"search_vod_title":"//h3//a",
+"search_vod_image_id":"//img/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h3//a/@href",
+"search_vod_link_url":"{id}"
+}

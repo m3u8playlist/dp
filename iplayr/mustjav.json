@@ -1,0 +1,60 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "Mustjav",
+"episode_flag": false,
+"landscape_flag": true,
+"category": [
+{
+"title": "无码",
+"url0": "https://mustjav.com/index.php/vod/type/id/23.html",
+"url1": "https://mustjav.com/index.php/vod/type/id/23/page/{pg}.html"
+},
+{
+"title": "有码",
+"url0": "https://mustjav.com/index.php/vod/type/id/22.html",
+"url1": "https://mustjav.com/index.php/vod/type/id/22/page/{pg}.html"
+},
+{
+"title": "自拍",
+"url0": "https://mustjav.com/index.php/vod/type/id/24.html",
+"url1": "https://mustjav.com/index.php/vod/type/id/24/page/{pg}.html"
+},
+{
+"title": "动漫",
+"url0": "https://mustjav.com/index.php/vod/type/id/38.html",
+"url1": "https://mustjav.com/index.php/vod/type/id/38/page/{pg}.html"
+},
+{
+"title": "欧美",
+"url0": "https://mustjav.com/index.php/vod/type/id/25.html",
+"url1": "https://mustjav.com/index.php/vod/type/id/25/page/{pg}.html"
+}
+],
+"vod_node": "//div[@class='colVideoList']",
+"vod_info": "//small[@class='layer']",
+"vod_score": "",
+"vod_title": "//a[contains(@class, 'title')]",
+"vod_image_id": "",
+"vod_image_regex": "YmFja2dyb3VuZC1pbWFnZTogdXJsXCgnKFteJ10rKQ==",
+"vod_image_url": "{id}",
+"vod_link_id": "//a[contains(@class, 'title')]/@href",
+"vod_link_url": "https://mustjav.com{id}",
+"play_regex": "InVybCI6IihodHRwW14iXSsp",
+"play_url": "{id}",
+"playlist_flag": false,
+"playlist_group_node": "",
+"playlist_title": "",
+"playlist_link_id": "",
+"playlist_link_url": "",
+"playlist_info": "",
+"search_flag": true,
+"search_url_first_page": "https://mustjav.com/index.php/vod/search.html?wd={wd}",
+"search_url_other_page": "https://mustjav.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"search_vod_node": "//div[@class='colVideoList']",
+"search_vod_title": "//a[contains(@class, 'title')]",
+"search_vod_image_id": "",
+"search_vod_image_regex": "YmFja2dyb3VuZC1pbWFnZTogdXJsXCgnKFteJ10rKQ==",
+"search_vod_image_url": "{id}",
+"search_vod_link_id": "//a[contains(@class, 'title')]/@href",
+"search_vod_link_url": "https://mustjav.com{id}"
+}

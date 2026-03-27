@@ -1,0 +1,41 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"tktube",
+"episode_flag":false,
+"landscape_flag":true,
+"open_with_safari_flag":true,
+"category": [{
+		"title": "最近更新",
+		"url0": "https://www.tktube.com/latest-updates/",
+		"url1": "https://www.tktube.com/latest-updates/{pg}/"
+		}
+	     
+	],  
+"vod_node":"//div[contains(@class, 'list-videos')]//div[contains(@class, 'item')]",
+"vod_info":"//div[contains(@class, 'added')]//em",
+"vod_score":"//div[contains(@class,'duration')]",
+"vod_title":"//strong[@class='title']",
+"vod_image_id":"//img/@data-webp",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}

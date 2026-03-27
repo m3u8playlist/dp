@@ -1,0 +1,55 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"iwant-sex",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://iwant-sex.com/",
+"category": [{
+			"title": "最近",
+			"url0": "https://iwant-sex.com/videos/?sortby=newest",
+			"url1": "https://iwant-sex.com/videos/?sortby=newest&page={pg}/"
+		},
+    {
+			"title": "热门",
+			"url0": "https://iwant-sex.com/videos/?sortby=hottest",
+			"url1": "https://iwant-sex.com/videos/?sortby=hottest&page={pg}/"
+		},
+    {
+			"title": "推荐",
+			"url0": "https://iwant-sex.com/videos/?sortby=promoted",
+			"url1": "https://iwant-sex.com/videos/?sortby=promoted&page={pg}/"
+		},
+    {
+			"title": "最赞",
+			"url0": "https://iwant-sex.com/videos/?sortby=mostlike",
+			"url1": "https://iwant-sex.com/videos/?sortby=mostlike&page={pg}/"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'container')]//div[contains(@class, 'related_videos_templates')]",
+"vod_info":"//div[@class='duration']",
+"vod_score":"//div[@class='video-added']",
+"vod_title":"//span[contains(@class, 'video-title')]",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"https://iwant-sex.com{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://iwant-sex.com{id}",
+"play_regex":"Y29udGVudFVybCI6ICIoW14iXSsp",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://iwant-sex.com/search/?search_query={wd}",
+"search_url_other_page":"https://iwant-sex.com/search/?search_query={wd}&page={pg}",
+"search_vod_node":"//div[contains(@class, 'container')]//div[contains(@class, 'related_videos_templates')]",
+"search_vod_title":"//span[contains(@class, 'video-title')]",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"https://iwant-sex.com{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://iwant-sex.com{id}"
+}

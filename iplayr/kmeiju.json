@@ -1,0 +1,58 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"美剧星球",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "美剧",
+			"url0": "https://www.fmeiju.com/list/meiju.html",
+			"url1": "https://www.fmeiju.com/list/meiju-{pg}.html"
+		},
+		{
+			"title": "电视剧",
+			"url0": "https://www.fmeiju.com/vodshow/tv-----------.html",
+			"url1": "https://www.fmeiju.com/vodshow/tv--------{pg}---.html"
+		},
+			
+     {
+			"title": "综艺",
+			"url0": "https://www.fmeiju.com/list/zy.html",
+			"url1": "https://www.fmeiju.com/list/zy-{pg}.html"
+		},
+      {
+			"title": "动漫",
+			"url0": "https://www.fmeiju.com/list/dm.html",
+			"url1": "https://www.fmeiju.com/list/dm-{pg}.html"
+		}
+	],    
+
+"vod_node":"//ul[contains(@class, 'img-list')]//li",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//span[@class='vname']",
+"vod_image_id":"//a[contains(@class, 'img-pic')]/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"https://www.fmeiju.com{id}",
+"vod_link_id":"//a[contains(@class, 'img-pic')]/@href",
+"vod_link_url":"https://www.fmeiju.com{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='paly_list_btn']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"{id}",
+"playlist_info":"//div[@class='yp_context']",
+"search_flag":true,
+"search_url_first_page":"https://www.fmeiju.com/?s={wd}",
+"search_url_other_page":"https://www.fmeiju.com/page/{pg}?s={wd}",
+"search_vod_node":"//ul[contains(@class, 'img-list')]//li",
+"search_vod_title":"//span[@class='vname']",
+"search_vod_image_id":"",
+"search_vod_image_regex":"//a[contains(@class, 'img-pic')]/@href",
+"search_vod_image_url":"https://www.fmeiju.com{id}",
+"search_vod_link_id":"//a[contains(@class, 'img-pic')]/@href",
+"search_vod_link_url":"https://www.fmeiju.com{id}"
+}

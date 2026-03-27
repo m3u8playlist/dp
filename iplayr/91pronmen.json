@@ -1,0 +1,71 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"91pron.men",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+	"open_with_safari_flag":true,
+"category": [{
+			"title": "黑暗",
+			"url0": "https://91pron.men/vodtype/27.html",
+			"url1": "https://91pron.men/vodtype/27-{pg}.html"
+		},
+    {
+			"title": "伦理",
+			"url0": "https://91pron.men/vodtype/28.html",
+			"url1": "https://91pron.men/vodtype/28-{pg}.html"
+		},
+    {
+			"title": "偷拍",
+			"url0": "https://91pron.men/vodtype/29.html",
+			"url1": "https://91pron.men/vodtype/29-{pg}.html"
+		},
+    {
+			"title": "学生",
+			"url0": "https://91pron.men/vodtype/30.html",
+			"url1": "https://91pron.men/vodtype/30-{pg}.html"
+		},
+    {
+			"title": "社交",
+			"url0": "https://91pron.men/vodtype/31.html",
+			"url1": "https://91pron.men/vodtype/31-{pg}.html"
+		},
+    {
+			"title": "传媒",
+			"url0": "https://91pron.men/vodtype/32.html",
+			"url1": "https://91pron.men/vodtype/32-{pg}.html"
+		},
+	    {
+			"title": "日韩",
+			"url0": "https://91pron.men/vodtype/33.html",
+			"url1": "https://91pron.men/vodtype/33-{pg}.html"
+		}
+	],  
+"vod_node":"//div[@class='thumbnail group']",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='my-2 text-sm text-nord4 truncate']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='my-2 text-sm text-nord4 truncate']/a/@href",
+"vod_link_url":"https://91pron.men{id}",
+"play_regex":"InVybCI6IihbXiJdKyk=",
+"play_url":"https://91pron.men{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://91pron.men/search.html?wd={wd}",
+"search_url_other_page":"https://91pron.men/search{wd}/page/{pg}.html",
+"search_vod_node":"//div[@class='my-2 text-sm text-nord4 truncate']",
+"search_vod_title":"//div[@class='my-2 text-sm text-nord4 truncate']",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='my-2 text-sm text-nord4 truncate']/a/@href",
+"search_vod_link_url":"https://91pron.men{id}"
+}

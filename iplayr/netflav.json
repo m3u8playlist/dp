@@ -1,0 +1,52 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"netflav",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://javplayer.me/",
+"open_with_safari_flag":true,
+"category": [
+	{
+			"title": "有码",
+			"url0": "https://netflav.com/censored",
+			"url1": "https://netflav.com/censored?page={pg}"
+		},
+  	{
+			"title": "无码",
+			"url0": "https://netflav.com/uncensored",
+			"url1": "https://netflav.com/uncensored?page={pg}"
+		},
+  	{
+			"title": "中文字幕",
+			"url0": "https://netflav.com/chinese-sub",
+			"url1": "https://netflav.com/chinese-sub?page={pg}"
+		}
+	],    
+"vod_node":"//div[contains(@class, 'video_grid_container')]//div[@class='grid_0_cell']",
+"vod_info":"//div[@class='grid_0_date']",
+"vod_score":"",
+"vod_title":"//div[@class='grid_0_title']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://netflav.com{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://netflav.com/search?type=title&keyword={wd}",
+"search_url_other_page":"https://netflav.com/search?keyword={wd}&page={pg}&type=title",
+"search_vod_node":"//div[contains(@class, 'video_grid_container')]//div[@class='grid_0_cell']",
+"search_vod_title":"//div[@class='grid_0_title']",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://netflav.com{id}"
+}

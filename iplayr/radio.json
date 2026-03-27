@@ -1,0 +1,6747 @@
+{
+"uuid": "d802d274-199f-4a38-9b7b-66f43ef4d09e",
+"title": "电台",
+"data":[
+    {
+        "name": "BBC World Service",
+        "logo": "http://live.cooltv.top/logo/world.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e07\u5dde\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://123.146.162.24:8013/tslslive/gBEcw39/hls/live_sd.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e07\u5dde\u7efc\u5408\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b63\u4e49\u7535\u53f0",
+        "logo": "http://www.loveradio889.com.tw/ecms102077/store/AdImage/\u6700\u7231\u6b63\u4e49.jpg",
+        "url": "http://211.20.119.103:8081",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u4e2d\u5e7f\u64ad\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u53f0\u4e2d\u5e7f\u64ad.png",
+        "url": "http://211.20.119.101:8081",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u592a\u9633\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u592a\u9633\u7535\u53f0.png",
+        "url": "http://211.20.119.102:8081",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b63\u58f0\u7efc\u5408",
+        "logo": "http://live.cooltv.top/logo/cs.png",
+        "url": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b63\u58f0FM104.1",
+        "logo": "http://live.cooltv.top/logo/cs.png",
+        "url": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u65b0\u7af9\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u9ad8\u96c4\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u53f0\u5317\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u82b1\u83b2\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5f00\u5dde\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5f00\u5dde\u4e4b\u58f0.png",
+        "url": "http://183.64.174.171:10124/tlgb.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u53f0\u5357\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u5b9c\u5170\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5168\u56fd\u6cbb\u5b89\u4ea4\u901a\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u53f0\u4e2d\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5bdf\u5e7f\u64ad\u53f0\u4e1c\u5206\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png",
+        "url": "http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "RTI\u56fd\u8bed",
+        "logo": "https://gitee.com/radioer/radioer/raw/main/rti.png",
+        "url": "http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6fb3\u95e8\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u6fb3\u95e8\u7535\u53f0.png",
+        "url": "https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8424\u706b\u866b\u7f51\u7edc\u53f0",
+        "logo": "https://pic.qtfm.cn/2013/channel_logo/4998.jpg",
+        "url": "http://211.149.226.193:8066/1022.mp3",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u5e7f\u64ad\u7535\u53f0AM1134",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u53f0\u5317\u5e7f\u64ad\u7535\u53f0.png",
+        "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u5e7f\u64ad\u7535\u53f0FM93.1",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u53f0\u5317\u5e7f\u64ad\u7535\u53f0.png",
+        "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 1",
+        "logo": "http://live.cooltv.top/logo/1.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 5 Live",
+        "logo": "http://live.cooltv.top/logo/5.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 3",
+        "logo": "http://live.cooltv.top/logo/3.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u6e7e\u53e4\u5178\u97f3\u4e50\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u53f0\u6e7e\u53e4\u5178\u97f3\u4e50\u53f0.png",
+        "url": "http://59.120.88.155:8000/live.mp3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 1Xtra",
+        "logo": "http://live.cooltv.top/logo/1x.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7f8e\u56fd\u4e4b\u97f3",
+        "logo": "http://live.cooltv.top/logo/voa.png",
+        "url": "http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u82f1\u8bed\u8d44\u8baf\u5e7f\u64ad CGTN Radio",
+        "logo": "http://live.cooltv.top/logo/cgtnradio.png",
+        "url": "http://sk.cri.cn/am846.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5168\u767e\u79d1",
+        "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg",
+        "url": "http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u52a8\u611f\u97f3\u60a6\u53f0",
+        "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg",
+        "url": "http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "80\u540e\u97f3\u60a6\u53f0",
+        "logo": "https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png",
+        "url": "http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c11\u8c23\u97f3\u4e50\u53f0",
+        "logo": "https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png",
+        "url": "http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5929\u7c41\u53e4\u5178",
+        "logo": "https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png",
+        "url": "http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5377\u5377\u732b\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/internetradio/\u5feb\u4e50\u5377\u5377\u732b.png",
+        "url": "http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6447\u6eda\u5929\u7a7a\u53f0",
+        "logo": "https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241881377763.png",
+        "url": "http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u56fd\u4e50\u60a0\u626c",
+        "logo": "https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png",
+        "url": "http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecf\u5178FM",
+        "logo": "https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png",
+        "url": "http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u683c\u83b1\u7f8e\u97f3\u4e50\u53f0",
+        "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg",
+        "url": "http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6709\u58f0\u6587\u6458",
+        "logo": "https://cmsres.dianzhenkeji.com//files/images/2017/12/22/1513910910582954.png",
+        "url": "http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u534e\u8bed\u73af\u7403\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hyhq.png",
+        "url": "http://sk.cri.cn/hyhq.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8f7b\u677e\u8c03\u9891",
+        "logo": "http://live.cooltv.top/logo/ez.png",
+        "url": "http://sk.cri.cn/915.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e16\u754c\u534e\u58f0",
+        "logo": "http://live.cooltv.top/logo/sjhs.png",
+        "url": "http://sk.cri.cn/hxfh.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "VOA Global English",
+        "logo": "https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png",
+        "url": "http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u963f\u91cc\u90ce\u7535\u53f0(\u97f3\u9891)",
+        "logo": "http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5fc3\u7075\u97f3\u4e50\u9986",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7cb3fc8f0bd8f94cb96fb35e12fbca3.png",
+        "url": "http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8b66\u5e7f\u4e4b\u58f0",
+        "logo": "https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241637972573.png",
+        "url": "http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | News and Culture",
+        "logo": "http://live.cooltv.top/logo/npr.png",
+        "url": "https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u7231\u4e50Oldies but Goodies",
+        "logo": "http://live.cooltv.top/logo/aiyue.png",
+        "url": "http://live.cooltv.top/tv/e-classical.php?id=RA000120",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u7231\u4e50Kids",
+        "logo": "http://live.cooltv.top/logo/aiyue.png",
+        "url": "http://live.cooltv.top/tv/e-classical.php?id=RA000129",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WUNC",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/kShwWmQjbq.jpg",
+        "url": "http://216.246.39.189/wunc-source",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5929\u7c41\u4e4b\u97f3-\u56fd\u98ce",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d3f12c8e93c7506d60198c3484dbeb93.png",
+        "url": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecf\u6d4e\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/jjzs.png",
+        "url": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u4e50UR Classical",
+        "logo": "http://live.cooltv.top/logo/aiyue.png",
+        "url": "http://live.cooltv.top/tv/e-classical.php?id=RA000130",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u897f\u6e56\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/xhzs.png",
+        "url": "http://pullhls3c7b9989.live.126.net/live/1c21b2cd8674410b80790b2d2c311307/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6587\u827a\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/wyzs.png",
+        "url": "http://ngcdn010.cnr.cn/live/wyzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u7231\u4e50FM99.7",
+        "logo": "http://live.cooltv.top/logo/aiyue.png",
+        "url": "http://live.cooltv.top/tv/e-classical.php?id=RA000018",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u5317\u7231\u4e50Jazz",
+        "logo": "http://live.cooltv.top/logo/aiyue.png",
+        "url": "http://live.cooltv.top/tv/e-classical.php?id=RA000109",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KPBS",
+        "logo": "https://cdn-profiles.tunein.com/s34633/images/logog.jpg?t=154843",
+        "url": "http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u56fd\u4e61\u6751\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/xczs.jpg",
+        "url": "http://ngcdn017.cnr.cn/live/xczs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u795e\u5dde\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/szzs.jpg",
+        "url": "http://ngcdn006.cnr.cn/live/szzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 1 Relax",
+        "logo": "http://live.cooltv.top/logo/1r.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5e7f\u4e1c\u57ce\u5e02\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5e7f\u4e1c\u57ce\u5e02\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9999\u6e2f\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/xgzs.jpg",
+        "url": "http://ngcdn008.cnr.cn/live/xgzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8001\u5e74\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/lnzs.png",
+        "url": "http://ngcdn011.cnr.cn/live/lnzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u4eac\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/njxwzhgb.png",
+        "url": "http://hls.njgb.com/live_hls/1/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9605\u8bfb\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/ydzs.png",
+        "url": "http://ngcdn014.cnr.cn/live/ylgb/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u4eac\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/njjtgb.png",
+        "url": "http://hls.njgb.com/live_hls/2/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u85cf\u8bed\u5e7f\u64ad",
+        "logo": "https://ytmedia.radio.cn/25010/adfile/202310/13/16/QVkMVRVlYkS5QIqxueAPtPg4hx99yGnmX9QG7Jnzdw2023101316660.jpg",
+        "url": "http://ngcdn012.cnr.cn/live/zygb/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WBEZ",
+        "logo": "https://cdn-profiles.tunein.com/s27410/images/logod.png",
+        "url": "http://stream.wbez.org/wbezlinear",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecd\u5174\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u7ecd\u5174\u4e4b\u58f0.png",
+        "url": "http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5408\u80a5\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/\u5408\u80a5\u65b0\u95fb.png",
+        "url": "http://live.cooltv.top/tv/tide.php?id=hfxwgb",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53f0\u6d77\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/thzs.jpg",
+        "url": "http://ngcdn005.cnr.cn/live/zhzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 4",
+        "logo": "http://live.cooltv.top/logo/4.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecd\u5174\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u7ecd\u5174\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u4eac\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/njjjgb.png",
+        "url": "http://hls.njgb.com/live_hls/6/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b66\u6c49\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://pic.qingting.fm/2018/0101/20180101120944.jpeg",
+        "url": "http://stream.appwuhan.com/jtpdzb/sd/live.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b66\u6c49\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "http://pic.qingting.fm/2015/0617/2015061718015278.jpg",
+        "url": "http://stream.appwuhan.com/xwpdzb/sd/live.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u56fd\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/zgjtgb.jpg",
+        "url": "http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "ESPN Radio",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s25876g.png",
+        "url": "http://tunein.streamguys1.com/ESPNRadio",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "ESPN",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VSzOFJjNvZYpojAS9wDVIzH1JtQiDvKl-ZjmXa6FWKarDO7bzF4xA2BI8_ogKFejWwU&usqp=CAU",
+        "url": "http://tunein.streamguys1.com/ESPNTV",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "FOX News Radio",
+        "logo": "https://cdn-profiles.tunein.com/s20431/images/logod.jpg?t=159405",
+        "url": "http://tunein.streamguys1.com/foxnews",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 4 Extra",
+        "logo": "http://live.cooltv.top/logo/4x.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u54c8\u8428\u514b\u8bed\u5e7f\u64ad",
+        "logo": "https://ytmedia.radio.cn/25010/adfile/202310/13/17/Vdr0aD733JLDXao4HZ5HYR6osONcAvIV1hZRiZOzTon2023101317621.jpg",
+        "url": "http://ngcdn025.cnr.cn/live/hygb/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6f6e\u6d41\u97f3\u60a6\u53f0",
+        "logo": "https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png",
+        "url": "http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5408\u80a5\u6545\u4e8b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5408\u80a5\u6545\u4e8b\u5e7f\u64ad.png",
+        "url": "http://live.cooltv.top/tv/tide.php?id=hfgsgb",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5929\u7c41\u4e4b\u97f3-\u7ecf\u5178\u6b63\u6d41\u884c",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",
+        "url": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | Radio IQ",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/qmbbgzprjvaj.png",
+        "url": "http://wvtf-ice.streamguys1.com/radioiq-aac-256",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u77f3\u5bb6\u5e84\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://pluslive2.sjzntv.cn/aac_xwgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | GPB",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/rfep7y5qfkrj.png",
+        "url": "http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Star Talk Radio",
+        "logo": "https://cdn-profiles.tunein.com/s225116/images/logoq.jpg",
+        "url": "http://tunein.streamguys1.com/StarTalkRadio",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "TED Talks",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/internetradio/tedtalks.png",
+        "url": "http://tunein.streamguys1.com/TEDTalks",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KUT",
+        "logo": "https://cdn-profiles.tunein.com/s35962/images/logod.png?t=636270",
+        "url": "http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WAMU",
+        "logo": "https://cdn-profiles.tunein.com/s27111/images/logog.png",
+        "url": "http://hls-1.wamu.org/itunes/256/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u77f3\u5bb6\u5e84\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://pluslive2.sjzntv.cn/aac_jtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u73af\u7403\u8d44\u8baf\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hqzx.png",
+        "url": "https://live-play.cctvnews.cctv.com/cctvaudio/hqzx.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u77f3\u5bb6\u5e84\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://pluslive2.sjzntv.cn/aac_jjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WBUR",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wqMpuP27HE.png",
+        "url": "http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KUAZ",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s35847g.png",
+        "url": "http://streaming.azpm.org/kuaz192.mp3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u77f3\u5bb6\u5e84\u7eff\u8272\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://pluslive2.sjzntv.cn/aac_lsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "VOA Newscasts",
+        "logo": "https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png",
+        "url": "http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u6d77\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/nhzs.png",
+        "url": "https://sk.cri.cn/nhzs.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5929\u6d25\u9759\u6d77\u533a\u7efc\u5408\u5e7f\u64ad\u00b7\u4ea4\u901a\u5e7f\u64ad\u7f51",
+        "logo": "https://pic.qingting.fm/2020/0701/20200701052348.png",
+        "url": "http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KJZZ",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/74uqeZnXmV.png",
+        "url": "http://kjzz.streamguys1.com/kjzz_aac_high",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u4eac\u4f53\u80b2\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/njtygb.png",
+        "url": "http://hls.njgb.com/live_hls/3/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 6 Music",
+        "logo": "http://live.cooltv.top/logo/6.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KCRW News",
+        "logo": "https://cdn-profiles.tunein.com/s32152/images/logog.png",
+        "url": "http://kcrw.streamguys1.com/kcrw_192k_mp3_news",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "UFM 1003",
+        "logo": "https://s3-radio.s3.ap-southeast-1.amazonaws.com/default/ufm-logo-dark-500x500.png",
+        "url": "https://23683.live.streamtheworld.com/UFM_1003AAC.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KCRW LIVE",
+        "logo": "https://media.npr.org/images/stations/nprone_logos/kcrw_fm.png",
+        "url": "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b9c\u660c\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/musicradio/\u5b9c\u660c\u5e7f\u64ad.png",
+        "url": "http://play.3xgd.com/fm/xwt.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5fc3\u52a8\u97f3\u4e50\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/899.png",
+        "url": "http://live.cooltv.top/tv/899.php",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b9c\u660c\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/musicradio/\u5b9c\u660c\u5e7f\u64ad.png",
+        "url": "http://play.3xgd.com/fm/jtt.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c11\u65cf\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/mzzs.jpg",
+        "url": "http://ngcdn009.cnr.cn/live/mzzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 2",
+        "logo": "http://live.cooltv.top/logo/2.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BBC Radio 1 Dance",
+        "logo": "http://live.cooltv.top/logo/1d.png",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u963f\u91cc\u90ce\u7535\u53f0(\u89c6\u9891)",
+        "logo": "http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",
+        "url": "http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u623f\u5c71\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u623f\u5c71\u7535\u53f0.png",
+        "url": "http://live.funhillrm.com/3/sd/live.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b9c\u660c\u97f3\u4e50\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://ytmedia.radio.cn/CCYT%2F202207%2F18%2F11%2Ff2022071811624.jpg",
+        "url": "http://play.3xgd.com/fm/qct.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WUWM",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hrvzkrkuzlwl.webp",
+        "url": "http://wuwm.streamguys1.com/live",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5317\u4eac\u7ecf\u5178969",
+        "logo": "http://live.cooltv.top/logo/bj969.png",
+        "url": "http://live.funhillrm.com/4/sd/live.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5927\u6e7e\u533a\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/dwqzs.jpg",
+        "url": "http://ngcdn007.cnr.cn/live/hxzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "PlayFM\u752c\u6c5f\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/musicradio/playfm.png",
+        "url": "http://netlive.zhxwzx.com/live/1001.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b66\u6c49\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://pic.qingting.fm/2015/1125/20151125214015766.jpg",
+        "url": "http://stream.appwuhan.com/cjpdzb/sd/live.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "YES 933",
+        "logo": "http://live.cooltv.top/logo/yes933.png",
+        "url": "https://22393.live.streamtheworld.com/YES933_PREM.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WBHM",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s27454g.png",
+        "url": "https://audio.wbhm.org/live.m4a",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u957f\u4e09\u89d2\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/csj.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5317\u4eac\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png",
+        "url": "http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u620f\u66f2\u5e7f\u64ad\u00b7\u52a8\u542c995",
+        "logo": "https://pic.qtfm.cn/2020/0110/20200110041347.jpeg",
+        "url": "http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u751f\u6d3b\u5e7f\u64ad\u00b7\u57ce\u5e02\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b89\u5fbd\u57ce\u5e02\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | NCPR",
+        "logo": "https://cdn-profiles.tunein.com/s18403/images/logog.png",
+        "url": "http://ncpr-ice.streamguys1.com/ncpr-256k.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c11\u8c23 \u84dd\u8c03",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/4b072cf36c1f334220c6926eff4fbe51.png",
+        "url": "http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6cb3\u5317\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | MPR News",
+        "logo": "https://cdn-profiles.tunein.com/s34350/images/logod.png",
+        "url": "http://nis.stream.publicradio.org/nis.mp3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "CNNi",
+        "logo": "https://cdn-profiles.tunein.com/s292162/images/logod.png?t=636314",
+        "url": "http://tunein.ord.streamguys1.com/secure-CNNi",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WOSU",
+        "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/8FHMcwz5yR.png",
+        "url": "http://wosu.streamguys1.com/NPR_256",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b81\u6ce2\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/nbyy.png",
+        "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e2f\u90fd983",
+        "logo": "http://live.cooltv.top/logo/best983.png",
+        "url": "http://live.cooltv.top/tv/bestradio_backup.php?id=3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Al Jazeera",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s108977d.png",
+        "url": "http://tunein.ord.streamguys1.com/secure-aljazeera-english",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Ai FM",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/aifm.png",
+        "url": "https://23693.live.streamtheworld.com/AI_FMAAC.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "WHIZ Radio \u6d77\u53e3\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hkyy.png",
+        "url": "http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c49\u58f0\u5e7f\u64ad\u7535\u53f0FM",
+        "logo": "http://live.cooltv.top/logo/voh.png",
+        "url": "http://live.cooltv.top/tv/voh.php?id=1",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9633\u5149\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/young.png",
+        "url": "http://live.cooltv.top/tv/appleline.php?id=young",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9752\u6625\u7535\u53f0",
+        "logo": "https://github.com/goolguy007/radioer/raw/main/aline.png",
+        "url": "http://live.cooltv.top/tv/appleline.php?id=ch04",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "HitFM\u82b1\u4e1c",
+        "logo": "http://live.cooltv.top/logo/hitfmtw.png",
+        "url": "http://live.cooltv.top/tv/hitfm.php?id=hitfm_5",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | VOCALO",
+        "logo": "https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1",
+        "url": "https://stream.wbez.org/vocalolinear",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5149\u534e\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/kwongwah.png",
+        "url": "http://live.cooltv.top/tv/kwongwah.php",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u519c\u6751\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u519c\u6751\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5dde\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/fz893.png",
+        "url": "http://live.zohi.tv/audio/s10001-FM893/index.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u65b9\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5357\u65b9\u751f\u6d3b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u65b0\u7586\u7eff\u8272\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5929\u7c41\u4e4b\u97f3 Hi-Fi Radio",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",
+        "url": "http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9752\u5c9b\u97f3\u4e50\u4f53\u80b2\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/photo/raw/main/qdyt.png",
+        "url": "http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u54c8\u5c14\u6ee8\u53e4\u5178\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/musicradio/hrbjdyy.png",
+        "url": "http://live.zohi.tv/audio/s10001-FM893/index.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WCMU",
+        "logo": "https://cdn-profiles.tunein.com/s27948/images/logog.jpg?t=156690",
+        "url": "http://26293.live.streamtheworld.com:3690/WCMUFM_ADP.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Progressive Voices",
+        "logo": "https://cdn-profiles.tunein.com/s189055/images/logod.png?t=2",
+        "url": "https://tunein.streamguys1.com/progressivevoices",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Panda Show Radio",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s96692d.png",
+        "url": "https://tunein.streamguys1.com/pandashowradio",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u77f3\u5bb6\u5e84\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/musicradio/\u77f3\u5bb6\u5e84\u97f3\u4e50\u5e7f\u64ad.PNG",
+        "url": "http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u56fd\u7acb\u6559\u80b2\u7535\u53f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/\u56fd\u7acb\u6559\u80b2\u7535\u53f0.png",
+        "url": "http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6b22\u4e50\u8c03\u9891",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6b22\u4e50\u8c03\u9891.png",
+        "url": "http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KNPR",
+        "logo": "https://i.iheart.com/v3/re/new_assets/d844e29e-adc2-4ac7-9758-3c3457948e50",
+        "url": "http://18823.live.streamtheworld.com/KNPRFM_ADP_SC",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "CCTV-2 \u8d22\u7ecf",
+        "logo": "https://github.com/goolguy007/radioer/raw/main/cctv2.png",
+        "url": "https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b81\u6ce2\u8001\u5c11\u5e7f\u64ad\u00b7\u9633\u5149904",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b81\u6ce2\u8001\u5c11\u5e7f\u64ad.png",
+        "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b81\u6ce2\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b81\u6ce2\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e91\u5357\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/ynyygb.png",
+        "url": "http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "988",
+        "logo": "http://live.cooltv.top/logo/988.png",
+        "url": "https://23693.live.streamtheworld.com/988_FMAAC.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WCBE",
+        "logo": "https://cdn-profiles.tunein.com/s27747/images/logoq.png",
+        "url": "http://24153.live.streamtheworld.com:3690/WCBEFM_ADP.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WVPE",
+        "logo": "https://i.iheart.com/v3/re/new_assets/959e1561-44e5-41ef-b976-839e1793f2c9",
+        "url": "http://26293.live.streamtheworld.com:3690/WVPEFM_ADP.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u6545\u4e8b\u5e7f\u64ad\u00b7\u6f6e\u53f0969",
+        "logo": "http://pic.qtfm.cn/2022/1212/20221212113007.jpeg",
+        "url": "http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u5e7f\u6d41\u884c\u7f51",
+        "logo": "http://live.cooltv.top/logo/ipop.png",
+        "url": "http://n14.rcs.revma.com/aw9uqyxy2tzuv",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WKNO",
+        "logo": "https://cdn-profiles.tunein.com/s67509/images/logoq.png?t=637088117070000000",
+        "url": "http://17993.live.streamtheworld.com:3690/WKNOFM_ADP.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u7ecf\u5178\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hbjdyyt.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u97f3\u4e50\u8c03\u9891\u00b7\u52a8\u542c968",
+        "logo": "http://live.cooltv.top/logo/968.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KBIA",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/unqhwlk53jrr.png",
+        "url": "http://26313.live.streamtheworld.com:3690/KBIAFMAAC_256.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "CAPITAL 958",
+        "logo": "http://live.cooltv.top/logo/capital958.png",
+        "url": "https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "AsiaFM\u4e9a\u6d32\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/asia927.png",
+        "url": "http://stream.rcs.revma.com/xpgtqc74hv8uv",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "AsiaFM\u4e9a\u592a\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/asia923.png",
+        "url": "http://stream.rcs.revma.com/kydend74hv8uv",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u56fd\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/voc.jpg",
+        "url": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ef4\u543e\u5c14\u8bed\u5e7f\u64ad",
+        "logo": "https://ytmedia.radio.cn/25010/adfile/202310/13/16/Gtr71eiTMz8Lzs5tcaZD4wq2frDAeLqMX3Es90BIk0uCti2023101316420.jpg",
+        "url": "http://ngcdn013.cnr.cn/live/wygb/index.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "LOVE 972",
+        "logo": "http://live.cooltv.top/logo/love972.png",
+        "url": "https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u5e7f\u65b0\u95fb\u7f51",
+        "logo": "http://live.cooltv.top/logo/inews.png",
+        "url": "http://n12.rcs.revma.com/78fm9wyy2tzuv",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u592a\u539f\u8001\u5e74\u4e4b\u58f0",
+        "logo": "http://pic.qingting.fm/2019/1203/20191203120233.jpeg",
+        "url": "http://live.cooltv.top/tv/tide.php?id=tylnzs",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/sdyygb.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=702",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | WVRO",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/cdc6203/2147483647/strip/true/crop/4168x2345+0+107/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F91%2F81b1ebba487bba8dccb78c7ba029%2Fwrvo-stacked-rgb-profile-01.png",
+        "url": "http://26293.live.streamtheworld.com:3690/WRVOFM_ADP.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "CNA 938",
+        "logo": "https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png",
+        "url": "https://14033.live.streamtheworld.com/938NOW_PREM.aac",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u65b0\u7586\u536b\u89c6",
+        "logo": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+        "url": "https://piccpndali.v.myalicdn.com/audio/xinjiang_2.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u536b\u89c6",
+        "logo": "http://live.cooltv.top/logo/zhejiangweishi.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5317\u4eac\u57ce\u5e02\u5e7f\u64ad",
+        "logo": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2022/0310/54/8f/548fedacacbd471dc3e4f22a68af3816.png",
+        "url": "http://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u91d1\u9675\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u91d1\u9675\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u65b0\u95fb\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u6587\u827a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u6587\u827a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u6545\u4e8b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u6545\u4e8b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u57ce\u5e02\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6e56\u5317\u57ce\u5e02\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u65c5\u6e38\u5e7f\u64ad\u00b7\u9ad8\u901f\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b89\u5fbd\u9ad8\u901f\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u8001\u5e74\u5e7f\u64ad",
+        "logo": "http://pic.qingting.fm/2015/1125/20151125172902944.jpg",
+        "url": "http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/2020/0405/20200405123733.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/2020/0311/20200311053004.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u4eb2\u5b50\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6e56\u5317\u4eb2\u5b50\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u4e4b\u58f0",
+        "logo": "https://pic.qtfm.cn/sso/198/1612403622169_5vD0Fj2hb.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u8d44\u8baf\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6e56\u5317\u8d44\u8baf\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/2015/0112/20150112153655847.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u695a\u5929\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u695a\u5929\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5185\u8499\u53e4\u536b\u89c6",
+        "logo": "http://live.cooltv.top/logo/neimenggu.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7518\u8083\u9752\u6625\u8c03\u9891",
+        "logo": "http://live.cooltv.top/logo/gsqctp.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=485",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5357\u7535\u53f0\u7efc\u5408\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hunanxw.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=525",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u519c\u6751\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6cb3\u5317\u6545\u4e8b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6cb3\u5317\u751f\u6d3b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | CPR",
+        "logo": "https://dbs.radioline.fr/pictures/radio_18d695eec54b624bc60502d504581c80/logo200.jpg?size=600",
+        "url": "https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u98de\u7279\u7535\u53f0",
+        "logo": "",
+        "url": "https://phate.io/listen.ogg",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u7efc\u5408\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6cb3\u5317\u7efc\u5408\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecf\u5178948",
+        "logo": "http://live.cooltv.top/logo/948.png",
+        "url": "http://live.cooltv.top/tv/iqilu.php?id=948",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8f7b\u677e\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/chillax.png",
+        "url": "http://stream.rcs.revma.com/k41z6wadu5hvv",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u82cf\u5dde\u4ea4\u901a\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=698",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b81\u6ce2\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b81\u6ce2\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad.png",
+        "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u660c\u65b0\u95fb\u7efc\u5408\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/ncjjshgb.png",
+        "url": "http://live.cooltv.top/tv/nctv.php?id=5",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5e7f\u897f\u7ecf\u6d4e\u5e7f\u64ad\u00b7\u5973\u4e3b\u64ad\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/970.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=587",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u82cf\u5dde\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/szyygb.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=697",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e2d\u56fd\u4ea4\u901a\u5e7f\u64ad\uff08\u6e56\u5357\uff09",
+        "logo": "http://live.cooltv.top/logo/905.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=752",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u91d1\u9e70955\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/955.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=523",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7518\u8083\u90fd\u5e02\u8c03\u9891",
+        "logo": "http://live.cooltv.top/logo/gsdstp.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=484",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u82cf\u5dde\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u82cf\u5dde\u751f\u6d3b\u5e7f\u64ad.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=696",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b81\u6ce2\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5b81\u6ce2\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u90fd\u5e02\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u897f\u90fd\u5e02\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5c71\u4e1c\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u4fe1\u606f\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u897f\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u519c\u6751\u5e7f\u64ad\u00b7\u7eff\u8272985",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u897f\u519c\u6751\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u7ecf\u6d4e\u5e7f\u64ad\u00b7896\u6c7d\u8f66\u8c03\u9891",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u6c11\u751f\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u897f\u6c11\u751f\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5efa\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u798f\u5efa\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5efa\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u798f\u5efa\u65b0\u95fb\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u65c5\u6e38\u5e7f\u64adiFM97.4",
+        "logo": "http://live.cooltv.top/logo/jx974.png",
+        "url": "https://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u65c5\u6e38\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u65c5\u6e38\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u91cd\u5e86\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u91cd\u5e86\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u91cd\u5e86\u6587\u827a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u91cd\u5e86\u6587\u827a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u91cd\u5e86\u90fd\u5e02\u5e7f\u64ad\u00b7\u79c1\u5bb6\u8f66938",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u91cd\u5e86\u90fd\u5e02\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u57ce\u5e02\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u57ce\u5e02\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u91cd\u5e86\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u91cd\u5e86\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5efa\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u798f\u5efa\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u620f\u66f2\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u620f\u66f2\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u65b0\u95fb\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9ed1\u9f99\u6c5f\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/2020/0405/20200405071145.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | Eclectic24",
+        "logo": "https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square",
+        "url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9521\u6797\u90ed\u52d2\u6c49\u8bed\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u963f\u62c9\u5584\u8499\u8bed\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u897f\u85cf\u6c49\u8bed\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u56db\u5ddd\u57ce\u5e02\u4e4b\u97f3",
+        "logo": "http://live.cooltv.top/logo/scyyt.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=450",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | HPM News",
+        "logo": "https://player.streamguys.com/hpm-news/sgplayer3/include/image/hpm_listenlive_app_news88-7.png",
+        "url": "https://stream.houstonpublicmedia.org/news-mp3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5e7f\u897f\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "https://pic.qingting.fm/2015/0225/20150225111148873.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=590",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hebyyt.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=381",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u97f3\u4e50\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/mr.png",
+        "url": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9752\u6d77\u536b\u89c6",
+        "logo": "http://live.cooltv.top/logo/qinghaiweishi.png",
+        "url": "https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u9752\u5c11\u5e7f\u64ad\u00b7\u597d\u542c1055",
+        "logo": "http://live.cooltv.top/logo/haoting1055.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u97f3\u4e50\u5e7f\u64ad\u00b7\u5feb\u4e50988",
+        "logo": "http://live.cooltv.top/logo/sx988.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u660c\u7ecf\u6d4e\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/ncjjshgb.png",
+        "url": "http://live.cooltv.top/tv/nctv.php?id=7",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5b89\u5fbd\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/ahyyt.png",
+        "url": "http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u695a\u5929\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/ctyygb.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=533",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5185\u8499\u53e4\u97f3\u4e50\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/nmgyyt.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u90d1\u5dde\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/944.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=717",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "n p r | KQED",
+        "logo": "https://cdn-radiotime-logos.tunein.com/s34804g.png",
+        "url": "https://hls.kqed.org/kqed-iheart/playlist.m3u8",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5357\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hnyygb.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=395",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u53a6\u95e8\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/xmyyt.png",
+        "url": "https://live1b.kxm.xmtv.cn/aac_xmyybf_1b/sd/live.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5e7f\u4e1c\u97f3\u4e50\u4e4b\u58f0",
+        "logo": "http://live.cooltv.top/logo/gdyy.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=489",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7b2c\u4e00\u8d22\u7ecf\u5e7f\u64ad",
+        "logo": "https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg",
+        "url": "http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5357\u7ecf\u5e7f",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/B7DEDB38-BAC4-46DC-95C6-FF102524ED29.jpeg",
+        "url": "http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e0a\u6d77\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/shjtgb.png",
+        "url": "http://live.cooltv.top/tv/news1296.php?id=1",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Melody",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/melody.png",
+        "url": "https://astro3.rastream.com/melody",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9999\u6e2f\u536b\u89c6",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/hks.png",
+        "url": "https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u7ecf\u5178\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/sdjdyygb.png",
+        "url": "http://live.cooltv.top/tv/ytradio.php?id=703",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u7ecf\u5178947",
+        "logo": "http://live.cooltv.top/logo/jd947.png",
+        "url": "http://live.cooltv.top/tv/news1296.php?id=8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "8FM",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/8fm.png",
+        "url": "https://mediaprima.rastream.com/mediaprima-onefm",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "MY",
+        "logo": "http://live.cooltv.top/logo/my.png",
+        "url": "https://astro1.rastream.com/myfm",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5efa\u4e1c\u5357\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u798f\u5efa\u4e1c\u5357\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u52a8\u611f101",
+        "logo": "http://live.cooltv.top/logo/1017.png",
+        "url": "http://live.cooltv.top/tv/news1296.php?id=4",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u798f\u5efa\u90fd\u5e02\u5e7f\u64ad\u00b7\u79c1\u5bb6\u8f66987",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u798f\u5efa\u90fd\u5e02\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u4e61\u6751\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5c71\u4e1c\u4e61\u6751\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "KFM981",
+        "logo": "http://live.cooltv.top/logo/kfm.png",
+        "url": "http://live.cooltv.top/tv/news1296.php?id=9",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "Love Radio",
+        "logo": "http://live.cooltv.top/logo/loveradio.png",
+        "url": "http://live.cooltv.top/tv/news1296.php?id=7",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u6c11\u751f\u8d44\u8baf\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u6c11\u751f\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6d59\u6c5f\u4ea4\u901a\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6d59\u6c5f\u4ea4\u901a\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u547c\u4f26\u8d1d\u5c14\u6c49\u8bed\u5e7f\u64ad",
+        "logo": "",
+        "url": "http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5e7f\u4e1c\u5357\u7ca4\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5e7f\u4e1c\u5357\u7ca4\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "PopRadio\u53f0\u5317\u6d41\u884c\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/popradio.png",
+        "url": "http://live.cooltv.top/tv/popradio_backup.php?id=1",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u65c5\u6e38\u6587\u5316\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/hblywhgb.png",
+        "url": "https://radio.pull.hebtv.com/live/hebly.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "PopRadio\u597d\u542c\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/popradio.png",
+        "url": "http://live.cooltv.top/tv/popradio_backup.php?id=2",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u590d\u5174\u7535\u53f0",
+        "logo": "http://live.cooltv.top/logo/fhbs.png",
+        "url": "http://live.cooltv.top/tv/fhbs.php",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u897f\u97f3\u4e50\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/jxyyt.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e1c\u65b9\u536b\u89c6",
+        "logo": "http://live.cooltv.top/logo/dfws.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u4e4b\u58f0",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6e56\u5317\u4e4b\u58f0.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u6c7d\u8f66\u97f3\u4e50\u53f0",
+        "logo": "http://live.cooltv.top/logo/hbqcyyt.png",
+        "url": "https://radio.pull.hebtv.com/live/hebqcyy.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cb3\u5317\u6587\u827a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6cb3\u5317\u6587\u827a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5c71\u4e1c\u4ea4\u901a\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u8d35\u5dde\u6545\u4e8b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u8d35\u5dde\u6545\u4e8b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u4e0a\u6d77\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "http://live.cooltv.top/logo/shxwgb.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "CCTV-1 \u7efc\u5408",
+        "logo": "https://github.com/goolguy007/radioer/raw/main/cctv1.png",
+        "url": "https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5317\u751f\u6d3b\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6e56\u5317\u751f\u6d3b\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u5b81\u4e61\u6751\u751f\u6d3b\u5e7f\u64ad\u7ecf\u51781049",
+        "logo": "http://live.cooltv.top/logo/nn1049.png",
+        "url": "https://hls.nntv.cn/nnradio/NNRAD_1049_wz.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BRTV\u65b0\u95fb",
+        "logo": "http://live.cooltv.top/logo/btvxw.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5317\u4eac\u4f53\u80b2\u4f11\u95f2",
+        "logo": "http://live.cooltv.top/logo/btvtyxx.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BRTV\u6587\u827a",
+        "logo": "http://live.cooltv.top/logo/btvwy.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BRTV\u5f71\u89c6",
+        "logo": "http://live.cooltv.top/logo/btvys.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9655\u897f\u90fd\u5e02\u5e7f\u64ad\u00b7\u9655\u5e7f\u65b0\u95fb",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9655\u897f\u90fd\u5e02\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5317\u4eac\u7eaa\u5b9e\u79d1\u6559",
+        "logo": "http://live.cooltv.top/logo/btvjskj.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5c71\u4e1c\u4f53\u80b2\u4f11\u95f2\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u5c71\u4e1c\u4f53\u80b2\u4f11\u95f2\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "BRTV\u8d22\u7ecf",
+        "logo": "http://live.cooltv.top/logo/btvcj.png",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u9752\u6d77\u7ecf\u6d4e\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u9752\u6d77\u7ecf\u6d4e\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6cd5\u56fd\u56fd\u9645\u5e7f\u64ad\u7535\u53f0",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",
+        "url": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+        "category": "\u5883\u5916\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5357\u4ea4\u901a\u9891\u9053",
+        "logo": "http://live.cooltv.top/logo/hunanjt.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6c5f\u82cf\u5065\u5eb7\u5e7f\u64ad",
+        "logo": "https://gitee.com/radioer/transparentlogo/raw/master/generalradio/\u6c5f\u82cf\u5065\u5eb7\u5e7f\u64ad.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u821e\u8ff7\u5fc3\u7a8d",
+        "logo": "https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d64294d9f14ed39075cbb148f229d833.png",
+        "url": "http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8",
+        "category": "\u7f51\u7edc\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u6e56\u5357\u536b\u89c6",
+        "logo": "http://live.cooltv.top/logo/hunanweishi.png",
+        "url": "http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8",
+        "category": "\u7535\u89c6\u4f34\u97f3",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u626c\u5ddeFM96.7",
+        "logo": "http://ucoss.96189.com/upload/201803/8e6ff0cde4a92d1dbd372781fe1c7488.jpg",
+        "url": "http://live.cooltv.top/tv/yz.php?id=fm967",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u626c\u5dde\u4ea4\u901a\u5e7f\u64ad",
+        "logo": "http://ucoss.96189.com/upload/201611/8dc3658bf37a6aa8cad646c88e2a3510.png",
+        "url": "http://live.cooltv.top/tv/yz.php?id=jt",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u626c\u5dde\u65b0\u95fb\u5e7f\u64ad",
+        "logo": "https://pic.qtfm.cn/2015/0907/20150907174509839.jpg",
+        "url": "http://live.cooltv.top/tv/yz.php?id=xw",
+        "category": "\u7efc\u5408\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u5357\u5b81\u6545\u4e8b\u5e7f\u64ad\u5feb\u4e50895",
+        "logo": "http://live.cooltv.top/logo/nn895.png",
+        "url": "https://hls.nntv.cn/nnradio/NNRAD_895_wz.m3u8",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    },
+    {
+        "name": "\u65b0\u7586\u97f3\u4e50\u5e7f\u64adMixFM1039",
+        "logo": "http://live.cooltv.top/logo/mix1039.png",
+        "url": "http://live.cooltv.top/tv/xj.php?channelID=109",
+        "category": "\u97f3\u4e50\u5e7f\u64ad",
+        "tvg": {
+            "id": "",
+            "name": "",
+            "url": null
+        },
+        "country": {
+            "code": null,
+            "name": null
+        },
+        "language": {
+            "code": null,
+            "name": null
+        },
+        "status": "GOOD",
+        "live": true
+    }
+]
+}

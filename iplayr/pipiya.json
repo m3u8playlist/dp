@@ -1,0 +1,71 @@
+{
+"uuid": "6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title": "皮皮鸭",
+"episode_flag": true,
+"landscape_flag": false,
+  "open_with_safari_flag":true,
+"category": [
+{
+"title": "电影",
+"url0": "https://www.pipiya.cc/vodtype/20.html",
+"url1": "https://www.pipiya.cc/vodtype/20/page/{pg}.html"
+},
+  {
+"title": "国产剧",
+"url0": "https://www.pipiya.cc/vodtype/26.html",
+"url1": "https://www.pipiya.cc/vodtype/26/page/{pg}.html"
+},
+{
+"title": "美剧",
+"url0": "https://www.pipiya.cc/vodtype/21.html",
+"url1": "https://www.pipiya.cc/vodtype/21/page/{pg}.html"
+},
+{
+"title": "日韩剧",
+"url0": "https://www.pipiya.cc/vodtype/28.html",
+"url1": "https://www.pipiya.cc/vodtype/28/page/{pg}.html"
+},
+{
+"title": "泰剧",
+"url0": "https://www.pipiya.cc/vodtype/24.html",
+"url1": "https://www.pipiya.cc/vodtype/24/page/{pg}.html"
+},
+{
+"title": "其他剧",
+"url0": "https://www.pipiya.cc/vodtype/27.html",
+"url1": "https://www.pipiya.cc/vodtype/27/page/{pg}.html"
+},
+{
+"title": "动漫",
+"url0": "https://www.pipiya.cc/vodtype/25.html",
+"url1": "https://www.pipiya.cc/vodtype/25/page/{pg}.html"
+}
+],
+"vod_node": "//div[contains(@class, 'list-vod')]//div[contains(@class, 'public-list-box')]",
+"vod_info": "//span[contains(@class, 'public-list-prb')]",
+"vod_score": "//span[contains(@class,'public-prt')]",
+"vod_title": "//a[contains(@class, 'time-title')]/@title",
+"vod_image_id": "//div[contains(@class, 'gen-movie-img')]/@data-original",
+"vod_image_regex": "",
+"vod_image_url": "{id}",
+"vod_link_id": "//a[contains(@class, 'time-title')]/@href",
+"vod_link_url": "https://www.pipiya.cc{id}",
+"play_regex": "",
+"play_url": "{id}",
+"playlist_flag": true,
+"playlist_group_node": "//ul[contains(@class, 'anthology-list-play')]",
+"playlist_title": "//li/a",
+"playlist_link_id": "//li/a/@href",
+"playlist_link_url": "https://www.pipiya.cc{id}",
+"playlist_info": "//div[@id='height_limit']",
+"search_flag": true,
+"search_url_first_page": "https://www.pipiya.cc/vodsearch/wd/{wd}.html",
+"search_url_other_page": "https://www.pipiya.cc/vodsearch/page/{pg}/wd/{wd}.html",
+"search_vod_node": "//div[contains(@class, 'search-box')]",
+"search_vod_title": "//div[contains(@class, 'thumb-txt')]",
+"search_vod_image_id": "//div[contains(@class, 'gen-movie-img')]/@data-original",
+"search_vod_image_regex": "",
+"search_vod_image_url": "{id}",
+"search_vod_link_id": "//a[@class='public-list-exp']/@href",
+"search_vod_link_url": "https://www.pipiya.cc{id}"
+}

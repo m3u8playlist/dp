@@ -1,0 +1,62 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"莫扎兔",
+"episode_flag":true,
+"landscape_flag":false,
+"open_with_safari_flag":false,
+"category": [{
+			"title": "电影",
+			"url0": "http://www.mozhatu.com/vodshow/1-----------/",
+			"url1": "http://www.mozhatu.com/vodshow/1--------{pg}---/"
+		},
+{
+			"title": "剧集",
+			"url0": "http://www.mozhatu.com/vodshow/2-----------/",
+			"url1": "http://www.mozhatu.com/vodshow/2--------{pg}---/"
+		},
+    {
+			"title": "综艺",
+			"url0": "http://www.mozhatu.com/vodshow/3-----------/",
+			"url1": "http://www.mozhatu.com/vodshow/3--------{pg}---/"
+		},
+    {
+			"title": "动漫",
+			"url0": "http://www.mozhatu.com/vodshow/4-----------/",
+			"url1": "http://www.mozhatu.com/vodshow/4--------{pg}---/"
+		},
+      {
+			"title": "记录",
+			"url0": "http://www.mozhatu.com/vodshow/5-----------/",
+			"url1": "http://www.mozhatu.com/vodshow/5--------{pg}---/"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'module')]//a[contains(@class, 'module-item')]",
+"vod_info":"div[@class='module-item-note']",
+"vod_score":"",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_regex":"",
+"vod_link_url":"https://www.mozhatu.com{id}",
+"play_regex":"InVybCI6IihodHRwW14iXSttM3U4KQ==",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//div[contains(@class, 'module-play-list')]//div[contains(@class, 'module-play-list-content')]",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://www.mozhatu.com{id}",
+"playlist_info":"//div[contains(@class, 'module-info-introduction')]//p",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_regex":"",
+"search_vod_link_url":""
+}

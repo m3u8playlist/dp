@@ -1,0 +1,58 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"twitter-ero-video-ranking",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"cf_flag":true,
+"user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+"category": [{
+			"title": "每日",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN?sort=favorite&page={pg}"
+		},
+	{
+			"title": "每周",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/weekly",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/weekly?sort=favorite&page={pg}"
+		},
+	{
+			"title": "每月",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/monthly",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/monthly?sort=favorite&page={pg}"
+		},
+	{
+			"title": "所有",
+			"url0": "https://twitter-ero-video-ranking.com/zh-CN/all",
+			"url1": "https://twitter-ero-video-ranking.com/zh-CN/all?sort=favorite&page={pg}"
+		}
+
+	],    
+"vod_node":"//div[@class='bg-white rounded-lg shadow-md overflow-hidden mb-4']",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='absolute bottom-2 right-2 bg-black/60 text-white text-xs px-2 py-1 rounded-lg']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"https://twitter-ero-video-ranking.com{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://twitter-ero-video-ranking.com{id}",
+"play_regex":"Y29udGVudFVybCI6IihbXiJdKyk=",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}

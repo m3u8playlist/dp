@@ -1,0 +1,57 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"大米星球",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.dmxq.fun/vodshow/20-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/20--------{pg}---.html"
+		},
+		{
+			"title": "电视",
+      "url0": "https://www.dmxq.fun/vodshow/21-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/21--------{pg}---.html"
+		},
+     {
+			"title": "动漫",
+	"url0": "https://www.dmxq.fun/vodshow/22-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/22--------{pg}---.html"
+		},
+                  {
+			"title": "综艺",
+		"url0": "https://www.dmxq.fun/vodshow/23-----------.html",
+			"url1": "https://www.dmxq.fun/vodshow/23--------{pg}---.html"
+		}
+	],    
+
+"vod_node":"//div[contains(@class, 'module-items')]/a",
+"vod_info":"",
+"vod_score":"//div[@class='module-item-douban']",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://www.dmxq.fun{id}",
+"play_regex":"",
+"play_url":"",
+"playlist_flag":true,
+"playlist_group_node":"//div[@class='module-play-list']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://www.dmxq.fun{id}",
+"playlist_info":"//div[contains(@class, 'module-info-introduction-content')]//p",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}

@@ -1,0 +1,41 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"lvv2",
+"episode_flag":false,
+"landscape_flag":true,
+ "open_with_safari_flag":true,
+"category": [{
+		"title": "最新",
+		"url0": "https://bad.news/av",
+		"url1": "https://bad.news/av/page-{pg}/"
+		}
+	     
+	],  
+"vod_node":"//div[contains(@class, 'content')]//div[contains(@class, 'link')]",
+"vod_info":"//div[contains(@class, 'ct-time')]/span",
+"vod_score":"",
+"vod_title":"//h3/a",
+"vod_image_id":"//img/@data-echo",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h3/a/@href",
+"vod_link_url":"https://bad.news{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"",
+"search_vod_link_id":"",
+"search_vod_link_url":""
+}
