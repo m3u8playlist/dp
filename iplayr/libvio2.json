@@ -9,28 +9,28 @@
 "category": [
 {
 "title": "电影",
-"url0": "https://www.libvio.cc/type/1.html",
-"url1": "https://www.libvio.cc/type/1-{pg}.html"
+"url0": "https://www.libhd.com/type/1.html",
+"url1": "https://www.libhd.com/type/1-{pg}.html"
 },
 {
 "title": "剧集",
-"url0": "https://www.libvio.cc/type/2.html",
-"url1": "https://www.libvio.cc/type/2-{pg}.html"
+"url0": "https://www.libhd.com/type/2.html",
+"url1": "https://www.libhd.com/type/2-{pg}.html"
 },
   {
 "title": "日韩剧",
-"url0": "https://www.libvio.cc/type/15.html",
-"url1": "https://www.libvio.cc/type/15-{pg}.html"
+"url0": "https://www.libhd.com/type/15.html",
+"url1": "https://www.libhd.com/type/15-{pg}.html"
 },
 {
 "title": "欧美剧",
-"url0": "https://www.libvio.cc/type/16.html",
-"url1": "https://www.libvio.cc/type/16-{pg}.html"
+"url0": "https://www.libhd.com/type/16.html",
+"url1": "https://www.libhd.com/type/16-{pg}.html"
 },
 {
 "title": "动漫",
-"url0": "https://www.libvio.cc/type/4.html",
-"url1": "https://www.libvio.cc/type/4-{pg}.html"
+"url0": "https://www.libhd.com/type/4.html",
+"url1": "https://www.libhd.com/type/4-{pg}.html"
 }
 ],
 "vod_node": "//ul[contains(@class, 'stui-vodlist')]//li",
@@ -41,23 +41,23 @@
 "vod_image_regex": "",
 "vod_image_url": "{id}",
 "vod_link_id": "//h4/a/@href",
-"vod_link_url": "https://www.libvio.cc{id}",
+"vod_link_url": "https://www.libhd.com{id}",
 "play_regex": "",
 "play_url": "{id}",
 "playlist_flag": true,
 "playlist_group_node": "//ul[contains(@class, 'stui-content__playlist')]",
 "playlist_title": "//li/a",
 "playlist_link_id": "//li/a/@href",
-"playlist_link_url": "https://www.libvio.cc{id}",
+"playlist_link_url": "https://www.libhd.com{id}",
 "playlist_info": "//span[@class='detail-content']",
 "search_flag": true,
-"search_url_first_page": "https://www.libvio.cc/search/-------------.html?wd={wd}&submit=",
-"search_url_other_page": "https://www.libvio.cc/search/{wd}----------{pg}---.html",
+"search_url_first_page": "https://www.libhd.com/search/-------------.html?wd={wd}&submit=",
+"search_url_other_page": "https://www.libhd.com/search/{wd}----------{pg}---.html",
 "search_vod_node": "//ul[contains(@class, 'stui-vodlist')]//li",
 "search_vod_title": "//h4/a",
 "search_vod_image_id": "//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
 "search_vod_image_regex": "",
 "search_vod_image_url": "{id}",
 "search_vod_link_id": "//h4/a/@href",
-"search_vod_link_url": "https://www.libvio.cc{id}"
+"search_vod_link_url": "https://www.libhd.com{id}"
 }
