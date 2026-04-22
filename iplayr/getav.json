@@ -6,6 +6,7 @@
 "referer":"",
 "user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
 "open_with_safari_flag":true,
+"cf_flag":true,
 "category": [{
 			"title": "最近更新",
 			"url0": "https://getav.net/zh/latest",
