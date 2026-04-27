@@ -3,8 +3,8 @@
 "title":"4K影视-电影",
 "episode_flag":true,
 "landscape_flag":false,
-"referer":"",
-	"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+"referer":"https://www.4kvm.net",
+"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
