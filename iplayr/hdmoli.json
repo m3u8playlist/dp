@@ -7,25 +7,25 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://www.hdmoli.com/show/1--------1---.html",
-			"url1": "https://www.hdmoli.com/show/1--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/mlist/index1.htmll",
+			"url1": "https://www.hdmoli.com/mlist/index1-{pg}.html"
 		},
      {
 			"title": "剧集",
-			"url0": "https://www.hdmoli.com/show/2--------1---.html",
-			"url1": "https://www.hdmoli.com/show/2--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/mlist/index2.html",
+			"url1": "https://www.hdmoli.com/mlist/index2-{pg}.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://www.hdmoli.com/show/4--------1---.html",
-			"url1": "https://www.hdmoli.com/show/4--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/mlist/index3.html",
+			"url1": "https://www.hdmoli.com/mlist/index3-{pg}.html"
 		}
 ],
-"vod_node":"//ul[@class='stui-vodlist clearfix']//li",
-"vod_info":"",
-"vod_score":"",
+"vod_node":"//ul[@class='myui-vodlist clearfix']//li",
+"vod_info":"//span[@class='pic-text text-right']",
+"vod_score":"//span[@class='pic-tag pic-tag-top']",
 "vod_title":"//h4//a",
-"vod_image_id":"//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
+"vod_image_id":"//a[contains(@class, 'myui-vodlist__thumb')]/@data-original",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h4//a/@href",
