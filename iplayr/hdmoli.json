@@ -7,18 +7,18 @@
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://www.hdmoli.org/show/1--------1---.html",
-			"url1": "https://www.hdmoli.org/show/1--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/show/1--------1---.html",
+			"url1": "https://www.hdmoli.com/show/1--------{pg}---.html"
 		},
      {
 			"title": "剧集",
-			"url0": "https://www.hdmoli.org/show/2--------1---.html",
-			"url1": "https://www.hdmoli.org/show/2--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/show/2--------1---.html",
+			"url1": "https://www.hdmoli.com/show/2--------{pg}---.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://www.hdmoli.org/show/4--------1---.html",
-			"url1": "https://www.hdmoli.org/show/4--------{pg}---.html"
+			"url0": "https://www.hdmoli.com/show/4--------1---.html",
+			"url1": "https://www.hdmoli.com/show/4--------{pg}---.html"
 		}
 ],
 "vod_node":"//ul[@class='stui-vodlist clearfix']//li",
@@ -29,23 +29,23 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h4//a/@href",
-"vod_link_url":"https://www.hdmoli.org{id}",
+"vod_link_url":"https://www.hdmoli.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//ul[contains(@class, 'stui-content__list')]",
 "playlist_title":"//li//a",
 "playlist_link_id":"//li//a/@href",
-"playlist_link_url":"https://www.hdmoli.org{id}",
+"playlist_link_url":"https://www.hdmoli.com{id}",
 "playlist_info":"//p[@class='text-muted col-pd']",
 "search_flag":true,
-"search_url_first_page":"https://www.hdmoli.org/search/-------------.html?wd={wd}&submit=",
-"search_url_other_page":"https://www.hdmoli.org/search/{wd}----------{pg}---.html",
+"search_url_first_page":"https://www.hdmoli.com/search/-------------.html?wd={wd}&submit=",
+"search_url_other_page":"https://www.hdmoli.com/search/{wd}----------{pg}---.html",
 "search_vod_node":"//ul[@class='myui-vodlist__media clearfix']//li",
 "search_vod_title":"//h4//a",
 "search_vod_image_id":"//a[contains(@class, 'stui-vodlist__thumb')]/@data-original",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//h4//a/@href",
-"search_vod_link_url":"https://www.hdmoli.org{id}"
+"search_vod_link_url":"https://www.hdmoli.com{id}"
 }
