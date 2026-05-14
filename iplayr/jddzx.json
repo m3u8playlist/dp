@@ -39,7 +39,7 @@
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//div[contains(@class, 'module-play-list')]",
+"playlist_group_node":"//div[@class='module-play-list']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://jddzx.cc{id}",
