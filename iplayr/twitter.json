@@ -28,7 +28,7 @@
 		}
 
 	],    
-"vod_node":"//div[@class='bg-white rounded-lg shadow-md overflow-hidden mb-4']",
+"vod_node":"//div[@class='bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-4']",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//div[@class='absolute bottom-2 right-2 bg-black/60 text-white text-xs px-2 py-1 rounded-lg']",
