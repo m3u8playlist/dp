@@ -1,0 +1,57 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"jddzx",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"cf_flag":true,
+"open_with_safari_flag":true,
+  "category": [{
+			"title": "电影",
+			"url0": "https://jddzx.cc/vodshow/id/dianying.html",
+			"url1": "https://jddzx.cc/vodshow/id/dianying/page/{pg}.html"
+		},
+               {
+			"title": "剧集",
+			"url0": "https://jddzx.cc/vodshow/id/juji.html",
+			"url1": "https://jddzx.cc/vodshow/id/juji/page/{pg}.html"
+		},
+               {
+			"title": "综艺",
+			"url0": "https://jddzx.cc/vodshow/id/zongyi.html",
+			"url1": "https://jddzx.cc/vodshow/id/zongyi/page/{pg}.html"
+		},
+               {
+			"title": "动漫",
+			"url0": "https://jddzx.cc/vodshow/id/dongman.html",
+			"url1": "https://jddzx.cc/vodshow/id/dongman/page/{pg}.html"
+		}
+],
+"vod_node":"//div[contains(@class, 'module-items')]/a",
+"vod_info":"//div[@class='module-item-note']",
+"vod_score":"",
+"vod_title":"//div[@class='module-poster-item-title']",
+"vod_image_id":"//img/@data-original",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://jddzx.cc{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//div[contains(@class, 'module-play-list')]",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://jddzx.cc{id}",
+"playlist_info":"//div[@class='module-info-introduction-content']",
+"search_flag":true,
+"search_url_first_page":"https://jddzx.cc/vodsearch.html?wd={wd}",
+"search_url_other_page":"https://jddzx.cc/vodsearch{wd}/page/{pg}.html",
+"search_vod_node":"//div[@class='module-items module-card-items']//div[@class='module-card-item-class']",
+"search_vod_title":"//div[@class='module-card-item-title']//a",
+"search_vod_image_id":"//img/@data-original",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='module-card-item-title']//a/@href",
+"search_vod_link_url":"https://jddzx.cc{id}"
+}
