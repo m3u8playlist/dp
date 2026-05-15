@@ -8,33 +8,33 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "国产剧",
-			"url0": "https://www.ziziys.com/list/13.html",
-			"url1": "https://www.ziziys.com/list/13-{pg}.html"
+			"url0": "https://www.ziziys.org/list/13.html",
+			"url1": "https://www.ziziys.org/list/13-{pg}.html"
 		},
 		{
 			"title": "美剧",
-		"url0": "https://www.ziziys.com/list/14.html",
-			"url1": "https://www.ziziys.com/list/14-{pg}.html"
+		"url0": "https://www.ziziys.org/list/14.html",
+			"url1": "https://www.ziziys.org/list/14-{pg}.html"
 		},
 			{
 			"title": "日韩剧",
-			"url0": "https://www.ziziys.com/list/15.html",
-			"url1": "https://www.ziziys.com/list/15-{pg}.html"
+			"url0": "https://www.ziziys.org/list/15.html",
+			"url1": "https://www.ziziys.org/list/15-{pg}.html"
 		},
      {
 			"title": "国漫",
-				"url0": "https://www.ziziys.com/list/20.html",
-			"url1": "https://www.ziziys.com/list/20-{pg}.html"
+				"url0": "https://www.ziziys.org/list/20.html",
+			"url1": "https://www.ziziys.org/list/20-{pg}.html"
 		},
                   {
 			"title": "日漫",
-				"url0": "https://www.ziziys.com/list/21.html",
-			"url1": "https://www.ziziys.com/list/21-{pg}.html"
+				"url0": "https://www.ziziys.org/list/21.html",
+			"url1": "https://www.ziziys.org/list/21-{pg}.html"
 		},
                   {
 			"title": "欧美漫",
-			"url0": "https://www.ziziys.com/list/22.html",
-			"url1": "https://www.ziziys.com/list/22-{pg}.html"
+			"url0": "https://www.ziziys.org/list/22.html",
+			"url1": "https://www.ziziys.org/list/22-{pg}.html"
 		}
 
 	],    
@@ -47,7 +47,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='module-item-titlebox']/a/@href",
-"vod_link_url":"https://www.ziziys.com{id}",
+"vod_link_url":"https://www.ziziys.org{id}",
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
@@ -57,13 +57,13 @@
 "playlist_link_url":"https://www.ziziys.com{id}",
 "playlist_info":"//div[@class='video-info-item video-info-content vod_content']/span",
 "search_flag":true,
-"search_url_first_page":"https://www.ziziys.com/vsearch/--.html?wd={wd}",
-"search_url_other_page":"https://www.ziziys.com/vsearch/{wd}--{pg}.html",
+"search_url_first_page":"https://www.ziziys.org/vsearch/--.html?wd={wd}",
+"search_url_other_page":"https://www.ziziys.org/vsearch/{wd}--{pg}.html",
 "search_vod_node":"//div[@class='module-items']//div[@class='module-search-item']",
 "search_vod_title":"//h3/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//h3/a/@href",
-"search_vod_link_url":"https://www.ziziys.com{id}"
+"search_vod_link_url":"https://www.ziziys.org{id}"
 }
