@@ -3,23 +3,23 @@
 "title":"av01",
 "episode_flag":false,
 "landscape_flag":true,
-"referer":"https://www.av01.tv/",
+"referer":"https://www.av01.media/",
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://www.av01.tv/tw/videos?o=mr",
-			"url1": "https://www.av01.tv/tw/videos?o=mr&page={pg}"
+			"url0": "https://www.av01.media/cn/videos/latest",
+			"url1": "https://www.av01.media/cn/videos/latest?page={pg}"
 		}
 	],    
-"vod_node":"//div[contains(@class, 'container')]//div[contains(@class, 'col-sm-6')]",
+"vod_node":"//main//div[@class='group']",
 "vod_info":"",
 "vod_score":"//div[@class='duration']",
-"vod_title":"//a//span",
+"vod_title":"//h3",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://www.av01.tv{id}",
+"vod_link_url":"https://www.av01.media{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -29,13 +29,13 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://www.av01.tv/tw/search/videos?search_query={wd}",
-"search_url_other_page":"https://www.av01.tv/tw/search/videos?search_query={wd}&page={pg}",
-"search_vod_node":"//div[contains(@class, 'container')]//div[contains(@class, 'col-sm-6')]",
-"search_vod_title":"//a//span",
+"search_url_first_page":"https://www.av01.media/cn/search?q={wd}",
+"search_url_other_page":"https://www.av01.media/cn/search?q={wd}&page={pg}",
+"search_vod_node":"//main//div[@class='group']",
+"search_vod_title":"//h3",
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
-"search_vod_link_url":"https://www.av01.tv{id}"
+"search_vod_link_url":"https://www.av01.media{id}"
 }
