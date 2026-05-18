@@ -7,12 +7,42 @@
 	"cf_flag":true,
 "open_with_safari_flag":true,
 "category": [{
-			"title": "综合AV",
+			"title": "高清中字",
+			"url0": "https://avbebe.com/archives/category/%e9%ab%98%e6%b8%85%e4%b8%ad%e5%ad%97",
+			"url1": "https://avbebe.com/archives/category/%e9%ab%98%e6%b8%85%e4%b8%ad%e5%ad%97/page/{pg}"
+		},
+	{
+			"title": "高清素人",
+			"url0": "https://avbebe.com/archives/category/%e9%ab%98%e6%b8%85%e7%b4%a0%e4%ba%ba",
+			"url1": "https://avbebe.com/archives/category/%e9%ab%98%e6%b8%85%e7%b4%a0%e4%ba%ba/page/{pg}"
+		},
+	{
+			"title": "馬賽克破解",
+			"url0": "https://avbebe.com/archives/category/%e9%a6%ac%e8%b3%bd%e5%85%8b%e7%a0%b4%e8%a7%a3",
+			"url1": "https://avbebe.com/archives/category/%e9%a6%ac%e8%b3%bd%e5%85%8b%e7%a0%b4%e8%a7%a3/page/{pg}"
+		},
+	{
+			"title": "華語AV",
+			"url0": "https://avbebe.com/archives/category/%e8%8f%af%e8%aa%9eav",
+			"url1": "https://avbebe.com/archives/category/%e8%8f%af%e8%aa%9eav/page/{pg}"
+		},
+	{
+			"title": "綜合AV",
 			"url0": "https://avbebe.com/archives/category/%e7%b6%9c%e5%90%88av",
 			"url1": "https://avbebe.com/archives/category/%e7%b6%9c%e5%90%88av/page/{pg}"
-		}
+		},
+	{
+			"title": "新番",
+			"url0": "https://avbebe.com/archives/category/new",
+			"url1": "https://avbebe.com/archives/category/new/page/{pg}"
+		},
+	{
+			"title": "動畫卡通",
+			"url0": "https://avbebe.com/archives/category/h%e5%8b%95%e7%95%ab%e5%bd%b1%e7%89%87",
+			"url1": "https://avbebe.com/archives/category/h%e5%8b%95%e7%95%ab%e5%bd%b1%e7%89%87/page/{pg}"
+		},
 	],    
-"vod_node":"//div[contains(@class, 'jnews_category_content_wrapper')]//article",
+"vod_node":"//div[contains(@class, 'jeg_block_container')]//article",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//h3/a",
