@@ -7,13 +7,13 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "电影",
-			"url0": "https://www.cilixiong.net/movie/",
-			"url1": "https://www.cilixiong.net/movie/index_{pg}.html"
+			"url0": "https://www.cilixiong.org/movie/",
+			"url1": "https://www.cilixiong.org/movie/index_{pg}.html"
 		},
 	{
 			"title": "剧集",
-			"url0": "https://www.cilixiong.net/drama/",
-			"url1": "https://www.cilixiong.net/drama/index_{pg}.html"
+			"url0": "https://www.cilixiong.org/drama/",
+			"url1": "https://www.cilixiong.org/drama/index_{pg}.html"
 		}
 	],    
 
@@ -25,7 +25,7 @@
 "vod_image_regex":"c3R5bGU9ImJhY2tncm91bmQtaW1hZ2U6IHVybFwoJyhbXiddKyk=",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://www.cilixiong.net{id}",
+"vod_link_url":"https://www.cilixiong.org{id}",
 "play_regex":"",
 "play_url":"",
 "playlist_flag":false,
