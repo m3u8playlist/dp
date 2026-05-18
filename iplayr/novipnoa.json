@@ -33,7 +33,7 @@
 "search_flag":true,
 "search_url_first_page":"https://www.novipnoad.net/?s={wd}",
 "search_url_other_page":"https://www.novipnoad.net/page/{pg}/?s={wd}",
-"search_vod_node":"//div[@class='search-listing-content   ']//div[contains(@class, 'video-item')",
+"search_vod_node":"//div[@class='search-listing-content   ']//div[contains(@class, 'video-item')]",
 "search_vod_title":"//h3/a",
 "search_vod_image_id":"//img/@data-original",
 "search_vod_image_regex":"",
