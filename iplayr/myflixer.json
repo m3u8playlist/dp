@@ -7,13 +7,13 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "movie",
-			"url0": "https://myflixer.is/movie",
-			"url1": "https://myflixer.is/movie?page={pg}"
+			"url0": "https://simyflix.com/movie",
+			"url1": "https://simyflix.com/movie?page={pg}"
 		},
 		{
 			"title": "TV shows",
-			"url0": "https://myflixer.is/tv-show",
-			"url1": "https://myflixer.is/tv-show?page={pg}"
+			"url0": "https://simyflix.com/tv-show",
+			"url1": "https://simyflix.com/tv-show?page={pg}"
 		}
        
 	],    
@@ -26,23 +26,23 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h2/a/@href",
-"vod_link_url":"https://myflixer.is{id}",
+"vod_link_url":"https://simyflix.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='dp-i-c-stick']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://myflixer.is{id}",
+"playlist_link_url":"https://simyflix.com{id}",
 "playlist_info":"//div[@class='description']",
 "search_flag":true,
-"search_url_first_page":"https://myflixer.is/search/{wd}",
-"search_url_other_page":"https://myflixer.is/search/{wd}?page={pg}",
+"search_url_first_page":"https://simyflix.com/search/{wd}",
+"search_url_other_page":"https://simyflix.com/search/{wd}?page={pg}",
 "search_vod_node":"//div[@class='film_list-wrap']//div[@class='flw-item']",
 "search_vod_title":"//h2/a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"",
 "search_vod_link_id":"//h2/a/@href",
-"search_vod_link_url":"https://myflixer.is{id}"
+"search_vod_link_url":"https://simyflix.com{id}"
 }
