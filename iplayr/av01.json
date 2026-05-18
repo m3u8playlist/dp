@@ -5,6 +5,7 @@
 "landscape_flag":true,
 "referer":"https://www.av01.media/",
 "open_with_safari_flag":true,
+	"cf_flag":true,
 "category": [{
 			"title": "最近更新",
 			"url0": "https://www.av01.media/cn/videos/latest",
