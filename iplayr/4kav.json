@@ -30,7 +30,7 @@
 "play_url": "{id}",
 "playlist_flag": true,
 "playlist_group_node": "//ul[@id='rtlist']",
-"playlist_title": "//li//span",
+"playlist_title": "//li//a/@title",
 "playlist_link_id": "//li//a/@href",
 "playlist_link_url": "https://4kmp.com{id}",
 "playlist_info": "//p[@class='cnline']",
