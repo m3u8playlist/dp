@@ -7,13 +7,13 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "movie",
-			"url0": "https://simyflix.com/movie",
-			"url1": "https://simyflix.com/movie?page={pg}"
+			"url0": "https://simyflix.com/latest-movies/",
+			"url1": "https://simyflix.com/latest-movies/page/{pg}"
 		},
 		{
 			"title": "TV shows",
-			"url0": "https://simyflix.com/tv-show",
-			"url1": "https://simyflix.com/tv-show?page={pg}"
+			"url0": "https://simyflix.com/tv-series/",
+			"url1": "https://simyflix.com/tv-series/page/{pg}"
 		}
        
 	],    
