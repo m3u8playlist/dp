@@ -40,7 +40,7 @@
 "search_url_other_page":"",
 "search_vod_node":"//div[@class='group relative']",
 "search_vod_title":"//h3",
-"search_vod_image_id":"//img/@src",
+"search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
