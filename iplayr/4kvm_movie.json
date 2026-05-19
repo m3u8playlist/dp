@@ -31,7 +31,7 @@
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='grid grid-cols-6 gap-2']",
-"playlist_title":"//a//span",
+"playlist_title":"//a/@data-episode",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://www.4kvm.net{id}",
 "playlist_info":"",
