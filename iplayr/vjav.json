@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://vjav.com/latest-updates/1/?sort=latest-updates&date=all&type=all&duration=all",
-			"url1": "https://vjav.com/latest-updates/{pg}/?sort=latest-updates&date=all&type=all&duration=all"
+			"url0": "https://vjav.com/videos/latest-updates/1/",
+			"url1": "https://vjav.com/videos/latest-updates/{pg}/"
 		}
 	],    
 "vod_node":"//div[@class='thumbs']//div[@class='thumb']",
