@@ -57,6 +57,6 @@
 "search_vod_image_id":"//img/@data-original",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"//div[@class=module-card-item-title]//a/@href",
+"search_vod_link_id":"//div[@class='module-card-item-title']//a/@href",
 "search_vod_link_url":"https://www.dandanqu.cc{id}"
 }
