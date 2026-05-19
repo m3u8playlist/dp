@@ -15,7 +15,7 @@
 	],    
 
 "vod_node":"//div[contains(@class, 'movie-card')]",
-"vod_info":"",
+"vod_info":"//span[@class='text-white drop-shadow-md']",
 "vod_score":"",
 "vod_title":"//h3",
 "vod_image_id":"//img/@data-src",
