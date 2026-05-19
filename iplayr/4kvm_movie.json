@@ -7,15 +7,11 @@
 "user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
 "open_with_safari_flag":true,
 "category": [{
-			"title": "电影",
-			"url0": "https://www.4kvm.net/movies",
-			"url1": "https://www.4kvm.net/movies/page/{pg}"
-		},
-	{
-			"title": "电视剧",
-			"url0": "https://www.4kvm.net/tv",
-			"url1": "https://www.4kvm.net/tv/page/{pg}"
+			"title": "最近更新",
+			"url0": "https://www.4kvm.net/filter",
+			"url1": "https://www.4kvm.net/filter?page={pg}"
 		}
+	
 	],    
 
 "vod_node":"//div[contains(@class, 'movie-card')]",
