@@ -11,6 +11,31 @@
 			"title": "电影",
 			"url0": "https://www.novipnoad.net/movie/",
 			"url1": "https://www.novipnoad.net/movie/page/{pg}/"
+		},
+	  {
+			"title": "欧美剧",
+			"url0": "https://www.novipnoad.net/tv/western/",
+			"url1": "https://www.novipnoad.net/tv/western/page/{pg}/"
+		},
+	  {
+			"title": "日剧",
+			"url0": "https://www.novipnoad.net/tv/japan/",
+			"url1": "https://www.novipnoad.net/tv/japan/page/{pg}/"
+		},
+	  {
+			"title": "韩剧",
+			"url0": "https://www.novipnoad.net/tv/korea/",
+			"url1": "https://www.novipnoad.net/tv/korea/page/{pg}/"
+		},
+	  {
+			"title": "港片",
+			"url0": "https://www.novipnoad.net/tv/hongkong/",
+			"url1": "https://www.novipnoad.net/tv/hongkong/page/{pg}/"
+		},
+	   {
+			"title": "台片",
+			"url0": "https://www.novipnoad.net/tv/taiwan/",
+			"url1": "https://www.novipnoad.net/tv/taiwan/page/{pg}/"
 		}
 ],
 "vod_node":"//section[@class='video-listing']//div[contains(@class, 'video-item')]",
@@ -24,12 +49,12 @@
 "vod_link_url":"{id}",
 "play_regex":"",
 "play_url":"{id}",
-"playlist_flag":false,
-"playlist_group_node":"",
-"playlist_title":"",
-"playlist_link_id":"",
-"playlist_link_url":"",
-"playlist_info":"",
+"playlist_flag":true,
+"playlist_group_node":"//table[@class='table table-bordered']",
+"playlist_title":"//a",
+"playlist_link_id":"//a/@href",
+"playlist_link_url":"https://www.novipnoad.net{id}",
+"playlist_info":"//div[@class='item-content toggled']/p",
 "search_flag":true,
 "search_url_first_page":"https://www.novipnoad.net/?s={wd}",
 "search_url_other_page":"https://www.novipnoad.net/page/{pg}/?s={wd}",
