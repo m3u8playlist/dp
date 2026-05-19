@@ -44,7 +44,7 @@
 "vod_link_url":"https://www.yfsp.tv{id}",
 "play_regex":"",
 "play_url":"",
-"playlist_flag":true,
+"playlist_flag":false,
 "playlist_group_node":"//div[@class='n-media-list']//a",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
