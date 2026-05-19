@@ -33,7 +33,7 @@
 "playlist_title": "//li/span[@class='stitle']",
 "playlist_link_id": "//li/img/@href",
 "playlist_link_url": "https://4kmp.com{id}",
-"playlist_info": "//span[contains(@class, 'sketch')]",
+"playlist_info": "//p[@class='cnline']",
 "search_flag": true,
 "search_url_first_page": "https://4kmp.com/s?k={wd}",
 "search_url_other_page": "https://4kmp.com/s?k={wd}&page={pg}",
