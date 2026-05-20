@@ -4,6 +4,7 @@
 "episode_flag":true,
 "landscape_flag":false,
 "referer":"",
+	"cf_flag":true,
 "enable_cache_flag":false,
 "open_with_safari_flag":true,
   "category": [{
@@ -34,14 +35,14 @@
 "playlist_link_id":"//li//a/@href",
 "playlist_link_url":"https://www.meijuwo.cc{id}",
 "playlist_info":"//span[@class='data']",
-"search_flag":false,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
-"search_vod_image_id":"",
+"search_flag":true,
+"search_url_first_page":"https://www.meijuwo.cc/search/--/?wd={wd}&submit=",
+"search_url_other_page":"https://www.meijuwo.cc/search/{wd}--/page/{pg}/",
+"search_vod_node":"//ul[@class='myui-vodlist__media clearfix']//li",
+"search_vod_title":"//h4",
+"search_vod_image_id":"//div[@class='thumb']//a/@data-original",
 "search_vod_image_regex":"",
-"search_vod_image_url":"",
-"search_vod_link_id":"",
-"search_vod_link_url":""
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h4/@href",
+"search_vod_link_url":"https://www.meijuwo.cc{id}"
 }
