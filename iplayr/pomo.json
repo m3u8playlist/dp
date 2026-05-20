@@ -1,0 +1,67 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"pomo.mom",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"enable_cache_flag":false,
+"open_with_safari_flag":true,
+  "category": [{
+			"title": "首页",
+			"url0": "https://pomo.mom/",
+			"url1": "https://pomo.mom/page/{pg}"
+		},
+               {
+			"title": "剧集",
+			"url0": "https://pomo.mom/dianshiju",
+			"url1": "https://pomo.mom/dianshiju/page/{pg}"
+		},
+               {
+			"title": "华语热门",
+			"url0": "https://pomo.mom/huayurm",
+			"url1": "https://pomo.mom/huayurm/page/{pg}"
+		},
+               {
+			"title": "家庭影院",
+			"url0": "https://pomo.mom/jiatingu",
+			"url1": "https://pomo.mom/jiatingu/page/{pg}"
+		},
+                   {
+			"title": "动画大电影",
+			"url0": "https://pomo.mom/donghuadadiany",
+			"url1": "https://pomo.mom/donghuadadiany/page/{pg}"
+		},
+                   {
+			"title": "华语热门",
+			"url0": "https://pomo.mom/huayurm",
+			"url1": "https://pomo.mom/huayurm/page/{pg}"
+		}
+],
+"vod_node":"//a[@class='block h-full flex flex-col']",
+"vod_info":"",
+"vod_score":"//span[@class='highlight']",
+"vod_title":"//h3",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"f",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://pomo.mom/?keyword={wd}",
+"search_url_other_page":"https://pomo.mom/?keyword={wd}&page={pg}",
+"search_vod_node":"//a[@class='block h-full flex flex-col']",
+"search_vod_title":"//h3",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"{id}"
+}
