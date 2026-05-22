@@ -8,7 +8,8 @@
 "category": [{
 			"title": "最近更新",
 			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt",
-			"url1": "https://pigav.ws/api/v1/videos?start={pg}&count=25&sort=-publishedAt"
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt",
+	        "pageSize": 25
 		}
 	],    
 
