@@ -5,11 +5,11 @@
 "landscape_flag":true,
 "referer":"",
 "open_with_safari_flag":true,
+ "pageSize": 25,
 "category": [{
 			"title": "最近更新",
 			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt",
-			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt",
-	        "pageSize": 25
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt"
 		}
 	],    
 
