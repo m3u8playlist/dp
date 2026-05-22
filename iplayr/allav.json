@@ -26,7 +26,7 @@
 "playlist_link_id":"$.playlistUrl",
 "playlist_link_url":"{id}",
 "playlist_info":"$.description",
-"search_flag":false,
+"search_flag":true,
 "search_url_first_page":"https://pigav.ws/api/v1/search/videos?start=0&count=20&search={wd}&sort=-match&searchTarget=local&nsfw=both&nsfwFlagsIncluded=0",
 "search_url_other_page":"https://pigav.ws/api/v1/search/videos?start={start}&count={count}&search={wd}&sort=-match&searchTarget=local&nsfw=both&nsfwFlagsIncluded=0",
 "search_vod_node":"$.data[*]",
