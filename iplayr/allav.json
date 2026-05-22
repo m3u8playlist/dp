@@ -10,6 +10,26 @@
 			"title": "最近更新",
 			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt",
 			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt"
+		},
+	{
+			"title": "亚洲",
+			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt&skipCount=true&categoryOneOf=21&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0",
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt&skipCount=true&categoryOneOf=21&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0"
+		},
+	{
+			"title": "日韩",
+			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt&skipCount=true&categoryOneOf=20&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0",
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt&skipCount=true&categoryOneOf=20&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0"
+		},
+	{
+			"title": "自拍",
+			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt&skipCount=true&categoryOneOf=22&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0",
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt&skipCount=true&categoryOneOf=22&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0"
+		},
+	{
+			"title": "欧美",
+			"url0": "https://pigav.ws/api/v1/videos?start=0&count=25&sort=-publishedAt&skipCount=true&categoryOneOf=23&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0",
+			"url1": "https://pigav.ws/api/v1/videos?start={start}&count={count}&sort=-publishedAt&skipCount=true&categoryOneOf=23&nsfw=both&nsfwFlagsExcluded=0&nsfwFlagsIncluded=0"
 		}
 	],    
 "vod_node":"$.data[*]",
