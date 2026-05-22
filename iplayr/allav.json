@@ -13,7 +13,7 @@
 		}
 	],    
 "vod_node":"$.data[*]",
-"vod_info":"",
+"vod_info":"publishedAt",
 "vod_score":"",
 "vod_title":"name",
 "vod_image_id":"previewPath",
