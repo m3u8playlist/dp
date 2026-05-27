@@ -5,6 +5,7 @@
 "landscape_flag":false,
 "referer":"",
 "enable_cache_flag":false,
+	"cf_flag":true,
 "open_with_safari_flag":true,
   "category": [{
 			"title": "最近更新",
