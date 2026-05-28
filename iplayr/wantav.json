@@ -11,15 +11,15 @@
 		}
    
 	],  
-"vod_node":"//div[contains(@id, 'list_videos_common_videos_list')]//div[contains(@class, 'video-img-box')]",
+"vod_node":"//div[@class='video-item']",
 "vod_info":"",
 "vod_score":"",
-"vod_title":"//h6//a",
-"vod_image_id":"//img[contains(@class, 'bind_video_cover')]/@data-src",
+"vod_title":"//a[@class='my-1 md:my-2 line-clamp-2']",
+"vod_image_id":"//img/@data-src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
-"vod_link_id":"//h6//a/@href",
-"vod_link_url":"{id}",
+"vod_link_id":"//a[@class='my-1 md:my-2 line-clamp-2']/@href",
+"vod_link_url":"https://wantav.com{id}",
 "play_regex":"aGxzVXJsID0gIihbXiJdKyk=",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -31,11 +31,11 @@
 "search_flag":true,
 "search_url_first_page":"https://wantav.com/search/index/keyword/{wd}",
 "search_url_other_page":"https://wantav.com/search/index/keyword/{wd}/page/{pg}",
-"search_vod_node":"//div[contains(@id, 'list_videos_common_videos_list')]//div[contains(@class, 'video-img-box')]",
-"search_vod_title":"//h6//a",
-"search_vod_image_id":"//img[contains(@class, 'bind_video_cover')]/@data-src",
+"search_vod_node":"//div[@class='video-item']",
+"search_vod_title":"//h2//a",
+"search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"//h6//a/@href",
-"search_vod_link_url":"{id}"
+"search_vod_link_id":"//h2//a/@href",
+"search_vod_link_url":"https://wantav.com{id}"
 }
