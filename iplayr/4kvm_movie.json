@@ -8,8 +8,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最近更新",
-			"url0": "https://www.4kvm.net/filter",
-			"url1": "https://www.4kvm.net/filter?page={pg}"
+			"url0": "https://www.4kvm.cc/filter",
+			"url1": "https://www.4kvm.cc/filter?page={pg}"
 		}
 	
 	],    
@@ -22,17 +22,17 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://www.4kvm.net{id}",
+"vod_link_url":"https://www.4kvm.cc{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='grid grid-cols-6 gap-2']",
 "playlist_title":"//a/@data-episode",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"https://www.4kvm.net{id}",
+"playlist_link_url":"https://www.4kvm.cc{id}",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://www.4kvm.net/search?q={wd}",
+"search_url_first_page":"https://www.4kvm.cc/search?q={wd}",
 "search_url_other_page":"",
 "search_vod_node":"//div[@class='group relative']",
 "search_vod_title":"//h3",
@@ -40,5 +40,5 @@
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
-"search_vod_link_url":"https://www.4kvm.net{id}"
+"search_vod_link_url":"https://www.4kvm.cc{id}"
 }
