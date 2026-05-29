@@ -3,30 +3,30 @@
 "title":"麦田",
 "episode_flag":true,
 "landscape_flag":false,
-"referer":"https://www.mtyy5.com",
+"referer":"https://www.mtyy1.cc/",
 	"cf_flag":true,
 "use-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
 "enable_cache_flag":false,
 "open_with_safari_flag":true,
   "category": [{
 			"title": "电影",
-			"url0": "https://www.mtyy5.com/vodshow/1--hits_week---------.html",
-			"url1": "https://www.mtyy5.com/vodshow/1--hits_week------{pg}---.html"
+			"url0": "https://www.mtyy1.cc/vodshow/1--hits_week---------.html",
+			"url1": "https://www.mtyy1.cc/vodshow/1--hits_week------{pg}---.html"
 		},
                {
 			"title": "剧集",
-			"url0": "https://www.mtyy5.com/vodshow/2--hits_week---------.html",
-			"url1": "https://www.mtyy5.com/vodshow/2--hits_week------{pg}---.html"
+			"url0": "https://www.mtyy1.cc/vodshow/2--hits_week---------.html",
+			"url1": "https://www.mtyy1.cc/vodshow/2--hits_week------{pg}---.html"
 		},
                {
 			"title": "综艺",
-			"url0": "https://www.mtyy5.com/vodshow/3--hits_week---------.html",
-			"url1": "https://www.mtyy5.com/vodshow/3--hits_week------{pg}---.html"
+			"url0": "https://www.mtyy1.cc/vodshow/3--hits_week---------.html",
+			"url1": "https://www.mtyy1.cc/vodshow/3--hits_week------{pg}---.html"
 		},
                {
 			"title": "动漫",
-			"url0": "https://www.mtyy5.com/vodshow/4--hits_week---------.html",
-			"url1": "https://www.mtyy5.com/vodshow/4--hits_week------{pg}---.html"
+			"url0": "https://www.mtyy1.cc/vodshow/4--hits_week---------.html",
+			"url1": "https://www.mtyy1.cc/vodshow/4--hits_week------{pg}---.html"
 		}
 ],
 "vod_node":"//div[contains(@class, 'public-list-box')]",
@@ -37,23 +37,23 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='public-list-button']//a/@href",
-"vod_link_url":"https://www.mtyy5.com{id}",
+"vod_link_url":"https://www.mtyy1.cc{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//ul[contains(@class, 'anthology-list-play')]",
 "playlist_title":"//li//a",
 "playlist_link_id":"//li//a/@href",
-"playlist_link_url":"https://www.mtyy5.com{id}",
+"playlist_link_url":"https://www.mtyy1.cc{id}",
 "playlist_info":"//div[@class='this-desc']",
 "search_flag":true,
-"search_url_first_page":"https://www.mtyy5.com/vodsearch/-------------.html?wd={wd}",
-"search_url_other_page":"https://www.mtyy5.com/vodsearch/{wd}----------{pg}---.html",
+"search_url_first_page":"https://www.mtyy1.cc/vodsearch/-------------.html?wd={wd}",
+"search_url_other_page":"https://www.mtyy1.cc/vodsearch/{wd}----------{pg}---.html",
 "search_vod_node":"//div[contains(@class, 'public-list-box')]",
 "search_vod_title":"//div[@class='public-list-button']//a",
 "search_vod_image_id":"//img/@data-src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//div[@class='public-list-button']//a/@href",
-"search_vod_link_url":"https://www.mtyy5.com{id}"
+"search_vod_link_url":"https://www.mtyy1.cc{id}"
 }
