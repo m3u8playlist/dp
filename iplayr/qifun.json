@@ -24,7 +24,7 @@
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
-"playlist_group_node":"//div[@class='playsx']",
+"playlist_group_node":"//div[@id='playsx']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"{id}",
