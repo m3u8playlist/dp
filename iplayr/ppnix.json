@@ -1,0 +1,47 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"ppnix",
+"episode_flag":true,
+"landscape_flag":false,
+"referer":"",
+"enable_cache_flag":false,
+"open_with_safari_flag":true,
+  "category": [{
+			"title": "电影",
+			"url0": "https://www.ppnix.com/cn/movie/",
+			"url1": "https://www.ppnix.com/cn/movie/---{pg}-.html"
+		},
+               {
+			"title": "剧集",
+			"url0": "https://www.ppnix.com/cn/tv/",
+			"url1": "https://www.ppnix.com/cn/tv/---{pg}-.html"
+		}
+],
+"vod_node":"//div[@class='lists-content']//li",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//h2//a",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h2//a/@href",
+"vod_link_url":"https://www.ppnix.com{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://www.ppnix.com/cn/search/{wd}--.html",
+"search_url_other_page":"https://www.ppnix.com/cn/search/{wd}-{pg}-.html",
+"search_vod_node":"//div[@class='lists-content']//li",
+"search_vod_title":"//h2//a",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//h2//a/@href",
+"search_vod_link_url":"https://www.ppnix.com{id}"
+}
