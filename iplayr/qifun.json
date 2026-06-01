@@ -27,7 +27,7 @@
 "playlist_group_node":"//div[@id='playsx']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
-"playlist_link_url":"{id}",
+"playlist_link_url":"https://www.qifun.cc{id}",
 "playlist_info":"//div[@class='info info-content']",
 "search_flag":true,
 "search_url_first_page":"https://www.qifun.cc/vodsearch/-------------.html?wd={wd}",
