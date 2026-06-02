@@ -3,6 +3,7 @@
 "title":"javhd",
 "episode_flag":false,
 "landscape_flag":false,
+	"cf_flag":true,
 "referer":"https://emturbovid.com/",
 "open_with_safari_flag":true,
 "category": [{
