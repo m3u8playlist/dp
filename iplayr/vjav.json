@@ -3,6 +3,7 @@
 "title":"vjav",
 "episode_flag":false,
 "landscape_flag":true,
+	"cf_flag":true,
 "referer":"",
 "open_with_safari_flag":true,
 "category": [{
