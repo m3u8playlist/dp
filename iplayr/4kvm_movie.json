@@ -30,7 +30,7 @@
 "playlist_title":"//a/@data-episode",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://www.4kvm.cc{id}",
-"playlist_info":"",
+"playlist_info":"//p[@class='text-xs text-gray-300 leading-relaxed']",
 "search_flag":true,
 "search_url_first_page":"https://www.4kvm.cc/search?q={wd}",
 "search_url_other_page":"",
