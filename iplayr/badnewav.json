@@ -11,8 +11,8 @@
 		}
 	],  
 "vod_node":"//div[@class='twi hasMedia link']",
-"vod_info":"//div[@class='ct-time']",
-"vod_score":"//a[@class='author']",
+"vod_info":"//span[@class='time intotime']",
+"vod_score":"//div[@class='ct-time']",
 "vod_title":"//h3/a",
 "vod_image_id":"//video/@poster",
 "vod_image_regex":"",
