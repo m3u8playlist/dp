@@ -17,7 +17,7 @@
 			"url1": "https://123av.com/cn/recent?page={pg}"
 		}
 	],    
-"vod_node":"div[@class='card']",
+"vod_node":"//div[@class='card']",
 "vod_info":"//span[@class='card__dur']",
 "vod_score":"//div[@class='card__meta']/span",
 "vod_title":"//h3//a",
