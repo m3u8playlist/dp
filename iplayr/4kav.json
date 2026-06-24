@@ -18,7 +18,7 @@
 "url1": "https://4kmp.com/movie/page-{pg}.html"
 }
 ],
-"vod_node": "//div[@id='MainContent_newestlist']//div[contains(@class, 'NTMitem')]",
+"vod_node": "//div[@id='page']//div[@class='NTMitem']",
 "vod_info": "//label[@title='年份']",
 "vod_score": "//label[@title='分辨率']",
 "vod_title": "//div[@class='title']/a",
