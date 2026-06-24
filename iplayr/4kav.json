@@ -4,18 +4,18 @@
 "episode_flag": true,
 "landscape_flag": false,
   "user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
-"referer": "https://www.tiktok.com",
+"referer": "https://4k-av.com/",
 "open_with_safari_flag": false,
 "category": [
 {
 "title": "剧集",
-"url0": "https://4kmp.com/tv/",
-"url1": "https://4kmp.com/tv/page-{pg}.html"
+"url0": "https://4k-av.com/tv/",
+"url1": "https://4k-av.com/tv/page-{pg}.html"
 },
 {
 "title": "电影",
-"url0": "https://4kmp.com/movie/",
-"url1": "https://4kmp.com/movie/page-{pg}.html"
+"url0": "https://4k-av.com/movie/",
+"url1": "https://4k-av.com/movie/page-{pg}.html"
 }
 ],
 "vod_node": "//div[@id='page']//div[@class='NTMitem']",
@@ -26,23 +26,23 @@
 "vod_image_regex": "",
 "vod_image_url": "{id}",
 "vod_link_id": "//div[@class='title']/a/@href",
-"vod_link_url": "https://4kmp.com{id}",
+"vod_link_url": "https://4k-av.com{id}",
 "play_regex": "PHNvdXJjZSBzcmM9IihbXiJdKyk=",
 "play_url": "{id}",
 "playlist_flag": true,
 "playlist_group_node": "//ul[@id='rtlist']",
 "playlist_title": "//li//a/@title",
 "playlist_link_id": "//li//a/@href",
-"playlist_link_url": "https://4kmp.com{id}",
+"playlist_link_url": "https://4k-av.com{id}",
 "playlist_info": "//p[@class='cnline']",
 "search_flag": true,
-"search_url_first_page": "https://4kmp.com/s?k={wd}",
-"search_url_other_page": "https://4kmp.com/s?k={wd}&page={pg}",
+"search_url_first_page": "https://4k-av.com/s?k={wd}",
+"search_url_other_page": "https://4k-av.com/s?k={wd}&page={pg}",
 "search_vod_node": "//div[@id='MainContent_newestlist']//div[@class='NTMitem Main']",
 "search_vod_title": "//div[@class='title']/a",
 "search_vod_image_id": "//img/@src",
 "search_vod_image_regex": "",
 "search_vod_image_url": "{id}",
 "search_vod_link_id": "//div[@class='title']/a/@href",
-"search_vod_link_url": "https://4kmp.com{id}"
+"search_vod_link_url": "https://4k-av.com{id}"
 }
