@@ -5,7 +5,7 @@
 "landscape_flag":false,
 "referer":"",
 "enable_cache_flag":false,
-"open_with_safari_flag":true,
+"open_with_safari_flag":false,
   "category": [{
 			"title": "电影",
 			"url0": "https://www.dbku.tv/vodtype/1.html",
