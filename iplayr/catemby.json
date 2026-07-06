@@ -4,7 +4,8 @@
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
-	"cf_flag":true,
+"cf_flag":true,
+"open_with_safari_flag":true,
 "category": [{
 			"title": "新作上市",
 			"url0": "https://catembylegacy.fastcdn.dpdns.org/",
