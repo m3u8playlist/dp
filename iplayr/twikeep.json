@@ -1,0 +1,38 @@
+{
+"uuid":"76d49e34-b2ef-4b9d-911f-77c445c63940",
+"title":"twikeep",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"open_with_safari_flag":false,
+"pageSize": 25,
+"category": [{
+			"title": "最近更新",
+			"url0": "https://www.twikeep.com/api/history?cursor=0&limit=20&sort=latest&unique=0",
+			"url1": "https://www.twikeep.com/api/history?cursor={start}&limit=20&sort=latest&unique=0"
+		}
+	],    
+"vod_node":"$.items[*]",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"userName",
+"vod_image_id":"thumbnailUrl",
+"vod_image_url":"{id}",
+"vod_link_id":"bestVideoUrl",
+"vod_link_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"{id}",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"",
+"search_vod_link_url":"{id}"
+}
