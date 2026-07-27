@@ -1,0 +1,42 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"pektino",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"",
+"open_with_safari_flag":true,
+"category": [
+  {
+			"title": "新作上市",
+			"url0": "https://pektino.com/zh-CN",
+			"url1": "https://pektino.com/zh-CN?sort=favorite&page={pg}"
+		}
+	],    
+"vod_node":"//div[@class='bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-4']",
+"vod_info":"//div[@class='absolute bottom-2 right-2 bg-black/60 text-white text-xs px-2 py-1 rounded-lg']",
+"vod_score":"",
+"vod_title":"//img/@alt",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://pektino.com{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":false,
+"search_url_first_page":"",
+"search_url_other_page":"",
+"search_vod_node":"",
+"search_vod_title":"",
+"search_vod_image_id":"",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"",
+"search_vod_link_url":"{id}"
+}
