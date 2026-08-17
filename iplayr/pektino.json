@@ -9,8 +9,8 @@
 "category": [
   {
 			"title": "新作上市",
-			"url0": "https://pektino.com/zh-CN",
-			"url1": "https://pektino.com/zh-CN?sort=favorite&page={pg}"
+			"url0": "https://pektino.com/zh-CN/weekly",
+			"url1": "https://pektino.com/zh-CN/weekly?sort=favorite&page={pg}"
 		}
 	],    
 "vod_node":"//div[@class='bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-4']",
