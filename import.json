@@ -1,0 +1,426 @@
+{
+  "icons" : [
+    {
+      "url" : "https://raw.githubusercontent.com/Orz-3/mini/master/miniColor.json",
+      "author" : "by Orz-3",
+      "title" : "mini Color"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/IBL3ND/icons-json/refs/heads/main/iBL3ND.json",
+      "author" : "（更新中……） ",
+      "title" : "iBL3ND"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json",
+      "author" : "Desing By Semporia",
+      "title" : "Hand Painted Icon"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/icons.json",
+      "author" : "收集互联网公开图标文件，版权属于原作者和商标持有人。",
+      "title" : "自用图标库"
+    },
+    {
+      "url" : "https://github.com/Orz-3/mini/raw/master/mini.json",
+      "author" : "By Orz-3",
+      "title" : "mini icons"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/Toperlock/Quantumult/main/D-icons.json",
+      "author" : "Doraemon图标订阅",
+      "title" : "Toperlock Doraemon"
+    },
+    {
+      "url" : "https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json",
+      "author" : "Qure Color (All) 是 Qure 项目下的彩色主题的「所有」图标集 @Koolson",
+      "title" : "Qure Color (All)"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/icons-all.json",
+      "author" : "收集一些自己常用的图标，尺寸为108px或144px，数量约1590个，更新日期：2026-01-12 22:50:00",
+      "title" : "fmz200の图标库"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon.json",
+      "author" : "无偿求更，图标更新请关注TG频道：@ligeicon ，您当前版本日期为260212",
+      "title" : "离歌图标包"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/Toperlock/Quantumult/main/Shin-icons.json",
+      "author" : "Shin-chan图标订阅",
+      "title" : "Toperlock Shin-chan"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/erdongchanyo/icon/main/edc-country-icon-gallery.json",
+      "author" : "Desing By ErdongChan.",
+      "title" : "EDC Country Icon"
+    }
+  ],
+  "podcasts" : [
+  
+  ],
+  "uuid" : "69f86544-9c60-4389-97fe-a4f1a3351311",
+  "vods" : [
+   
+    {
+      "userAgent" : "",
+      "type" : 8,
+      "isPublic" : true,
+      "title" : "libvio",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/libvio2.json",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Luffy.png"
+    },
+    {
+      "userAgent" : "",
+      "type" : 8,
+      "isPublic" : true,
+      "title" : "欧乐",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EmbyX.png"
+    },
+    {
+      "title" : "新加坡电台",
+      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/sg.m3u",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png",
+      "isPublic" : true,
+      "type" : 11
+    },
+    {
+      "title" : "魔都",
+      "url" : "https://caiji.moduapi.cc/api.php/provide/vod",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/AAEX.png",
+      "isPublic" : true,
+      "type" : 1
+    },
+    {
+      "title" : "中国电台",
+      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/cn.m3u",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/CN.png",
+      "isPublic" : true,
+      "type" : 11
+    },
+    {
+      "title" : "pomo",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/pomo.json",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/pokemon/098.png",
+      "isPublic" : true,
+      "type" : 8
+    },
+    {
+      "title" : "360",
+      "url" : "https://360zyzz.com/api.php/provide/vod",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/OvO.png",
+      "isPublic" : true,
+      "type" : 1
+    },
+    {
+      "title" : "无水印资源",
+      "url" : "https://api.wsyzy.net/api.php/provide/vod",
+      "userAgent" : "",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/IMM.png",
+      "isPublic" : true,
+      "type" : 1
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://ikunzyapi.com/api.php/provide/vod",
+      "title" : "ikun",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Alibaba.png"
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "title" : "天堂",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/mxbc.png"
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "title" : "樱花",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/Twoandz9/Flowercloud.png"
+    },
+    {
+      "type" : 11,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "title" : "tv",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Color/UN.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/subaibaiys.json",
+      "title" : "素白白",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/ASN.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/dbk.json",
+      "title" : "独播库",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Category_Balloon.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/4kav.json",
+      "title" : "4k",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/All4.png"
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn",
+      "title" : "茅台",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/warp.png"
+    },
+    {
+      "type" : 11,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/news.m3u",
+      "title" : "news radio",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png"
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://api.apibdzy.com/api.php/provide/vod/from/dbm3",
+      "title" : "百度云",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BaiDuYun.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/freeok.json",
+      "title" : "freeok",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Fitness+.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/dandanqu.json",
+      "title" : "蛋蛋趣",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Socloud.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/lmm.json",
+      "title" : "路漫漫",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Mildnes1.png"
+    },
+    {
+      "type" : 1,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://api.maoyanapi.top/api.php/provide/vod",
+      "title" : "猫眼",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Kedou.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/4kvm_movie.json",
+      "title" : "4k影视",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Godetia.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/aafun.json",
+      "title" : "风铃",
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/doraemon/Doraemon-1045.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/youknow.json",
+      "title" : "youknow",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Blinkload.png"
+    },
+    {
+      "type" : 8,
+      "isPublic" : true,
+      "userAgent" : "",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/girigiri.json",
+      "title" : "giri",
+      "logo" : "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Doraemon/Doraemon-1021.png"
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png",
+      "type" : 11,
+      "title" : "美国电台",
+      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/us.m3u",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Loon_33.png",
+      "type" : 1,
+      "title" : "如意",
+      "url" : "https://cj.rycjapi.com/api.php/provide/vod",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Dinosaur.png",
+      "type" : 1,
+      "title" : "1080",
+      "url" : "https://api.1080zyku.com/inc/apijson.php",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/UK.png",
+      "type" : 11,
+      "title" : "英国电台",
+      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/uk.m3u",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Pig.png",
+      "type" : 8,
+      "title" : "剧多多",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/jddzx.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ytoo.png",
+      "type" : 8,
+      "title" : "小宝",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/xiaobao.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png",
+      "type" : 1,
+      "title" : "量子资源",
+      "url" : "https://cj.lziapi.com/api.php/provide/vod",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png",
+      "type" : 8,
+      "title" : "麦田",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/mt.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_iTunesStore.png",
+      "type" : 8,
+      "title" : "美剧窝",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/meijuwo.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Suda.png",
+      "type" : 0,
+      "title" : "量子",
+      "url" : "https://cj.lziapi.com/api.php/provide/vod/at/xml",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/OvO.png",
+      "type" : 8,
+      "title" : "厂长",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cz.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/menhera/Sticker_1080.png",
+      "type" : 8,
+      "title" : "西瓜",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/xigua.json",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Catnet.png",
+      "type" : 1,
+      "title" : "非凡",
+      "url" : "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/group/BetaHub.png",
+      "type" : 0,
+      "title" : "天堂",
+      "url" : "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml",
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "url" : "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "title" : "sdzy",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Magic.png",
+      "type" : 1,
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "url" : "https://bfzyapi.com/api.php/provide/vod",
+      "title" : "暴风资源",
+      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Situ.png",
+      "type" : 1,
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "url" : "https://api.niuniuzy.me/api.php/provide/vod",
+      "title" : "牛牛",
+      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ox.png",
+      "type" : 1,
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ppnix.json",
+      "title" : "ppnix",
+      "logo" : "https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/Shin-chan/Shin-chan-1044.png",
+      "type" : 8,
+      "userAgent" : "",
+      "isPublic" : true
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "title" : "电视",
+      "logo" : "https://github.com/comedia-ltd/resource/blob/main/logo.jpg?raw=true",
+      "type" : 11,
+      "userAgent" : "",
+      "isPublic" : true
+    }
+  ]
+}
