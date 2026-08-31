@@ -26,7 +26,7 @@
 			"url1": "https://huangguoai.com/ai-mogai/{pg}/"
 		}
 	],  
-"vod_node":"//main//div[contains(@class, 'hg-card-grid is-active')]//div[contains(@class, 'hg-drama-card')]",
+"vod_node":"//main//div[contains(@class, 'hg-card-grid is-active')]//div[@class='hg-drama-card']",
 "vod_info":"//span[@class='hg-drama-card__episode']",
 "vod_score":"//span[@class='hg-drama-card__score']",
 "vod_title":"//h3/a",
