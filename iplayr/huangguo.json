@@ -4,6 +4,7 @@
 "episode_flag":false,
 "landscape_flag":false,
 "referer":"https://huangguoai.com/",
+	"open_with_safari_flag":true,
 "category": [{
 			"title": "短剧",
 			"url0": "https://huangguoai.com/ai-duanju/",
@@ -34,7 +35,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//h3/a/@href",
 "vod_link_url":"https://huangguoai.com{id}",
-"play_regex":"Y29udGVudFVybCI6IihbXiJdKyk=",
+"play_regex":"",
 "play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@class='hg-web-detail__ep-grid']",
