@@ -13,10 +13,10 @@
 			"url1": "https://rou.video/v?order=createdAt&page={pg}"
 		}
 	],  
-"vod_node":"//*[@id='__next']//div[contains(@class, 'aspect-video')]",
-"vod_info":"//div[contains(@class, 'bottom-0')]",
-"vod_score":"//div[contains(@class, 'bottom-1')]",
-"vod_title":"//img[contains(@class, 'relative')]/@alt",
+"vod_node":"//a[@class='group block min-w-0']",
+"vod_info":"//span[contains(@class, 'right-2.5')]",
+"vod_score":"",
+"vod_title":"//h3",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
