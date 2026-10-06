@@ -3,6 +3,7 @@
 "title":"javday",
 "episode_flag":false,
 "landscape_flag":true,
+	"cf_flag":true,
 "referer":"https://javday.app/",
 "category": [{
 			"title": "新作上市",
