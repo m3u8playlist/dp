@@ -31,10 +31,10 @@
 "vod_title":"//span[@class='title']",
 "vod_image_id":"",
 "vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgoW15cKV0rKQ==",
-"vod_image_url":"https://javday.app{id}",
+"vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
 "vod_link_url":"https://javday.app{id}",
-"play_regex":"PCEtLSAoaHR0cHNbXiBdKyk=",
+"play_regex":"dXJsOiAnKGh0dHBzW14nXSsp",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
@@ -49,7 +49,7 @@
 "search_vod_title":"//span[@class='title']",
 "search_vod_image_id":"",
 "search_vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgoW15cKV0rKQ==",
-"search_vod_image_url":"https://javday.app{id}",
+"search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
 "search_vod_link_url":"https://javday.app{id}"
 }
