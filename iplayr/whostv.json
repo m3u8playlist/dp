@@ -13,8 +13,8 @@
 		}
 	],    
 "vod_node":"//div[@id='video-grid-list-card']/a",
-"vod_info":"//span[@class='icon-[lucide--user] w-3 h-3']",
-"vod_score":"//span[@class='badge bg-transparent border border-primary/50 text-primary text-xs line-clamp-1']",
+"vod_info":"//span[@class='shrink-0']",
+"vod_score":"//span[@class='min-w-0 truncate text-right']",
 "vod_title":"//h3",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
