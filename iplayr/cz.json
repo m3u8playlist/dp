@@ -42,9 +42,9 @@
 		}
 	],    
 
-"vod_node":"//div[@class='mikd']//div[contains(@class, 'bt_img')]//ul//li",
-"vod_info":"//div[@class='jidi']/span",
-"vod_score":"//div[@class='rating']",
+"vod_node":"//div[@class='bt_img mi_ne_kd mrb']//ul//li",
+"vod_info":"//span[@class='furk']",
+"vod_score":"",
 "vod_title":"//h3/a",
 "vod_image_id":"//img/@data-original",
 "vod_image_regex":"",
@@ -54,7 +54,7 @@
 "play_regex":"",
 "play_url":"",
 "playlist_flag":true,
-"playlist_group_node":"//div[@class='mi_paly_box']//div[@class='paly_list_btn']",
+"playlist_group_node":"//div[@class='paly_list_btn']",
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"{id}",
