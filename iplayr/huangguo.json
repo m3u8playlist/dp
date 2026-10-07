@@ -46,7 +46,7 @@
 "playlist_title":"//a",
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"https://huangguoai.com{id}",
-"playlist_info":"//div[@class='hg-web-play__synopsis-body']//p",
+"playlist_info":"//p[@class='hg-play__panel-desc']",
 "search_flag":true,
 "search_url_first_page":"https://huangguoai.com/search/video/{wd}",
 "search_url_other_page":"https://huangguoai.com/search/video/{wd}/{pg}/",
