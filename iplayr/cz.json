@@ -60,7 +60,7 @@
 "playlist_link_id":"//a/@href",
 "playlist_link_url":"{id}",
 "playlist_info":"//div[@class='yp_context']",
-"search_flag":false,
+"search_flag":true,
 "search_url_first_page":"",
 "search_url_other_page":"",
 "search_vod_node":"",
