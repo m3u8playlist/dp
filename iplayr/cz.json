@@ -68,6 +68,6 @@
 "search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
-"search_vod_link_id":"",
+"search_vod_link_id":"//h3/a/@href",
 "search_vod_link_url":"https://www.4kcz.com{id}"
 }
