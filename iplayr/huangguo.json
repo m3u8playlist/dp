@@ -4,6 +4,7 @@
 "episode_flag":false,
 "landscape_flag":false,
 "referer":"https://huangguoai.com/",
+"cf_flag":true,
 "imgkey":"f5d965df75336270",
 "imgiv":"97b60394abc2fbe1",
 "imgmethod":"AES-128-CBC",
