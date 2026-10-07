@@ -7,38 +7,38 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最新电影",
-			"url0": "https://www.czzymovie.com/zuixindianying",
-			"url1": "https://www.czzymovie.com/zuixindianying/page/{pg}"
+			"url0": "https://www.4kcz.com/zuixindianying",
+			"url1": "https://www.4kcz.com/zuixindianying/page/{pg}"
 		},
 		{
 			"title": "美剧",
-			"url0": "https://www.czzymovie.com/meijutt",
-			"url1": "https://www.czzymovie.com/meijutt/page/{pg}"
+			"url0": "https://www.4kcz.com/meijutt",
+			"url1": "https://www.4kcz.com/meijutt/page/{pg}"
 		},
 			{
 			"title": "日剧",
-			"url0": "https://www.czzymovie.com/riju",
-			"url1": "https://www.czzymovie.com/riju/page/{pg}"
+			"url0": "https://www.4kcz.com/riju",
+			"url1": "https://www.4kcz.com/riju/page/{pg}"
 		},
      {
 			"title": "国产剧",
-			"url0": "https://www.czzymovie.com/gcj",
-			"url1": "https://www.czzymovie.com/gcj/page/{pg}"
+			"url0": "https://www.4kcz.com/gcj",
+			"url1": "https://www.4kcz.com/gcj/page/{pg}"
 		},
                   {
 			"title": "韩剧",
-			"url0": "https://www.czzymovie.com/hanjutv",
-			"url1": "https://www.czzymovie.com/hanjutv/page/{pg}"
+			"url0": "https://www.4kcz.com/hanjutv",
+			"url1": "https://www.4kcz.com/hanjutv/page/{pg}"
 		},
                   {
 			"title": "番剧",
-			"url0": "https://www.czzymovie.com/fanju",
-			"url1": "https://www.czzymovie.com/fanju/page/{pg}"
+			"url0": "https://www.4kcz.com/fanju",
+			"url1": "https://www.4kcz.com/fanju/page/{pg}"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.czzymovie.com/dm",
-			"url1": "https://www.czzymovie.com/dm/page/{pg}"
+			"url0": "https://www.4kcz.com/dm",
+			"url1": "https://www.4kcz.com/dm/page/{pg}"
 		}
 	],    
 
