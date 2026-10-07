@@ -7,6 +7,7 @@
 "referer":"https://huangguoai.com/",
 "imgkey":"f5d965df75336270",
 "imgiv":"97b60394abc2fbe1",
+"imgmethod":"AES-128-CBC",
 "open_with_safari_flag":true,
 "category": [{
 			"title": "短剧",
