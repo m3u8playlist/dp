@@ -61,13 +61,13 @@
 "playlist_link_url":"{id}",
 "playlist_info":"//div[@class='yp_context']",
 "search_flag":true,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
-"search_vod_image_id":"",
+"search_url_first_page":"https://www.4kcz.com/nimasile?q={wd}",
+"search_url_other_page":"https://www.4kcz.com/nimasile?q={wd}&f=_all&p={pg}",
+"search_vod_node":"//div[@class='bt_img mi_ne_kd search_list']//ul//li",
+"search_vod_title":"//h3/a",
+"search_vod_image_id":"//img/@src",
 "search_vod_image_regex":"",
-"search_vod_image_url":"",
+"search_vod_image_url":"{id}",
 "search_vod_link_id":"",
-"search_vod_link_url":""
+"search_vod_link_url":"https://www.4kcz.com{id}"
 }
