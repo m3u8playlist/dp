@@ -5,8 +5,9 @@
 "landscape_flag":true,
 "referer":"",
 "cf_flag":true,
+"user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
 "category": [{
-			"title": "每日",
+			"title": "home",
 			"url0": "https://134x.com/",
 			"url1": "https://134x.com/?page={pg}"
 		}
