@@ -160,10 +160,10 @@
     },
     {
       "type" : 8,
-      "isPublic" : true,
+      "isPublic" : false,
       "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/subaibaiys.json",
-      "title" : "素白白",
+      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/huangguo.json",
+      "title" : "黄果",
       "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/ASN.png"
     },
     {
