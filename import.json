@@ -7,7 +7,7 @@
     },
     {
       "url" : "https://raw.githubusercontent.com/IBL3ND/icons-json/refs/heads/main/iBL3ND.json",
-      "author" : "（更新中……） ",
+      "author" : "iBL3ND",
       "title" : "iBL3ND"
     },
     {
@@ -79,14 +79,6 @@
       "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EmbyX.png"
     },
     {
-      "title" : "新加坡电台",
-      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/sg.m3u",
-      "userAgent" : "",
-      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SG.png",
-      "isPublic" : true,
-      "type" : 11
-    },
-    {
       "title" : "魔都",
       "url" : "https://caiji.moduapi.cc/api.php/provide/vod",
       "userAgent" : "",
@@ -154,8 +146,8 @@
       "type" : 11,
       "isPublic" : true,
       "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-      "title" : "tv",
+      "url" : "https://iptv.yang-1989.xyz/playlist.m3u",
+      "title" : "yanG",
       "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Color/UN.png"
     },
     {
@@ -191,44 +183,12 @@
       "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/warp.png"
     },
     {
-      "type" : 11,
-      "isPublic" : true,
-      "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/news.m3u",
-      "title" : "news radio",
-      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png"
-    },
-    {
       "type" : 1,
       "isPublic" : true,
       "userAgent" : "",
       "url" : "https://api.apibdzy.com/api.php/provide/vod/from/dbm3",
       "title" : "百度云",
       "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BaiDuYun.png"
-    },
-    {
-      "type" : 8,
-      "isPublic" : true,
-      "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/freeok.json",
-      "title" : "freeok",
-      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Fitness+.png"
-    },
-    {
-      "type" : 8,
-      "isPublic" : true,
-      "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/dandanqu.json",
-      "title" : "蛋蛋趣",
-      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Socloud.png"
-    },
-    {
-      "type" : 8,
-      "isPublic" : true,
-      "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/lmm.json",
-      "title" : "路漫漫",
-      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Mildnes1.png"
     },
     {
       "type" : 1,
@@ -253,14 +213,6 @@
       "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/aafun.json",
       "title" : "风铃",
       "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/doraemon/Doraemon-1045.png"
-    },
-    {
-      "type" : 8,
-      "isPublic" : true,
-      "userAgent" : "",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/youknow.json",
-      "title" : "youknow",
-      "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Blinkload.png"
     },
     {
       "type" : 8,
@@ -311,34 +263,10 @@
       "isPublic" : true
     },
     {
-      "logo" : "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Ytoo.png",
-      "type" : 8,
-      "title" : "小宝",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/xiaobao.json",
-      "userAgent" : "",
-      "isPublic" : true
-    },
-    {
       "logo" : "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Want_Want.png",
       "type" : 1,
       "title" : "量子资源",
       "url" : "https://cj.lziapi.com/api.php/provide/vod",
-      "userAgent" : "",
-      "isPublic" : true
-    },
-    {
-      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_GameCenter.png",
-      "type" : 8,
-      "title" : "麦田",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/mt.json",
-      "userAgent" : "",
-      "isPublic" : true
-    },
-    {
-      "logo" : "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_iTunesStore.png",
-      "type" : 8,
-      "title" : "美剧窝",
-      "url" : "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/meijuwo.json",
       "userAgent" : "",
       "isPublic" : true
     },
