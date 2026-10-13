@@ -415,7 +415,7 @@
       "isPublic" : true
     },
     {
-      "url" : "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "url" : "https://cdn.qd.je/live.m3u",
       "title" : "电视",
       "logo" : "https://github.com/comedia-ltd/resource/blob/main/logo.jpg?raw=true",
       "type" : 11,
