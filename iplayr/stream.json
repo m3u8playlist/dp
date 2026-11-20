@@ -18,7 +18,7 @@
 "vod_score":"rating",
 "vod_title":"title",
 "vod_image_id":"poster",
-"vod_image_url":"https://dexter.pw{id}",
+"vod_image_url":"https://image.tmdb.org/t/p/w500{id}",
 "vod_link_id":"id",
 "vod_link_url":"https://dexter.pw/api/movie/{id}?site=dexter",
 "playlist_flag":false,
