@@ -5,11 +5,12 @@
 "landscape_flag":false,
 "referer":"",
 "open_with_safari_flag":true,
-"pageSize": 25,
+"user_agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+"pageSize": 1,
 "category": [{
 			"title": "movie",
 			"url0": "https://dexter.pw/api/browse?type=movie&page=1&site=dexter",
-			"url1": "https://dexter.pw/api/browse?type=movie&page={start}&site=dexter"
+			"url1": "https://dexter.pw/api/browse?type=movie&page={pg}&site=dexter"
 		}
 	],    
 "vod_node":"$.results[*]",
