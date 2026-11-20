@@ -11,16 +11,6 @@
 			"title": "movie",
 			"url0": "https://dexter.pw/api/browse?type=movie&page=1&site=dexter",
 			"url1": "https://dexter.pw/api/browse?type=movie&page={pg}&site=dexter"
-		},
-	{
-			"title": "tv",
-			"url0": "https://dexter.pw/api/browse?type=tv&page=1&site=dexter",
-			"url1": "https://dexter.pw/api/browse?type=movie&page={pg}&site=dexter"
-		},
-	{
-			"title": "movie",
-			"url0": "https://dexter.pw/api/browse?type=movie&page=1&site=dexter",
-			"url1": "https://dexter.pw/api/browse?type=movie&page={pg}&site=dexter"
 		}
 	],    
 "vod_node":"$.results[*]",
