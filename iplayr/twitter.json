@@ -1,11 +1,10 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
 "title":"twitter-ero-video-ranking",
-"info":"已失效，网站已挂",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"",
-"cf_flag":true,
+"cf_flag":false,
 "user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
 "category": [{
 			"title": "每日",
