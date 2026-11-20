@@ -32,7 +32,7 @@
   "playlist_sub_link_url": "https://dexter.pw/api/tv/{showId}/episode/{season}/{id}",
   "play_node": "$.sources[*]",
   "play_link_id": "url",
-  "play_url": "https://dexter.pw{id}",
+  "play_source_url": "https://dexter.pw{id}",
 "search_flag": true,
 "search_url_first_page": "https://dexter.pw/api/search?q={wd}&type=all&page=1&site=dexter",
 "search_url_other_page": "https://dexter.pw/api/search?q={wd}&type=all&page={pg}&site=dexter",
