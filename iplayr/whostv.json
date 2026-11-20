@@ -12,7 +12,7 @@
 			"url1": "https://whos.tv/videos/page-{pg}"
 		}
 	],    
-"vod_node":"//div[@id='video-grid-list-card']/a",
+"vod_node":"//div[@id='video-directory__grid']/a",
 "vod_info":"//span[@class='shrink-0']",
 "vod_score":"//span[@class='min-w-0 truncate text-right']",
 "vod_title":"//h3",
