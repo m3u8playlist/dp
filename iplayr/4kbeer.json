@@ -29,7 +29,7 @@
 "vod_info":"//div[@class='list-year']",
 "vod_score":"//div[@class='imdb']",
 "vod_title":"//div[@class='list-caption']",
-"vod_image_id":"//div[@class='media media-cover']",
+"vod_image_id":"//div[@class='media media-cover']/@data-src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='list-caption']//a/@href",
