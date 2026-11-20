@@ -9,8 +9,8 @@
 "pageSize": 1,
 "category": [{
 			"title": "tv",
-			  "url0": "https://dexter.pw/api/browse?type=tv&page=1",
-      "url1": "https://dexter.pw/api/browse?type=tv&page={pg}",
+			"url0": "https://dexter.pw/api/browse?type=tv&page=1",
+            "url1": "https://dexter.pw/api/browse?type=tv&page={pg}"
 		}
 	],    
  "vod_node": "$.results[*]",
@@ -42,4 +42,4 @@
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"",
 "search_vod_link_url":"{id}"
-} 
+}
