@@ -27,13 +27,13 @@
 "playlist_info": "$.overview",
 "playlist_link_id": "url",
 "playlist_link_url": "https://dexter.pw{id}",
-"search_flag":false,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
-"search_vod_image_id":"",
-"search_vod_image_url":"{id}",
-"search_vod_link_id":"",
-"search_vod_link_url":"{id}"
+"search_flag": true,
+"search_url_first_page": "https://dexter.pw/api/search?q={wd}&type=all&page=1&site=dexter",
+"search_url_other_page": "https://dexter.pw/api/search?q={wd}&type=all&page={pg}&site=dexter",
+"search_vod_node": "$.results[*]",
+"search_vod_title": "title",
+"search_vod_image_id": "poster",
+"search_vod_image_url": "https://image.tmdb.org/t/p/w500{id}",
+"search_vod_link_id": "id",
+"search_vod_link_url": "https://dexter.pw/api/tv/{id}"
 }
