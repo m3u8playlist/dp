@@ -26,7 +26,7 @@
 	],    
 
 "vod_node":"//div[@class='list-movie']",
-"vod_info":"//div[@class='list-year']",
+"vod_info":"",
 "vod_score":"//div[@class='imdb']",
 "vod_title":"//div[@class='list-caption']",
 "vod_image_id":"//div[@class='media media-cover']/@data-src",
