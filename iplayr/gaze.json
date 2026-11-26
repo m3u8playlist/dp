@@ -23,7 +23,7 @@
 "vod_link_url":"https://gazes.top{id}",
 "play_regex":"",
 "play_url":"{id}",
-"playlist_flag":true,
+"playlist_flag":false,
 "playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
 "playlist_title":"//li//a",
 "playlist_link_id":"//li//a/@href",
