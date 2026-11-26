@@ -12,7 +12,7 @@
 			"url1": ""
 		}
 ],
-"vod_node":"//div[@id='mains']//article",
+"vod_node":"//article[@class='ib XO ST']",
 "vod_info":"",
 "vod_score":"",
 "vod_title":"//h3",
