@@ -21,7 +21,7 @@
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='tweet-source-links']//a/@href",
 "vod_link_url":"https://134x.com{id}",
-"play_regex":"dGFnPTE2IjoiKGh0dHBbXiJdKw==",
+"play_regex":"IihodHRwW14iXSttM3U4KQ==",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
