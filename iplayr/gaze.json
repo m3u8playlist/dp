@@ -28,7 +28,7 @@
 "playlist_title":"//li//a",
 "playlist_link_id":"//li//a/@href",
 "playlist_link_url":"https://gazes.top/{id}",
-"playlist_info":"//p[@class='data hidden-xs']",
+"playlist_info":"//p[@itemprop='description']",
 "search_flag":false,
 "search_url_first_page":"",
 "search_url_other_page":"",
