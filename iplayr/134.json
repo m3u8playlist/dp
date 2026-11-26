@@ -16,7 +16,7 @@
 "vod_info":"//time",
 "vod_score":"",
 "vod_title":"//p[@class='tweet-text']",
-"vod_image_id":"//video/@poster",
+"vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//div[@class='tweet-source-links']//a/@href",
